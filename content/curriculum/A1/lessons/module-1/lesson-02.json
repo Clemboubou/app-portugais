@@ -1,0 +1,157 @@
+{
+  "id": "a1-m1-l02",
+  "title": "Salutations et formules de politesse",
+  "type": "vocabulary",
+  "estimatedMinutes": 10,
+  "objectives": [
+    "Saluer quelqu'un selon le moment de la journée en portugais européen",
+    "Utiliser les formules de politesse essentielles : merci, s'il vous plaît, excusez-moi",
+    "Comprendre la différence entre registre formel et informel au Portugal"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La politesse au Portugal",
+      "content": "<p>Les Portugais accordent une grande importance à la <strong>politesse formelle</strong>. Même entre inconnus, on utilise souvent le vouvoiement et des formules de respect. Maîtriser les salutations de base vous permettra de créer immédiatement une bonne impression.</p><p>Notez que le portugais européen distingue clairement les salutations selon <strong>l'heure de la journée</strong>, et que le registre formel est beaucoup plus courant qu'en France dans les interactions quotidiennes.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les salutations selon le moment de la journée",
+      "content": "<p>En portugais européen, on choisit sa salutation en fonction de l'heure :</p><table><thead><tr><th>Portugais</th><th>Phonétique</th><th>Français</th><th>Quand l'utiliser</th></tr></thead><tbody><tr><td><strong>Bom dia</strong></td><td>[bõ ˈdiɐ]</td><td>Bonjour (matin)</td><td>Du lever jusqu'à environ 12h</td></tr><tr><td><strong>Boa tarde</strong></td><td>[ˈboɐ ˈtardɨ]</td><td>Bonjour / Bon après-midi</td><td>De 12h à la tombée de la nuit</td></tr><tr><td><strong>Boa noite</strong></td><td>[ˈboɐ ˈnojtɨ]</td><td>Bonsoir / Bonne nuit</td><td>À partir de la tombée de la nuit</td></tr><tr><td><strong>Olá</strong></td><td>[oˈla]</td><td>Salut / Bonjour</td><td>À toute heure, registre informel</td></tr></tbody></table><p><strong>Astuce culturelle :</strong> <em>Olá</em> est neutre et universel, mais dans un contexte professionnel ou avec une personne âgée, préférez toujours <em>Bom dia / Boa tarde / Boa noite</em>.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les au revoir",
+      "content": "<p>Pour prendre congé, vous avez plusieurs options :</p><table><thead><tr><th>Portugais</th><th>Phonétique</th><th>Français</th><th>Registre</th></tr></thead><tbody><tr><td><strong>Adeus</strong></td><td>[ɐˈdewʃ]</td><td>Adieu / Au revoir</td><td>Formel, implique une séparation durable</td></tr><tr><td><strong>Até logo</strong></td><td>[ɐˈtɛ ˈloɡu]</td><td>À tout à l'heure</td><td>Neutre, très courant</td></tr><tr><td><strong>Até amanhã</strong></td><td>[ɐˈtɛ ɐmɐˈɲɐ̃]</td><td>À demain</td><td>Neutre</td></tr><tr><td><strong>Tchau</strong></td><td>[tʃaw]</td><td>Salut / Ciao</td><td>Informel (emprunté à l'italien)</td></tr></tbody></table><p><strong>Attention :</strong> <em>Adeus</em> est plus fort en portugais qu'« au revoir » en français. Utiliser <em>adeus</em> pour dire « à tout à l'heure » peut sembler dramatique ! Préférez <em>até logo</em> pour les séparations courtes.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les formules de politesse essentielles",
+      "content": "<p>Ces expressions sont indispensables au quotidien :</p><table><thead><tr><th>Portugais</th><th>Phonétique</th><th>Français</th><th>Usage</th></tr></thead><tbody><tr><td><strong>Obrigado</strong></td><td>[obriˈɡadu]</td><td>Merci</td><td>Dit par un homme</td></tr><tr><td><strong>Obrigada</strong></td><td>[obriˈɡadɐ]</td><td>Merci</td><td>Dit par une femme</td></tr><tr><td><strong>Por favor</strong></td><td>[pur fɐˈvoɾ]</td><td>S'il vous plaît</td><td>Pour une demande polie</td></tr><tr><td><strong>De nada</strong></td><td>[dɨ ˈnadɐ]</td><td>De rien</td><td>En réponse à merci</td></tr><tr><td><strong>Com licença</strong></td><td>[kõ liˈsẽsɐ]</td><td>Excusez-moi / Permettez-moi</td><td>Pour passer, interrompre poliment</td></tr><tr><td><strong>Desculpe</strong></td><td>[dɨʃˈkulpɨ]</td><td>Pardon / Désolé(e)</td><td>Pour s'excuser d'une erreur</td></tr><tr><td><strong>Com certeza</strong></td><td>[kõ sɨrˈtezɐ]</td><td>Bien sûr / Certainement</td><td>Pour accepter poliment</td></tr></tbody></table><p><strong>Point clé — Obrigado vs Obrigada :</strong> En portugais, la personne qui <em>remercie</em> accorde le mot à son propre genre. Un homme dit toujours <em>obrigado</em>, une femme dit toujours <em>obrigada</em>. C'est l'inverse de ce qu'on pourrait penser !</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Com licença vs Desculpe : la différence",
+      "content": "<p>Ces deux expressions s'utilisent dans des contextes différents :</p><ul><li><strong>Com licença</strong> [kõ liˈsẽsɐ] : pour demander la permission de passer, d'entrer, ou d'interrompre. Il n'y a pas eu d'erreur. Ex : vous voulez passer devant quelqu'un dans une rue étroite.</li><li><strong>Desculpe</strong> [dɨʃˈkulpɨ] : pour s'excuser d'une faute commise. Ex : vous avez bousculé quelqu'un par accident.</li></ul><p>On peut aussi entendre <strong>desculpe-me</strong> [dɨʃˈkulpɨmɨ] (forme plus complète) ou <strong>perdão</strong> [pɨrˈdɐ̃w̃] pour un pardon plus solennel.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Mettez en pratique !",
+      "content": "<p>Imaginez ces situations et choisissez la bonne formule :</p><ol><li>Vous entrez dans une boulangerie à 9h du matin → <em>Bom dia!</em></li><li>Un serveur vous apporte votre café → <em>Obrigado</em> (si vous êtes un homme) / <em>Obrigada</em> (si vous êtes une femme)</li><li>Vous voulez passer devant quelqu'un dans un couloir étroit → <em>Com licença</em></li><li>Vous avez marché sur le pied de quelqu'un → <em>Desculpe!</em></li><li>Vous quittez un magasin en fin d'après-midi → <em>Boa tarde!</em> ou <em>Até logo!</em></li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Il est 15h. Vous entrez dans un café à Lisbonne. Quelle salutation utilisez-vous ?",
+      "correctAnswer": "Boa tarde",
+      "distractors": [
+        "Bom dia",
+        "Boa noite",
+        "Adeus"
+      ],
+      "explanation": "<em>Boa tarde</em> s'utilise de midi à la tombée de la nuit. <em>Bom dia</em> est réservé au matin, <em>boa noite</em> au soir. <em>Adeus</em> est un au revoir, pas une salutation d'arrivée."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Marie est française. Elle veut dire « merci » en portugais. Que dit-elle ?",
+      "correctAnswer": "Obrigada",
+      "distractors": [
+        "Obrigado",
+        "De nada",
+        "Por favor"
+      ],
+      "explanation": "En portugais, c'est la personne qui remercie qui accorde le mot à son propre genre. Marie étant une femme, elle dit <em>obrigada</em>. Un homme dirait <em>obrigado</em>. <em>De nada</em> signifie « de rien » et <em>por favor</em> signifie « s'il vous plaît »."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Vous avez accidentellement bousculé quelqu'un dans la rue. Que dites-vous ?",
+      "correctAnswer": "Desculpe!",
+      "distractors": [
+        "Com licença!",
+        "De nada!",
+        "Até logo!"
+      ],
+      "explanation": "<em>Desculpe</em> s'utilise pour s'excuser d'une erreur commise. <em>Com licença</em> s'utilise pour demander à passer ou à interrompre, sans faute préalable. <em>De nada</em> signifie « de rien » et <em>até logo</em> signifie « à tout à l'heure »."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais : « Bonsoir, s'il vous plaît ! »",
+      "correctAnswer": "Boa noite, por favor!",
+      "distractors": [
+        "Boa tarde, obrigado!",
+        "Bom dia, com licença!",
+        "Olá, de nada!"
+      ],
+      "explanation": "<em>Boa noite</em> = bonsoir/bonne nuit. <em>Por favor</em> = s'il vous plaît. Ces deux formules s'associent naturellement dans une phrase de demande polie en soirée."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Vous voulez dire « à demain » à un collègue. Quelle expression choisissez-vous ?",
+      "correctAnswer": "Até amanhã!",
+      "distractors": [
+        "Adeus!",
+        "Até logo!",
+        "Boa noite!"
+      ],
+      "explanation": "<em>Até amanhã</em> signifie littéralement « jusqu'à demain ». <em>Adeus</em> implique une séparation longue ou définitive. <em>Até logo</em> signifie « à tout à l'heure » (même jour). <em>Boa noite</em> est une salutation du soir, pas un au revoir spécifique."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "Olá",
+      "phonetic": "/oˈla/",
+      "french": "Salut / Bonjour (universel)"
+    },
+    {
+      "portuguese": "Bom dia",
+      "phonetic": "/bõ ˈdiɐ/",
+      "french": "Bonjour (matin)"
+    },
+    {
+      "portuguese": "Boa tarde",
+      "phonetic": "/ˈboɐ ˈtardɨ/",
+      "french": "Bon après-midi / Bonjour (après-midi)"
+    },
+    {
+      "portuguese": "Boa noite",
+      "phonetic": "/ˈboɐ ˈnojtɨ/",
+      "french": "Bonsoir / Bonne nuit"
+    },
+    {
+      "portuguese": "Adeus",
+      "phonetic": "/ɐˈdewʃ/",
+      "french": "Au revoir (séparation longue)"
+    },
+    {
+      "portuguese": "Até logo",
+      "phonetic": "/ɐˈtɛ ˈloɡu/",
+      "french": "À tout à l'heure"
+    },
+    {
+      "portuguese": "Obrigado / Obrigada",
+      "phonetic": "/obriˈɡadu/ /obriˈɡadɐ/",
+      "french": "Merci (homme / femme)"
+    },
+    {
+      "portuguese": "Por favor",
+      "phonetic": "/pur fɐˈvoɾ/",
+      "french": "S'il vous plaît"
+    },
+    {
+      "portuguese": "De nada",
+      "phonetic": "/dɨ ˈnadɐ/",
+      "french": "De rien"
+    },
+    {
+      "portuguese": "Com licença",
+      "phonetic": "/kõ liˈsẽsɐ/",
+      "french": "Excusez-moi (pour passer / interrompre)"
+    },
+    {
+      "portuguese": "Desculpe",
+      "phonetic": "/dɨʃˈkulpɨ/",
+      "french": "Pardon / Désolé(e)"
+    }
+  ]
+}

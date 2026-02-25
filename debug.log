@@ -1,0 +1,14 @@
+=== Demarrage debug === 
+=== Test echo 
+=== Check Node.js 
+=== Node.js OK 
+=== Check Ollama 
+=== Ollama OK 
+=== Check dossier 
+=== Dossier: C:\Users\Cleme\Desktop\portugal\app-portugais 
+=== Check node_modules 
+=== node_modules present 
+=== Check base de donnees 
+=== BDD presente 
+=== Lancement serveur 
+=== npm run dev 

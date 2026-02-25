@@ -1,0 +1,84 @@
+{
+  "id": "a2-m3-l01",
+  "title": "Le corps humain",
+  "type": "vocabulary",
+  "estimatedMinutes": 13,
+  "objectives": [
+    "Nommer les principales parties du corps humain en portugais européen",
+    "Utiliser les articles définis corrects avec chaque partie du corps",
+    "Désigner les parties du corps pour décrire une douleur ou un symptôme"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Connaître son corps",
+      "content": "<p>Pour parler de sa santé, consulter un médecin ou simplement décrire une douleur, il est indispensable de connaître le vocabulaire du <strong>corpo humano</strong> (corps humain). Cette leçon vous donne les bases essentielles.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les parties du corps",
+      "content": "<table><thead><tr><th>Portugais</th><th>Article</th><th>Français</th></tr></thead><tbody><tr><td><strong>a cabeça</strong></td><td>a</td><td>la tête</td></tr><tr><td><strong>o braço</strong></td><td>o</td><td>le bras</td></tr><tr><td><strong>a perna</strong></td><td>a</td><td>la jambe</td></tr><tr><td><strong>a mão</strong></td><td>a</td><td>la main</td></tr><tr><td><strong>o pé</strong></td><td>o</td><td>le pied</td></tr><tr><td><strong>as costas</strong></td><td>as</td><td>le dos</td></tr><tr><td><strong>o peito</strong></td><td>o</td><td>la poitrine</td></tr><tr><td><strong>a barriga</strong></td><td>a</td><td>le ventre</td></tr><tr><td><strong>o olho</strong></td><td>o</td><td>l'oeil</td></tr><tr><td><strong>a orelha</strong></td><td>a</td><td>l'oreille</td></tr></tbody></table><p><strong>Attention</strong> : <em>As costas</em> (le dos) est toujours au pluriel en portugais !</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Autres parties du corps",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td><strong>o pescoço</strong></td><td>le cou</td></tr><tr><td><strong>o ombro</strong></td><td>l'épaule</td></tr><tr><td><strong>o dedo</strong></td><td>le doigt</td></tr><tr><td><strong>o joelho</strong></td><td>le genou</td></tr><tr><td><strong>o tornozelo</strong></td><td>la cheville</td></tr><tr><td><strong>a boca</strong></td><td>la bouche</td></tr><tr><td><strong>o nariz</strong></td><td>le nez</td></tr><tr><td><strong>a garganta</strong></td><td>la gorge</td></tr><tr><td><strong>o estômago</strong></td><td>l'estomac</td></tr></tbody></table><p><strong>Pluriels irréguliers</strong> : <em>a mão → as mãos</em> (les mains). Les parties doubles sont souvent utilisées au pluriel : <em>os braços, as pernas, os olhos, as orelhas</em>.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Montrer et nommer",
+      "content": "<p>Exercice de mémorisation — associez chaque partie du corps :</p><ul><li><em>Uso óculos para proteger os...</em> → <strong>olhos</strong> (yeux)</li><li><em>Ponho o chapéu na...</em> → <strong>cabeça</strong> (tête)</li><li><em>Calço os sapatos nos...</em> → <strong>pés</strong> (pieds)</li><li><em>Ponho as luvas nas...</em> → <strong>mãos</strong> (mains)</li><li><em>O colar vai ao...</em> → <strong>pescoço</strong> (cou)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Décrire une personne",
+      "content": "<p>Utilisez le vocabulaire du corps pour décrire quelqu'un :</p><p>Exemple : <em>O meu pai tem os olhos castanhos e as mãos grandes. A minha irmã tem as pernas compridas e o pescoço fino.</em></p><p>Essayez de décrire un membre de votre famille ou un(e) ami(e) en mentionnant au moins 3 parties du corps.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel est l'article correct pour 'costas' (dos) ?",
+      "correctAnswer": "as costas",
+      "distractors": ["a costa", "o costas", "os costas"],
+      "explanation": "'As costas' (le dos) est toujours utilisé au féminin pluriel en portugais."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dói-me a ________ quando como muito.",
+      "correctAnswer": "barriga",
+      "explanation": "'A barriga' = le ventre. 'Dói-me a barriga' = J'ai mal au ventre."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'ai mal à la tête.'",
+      "correctAnswer": "Dói-me a cabeça.",
+      "explanation": "'Dói-me' = ça me fait mal. 'A cabeça' = la tête. Structure : dói-me + article + partie du corps."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le pluriel de 'a mão' ?",
+      "correctAnswer": "as mãos",
+      "distractors": ["as mães", "as mãoes", "os mãos"],
+      "explanation": "'A mão' → 'as mãos'. C'est un pluriel irrégulier à mémoriser."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O médico examinou os meus ________ porque tenho dificuldade em ver.",
+      "correctAnswer": "olhos",
+      "explanation": "'Os olhos' = les yeux. Pluriel régulier de 'o olho'."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "a cabeça", "phonetic": "/kɐˈbesɐ/", "french": "la tête"},
+    {"portuguese": "o braço", "phonetic": "/ˈbɾasu/", "french": "le bras"},
+    {"portuguese": "a perna", "phonetic": "/ˈpɛɾnɐ/", "french": "la jambe"},
+    {"portuguese": "a mão", "phonetic": "/mɐ̃w/", "french": "la main"},
+    {"portuguese": "o pé", "phonetic": "/pɛ/", "french": "le pied"},
+    {"portuguese": "as costas", "phonetic": "/ˈkɔʃtɐʃ/", "french": "le dos"},
+    {"portuguese": "o peito", "phonetic": "/ˈpɐjtu/", "french": "la poitrine"},
+    {"portuguese": "a barriga", "phonetic": "/bɐˈʁiɡɐ/", "french": "le ventre"},
+    {"portuguese": "o olho", "phonetic": "/ˈoʎu/", "french": "l'oeil"},
+    {"portuguese": "a orelha", "phonetic": "/oˈɾɛʎɐ/", "french": "l'oreille"}
+  ]
+}

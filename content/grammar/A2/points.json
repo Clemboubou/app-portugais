@@ -1,0 +1,182 @@
+[
+  {
+    "id": "g-a2-01",
+    "title": "Le Pretérito Perfeito Simples (passé simple)",
+    "level": "A2",
+    "explanation": "Le pretérito perfeito simples est le temps du passé le plus utilisé en portugais européen pour décrire des actions terminées. Les verbes réguliers en -ar prennent les terminaisons : -ei, -aste, -ou, -ámos, -aram. En -er : -i, -este, -eu, -emos, -eram. En -ir : -i, -iste, -iu, -imos, -iram.",
+    "examples": [
+      { "pt": "Eu falei com o João ontem.", "fr": "J'ai parlé avec João hier." },
+      { "pt": "Eles comeram no restaurante.", "fr": "Ils ont mangé au restaurant." },
+      { "pt": "Tu partiste cedo.", "fr": "Tu es parti tôt." }
+    ],
+    "tip": "Attention : le passé simple portugais correspond au passé composé français. On dit « Eu falei » (j'ai parlé), pas « Eu tenho falado »."
+  },
+  {
+    "id": "g-a2-02",
+    "title": "Les verbes irréguliers au passé (ser, ir, ter, estar, fazer)",
+    "level": "A2",
+    "explanation": "Plusieurs verbes très courants sont irréguliers au pretérito perfeito. Ser/Ir partagent les mêmes formes : fui, foste, foi, fomos, foram. Ter : tive, tiveste, teve, tivemos, tiveram. Estar : estive, estiveste, esteve, estivemos, estiveram. Fazer : fiz, fizeste, fez, fizemos, fizeram.",
+    "examples": [
+      { "pt": "Eu fui ao mercado. / Eu fui professor.", "fr": "Je suis allé au marché. / J'ai été professeur." },
+      { "pt": "Ela teve um bom dia.", "fr": "Elle a eu une bonne journée." },
+      { "pt": "Nós fizemos o jantar.", "fr": "Nous avons fait le dîner." }
+    ],
+    "tip": "Ser et ir ont les mêmes formes au passé — le contexte permet de distinguer le sens."
+  },
+  {
+    "id": "g-a2-03",
+    "title": "Le Pretérito Imperfeito (imparfait)",
+    "level": "A2",
+    "explanation": "L'imperfeito décrit des actions habituelles ou en cours dans le passé. Verbes en -ar : -ava, -avas, -ava, -ávamos, -avam. Verbes en -er : -ia, -ias, -ia, -íamos, -iam. Verbes en -ir : -ia, -ias, -ia, -íamos, -iam.",
+    "examples": [
+      { "pt": "Quando era criança, brincava no jardim.", "fr": "Quand j'étais enfant, je jouais dans le jardin." },
+      { "pt": "Eles viviam em Lisboa.", "fr": "Ils vivaient à Lisbonne." },
+      { "pt": "Eu lia todos os dias.", "fr": "Je lisais tous les jours." }
+    ],
+    "tip": "L'imperfeito correspond exactement à l'imparfait français. Les terminaisons en -er et -ir sont identiques."
+  },
+  {
+    "id": "g-a2-04",
+    "title": "Les pronoms compléments directs (o, a, os, as)",
+    "level": "A2",
+    "explanation": "Les pronoms COD remplacent le complément d'objet direct : o (le), a (la), os (les masc.), as (les fém.). En portugais européen, ils se placent généralement après le verbe avec un trait d'union (enclise) : Vejo-o. Mais en phrase négative ou subordonnée, ils passent avant le verbe (proclise) : Não o vejo.",
+    "examples": [
+      { "pt": "Comprei o livro. → Comprei-o.", "fr": "J'ai acheté le livre. → Je l'ai acheté." },
+      { "pt": "Não a conheço.", "fr": "Je ne la connais pas." },
+      { "pt": "Vou levá-los ao aeroporto.", "fr": "Je vais les emmener à l'aéroport." }
+    ],
+    "tip": "En portugais européen, l'enclise (après le verbe) est la norme. Le brésilien préfère la proclise — évitez ce piège !"
+  },
+  {
+    "id": "g-a2-05",
+    "title": "Les pronoms compléments indirects (me, te, lhe, nos, vos, lhes)",
+    "level": "A2",
+    "explanation": "Les pronoms COI indiquent à qui/pour qui : me (me), te (te), lhe (lui), nos (nous), vos (vous), lhes (leur). Même règle de placement que les COD : enclise par défaut, proclise après négation/subordonnée.",
+    "examples": [
+      { "pt": "Dei-lhe o presente.", "fr": "Je lui ai donné le cadeau." },
+      { "pt": "Ele disse-me a verdade.", "fr": "Il m'a dit la vérité." },
+      { "pt": "Não lhes telefonei.", "fr": "Je ne leur ai pas téléphoné." }
+    ],
+    "tip": "Lhe/lhes = lui/leur (indirect). O/a/os/as = le/la/les (direct). Ne les confondez pas !"
+  },
+  {
+    "id": "g-a2-06",
+    "title": "Le futur proche (ir + infinitif)",
+    "level": "A2",
+    "explanation": "Comme en français, le futur proche se forme avec ir (aller) au présent + infinitif. C'est la façon la plus courante d'exprimer le futur en portugais parlé. Ir : vou, vais, vai, vamos, vão.",
+    "examples": [
+      { "pt": "Vou estudar amanhã.", "fr": "Je vais étudier demain." },
+      { "pt": "Eles vão viajar para o Porto.", "fr": "Ils vont voyager à Porto." },
+      { "pt": "Vamos jantar fora?", "fr": "On va dîner dehors ?" }
+    ],
+    "tip": "Le futur proche est bien plus utilisé que le futur simple à l'oral."
+  },
+  {
+    "id": "g-a2-07",
+    "title": "Les prépositions de lieu (em, a, para, de, por)",
+    "level": "A2",
+    "explanation": "Em = dans/à (localisation statique). A = à (direction temporaire/brève). Para = pour/vers (direction durable). De = de (origine). Por = par/à travers. Contractions courantes : em + o = no, a + o = ao, de + o = do, por + o = pelo.",
+    "examples": [
+      { "pt": "Estou no escritório.", "fr": "Je suis au bureau." },
+      { "pt": "Vou ao supermercado.", "fr": "Je vais au supermarché." },
+      { "pt": "Mudei-me para Lisboa.", "fr": "J'ai déménagé à Lisbonne." }
+    ],
+    "tip": "A = aller et revenir. Para = aller pour rester. « Vou a Lisboa » (visite) vs « Vou para Lisboa » (déménagement)."
+  },
+  {
+    "id": "g-a2-08",
+    "title": "Les comparatifs et superlatifs",
+    "level": "A2",
+    "explanation": "Comparatif : mais... (do) que (plus que), menos... (do) que (moins que), tão... como (aussi que). Superlatif : o/a mais + adj (le/la plus), o/a menos + adj (le/la moins). Irréguliers : bom → melhor, mau → pior, grande → maior, pequeno → menor.",
+    "examples": [
+      { "pt": "Lisboa é maior do que Coimbra.", "fr": "Lisbonne est plus grande que Coimbra." },
+      { "pt": "Este vinho é tão bom como aquele.", "fr": "Ce vin est aussi bon que celui-là." },
+      { "pt": "É o melhor restaurante da cidade.", "fr": "C'est le meilleur restaurant de la ville." }
+    ],
+    "tip": "Le « do » dans « mais... do que » est optionnel en portugais européen parlé."
+  },
+  {
+    "id": "g-a2-09",
+    "title": "Les démonstratifs (este, esse, aquele)",
+    "level": "A2",
+    "explanation": "Le portugais a trois niveaux de démonstratifs : este/esta (celui-ci, proche de moi), esse/essa (celui-là, proche de toi), aquele/aquela (celui là-bas, loin des deux). Contractions : de + este = deste, em + esse = nesse, a + aquele = àquele.",
+    "examples": [
+      { "pt": "Este livro é meu.", "fr": "Ce livre(-ci) est à moi." },
+      { "pt": "Essa camisa que tens é bonita.", "fr": "Cette chemise que tu as est belle." },
+      { "pt": "Aquele edifício é a universidade.", "fr": "Ce bâtiment là-bas est l'université." }
+    ],
+    "tip": "Três niveaux au lieu de deux en français — c'est une spécificité du portugais à bien maîtriser."
+  },
+  {
+    "id": "g-a2-10",
+    "title": "Les verbes réfléchis (pronominaux)",
+    "level": "A2",
+    "explanation": "Les verbes pronominaux utilisent les pronoms réfléchis : me, te, se, nos, vos, se. En portugais européen, le pronom se place après le verbe (enclise) : Levanto-me. Sauf après négation : Não me levanto. Verbes courants : levantar-se, deitar-se, lavar-se, vestir-se, sentar-se.",
+    "examples": [
+      { "pt": "Levanto-me às sete horas.", "fr": "Je me lève à sept heures." },
+      { "pt": "Eles sentaram-se à mesa.", "fr": "Ils se sont assis à table." },
+      { "pt": "Não me lembro do nome.", "fr": "Je ne me souviens pas du nom." }
+    ],
+    "tip": "La position du pronom est la marque du portugais européen : après le verbe par défaut, contrairement au brésilien."
+  },
+  {
+    "id": "g-a2-11",
+    "title": "L'impératif (formel et informel)",
+    "level": "A2",
+    "explanation": "L'impératif informel (tu) utilise la forme du présent sans le -s final : fala! (parle!), come! (mange!), abre! (ouvre!). L'impératif formel (você) et la négation utilisent le subjonctif présent : fale!, não fale!, coma!, não abra!",
+    "examples": [
+      { "pt": "Fala mais devagar! (tu)", "fr": "Parle plus lentement !" },
+      { "pt": "Faça favor de entrar. (você)", "fr": "Veuillez entrer, s'il vous plaît." },
+      { "pt": "Não feches a janela!", "fr": "Ne ferme pas la fenêtre !" }
+    ],
+    "tip": "En portugais européen, tu et você coexistent — você est respectueux mais moins formel qu'en France."
+  },
+  {
+    "id": "g-a2-12",
+    "title": "Les connecteurs logiques (porque, mas, portanto, embora)",
+    "level": "A2",
+    "explanation": "Pour structurer ses phrases : porque (parce que), mas (mais), portanto / por isso (donc), embora (bien que — + subjonctif), enquanto (tandis que), também (aussi), além disso (de plus), no entanto (cependant).",
+    "examples": [
+      { "pt": "Não fui porque estava doente.", "fr": "Je n'y suis pas allé parce que j'étais malade." },
+      { "pt": "Gosto de Lisboa, mas prefiro o Porto.", "fr": "J'aime Lisbonne, mais je préfère Porto." },
+      { "pt": "Está frio, portanto leva um casaco.", "fr": "Il fait froid, donc prends un manteau." }
+    ],
+    "tip": "Embora exige toujours le subjonctif : « Embora esteja frio... » (Bien qu'il fasse froid...)."
+  },
+  {
+    "id": "g-a2-13",
+    "title": "Les expressions de temps (há, desde, durante, enquanto)",
+    "level": "A2",
+    "explanation": "Há + durée = il y a / ça fait (passé) : Há dois anos (il y a deux ans). Desde = depuis : Desde janeiro (depuis janvier). Durante = pendant : Durante a viagem. Enquanto = pendant que/tandis que. Há quanto tempo? = Depuis combien de temps ?",
+    "examples": [
+      { "pt": "Vivo em Portugal há três anos.", "fr": "Je vis au Portugal depuis trois ans." },
+      { "pt": "Estudo português desde setembro.", "fr": "J'étudie le portugais depuis septembre." },
+      { "pt": "Dormi durante a aula.", "fr": "J'ai dormi pendant le cours." }
+    ],
+    "tip": "« Há » est polyvalent : « Há um café aqui? » (il y a) vs « Há dois dias » (il y a deux jours)."
+  },
+  {
+    "id": "g-a2-14",
+    "title": "Le conditionnel (condicional)",
+    "level": "A2",
+    "explanation": "Le conditionnel se forme en ajoutant les terminaisons -ia, -ias, -ia, -íamos, -iam à l'infinitif. Il exprime la politesse, le souhait, ou une condition. Irréguliers : fazer → faria, dizer → diria, trazer → traria.",
+    "examples": [
+      { "pt": "Gostaria de um café, por favor.", "fr": "Je voudrais un café, s'il vous plaît." },
+      { "pt": "Eu viajaria mais se tivesse dinheiro.", "fr": "Je voyagerais plus si j'avais de l'argent." },
+      { "pt": "O que farias no meu lugar?", "fr": "Que ferais-tu à ma place ?" }
+    ],
+    "tip": "Le conditionnel est aussi utilisé pour les rumeurs et informations non confirmées, comme en français."
+  },
+  {
+    "id": "g-a2-15",
+    "title": "Les relatifs (que, quem, onde, o qual)",
+    "level": "A2",
+    "explanation": "Que = qui/que (le plus courant). Quem = qui (seulement pour les personnes, après préposition). Onde = où. O qual / a qual = lequel/laquelle (forme emphatique). Cujo/cuja = dont (possession).",
+    "examples": [
+      { "pt": "O livro que comprei é interessante.", "fr": "Le livre que j'ai acheté est intéressant." },
+      { "pt": "A pessoa com quem falei era simpática.", "fr": "La personne avec qui j'ai parlé était sympathique." },
+      { "pt": "A cidade onde nasci é pequena.", "fr": "La ville où je suis né est petite." }
+    ],
+    "tip": "« Que » est invariable et fonctionne pour les personnes et les choses — beaucoup plus simple qu'en français !"
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "id": "b1-m4-l05",
+  "title": "Écrire une lettre de réclamation",
+  "type": "writing",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Connaître les formules formelles d'une lettre de réclamation en portugais européen",
+    "Structurer une lettre avec ouverture, corps et clôture",
+    "Utiliser un registre formel et soutenu"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La correspondance formelle",
+      "content": "<p>Savoir écrire une <strong>lettre de réclamation</strong> (<em>carta de reclamação</em>) est une compétence importante au niveau B1. Au Portugal, ce type de courrier suit des conventions précises et utilise un registre très formel, souvent plus soutenu qu'en français.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Structure d'une lettre formelle",
+      "content": "<p>Une lettre de réclamation en portugais suit cette structure :</p><ol><li><strong>En-tête</strong> : <em>Exmo./Exma. Sr./Sra. + nom ou titre</em></li><li><strong>Objet</strong> : <em>Assunto: Reclamação relativa a...</em></li><li><strong>Formule d'ouverture</strong> : <em>Venho por este meio...</em> (Je viens par ce moyen...)</li><li><strong>Corps</strong> : description du problème + demande</li><li><strong>Formule de clôture</strong> : <em>Aguardo uma resposta com a maior brevidade possível.</em></li><li><strong>Salutation</strong> : <em>Com os melhores cumprimentos,</em></li></ol>"
+    },
+    {
+      "type": "explanation",
+      "title": "Formules formelles essentielles",
+      "content": "<p>Formules d'ouverture :</p><ul><li><em>Venho por este meio apresentar uma reclamação...</em> (Je viens par ce moyen présenter une réclamation...)</li><li><em>Dirijo-me a V. Exa. para...</em> (Je m'adresse à Votre Excellence pour...)</li><li><em>Escrevo para manifestar o meu desagrado...</em> (J'écris pour exprimer mon mécontentement...)</li></ul><p>Formules de clôture :</p><ul><li><em>Aguardo uma resposta com a maior brevidade possível.</em> (J'attends une réponse dans les plus brefs délais.)</li><li><em>Agradeço antecipadamente a atenção dispensada.</em> (Je vous remercie par avance de l'attention accordée.)</li><li><em>Com os melhores cumprimentos,</em> (Avec mes meilleures salutations,)</li><li><em>Atenciosamente,</em> (Cordialement,)</li></ul><p><strong>V. Exa.</strong> = <em>Vossa Excelência</em> (Votre Excellence), formule très utilisée en portugais européen formel.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Exemple de lettre",
+      "content": "<p>Voici un exemple complet :</p><p><em>Exmo. Sr. Diretor,</em></p><p><em>Assunto: Reclamação relativa ao serviço de Internet</em></p><p><em>Venho por este meio apresentar uma reclamação relativa ao serviço de Internet contratado no dia 15 de janeiro. Desde a instalação, a ligação tem sido extremamente lenta e instável, não correspondendo ao que foi acordado no contrato.</em></p><p><em>Solicito que o problema seja resolvido no prazo de 15 dias ou, em alternativa, o cancelamento do contrato sem custos adicionais.</em></p><p><em>Aguardo uma resposta com a maior brevidade possível.</em></p><p><em>Com os melhores cumprimentos,<br/>João Silva</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Votre lettre de réclamation",
+      "content": "<p>Écrivez une lettre de réclamation sur l'un de ces sujets :</p><ol><li>Un produit défectueux acheté en ligne</li><li>Un vol retardé de plus de 5 heures</li><li>Le bruit excessif de vos voisins (à envoyer au syndic)</li></ol><p>Respectez la structure vue et utilisez au moins 3 formules formelles.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle formule d'ouverture est correcte pour une lettre de réclamation ?",
+      "correctAnswer": "Venho por este meio apresentar uma reclamação...",
+      "distractors": ["Olá, quero reclamar de...", "Estou a escrever porque não gostei...", "Bom dia, tenho um problema..."],
+      "explanation": "'Venho por este meio...' est la formule standard d'ouverture d'une lettre formelle en portugais européen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Aguardo uma resposta com a maior ________ possível.",
+      "correctAnswer": "brevidade",
+      "explanation": "'Com a maior brevidade possível' = dans les plus brefs délais. 'Brevidade' = brièveté."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Avec mes meilleures salutations'",
+      "correctAnswer": "Com os melhores cumprimentos",
+      "explanation": "'Com os melhores cumprimentos' est la formule de clôture standard des lettres formelles en portugais européen."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'V. Exa.' ?",
+      "correctAnswer": "Vossa Excelência (Votre Excellence)",
+      "distractors": ["Vossa Experiência", "Vosso Exemplo", "Vossa Exigência"],
+      "explanation": "'V. Exa.' = Vossa Excelência, forme d'adresse très formelle courante en portugais européen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dirijo-me a V. Exa. para ________ o meu desagrado.",
+      "correctAnswer": "manifestar",
+      "explanation": "'Manifestar o desagrado' = exprimer le mécontentement. Verbe formel approprié dans ce contexte."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "reclamação", "phonetic": "/ʁɨklɐmɐˈsɐ̃w/", "french": "réclamation"},
+    {"portuguese": "Exmo./Exma.", "phonetic": "/iˈʃɛlɨntisimu/", "french": "Très honoré/e (abréviation)"},
+    {"portuguese": "cumprimentos", "phonetic": "/kũpɾiˈmẽtuʃ/", "french": "salutations"},
+    {"portuguese": "brevidade", "phonetic": "/bɾɨviˈdadɨ/", "french": "brièveté"},
+    {"portuguese": "solicitar", "phonetic": "/sulisiˈtaɾ/", "french": "solliciter, demander"},
+    {"portuguese": "desagrado", "phonetic": "/dɨzɐˈɡɾadu/", "french": "mécontentement"},
+    {"portuguese": "atenciosamente", "phonetic": "/ɐtẽsiozɐˈmẽtɨ/", "french": "cordialement"},
+    {"portuguese": "prazo", "phonetic": "/ˈpɾazu/", "french": "délai"},
+    {"portuguese": "contrato", "phonetic": "/kõˈtɾatu/", "french": "contrat"}
+  ]
+}

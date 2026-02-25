@@ -1,0 +1,282 @@
+[
+  {
+    "id": "c1_listening_001",
+    "title": "Débat philosophique : Éthique et technologie",
+    "level": "C1",
+    "duration": 240,
+    "scenario": "Deux philosophes débattent de l'impact éthique de l'intelligence artificielle sur la liberté humaine",
+    "transcript": "Filósofo 1: A questão central é se a IA ameaça a liberdade humana. Muitos argumentam que os algoritmos controlam as nossas escolhas sem sabermos. Filósofo 2: Discordo parcialmente. A liberdade é sempre constrangida. A IA simplesmente torna visíveis os constrangimentos que já existiam. Filósofo 1: Mas há uma diferença qualitativa. A IA opera sem transparência. Não sabemos como decide. Filósofo 2: Verdade. Mas talvez o problema não seja a IA em si, mas a governança. Sem regulação, qualquer tecnologia pode ser abusiva. Filósofo 1: Concordo. Mas regulação não resolve dilemas filosóficos fundamentais. Se abdicamos decisões à máquina, o que resta da autonomia humana? Filósofo 2: Talvez a autonomia seja reinventar-se continuamente. Nem a IA nem a regulação podem eliminar essa responsabilidade.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é o principal argumento do Filósofo 1?",
+        "options": ["A IA não é um problema", "A IA ameaça a liberdade humana por falta de transparência", "A regulação resolve tudo", "A autonomia humana é permanente"],
+        "correctAnswer": "A IA ameaça a liberdade humana por falta de transparência"
+      },
+      {
+        "id": "q2",
+        "question": "Como o Filósofo 2 recontextualiza o problema?",
+        "options": ["Nega a existência de IA", "Coloca a questão em termos de governança e regulação", "Defende a IA incondicionalmente", "Diz que a liberdade é impossível"],
+        "correctAnswer": "Coloca a questão em termos de governança e regulação"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é o tema final do debate?",
+        "options": ["A proibição da IA", "A reinvenção contínua da autonomia humana", "A morte da filosofia", "O triunfo da máquina"],
+        "correctAnswer": "A reinvenção contínua da autonomia humana"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_002",
+    "title": "Conférence universitaire : Histoire des découvertes scientifiques",
+    "level": "C1",
+    "duration": 220,
+    "scenario": "Un historien des sciences explique comment les paradigmes scientifiques se transforment",
+    "transcript": "Historiador: A história da ciência não é linear. Thomas Kuhn demonstrou que as revoluções científicas ocorrem quando paradigmas se quebram. Galileu não apenas observou melhor, ele mudou o quadro conceptual. A heliocentria era impensável antes; depois tornou-se óbvia. Porquê? Porque novos dados não encaixavam no paradigma ptolemaico. O mesmo aconteceu com Darwin, Einstein, Planck. Não era simplesmente acumulação de conhecimento. Era um salto conceptual, uma ruptura. A ciência normal opera dentro de um paradigma, resolvendo puzzles. Mas quando as anomalias acumulam, e nenhuma solução aparece dentro do paradigma, inicia-se uma crise. Daí emerge um novo paradigma, incompatível com o anterior. A transição é traumática para a comunidade científica. Muitos cientistas resistem. Precisam de morrer para o novo paradigma triunfar, lamentavelmente.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "O que Kuhn demonstrou sobre as revoluções científicas?",
+        "options": ["Que a ciência progride linearmente", "Que ocorrem quando paradigmas se quebram", "Que Galileu estava errado", "Que a ciência é impossível"],
+        "correctAnswer": "Que ocorrem quando paradigmas se quebram"
+      },
+      {
+        "id": "q2",
+        "question": "Como se inicia uma crise científica segundo o conferencista?",
+        "options": ["Por capricho", "Quando anomalias acumulam e não encaixam no paradigma", "Por falta de fundos", "Por incompetência"],
+        "correctAnswer": "Quando anomalias acumulam e não encaixam no paradigma"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é a última observação do historiador?",
+        "options": ["Os novos paradigmas são sempre corretos", "A transição de paradigmas é traumática e os velhos cientistas resistem", "Kuhn estava completamente errado", "A ciência nunca muda"],
+        "correctAnswer": "A transição de paradigmas é traumática e os velhos cientistas resistem"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_003",
+    "title": "Entrevista : Economista sobre crise e reformas",
+    "level": "C1",
+    "duration": 230,
+    "scenario": "Un économiste analyse les causes structurelles de la crise économique",
+    "transcript": "Entrevistador: Como explica a persistência da desigualdade económica? Economista: As causas são estruturais, não conjunturais. Temos um sistema onde o capital se acumula exponencialmente, enquanto os salários crescem linearmente. Isto é matemático. Além disso, a globalização deslocalizou empregos para regiões de baixos salários. Os trabalhadores qualificados do Ocidente perderam poder negocial. Ao mesmo tempo, a financialização separou a economia real da economia financeira. Especulação tornou-se lucrativa. Educação, investigação, produção tangível? Ganham menos. Entrevistador: Que reformas são viáveis? Economista: Reforma fiscal progressiva. Tributação sobre transações financeiras. Regulação do capital especulativo. Investimento maciço em educação e tecnologia verde. Mas isto requer vontade política. E há resistência feroz do capital concentrado. Não é impossível, mas é difícil politicamente.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Por que o economista considera a desigualdade 'estrutural'?",
+        "options": ["Por acaso", "Porque o capital se acumula exponencialmente enquanto salários crescem linearmente", "Porque as pessoas são preguiçosas", "Porque o governo não quer"],
+        "correctAnswer": "Porque o capital se acumula exponencialmente enquanto salários crescem linearmente"
+      },
+      {
+        "id": "q2",
+        "question": "Qual foi o impacto da globalização segundo o economista?",
+        "options": ["Beneficiou todos igualmente", "Deslocalizou empregos e reduziu poder negocial dos trabalhadores qualificados", "Não teve impacto", "Aumentou salários universalmente"],
+        "correctAnswer": "Deslocalizou empregos e reduziu poder negocial dos trabalhadores qualificados"
+      },
+      {
+        "id": "q3",
+        "question": "O economista é otimista quanto às reformas?",
+        "options": ["Sim, totalmente", "Não impossível, mas difícil politicamente", "Impossível", "Não respondeu"],
+        "correctAnswer": "Não impossível, mas difícil politicamente"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_004",
+    "title": "Documentário : Climat et justice sociale",
+    "level": "C1",
+    "duration": 250,
+    "scenario": "Narration d'un documentaire sur l'injustice climatique",
+    "transcript": "Narrador: A mudança climática não é um problema democrático. Afeta desproporcionalmente os pobres. Bangladesh, um país que contribuiu minimamente para emissões, enfrenta inundações cataclísmicas. Moçambique, uma nação agrária, vê secas devastando colheitas. Enquanto isto, os países ricos que industrializaram-se através de emissões de carbono agora compram créditos de carbono de nações pobres, mantendo a exploração. É neocolonialismo climático. Os ricos poluem, os pobres morrem. Os ricos compram absolvição através de créditos, os pobres vendem o pouco que têm. A transição energética nos países ricos? Financiada. Nos países pobres? Abandonada. Até que a justiça climática for incluída nas negociações internacionais, as emissões continuarão e as desigualdades aprofundar-se-ão.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Como o narrador caracteriza a mudança climática?",
+        "options": ["Como um problema democrático", "Como um problema que afeta desproporcionalmente os pobres", "Como um hoax", "Como um problema resolvido"],
+        "correctAnswer": "Como um problema que afeta desproporcionalmente os pobres"
+      },
+      {
+        "id": "q2",
+        "question": "O que é 'neocolonialismo climático' segundo o documentário?",
+        "options": ["Um país invade outro", "Os ricos poluem enquanto os pobres sofrem as consequências e vendem créditos de carbono", "Uma teoria conspiratória", "Um tipo de planta"],
+        "correctAnswer": "Os ricos poluem enquanto os pobres sofrem as consequências e vendem créditos de carbono"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é a solução proposta?",
+        "options": ["Eliminar todos os países pobres", "Incluir justiça climática nas negociações internacionais", "Parar a transição energética", "Não há solução"],
+        "correctAnswer": "Incluir justiça climática nas negociações internacionais"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_005",
+    "title": "Entrevista : Neurocientifique sur consciência",
+    "level": "C1",
+    "duration": 240,
+    "scenario": "Un neuroscientifique explique les débats actuels sur la conscience",
+    "transcript": "Entrevistador: A consciência ainda é um mistério? Neurocientista: Completamente. Sabemos que a consciência emerge da atividade cortical, mas o 'problema difícil' persiste. Porquê temos experiências subjetivas? Porquê algo 'parece como' estar triste ou ver vermelho? A física não explica isto. Temos correlatos neurais: fogo-se neurónios, ocorre consciência. Mas correlação não é explicação. Alguns argumentam que a consciência é ilusória, epifenómeno. Outros defendem monismo panpsíquico: consciência é ubíqua, até em partículas. Eu penso que precisamos de uma nova teoria fundamental, não apenas mais neuroimagem. A inteligência artificial colocou este problema em foco novamente. Se máquinas tiverem consciência, precisamos redefinir a humanidade.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "O que é o 'problema difícil' da consciência?",
+        "options": ["Estudar o cérebro é difícil", "Explicar por que temos experiências subjetivas", "A matemática da consciência", "Um filme de ficção científica"],
+        "correctAnswer": "Explicar por que temos experiências subjetivas"
+      },
+      {
+        "id": "q2",
+        "question": "O neurocientista acredita que a correlação neuronal explica consciência?",
+        "options": ["Sim, completamente", "Não, correlação não é explicação", "Talvez", "Não sabe"],
+        "correctAnswer": "Não, correlação não é explicação"
+      },
+      {
+        "id": "q3",
+        "question": "Qual teoria o neurocientista menciona como alternativa?",
+        "options": ["Descartes dualism", "Panpsiquismo", "Behaviorismo", "Criacionismo"],
+        "correctAnswer": "Panpsiquismo"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_006",
+    "title": "Podcast : Linguistique et identité culturelle",
+    "level": "C1",
+    "duration": 220,
+    "scenario": "Linguistes discutent comment les langues façonnent l'identité",
+    "transcript": "Linguista 1: A língua molda pensamento? Sapir-Whorf sugeriu isto. Mas a tese forte foi refutada. A língua não determina pensamento, mas influencia. Uma língua com 50 palavras para 'neve' faz você notar diferenças. Uma sem artigos definidos pode levar a pensar de forma diferente sobre definitude. Linguista 2: Mas a língua é também identidade. Quando as pessoas perdem a língua, perdem história, memória colectiva. O galego quase desapareceu. As gerações mais jovens agora revitalizam-no. Porquê? Porque compreenderam que a língua é soberania. Linguista 1: Sim. Mas há paradoxo. A globalização homogeneiza. O inglês domina. Se todos falam inglês, que passa às línguas menores? Linguista 2: Morrem. Uma língua desaparece a cada duas semanas. Levando consigo conhecimento ancestral irrecuperável. Devíamos priorizar revitalização linguística.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "A tese forte de Sapir-Whorf foi aceita?",
+        "options": ["Sim", "Não, foi refutada, mas a tese fraca de que a língua influencia é válida", "Nunca se soube", "É discutida mas em desenvolvimento"],
+        "correctAnswer": "Não, foi refutada, mas a tese fraca de que a língua influencia é válida"
+      },
+      {
+        "id": "q2",
+        "question": "Por que o galego é exemplo de revitalização?",
+        "options": ["Por ser difícil", "Porque as gerações jovens o revitalizaram após quase desaparecer", "Porque o governo o proibiu", "Porque ninguém o fala"],
+        "correctAnswer": "Porque as gerações jovens o revitalizaram após quase desaparecer"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é o paradoxo mencionado?",
+        "options": ["Nenhum", "A globalização homogeneiza enquanto identidades querem diversificar", "As línguas crescem sozinhas", "Tudo está bem"],
+        "correctAnswer": "A globalização homogeneiza enquanto identidades querem diversificar"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_007",
+    "title": "Débat politique : Réformes systémiques",
+    "level": "C1",
+    "duration": 240,
+    "scenario": "Deux politiciens débattent de réformes structurelles du système",
+    "transcript": "Político 1: O sistema precisa de mudança radical. Rendimento básico universal, educação gratuita até pós-graduação, saúde pública forte. O capitalismo contemporâneo simplesmente não funciona. Político 2: Com respeito, isto é utopia custosa. Imposto progressivo extremo mata investimento. As empresas emigram. Crescimento para. Desemprego sobe. A realidade é mais complexa. Político 1: A realidade é complexa, sim. Mas o status quo é insustentável. Desigualdade cria instabilidade social. Revoltas. Violência. Prevenção através de redistribuição é mais barato que repressão. Político 2: Concordo em desigualdade é problemática. Mas reforma gradual é mais viável que revolução. Incrementalmente, aumentamos impostos, investimos em educação, fortalecemos redes de segurança. Político 1: Gradualismo não funciona quando crises ecológicas aceleram. Precisamos de mudança rápida. O tempo acabou para reformismos.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é a proposta do Político 1?",
+        "options": ["Status quo", "Mudança radical: RBU, educação gratuita, saúde pública", "Neoliberalismo puro", "Isolamento"],
+        "correctAnswer": "Mudança radical: RBU, educação gratuita, saúde pública"
+      },
+      {
+        "id": "q2",
+        "question": "Por que o Político 2 teme impostos progressivos extremos?",
+        "options": ["Não teme", "Porque pensa que as empresas emigram e crescimento para", "Porque gosta de desigualdade", "Por nenhuma razão"],
+        "correctAnswer": "Porque pensa que as empresas emigram e crescimento para"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é o argumento final do Político 1?",
+        "options": ["Nenhum", "Que crises ecológicas exigem mudança rápida, não gradualismo", "Que tudo está bem", "Que o capitalismo é perfeito"],
+        "correctAnswer": "Que crises ecológicas exigem mudança rápida, não gradualismo"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_008",
+    "title": "Entrevista : Historienne sur récriture de l'histoire",
+    "level": "C1",
+    "duration": 230,
+    "scenario": "Une historienne discute comment l'histoire est réinterprétée",
+    "transcript": "Entrevistador: A história é objetiva ou subjetiva? Historiadora: Ambas. Os eventos ocorreram. Mas como os interpretamos depende da perspectiva, da ideologia, dos documentos disponíveis. No séc. XIX, historiadores europeus pintavam a colonização como 'missão civilizadora'. Hoje, reconhecemos genocídio, exploração, violência. Os factos não mudaram. Mas a narrativa sim. E ambas refletem verdades parciais. A narrativa colonial refletia ideologia da época. A narrativa crítica reflete consciência contemporânea. Nenhuma é definitiva. Entrevistador: Isto não torna a história relativista? Historiadora: Não. Factos são factos. Não pode haver 'ambos os lados' se um lado é factualmente falso. Mas interpretação, ênfase, priorização de factos? Isso é narrativa. E narrativa evolui. É por isso que reescrever história é ético quando novos dados ou perspectivas emergem.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Como a historiadora caracteriza a história?",
+        "options": ["Totalmente objetiva", "Totalmente subjetiva", "Ambas: eventos ocorreram mas interpretação depende de perspectiva", "Ficção"],
+        "correctAnswer": "Ambas: eventos ocorreram mas interpretação depende de perspectiva"
+      },
+      {
+        "id": "q2",
+        "question": "Como foi a colonização interpretada no séc. XIX?",
+        "options": ["Como genocídio", "Como 'missão civilizadora'", "Não havia interpretação", "Como desastre"],
+        "correctAnswer": "Como 'missão civilizadora'"
+      },
+      {
+        "id": "q3",
+        "question": "A historiadora considera a história relativista?",
+        "options": ["Sim", "Não, porque factos são factos, mas narrativa evolui", "Talvez", "Não sabe"],
+        "correctAnswer": "Não, porque factos são factos, mas narrativa evolui"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_009",
+    "title": "Conférence : Biomimétisme et innovation",
+    "level": "C1",
+    "duration": 220,
+    "scenario": "Un scientifique explique comment la nature inspire l'innovation technologique",
+    "transcript": "Cientista: A natureza é engenharia avançada. As aranhas produzem seda mais forte que aço, à temperatura ambiente, de materiais simples. Nós precisamos de altas temperaturas e energia massiva. Os morcegos utilizam biosonar mais preciso que radar humano. As algas utilizam fotossíntese com 95% eficiência. Os painéis solares? 22%. Porquê não copiamos a natureza? Porque compreendê-la é difícil. A evolução testou bilhões de soluções ao longo de bilhões de anos. Nós temos laboratórios por décadas. Mas há oportunidade. Biomimética é área emergente. Velcro copiou plantas que se agarram. Cacos de tubarão inspiraram trajes de natação. Estruturas inspiradas em formigas resolvem problemas de logística. A inovação do futuro será em copiar a natureza, não em dominá-la.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Por que a seda de aranha é melhor que o aço produzido humanamente?",
+        "options": ["Não é", "É feita à temperatura ambiente com materiais simples, enquanto aço requer altas temperaturas", "A questão não faz sentido", "Porque é mais pesada"],
+        "correctAnswer": "É feita à temperatura ambiente com materiais simples, enquanto aço requer altas temperaturas"
+      },
+      {
+        "id": "q2",
+        "question": "Qual é a eficiência de fotossíntese vs painéis solares?",
+        "options": ["São iguais", "Fotossíntese: 95%, painéis: 22%", "Painéis: 95%, fotossíntese: 22%", "Nenhum dado"],
+        "correctAnswer": "Fotossíntese: 95%, painéis: 22%"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é a oportunidade mencionada?",
+        "options": ["Dominar a natureza", "A biomimética: copiar soluções naturais para inovação", "Construir cidades maiores", "Poluir mais"],
+        "correctAnswer": "A biomimética: copiar soluções naturais para inovação"
+      }
+    ]
+  },
+  {
+    "id": "c1_listening_010",
+    "title": "Podcast : Psychologie du changement comportemental",
+    "level": "C1",
+    "duration": 230,
+    "scenario": "Un psychologue explique pourquoi les gens résistent au changement",
+    "transcript": "Psicólogo: As pessoas resistem ao mudança apesar de racional a saber que deviam mudar. Porquê? Porque o cérebro valoriza a certeza, mesmo que negativa, mais do que a incerteza, mesmo que potencialmente positiva. É viés de confirmação. Além disso, há custo psicológico ao identidade. Se minha identidade é 'sou preguiçoso', e mudo para 'sou diligente', há conflito cognitivo. A pessoa subconscientemente regride. Então, como mudamos? Não é consciência. Sabemos que fumar mata, mas continuamos. É contexto. Mudar contexto é mais eficaz que força de vontade. Se removo cigarros de casa, probabilidade de fumar cai. Se mudo para ginásio novo, exercício sobe. Reengenharia ambiental supera motivação intrínseca. Também, mudança deve ser identitária, não comportamental. 'Sou alguém que se cuida' é mais poderoso que 'tenho que exercitar'.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Por que as pessoas resistem à mudança segundo o psicólogo?",
+        "options": ["São burras", "Porque o cérebro valida certeza mesmo que negativa, e há conflito com identidade", "Porque não sabem", "Porque não querem"],
+        "correctAnswer": "Porque o cérebro valida certeza mesmo que negativa, e há conflito com identidade"
+      },
+      {
+        "id": "q2",
+        "question": "Qual é mais eficaz: consciência ou contexto?",
+        "options": ["Consciência", "Contexto", "Nenhum", "Ambos igualmente"],
+        "correctAnswer": "Contexto"
+      },
+      {
+        "id": "q3",
+        "question": "Como fazer mudança eficaz segundo o psicólogo?",
+        "options": ["Força de vontade", "Reatribuição identitária: 'Sou alguém que...' em vez de 'Tenho que...'", "Punição", "Sem solução"],
+        "correctAnswer": "Reatribuição identitária: 'Sou alguém que...' em vez de 'Tenho que...'"
+      }
+    ]
+  }
+]

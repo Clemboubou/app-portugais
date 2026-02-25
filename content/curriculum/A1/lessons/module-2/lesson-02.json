@@ -1,0 +1,93 @@
+{
+  "id": "a1-m2-l02",
+  "title": "Les chiffres de 20 à 100",
+  "type": "vocabulary",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Apprendre les dizaines de 20 à 90 et les nombres composés en portugais européen",
+    "Distinguer cem (100 seul) de cento (100 suivi d'un autre nombre)",
+    "Former des nombres composés avec la conjonction e"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les dizaines : une structure régulière",
+      "content": "À partir de vingt, les nombres en portugais suivent une logique régulière et prévisible. Les dizaines (trinta, quarenta, etc.) sont des mots fixes, et les nombres intermédiaires se forment en ajoutant e (et) suivi de l'unité. Une fois les dizaines mémorisées, vous pouvez former n'importe quel nombre jusqu'à 99 facilement."
+    },
+    {
+      "type": "discovery",
+      "title": "Les dizaines de 20 à 90",
+      "content": "Voici toutes les dizaines :\n\nvinte (20), trinta (30), quarenta (40), cinquenta (50), sessenta (60), setenta (70), oitenta (80), noventa (90)\n\nPour former les nombres composés, on utilise la conjonction e (et) entre la dizaine et l'unité :\n\nvinte e um (21), vinte e dois (22), vinte e três (23)\ntrinta e quatro (34), quarenta e cinco (45)\ncinquenta e seis (56), sessenta e sete (67)\nsetenta e oito (78), noventa e nove (99)\n\nCette structure s'applique systématiquement. Notez qu'il n'y a pas d'espace autour du e, mais en écriture soignée on peut l'écrire avec des espaces : vinte e um."
+    },
+    {
+      "type": "explanation",
+      "title": "Cem vs Cento : une distinction importante",
+      "content": "Le nombre 100 a deux formes en portugais européen :\n\n• cem → utilisé seul pour dire exactement 100\n  Exemples : cem euros, cem pessoas, cem por cento (100 %)\n\n• cento → utilisé lorsque 100 est suivi d'une dizaine ou d'une unité\n  Exemples : cento e um (101), cento e vinte (120), cento e cinquenta e três (153)\n\nErreur fréquente à éviter : ne jamais dire *cento euros* ni *cem e um*.\n\nRègle simple : cem = 100 exact / cento = 100 + quelque chose."
+    },
+    {
+      "type": "explanation",
+      "title": "L'accord de um/uma et dois/duas dans les composés",
+      "content": "Dans les nombres composés, les formes um/uma et dois/duas continuent de s'accorder en genre avec le nom :\n\n• vinte e um alunos (21 élèves, masculin)\n• vinte e uma alunas (21 élèves, féminin)\n• trinta e dois anos (32 ans, masculin)\n• trinta e duas semanas (32 semaines, féminin)\n\nLa règle est identique à celle des nombres simples : seuls um/uma et dois/duas varient, tous les autres sont invariables."
+    },
+    {
+      "type": "practice",
+      "title": "Prononciation des dizaines",
+      "content": "Repères de prononciation en portugais européen :\n\n• trinta → /ˈtɾĩtɐ/ — 'in' nasal, 'a' final très bref\n• quarenta → /kwɐˈɾẽtɐ/ — accent sur la deuxième syllabe\n• cinquenta → /sĩˈkwẽtɐ/ — 'cin' nasal, accent sur -quen-\n• sessenta → /sɨˈsẽtɐ/ — premier 'e' très réduit\n• setenta → /sɨˈtẽtɐ/ — premier 'e' très réduit\n• oitenta → /ojˈtẽtɐ/ — diphtongue 'oi'\n• noventa → /nuˈvẽtɐ/ — 'o' initial se prononce /u/ en position atone\n• cem → /sẽ/ — nasalisé, une seule syllabe courte\n• cento → /ˈsẽtu/ — 'o' final se prononce /u/"
+    },
+    {
+      "type": "production",
+      "title": "Mise en pratique : prix et quantités",
+      "content": "En portugais, les nombres s'utilisent beaucoup pour les prix. Entraînez-vous avec ces exemples :\n\n• Quanto custa? → Combien ça coûte ?\n• Custa vinte e cinco euros. → Ça coûte 25 euros.\n• São quarenta e dois euros e cinquenta cêntimos. → C'est 42,50 euros.\n• Tenho noventa e nove anos de experiência! → (façon de parler humoristique)\n\nEssayez de dire votre âge, votre numéro de maison, ou un prix que vous voyez autour de vous en portugais européen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on '100 euros' en portugais européen ?",
+      "correctAnswer": "cem euros",
+      "distractors": ["cento euros", "cento e euros", "um cento euros"],
+      "explanation": "Quand 100 est seul (sans autre nombre qui suit), on utilise cem. Cento s'emploie uniquement devant une dizaine ou une unité : cento e vinte (120)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le nombre correct pour '101' en portugais ?",
+      "correctAnswer": "cento e um",
+      "distractors": ["cem e um", "cento um", "cem um"],
+      "explanation": "Dès que 100 est suivi d'un autre nombre, on utilise cento. La conjonction e (et) est obligatoire entre les parties du nombre composé."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez : O apartamento custa ___ e ___ mil euros. (55 000 — dites juste le nombre 55)",
+      "correctAnswer": "cinquenta e cinco",
+      "distractors": ["cinqenta e cinq", "cinquenta cinco", "cinqüenta e cinco"],
+      "explanation": "55 se dit cinquenta e cinco. Attention à l'orthographe de cinquenta (avec qu). La conjonction e est obligatoire. La forme cinqüenta avec tréma est brésilienne."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : 'Il y a trente-deux étudiantes dans la classe.' (estudante est féminin)",
+      "correctAnswer": "Há trinta e duas estudantes na turma.",
+      "distractors": ["Há trinta e dois estudantes na turma.", "Há trinta duas estudantes na turma.", "Há trinta e duas estudante na turma."],
+      "explanation": "Estudante est féminin ici → trinta e duas. La conjonction e est obligatoire entre trinta et duas. Na turma = dans la classe (na = em + a)."
+    },
+    {
+      "type": "error_detection",
+      "prompt": "Trouvez l'erreur dans cette phrase : 'Tenho cem e cinco anos.' (J'ai 105 ans)",
+      "correctAnswer": "Il faut dire 'cento e cinco' et non 'cem e cinco'.",
+      "distractors": ["Il n'y a pas d'erreur.", "Il faut dire 'cento cinco' sans le e.", "Il faut dire 'um cento e cinco'."],
+      "explanation": "Cem s'utilise uniquement pour 100 seul. Dès que 100 est suivi d'un autre nombre, on dit cento. La forme correcte est : Tenho cento e cinco anos."
+    }
+  ],
+  "vocabulary": [
+    { "portuguese": "vinte", "phonetic": "/ˈvĩtɨ/", "french": "vingt" },
+    { "portuguese": "trinta", "phonetic": "/ˈtɾĩtɐ/", "french": "trente" },
+    { "portuguese": "quarenta", "phonetic": "/kwɐˈɾẽtɐ/", "french": "quarante" },
+    { "portuguese": "cinquenta", "phonetic": "/sĩˈkwẽtɐ/", "french": "cinquante" },
+    { "portuguese": "sessenta", "phonetic": "/sɨˈsẽtɐ/", "french": "soixante" },
+    { "portuguese": "setenta", "phonetic": "/sɨˈtẽtɐ/", "french": "soixante-dix" },
+    { "portuguese": "oitenta", "phonetic": "/ojˈtẽtɐ/", "french": "quatre-vingts" },
+    { "portuguese": "noventa", "phonetic": "/nuˈvẽtɐ/", "french": "quatre-vingt-dix" },
+    { "portuguese": "cem", "phonetic": "/sẽ/", "french": "cent (seul)" },
+    { "portuguese": "cento", "phonetic": "/ˈsẽtu/", "french": "cent (suivi d'un autre nombre)" },
+    { "portuguese": "e", "phonetic": "/i/", "french": "et (liaison entre les parties d'un nombre)" }
+  ]
+}

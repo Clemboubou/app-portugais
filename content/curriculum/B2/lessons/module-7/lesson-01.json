@@ -1,0 +1,84 @@
+{
+  "id": "b2-m7-l01",
+  "title": "Connecteurs d'argumentation",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Maîtriser les connecteurs logiques formels en portugais européen",
+    "Structurer un argument avec com efeito, por conseguinte, todavia",
+    "Utiliser les connecteurs appropriés selon la fonction logique"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les connecteurs : l'ossature de l'argumentation",
+      "content": "<p>Les <strong>conectores discursivos</strong> (connecteurs du discours) sont essentiels pour structurer une argumentation formelle. Au niveau B2, vous devez maîtriser des connecteurs plus sophistiqués que les simples <em>mas</em>, <em>e</em>, <em>porque</em> du niveau A2-B1.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les connecteurs par fonction",
+      "content": "<p><strong>Cause / Explication :</strong></p><ul><li><em><strong>com efeito</strong></em> — en effet</li><li><em><strong>dado que / visto que</strong></em> — étant donné que / vu que</li><li><em><strong>uma vez que</strong></em> — puisque</li></ul><p><strong>Conséquence :</strong></p><ul><li><em><strong>por conseguinte</strong></em> — par conséquent</li><li><em><strong>consequentemente</strong></em> — conséquemment</li><li><em><strong>daí que</strong></em> + conjuntivo — d'où le fait que</li></ul><p><strong>Opposition / Concession :</strong></p><ul><li><em><strong>todavia</strong></em> — toutefois</li><li><em><strong>não obstante</strong></em> — nonobstant / néanmoins</li><li><em><strong>ainda que</strong></em> + conjuntivo — même si / quand bien même</li></ul><p><strong>Addition / Renforcement :</strong></p><ul><li><em><strong>além do mais</strong></em> — de surcroît</li><li><em><strong>acresce que</strong></em> — il s'ajoute que</li><li><em><strong>por outro lado</strong></em> — par ailleurs</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Usage et position dans la phrase",
+      "content": "<p><strong>Position des connecteurs :</strong></p><ul><li>En <strong>début de phrase</strong> (suivi d'une virgule) : <em><strong>Todavia,</strong> existem argumentos contrários.</em></li><li>En <strong>milieu de phrase</strong> (entre virgules) : <em>A proposta é, <strong>com efeito,</strong> muito interessante.</em></li></ul><p><strong>Connecteurs suivis du subjonctif :</strong></p><ul><li><em>ainda que</em> + conjuntivo : <em>Ainda que <strong>seja</strong> difícil, devemos tentar.</em></li><li><em>daí que</em> + conjuntivo : <em>Daí que <strong>seja</strong> necessário agir.</em></li><li><em>embora</em> + conjuntivo : <em>Embora <strong>compreenda</strong> a situação...</em></li></ul><p><strong>Connecteurs suivis de l'indicatif :</strong></p><ul><li><em>dado que, visto que, uma vez que</em> : <em>Dado que o problema <strong>é</strong> urgente...</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Choisir le bon connecteur",
+      "content": "<p>Complétez avec le connecteur approprié :</p><ol><li><em>O investimento em energias renováveis é necessário. ________, os combustíveis fósseis estão a esgotar-se.</em> → <strong>Com efeito</strong> (cause/explication)</li><li><em>A taxa de desemprego desceu. ________, ainda há muito trabalho a fazer.</em> → <strong>Todavia</strong> (opposition)</li><li><em>Os custos aumentaram significativamente. ________, é necessário rever o orçamento.</em> → <strong>Por conseguinte</strong> (conséquence)</li><li><em>________ a situação seja difícil, devemos manter a calma.</em> → <strong>Ainda que</strong> (concession + conjuntivo)</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Rédiger un paragraphe argumentatif",
+      "content": "<p>Rédigez un paragraphe argumentatif (80-100 mots) sur ce sujet :</p><p><em>O ensino universitário deveria ser gratuito?</em></p><p>Utilisez au minimum <strong>5 connecteurs</strong> différents de cette leçon. Structurez votre texte : thèse → arguments (avec connecteurs de cause/addition) → concession → conclusion.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel connecteur signifie 'par conséquent' en registre formel ?",
+      "correctAnswer": "por conseguinte",
+      "distractors": ["com efeito", "todavia", "além do mais"],
+      "explanation": "'Por conseguinte' = par conséquent (conséquence). 'Com efeito' = en effet (cause). 'Todavia' = toutefois (opposition)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ a economia tenha crescido, o desemprego não diminuiu.",
+      "correctAnswer": "Ainda que",
+      "explanation": "'Ainda que' (même si / quand bien même) + conjuntivo (tenha crescido). Connecteur de concession."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Étant donné que le problème est urgent, il faut agir rapidement.",
+      "correctAnswer": "Dado que o problema é urgente, é preciso agir rapidamente.",
+      "explanation": "'Dado que' = étant donné que (+ indicatif). 'É preciso' = il faut. 'Agir rapidamente' = agir rapidement."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel connecteur est suivi du subjonctif (conjuntivo) ?",
+      "correctAnswer": "ainda que",
+      "distractors": ["dado que", "com efeito", "por conseguinte"],
+      "explanation": "'Ainda que' exige le conjuntivo : 'Ainda que seja difícil...' Les connecteurs de cause (dado que, visto que) prennent l'indicatif."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A proposta é, ________, muito interessante. (= en effet)",
+      "correctAnswer": "com efeito",
+      "explanation": "'Com efeito' = en effet. Placé entre virgules au milieu de la phrase pour confirmer et renforcer une affirmation."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "com efeito", "phonetic": "/kõ ɨˈfejtu/", "french": "en effet"},
+    {"portuguese": "por conseguinte", "phonetic": "/puɾ kõsɨˈɡĩtɨ/", "french": "par conséquent"},
+    {"portuguese": "todavia", "phonetic": "/tudɐˈviɐ/", "french": "toutefois"},
+    {"portuguese": "não obstante", "phonetic": "/nɐ̃w̃ obʃˈtɐ̃tɨ/", "french": "néanmoins / nonobstant"},
+    {"portuguese": "ainda que", "phonetic": "/ɐˈĩdɐ kɨ/", "french": "même si / quand bien même"},
+    {"portuguese": "dado que", "phonetic": "/ˈdadu kɨ/", "french": "étant donné que"},
+    {"portuguese": "visto que", "phonetic": "/ˈviʃtu kɨ/", "french": "vu que"},
+    {"portuguese": "além do mais", "phonetic": "/ɐˈlẽj̃ du majʃ/", "french": "de surcroît"},
+    {"portuguese": "acresce que", "phonetic": "/ɐˈkɾɛʃsɨ kɨ/", "french": "il s'ajoute que"},
+    {"portuguese": "daí que", "phonetic": "/dɐˈi kɨ/", "french": "d'où le fait que (+ conjuntivo)"}
+  ]
+}

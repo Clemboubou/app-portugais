@@ -1,0 +1,83 @@
+{
+  "id": "b1-m2-l05",
+  "title": "Le monde du travail au Portugal",
+  "type": "cultural",
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Connaître les particularités du marché du travail portugais",
+    "Comprendre les droits et horaires de travail au Portugal",
+    "Utiliser le vocabulaire lié au droit du travail et aux conditions professionnelles"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Travailler au Portugal",
+      "content": "<p>Le marché du travail portugais a ses spécificités culturelles et légales. Comprendre ces aspects est essentiel si vous souhaitez vivre ou travailler au Portugal.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Horaires et conditions",
+      "content": "<p>Les horaires de travail au Portugal :</p><ul><li><em>O horário de trabalho</em> est de <strong>40 heures par semaine</strong> (8h par jour).</li><li>Les bureaux fonctionnent généralement de <strong>9h à 18h</strong> avec une pause déjeuner d'une heure (13h-14h).</li><li>Le <em>salário mínimo nacional</em> (SMN) est révisé chaque année.</li><li>Les Portugais ont droit à <strong>22 jours de férias</strong> (congés) par an + 14 jours fériés.</li><li>Le <em>subsídio de férias</em> et le <em>subsídio de Natal</em> sont deux primes obligatoires (un mois de salaire chacune).</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Types de contrats",
+      "content": "<p>Les principaux types de contrats :</p><ul><li><em>Contrato sem termo</em> — CDI (contrat à durée indéterminée)</li><li><em>Contrato a termo certo</em> — CDD (contrat à durée déterminée)</li><li><em>Contrato a tempo parcial</em> — contrat à temps partiel</li><li><em>Recibos verdes</em> — auto-entrepreneur / indépendant (littéralement « reçus verts »)</li></ul><p>Au Portugal, les <em>recibos verdes</em> sont très courants, surtout chez les jeunes travailleurs. Ce statut offre moins de protections sociales.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Culture d'entreprise",
+      "content": "<p>Quelques particularités culturelles :</p><ul><li>Les Portugais sont souvent <em>formais</em> (formels) en milieu professionnel — on utilise <em>o senhor / a senhora</em> ou le titre <em>Doutor(a)</em>.</li><li>Le <em>almoço</em> (déjeuner) est un moment important — beaucoup quittent le bureau pour un vrai repas.</li><li>Les <em>horas extraordinárias</em> (heures supplémentaires) sont fréquentes mais théoriquement limitées à 150h/an.</li><li>Le <em>networking</em> passe souvent par des repas ou cafés : <em>Vamos tomar um café?</em> est une invitation professionnelle classique.</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Comparez !",
+      "content": "<p>Comparez le monde du travail portugais avec celui de votre pays :</p><ul><li><em>Em Portugal, o salário mínimo é mais baixo do que em França.</em></li><li><em>Os portugueses têm dois subsídios extra por ano.</em></li><li><em>Os recibos verdes são mais comuns em Portugal.</em></li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Qu'est-ce que les 'recibos verdes' au Portugal ?",
+      "correctAnswer": "Un statut d'auto-entrepreneur / indépendant",
+      "distractors": ["Un type de contrat CDI", "Des tickets restaurant", "Des certificats médicaux"],
+      "explanation": "Les 'recibos verdes' (reçus verts) désignent le statut de travailleur indépendant au Portugal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Os trabalhadores têm direito a 22 dias de ________ por ano.",
+      "correctAnswer": "férias",
+      "explanation": "'Férias' = congés/vacances. Au Portugal, le droit est de 22 jours ouvrables par an."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Le salaire minimum est révisé chaque année.'",
+      "correctAnswer": "O salário mínimo é revisto todos os anos.",
+      "explanation": "'Revisto' est le participe passé irrégulier de 'rever'. 'Todos os anos' = chaque année."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Combien de primes obligatoires reçoivent les travailleurs portugais par an ?",
+      "correctAnswer": "Deux : subsídio de férias et subsídio de Natal",
+      "distractors": ["Une seule à Noël", "Trois par an", "Aucune, ce n'est pas obligatoire"],
+      "explanation": "Au Portugal, les employeurs doivent verser deux primes extra : le subsídio de férias et le subsídio de Natal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Em Portugal, o horário de trabalho semanal é de ________ horas.",
+      "correctAnswer": "quarenta",
+      "explanation": "La durée légale du travail au Portugal est de 40 heures par semaine (quarenta horas)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "salário mínimo", "phonetic": "/sɐˈlaɾju ˈminimu/", "french": "salaire minimum"},
+    {"portuguese": "férias", "phonetic": "/ˈfɛɾiɐʃ/", "french": "congés, vacances"},
+    {"portuguese": "subsídio", "phonetic": "/subˈsidju/", "french": "prime, allocation"},
+    {"portuguese": "direitos laborais", "phonetic": "/diˈɾɐjtuʃ lɐbuˈɾajʃ/", "french": "droits du travail"},
+    {"portuguese": "recibos verdes", "phonetic": "/ʁɨˈsibuʃ ˈveɾdɨʃ/", "french": "auto-entrepreneur"},
+    {"portuguese": "contrato sem termo", "phonetic": "/kõˈtɾatu sɐ̃j ˈtɛɾmu/", "french": "CDI"},
+    {"portuguese": "contrato a termo certo", "phonetic": "/kõˈtɾatu ɐ ˈtɛɾmu ˈsɛɾtu/", "french": "CDD"},
+    {"portuguese": "horas extraordinárias", "phonetic": "/ˈɔɾɐʃ ɨʃtɾɐuɾdinˈaɾjɐʃ/", "french": "heures supplémentaires"},
+    {"portuguese": "horário de trabalho", "phonetic": "/uˈɾaɾju dɨ tɾɐˈbaʎu/", "french": "horaires de travail"}
+  ]
+}

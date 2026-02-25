@@ -1,0 +1,84 @@
+{
+  "id": "b2-m6-l04",
+  "title": "Registres de langue",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Distinguer les registres formel et informel en portugais européen",
+    "Maîtriser le système d'adresse (tu / você / o senhor)",
+    "Adapter son registre selon le contexte"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les registres de langue en PT-PT",
+      "content": "<p>Le portugais européen est réputé pour son système de <strong>registres de langue</strong> très nuancé. Savoir quand utiliser <em>tu</em>, <em>você</em> ou <em>o senhor / a senhora</em> est essentiel pour ne pas commettre d'impair social. Les différences entre registre formel et informel vont bien au-delà du simple tutoiement.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les trois niveaux d'adresse",
+      "content": "<p><strong>1. TU — informel (amis, famille, jeunes entre eux)</strong></p><p><em>Tu queres um café? / Onde é que tu moras?</em></p><p><strong>2. VOCÊ — semi-formel (intermédiaire, parfois considéré impoli en PT-PT !)</strong></p><p><em>Você pode sentar-se aqui.</em></p><p><strong>Attention :</strong> En PT-PT, <em>você</em> peut être perçu comme <strong>condescendant ou impoli</strong> dans certains contextes. C'est très différent du Brésil où <em>você</em> est neutre.</p><p><strong>3. O SENHOR / A SENHORA — formel (respect, hiérarchie, inconnus plus âgés)</strong></p><p><em>O senhor deseja alguma coisa? / A senhora pode assinar aqui?</em></p><p><strong>Alternative courante :</strong> utiliser la 3ᵉ personne <strong>sans pronom</strong> : <em>Deseja alguma coisa?</em> (forme la plus polie et neutre)</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Formel vs informel dans le vocabulaire et la syntaxe",
+      "content": "<p><strong>Vocabulaire :</strong></p><table><tr><th>Informel</th><th>Formel</th></tr><tr><td><em>Olá!</em></td><td><em>Bom dia. / Boa tarde.</em></td></tr><tr><td><em>Tchau!</em></td><td><em>Com licença. / Até breve.</em></td></tr><tr><td><em>fixe</em> (cool)</td><td><em>excelente / muito bom</em></td></tr><tr><td><em>tipo</em> (genre)</td><td><em>por exemplo</em></td></tr><tr><td><em>pá!</em> (mec !)</td><td><em>(supprimé)</em></td></tr></table><p><strong>Syntaxe :</strong></p><ul><li>Informel : <em>Tás bem?</em> (contraction de 'Estás bem?')</li><li>Formel : <em>Como está? / Como se encontra?</em></li><li>Informel : <em>Queres ir?</em></li><li>Formel : <em>Gostaria de ir? / Deseja acompanhar-nos?</em></li></ul><p><strong>Note :</strong> L'utilisation du <strong>condicional</strong> (gostaria, poderia, desejaria) est un marqueur de formalité en PT-PT.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Adapter le registre",
+      "content": "<p>Reformulez ces phrases informelles en registre formel :</p><ol><li><em>Olá, queres um café?</em> → <em>Bom dia, <strong>deseja</strong> um café?</em></li><li><em>Podes dar-me o teu número?</em> → <em><strong>Poderia dar-me</strong> o seu número, <strong>por favor</strong>?</em></li><li><em>Tás a brincar!</em> → <em><strong>Está a falar a sério?</strong></em></li><li><em>Diz-me onde é.</em> → <em><strong>Poderia indicar-me</strong> onde fica?</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Situations de communication",
+      "content": "<p>Rédigez deux versions de la même situation — une informelle et une formelle :</p><p><strong>Situation :</strong> Vous demandez des informations dans un office de tourisme.</p><p><strong>Version informelle</strong> (à un ami qui y travaille) : utilisez 'tu', vocabulaire décontracté.</p><p><strong>Version formelle</strong> (à un employé que vous ne connaissez pas) : utilisez la 3ᵉ personne, conditionnel, vocabulaire soutenu.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "En PT-PT, pourquoi 'você' peut-il être considéré impoli ?",
+      "correctAnswer": "Il peut être perçu comme condescendant, contrairement au Brésil",
+      "distractors": ["Parce qu'il est trop formel", "Parce qu'il n'existe pas en PT-PT", "Parce qu'il est réservé aux enfants"],
+      "explanation": "En PT-PT, 'você' se situe entre tu et o senhor, et peut être perçu comme condescendant. On préfère souvent la 3ᵉ personne sans pronom."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ deseja alguma coisa? (forme de politesse pour 'vous', masculin)",
+      "correctAnswer": "O senhor",
+      "explanation": "'O senhor' + verbe à la 3ᵉ personne est la forme de politesse la plus courante en PT-PT pour s'adresser à un homme."
+    },
+    {
+      "type": "translate",
+      "prompt": "Reformulez formellement : 'Queres ir ao cinema?' (Veux-tu aller au cinéma ?)",
+      "correctAnswer": "Gostaria de ir ao cinema?",
+      "explanation": "Le conditionnel (gostaria) est un marqueur de formalité. On supprime 'tu' et on utilise la 3ᵉ personne."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme la plus polie pour demander quelque chose en PT-PT ?",
+      "correctAnswer": "Poderia + infinitif (3ᵉ personne, sans pronom)",
+      "distractors": ["Podes + infinitif", "Você pode + infinitif", "Tu podes + infinitif"],
+      "explanation": "Le conditionnel à la 3ᵉ personne sans pronom explicite est la forme la plus polie : 'Poderia indicar-me...'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "La contraction orale de 'Estás bem?' est ________.",
+      "correctAnswer": "Tás bem?",
+      "explanation": "'Tás' est la contraction orale informelle de 'Estás' en PT-PT. Très courant dans le langage familier."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "registo de língua", "phonetic": "/ʁɨˈʒiʃtu dɨ ˈlĩɡwɐ/", "french": "registre de langue"},
+    {"portuguese": "tutear", "phonetic": "/tutiˈaɾ/", "french": "tutoyer"},
+    {"portuguese": "tratar por tu", "phonetic": "/tɾɐˈtaɾ puɾ tu/", "french": "tutoyer (expression PT-PT)"},
+    {"portuguese": "tratar por você", "phonetic": "/tɾɐˈtaɾ puɾ voˈse/", "french": "vouvoyer (forme intermédiaire)"},
+    {"portuguese": "o senhor / a senhora", "phonetic": "/u sɨˈɲoɾ/ /ɐ sɨˈɲoɾɐ/", "french": "monsieur / madame (forme de respect)"},
+    {"portuguese": "fixe", "phonetic": "/ˈfiʃɨ/", "french": "cool / génial (argot PT-PT)"},
+    {"portuguese": "gostaria de", "phonetic": "/ɡuʃtɐˈɾiɐ dɨ/", "french": "j'aimerais (conditionnel poli)"},
+    {"portuguese": "com licença", "phonetic": "/kõ liˈsẽsɐ/", "french": "excusez-moi (formel)"},
+    {"portuguese": "até breve", "phonetic": "/ɐˈtɛ ˈbɾɛvɨ/", "french": "à bientôt (formel)"},
+    {"portuguese": "pá", "phonetic": "/pa/", "french": "mec / gars (interjection familière PT-PT)"}
+  ]
+}

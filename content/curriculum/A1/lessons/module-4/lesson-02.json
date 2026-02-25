@@ -1,0 +1,138 @@
+{
+  "id": "a1-m4-l02",
+  "title": "Au restaurant",
+  "type": "conversation",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Commander un repas dans un restaurant en portugais européen",
+    "Demander l'addition et se renseigner sur les prix",
+    "Utiliser les formules de politesse essentielles à table"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Manger au restaurant au Portugal",
+      "content": "Au Portugal, aller au restaurant est une expérience sociale importante. Les repas sont généralement pris à des horaires fixes : le déjeuner (o almoço) entre 12h30 et 14h30, et le dîner (o jantar) à partir de 19h30. Le serveur s'appelle o empregado de mesa (homme) ou a empregada de mesa (femme). Il est courant de demander a ementa (le menu, la carte) dès que l'on s'assoit. Dans cette leçon, vous apprendrez à commander, à demander des informations et à régler l'addition."
+    },
+    {
+      "type": "discovery",
+      "title": "Les expressions clés au restaurant",
+      "content": "Voici les phrases indispensables pour un repas au restaurant :\n\nPOUR COMMANDER :\n• Queria... — Je voudrais... (forme polie au conditionnel)\n  Ex. : Queria uma sopa, por favor. (Je voudrais une soupe, s'il vous plaît.)\n• Pode trazer...? — Pouvez-vous apporter... ?\n  Ex. : Pode trazer mais pão? (Pouvez-vous apporter davantage de pain ?)\n\nPOUR LA CARTE :\n• A ementa, por favor. — La carte, s'il vous plaît.\n• O menu do dia — Le menu du jour\n\nPOUR PAYER :\n• A conta, por favor. — L'addition, s'il vous plaît.\n• Quanto custa? — Combien ça coûte ?\n• É para levar. — C'est à emporter.\n\nFormule utile : Está incluído o serviço? (Le service est-il compris ?)"
+    },
+    {
+      "type": "explanation",
+      "title": "Queria vs. Quero — choisir la bonne formule",
+      "content": "En portugais européen, il existe une différence importante entre quero et queria :\n\n• Quero... — Je veux... (présent de l'indicatif)\n  Direct, parfois perçu comme un peu brusque en contexte formel.\n\n• Queria... — Je voudrais... (imparfait à valeur de conditionnel)\n  Plus poli, recommandé au restaurant et dans les commerces.\n\nExemples comparés :\n  Quero um café. → Je veux un café. (correct mais familier)\n  Queria um café, por favor. → Je voudrais un café, s'il vous plaît. (poli, recommandé)\n\nAu Portugal, la politesse passe beaucoup par le choix du temps verbal. Utilisez toujours queria dans un contexte de service."
+    },
+    {
+      "type": "practice",
+      "title": "Un dialogue au restaurant",
+      "content": "Lisez et mémorisez ce mini-dialogue :\n\nEmpregado : Boa tarde. O que deseja?\n(Bonjour. Que désirez-vous ?)\n\nCliente : Queria a ementa, por favor.\n(Je voudrais la carte, s'il vous plaît.)\n\nEmpregado : Claro, aqui tem.\n(Bien sûr, voilà.)\n\nCliente : Queria o prato do dia e uma água, por favor.\n(Je voudrais le plat du jour et une eau, s'il vous plaît.)\n\nEmpregado : Muito bem.\n(Très bien.)\n\n[Plus tard...]\n\nCliente : A conta, por favor.\n(L'addition, s'il vous plaît.)\n\nEmpregado : São quinze euros.\n(C'est quinze euros.)"
+    },
+    {
+      "type": "production",
+      "title": "À vous de jouer",
+      "content": "Imaginez que vous êtes au restaurant. Formulez les demandes suivantes en portugais :\n1. Demandez la carte poliment.\n2. Commandez une soupe et de l'eau.\n3. Demandez si vous pouvez avoir plus de pain.\n4. Demandez l'addition.\n\nRéponses possibles :\n1. A ementa, por favor.\n2. Queria uma sopa e uma água, por favor.\n3. Pode trazer mais pão?\n4. A conta, por favor."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle phrase utilise-t-on pour demander l'addition au Portugal ?",
+      "correctAnswer": "A conta, por favor.",
+      "distractors": [
+        "A ementa, por favor.",
+        "Pode trazer a água?",
+        "Quanto custa o menu?"
+      ],
+      "explanation": "A conta signifie « l'addition ». A ementa est la carte ou le menu. Ces deux mots sont importants à ne pas confondre."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Pourquoi dit-on « Queria » plutôt que « Quero » au restaurant ?",
+      "correctAnswer": "Queria est plus poli — c'est l'imparfait utilisé comme conditionnel de politesse.",
+      "distractors": [
+        "Queria est le pluriel de quero.",
+        "Quero ne s'emploie pas avec la nourriture.",
+        "Queria signifie « j'ai voulu » au passé."
+      ],
+      "explanation": "En portugais européen, l'imparfait de querer (queria) s'emploie comme conditionnel de politesse pour signifier « je voudrais ». C'est la formule recommandée dans tout contexte de service."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Pouvez-vous apporter plus de pain, s'il vous plaît ? »",
+      "correctAnswer": "Pode trazer mais pão, por favor?",
+      "distractors": [
+        "Quero mais pão, por favor?",
+        "Pode dar mais o pão?",
+        "Trazer mais pão, por favor?"
+      ],
+      "explanation": "Pode trazer...? est la formule correcte pour demander poliment à quelqu'un d'apporter quelque chose. Pode est la 3e personne du singulier de pouvoir (poder), qui sert aussi pour s'adresser poliment à quelqu'un en portugais européen."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez le dialogue : « ___ um café e um pastel de nata, por favor. » (Je voudrais un café et un pastel de nata, s'il vous plaît.)",
+      "correctAnswer": "Queria",
+      "distractors": ["Quero", "Posso", "Tenho"],
+      "explanation": "Queria est la forme polie pour commander au restaurant. Quero est grammaticalement correct mais moins poli. Posso signifie « je peux » et tenho signifie « j'ai »."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez les mots dans le bon ordre : « levar / É / para »",
+      "correctAnswer": "É para levar.",
+      "distractors": [
+        "Para levar é.",
+        "Levar para é.",
+        "É levar para."
+      ],
+      "explanation": "É para levar signifie « c'est à emporter ». La structure est : É (c'est) + para (pour) + infinitif (levar = emporter)."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "a ementa",
+      "phonetic": "/ɐ iˈmẽtɐ/",
+      "french": "la carte, le menu"
+    },
+    {
+      "portuguese": "o menu do dia",
+      "phonetic": "/u mɨˈnu du ˈdiɐ/",
+      "french": "le menu du jour"
+    },
+    {
+      "portuguese": "queria",
+      "phonetic": "/kɨˈɾiɐ/",
+      "french": "je voudrais (forme polie)"
+    },
+    {
+      "portuguese": "pode trazer",
+      "phonetic": "/ˈpɔdɨ tɾɐˈzeɾ/",
+      "french": "pouvez-vous apporter"
+    },
+    {
+      "portuguese": "a conta",
+      "phonetic": "/ɐ ˈkõtɐ/",
+      "french": "l'addition"
+    },
+    {
+      "portuguese": "quanto custa?",
+      "phonetic": "/ˈkwɐ̃tu ˈkuʃtɐ/",
+      "french": "combien ça coûte ?"
+    },
+    {
+      "portuguese": "é para levar",
+      "phonetic": "/ɛ ˈpaɾɐ lɨˈvaɾ/",
+      "french": "c'est à emporter"
+    },
+    {
+      "portuguese": "por favor",
+      "phonetic": "/puɾ fɐˈvoɾ/",
+      "french": "s'il vous plaît"
+    },
+    {
+      "portuguese": "o empregado de mesa",
+      "phonetic": "/u ẽpɾɨˈɡadu dɨ ˈmezɐ/",
+      "french": "le serveur"
+    }
+  ]
+}

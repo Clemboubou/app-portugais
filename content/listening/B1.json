@@ -1,0 +1,228 @@
+[
+  {
+    "id": "b1_listening_001",
+    "title": "Entrevista de trabalho",
+    "level": "B1",
+    "duration": 120,
+    "scenario": "Uma pessoa numa entrevista de emprego",
+    "transcript": "Recrutador: Bom dia! Bem-vindo. Obrigado por ter vindo. Pode-me contar um pouco sobre sua experiência profissional? Candidato: Claro! Trabalhei como engenheiro durante 5 anos numa empresa internacional. Recrutador: E por que razão quer mudar de empresa? Candidato: Porque gostaria de um desafio maior e de trabalhar numa equipa mais dinâmica. Recrutador: Entendo. Qual é a sua maior qualidade para este cargo? Candidato: Acho que sou muito organizado e tenho boas capacidades de liderança.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é a profissão do candidato?",
+        "options": ["Electricista", "Engenheiro", "Advogado", "Médico"],
+        "correctAnswer": "Engenheiro"
+      },
+      {
+        "id": "q2",
+        "question": "Quantos anos de experiência tem?",
+        "options": ["3 anos", "5 anos", "10 anos", "7 anos"],
+        "correctAnswer": "5 anos"
+      },
+      {
+        "id": "q3",
+        "question": "Por que razão quer mudar de emprego?",
+        "options": ["Porque quer ganhar mais", "Porque a empresa fecha", "Porque quer um desafio maior", "Porque tem problemas com o chefe"],
+        "correctAnswer": "Porque quer um desafio maior"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_002",
+    "title": "Conversa numa agência de viagens",
+    "level": "B1",
+    "duration": 90,
+    "scenario": "Cliente procura informações sobre um destino turístico",
+    "transcript": "Agente: Olá! Como posso ajudar? Cliente: Gostava de saber informações sobre viagens para o Brasil. Agente: Claro! Que tipo de viagem o interessa? Praias, cidades históricas ou natureza? Cliente: Muito bem! Gostava de visitar a região da Amazónia mas também o Rio. Agente: Ótimo! Temos pacotes que cobrem ambos. Seriam 14 dias, com voos internacionais incluídos. Cliente: E qual é o preço aproximado?",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é o país de destino?",
+        "options": ["Portugal", "Brasil", "Espanha", "Argentina"],
+        "correctAnswer": "Brasil"
+      },
+      {
+        "id": "q2",
+        "question": "Quantos dias duraria a viagem?",
+        "options": ["7 dias", "10 dias", "14 dias", "21 dias"],
+        "correctAnswer": "14 dias"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_003",
+    "title": "Telefone: Reclamação de cliente",
+    "level": "B1",
+    "duration": 100,
+    "scenario": "Cliente liga para reclamar sobre um serviço",
+    "transcript": "Atendedor: Olá, pode ajudá-lo? Cliente: Sim, liguei porque recebi um produtos danificado. Atendedor: Oh, lamento ouvir isso. Pode descrever o problema? Cliente: Sim, a embalagem chegou rasgada e o produto está quebrado. Não consigo usá-lo. Atendedor: Entendo perfeitamente. Vamos arranjar isto. Posso enviar-lhe um novo produto imediatamente sem custo adicional.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é o problema do cliente?",
+        "options": ["Não recebeu a encomenda", "O produto chegou danificado", "O preço é muito alto", "Não gosta da cor"],
+        "correctAnswer": "O produto chegou danificado"
+      },
+      {
+        "id": "q2",
+        "question": "Como a empresa vai resolver o problema?",
+        "options": ["Reembolso de 50%", "Novo produto sem custo", "Desconto na próxima compra", "Nenhuma solução"],
+        "correctAnswer": "Novo produto sem custo"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_004",
+    "title": "Discussão sobre planos futuros",
+    "level": "B1",
+    "duration": 110,
+    "scenario": "Dois amigos conversam sobre planos para o futuro",
+    "transcript": "João: Então, qual é o plano? Continuarás aqui? Maria: Não, estou a pensar em ir para o estrangeiro para continuar a minha formação. João: E para onde pensas ir? Maria: Gostava de ir para o Reino Unido, talvez Londres. Tenho uma bolsa de estudo. João: Que fantástico! Quando partes? Maria: Se tudo correr bem, em Setembro.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é o plano de Maria?",
+        "options": ["Mudar-se para Lisboa", "Trabalhar numa fábrica", "Estudar no estrangeiro", "Casar-se"],
+        "correctAnswer": "Estudar no estrangeiro"
+      },
+      {
+        "id": "q2",
+        "question": "Quando é que Maria quer partir?",
+        "options": ["Dezembro", "Março", "Junho", "Setembro"],
+        "correctAnswer": "Setembro"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_005",
+    "title": "Aula de história",
+    "level": "B1",
+    "duration": 150,
+    "scenario": "Professor ensina sobre a Era dos Descobrimentos português",
+    "transcript": "Professor: Hoje vamos aprender sobre a Era dos Descobrimentos. Durante os séculos XV e XVI, Portugal foi uma grande potência mundial. Os Portugueses exploraram a África, Índia, Brasil e muitos outros lugares. Vasco da Gama foi o primeiro europeu a chegar à Índia navegando à volta de África. Cristóvão Colombo também recebeu ajuda portuguesa. Estes descobrimentos mudaram o mundo para sempre.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Quando foi a Era dos Descobrimentos?",
+        "options": ["Séculos XI e XII", "Séculos XIII e XIV", "Séculos XV e XVI", "Séculos XVII e XVIII"],
+        "correctAnswer": "Séculos XV e XVI"
+      },
+      {
+        "id": "q2",
+        "question": "Quem foi Vasco da Gama?",
+        "options": ["Um pintor português", "O primeiro europeu a chegar à Índia", "Um escritor", "Um rei português"],
+        "correctAnswer": "O primeiro europeu a chegar à Índia"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_006",
+    "title": "Conversa na estação de comboios",
+    "level": "B1",
+    "duration": 85,
+    "scenario": "Um passageiro procura informações sobre um comboio",
+    "transcript": "Passageiro: Desculpe, pode ajudar-me? Funcionário: Claro! Passageiro: Qual é a próxima partida para o Porto? Funcionário: Deixe ver... o próximo comboio sai às 14:30 e demora 3 horas. Passageiro: Está bem, queria uma passagem. Funcionário: Só tem ida ou ida e volta? Passageiro: Ida e volta, por favor.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Para onde vai o comboio?",
+        "options": ["Lisboa", "Porto", "Covilhã", "Braga"],
+        "correctAnswer": "Porto"
+      },
+      {
+        "id": "q2",
+        "question": "A que horas sai o próximo comboio?",
+        "options": ["13:30", "14:30", "15:30", "16:30"],
+        "correctAnswer": "14:30"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_007",
+    "title": "Documentário sobre tradições portuguesas",
+    "level": "B1",
+    "duration": 160,
+    "scenario": "Narração de um documentário sobre festas e tradições",
+    "transcript": "Narrador: Portugal tem muitas tradições fascinantes. O Fado, uma forma de música tradicional, é um símbolo importante da cultura portuguesa. As romarias, procissões religiosas festivas, são celebradas em todo o país. Também existe a tradição de atirar sapatos aos recém-casados para trazer sorte. O Festival da Música é outra celebração popular. Estas tradições mantêm viva a cultura e a história portuguesa.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "O que é o Fado?",
+        "options": ["Um prato típico", "Uma forma de música tradicional", "Uma festa religiosa", "Um jogo tradicional"],
+        "correctAnswer": "Uma forma de música tradicional"
+      },
+      {
+        "id": "q2",
+        "question": "O que é uma romaria?",
+        "options": ["Uma história de amor", "Uma procissão religiosa festiva", "Um tipo de dança", "Um costume de Natal"],
+        "correctAnswer": "Uma procissão religiosa festiva"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_008",
+    "title": "Entrevista no rádio com escritor",
+    "level": "B1",
+    "duration": 140,
+    "scenario": "Radiojornalista entrevista um escritor contemporâneo",
+    "transcript": "Jornalista: Bem-vindo ao nosso programa. Seu novo livro está sendo muito aclamado. Escritor: Obrigado! Estou muito feliz com a resposta do público. Jornalista: De que trata seu livro? Escritor: É um romance sobre a vida moderna em Lisboa, sobre as dificuldades e alegrias dos jovens adultos. Jornalista: Quanto tempo levou para escrever? Escritor: Aproximadamente dois anos. Foi um processo longo mas muito gratificante.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é o tema do livro?",
+        "options": ["A história medieval", "A vida moderna em Lisboa", "A poesia clássica", "Viagens exóticas"],
+        "correctAnswer": "A vida moderna em Lisboa"
+      },
+      {
+        "id": "q2",
+        "question": "Quanto tempo levou para escrever o livro?",
+        "options": ["Um ano", "Dois anos", "Três anos", "Seis meses"],
+        "correctAnswer": "Dois anos"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_009",
+    "title": "Aula de culinária portuguesa",
+    "level": "B1",
+    "duration": 120,
+    "scenario": "Chef ensina como fazer uma receita tradicional",
+    "transcript": "Chef: Hoje vamos preparar um Pastéis de Nata, um doce tradicional de Belém. Primeiro, colocamos a massa folhada num molde cilíndrico. Depois adicionamos o creme que é feito com gemas de ovo, leite, açúcar e canela. Assamos no forno a 200 graus durante 20 minutos até ficarem com uma cor castanha. O resultado é um doce delicioso e crocante!",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Que doce se está a preparar?",
+        "options": ["Tiramisu", "Pastéis de Nata", "Éclair", "Croissant"],
+        "correctAnswer": "Pastéis de Nata"
+      },
+      {
+        "id": "q2",
+        "question": "Quanto tempo é que se assam os pastéis?",
+        "options": ["10 minutos", "15 minutos", "20 minutos", "30 minutos"],
+        "correctAnswer": "20 minutos"
+      }
+    ]
+  },
+  {
+    "id": "b1_listening_010",
+    "title": "Conversa sobre saúde e desporto",
+    "level": "B1",
+    "duration": 95,
+    "scenario": "Dois amigos conversam sobre exercício físico e alimentação",
+    "transcript": "Ana: João, porque é que pareces tão cansado? João: Porque comecei um novo programa de exercício. Treino 5 vezes por semana. Ana: Que excelente! Que tipo de exercício fazes? João: Faço natação e musculação. Além disso, mudei a minha alimentação. Como mais frutas e vegetais. Ana: E já sentes alguma diferença? João: Sim! Tenho mais energia e durmo melhor.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Quantas vezes por semana é que João treina?",
+        "options": ["2 vezes", "3 vezes", "5 vezes", "Diariamente"],
+        "correctAnswer": "5 vezes"
+      },
+      {
+        "id": "q2",
+        "question": "Qual é a principal diferença que João sente?",
+        "options": ["Perdeu peso", "Tem mais energia", "Ficou mais forte", "Nenhuma diferença"],
+        "correctAnswer": "Tem mais energia"
+      }
+    ]
+  }
+]

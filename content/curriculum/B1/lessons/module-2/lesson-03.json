@@ -1,0 +1,83 @@
+{
+  "id": "b1-m2-l03",
+  "title": "Rédiger un e-mail professionnel",
+  "type": "writing",
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Connaître les formules d'ouverture et de clôture d'un e-mail professionnel",
+    "Rédiger un e-mail formel en portugais européen",
+    "Maîtriser le registre de politesse écrit (Exmo(a) Sr(a), V. Exa.)"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'e-mail professionnel portugais",
+      "content": "<p>L'e-mail professionnel au Portugal suit des conventions formelles précises. Le ton est plus formel qu'en France, surtout dans les formules d'ouverture et de clôture.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Structure d'un e-mail formel",
+      "content": "<p><strong>Ouverture :</strong></p><ul><li><em>Exmo. Sr. / Exma. Sra.</em> (Monsieur / Madame — très formel)</li><li><em>Caro(a) Dr(a). [Nom]</em> (Cher Docteur — formel courant)</li><li><em>Boa tarde,</em> (Bonsoir — semi-formel)</li></ul><p><strong>Corps :</strong></p><ul><li><em>Venho por este meio...</em> (Je viens par ce moyen...)</li><li><em>Gostaria de...</em> (J'aimerais...)</li><li><em>Em relação a...</em> (En ce qui concerne...)</li></ul><p><strong>Clôture :</strong></p><ul><li><em>Com os melhores cumprimentos,</em> (Avec mes meilleures salutations)</li><li><em>Atenciosamente,</em> (Cordialement)</li><li><em>Aguardo a sua resposta.</em> (J'attends votre réponse.)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Exemple d'e-mail complet",
+      "content": "<blockquote><p><strong>Assunto:</strong> Pedido de informação<br/><br/>Exma. Sra. Dra. Fernandes,<br/><br/>Venho por este meio solicitar informações sobre o curso de português para estrangeiros.<br/><br/>Gostaria de saber quais são as datas disponíveis e o valor da inscrição.<br/><br/>Agradeço desde já a sua atenção e aguardo a sua resposta com a maior brevidade possível.<br/><br/>Com os melhores cumprimentos,<br/>Pierre Dupont</p></blockquote><p>Note : <em>Dra.</em> est le féminin de <em>Dr.</em> — au Portugal, on utilise le titre <em>Doutor/Doutora</em> pour toute personne ayant un diplôme universitaire.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Formules utiles",
+      "content": "<p>D'autres formules courantes :</p><ul><li><em>Junto envio em anexo...</em> (J'envoie ci-joint...)</li><li><em>Conforme combinado...</em> (Comme convenu...)</li><li><em>Peço desculpa pelo incómodo.</em> (Je m'excuse pour le dérangement.)</li><li><em>Fico ao dispor para qualquer esclarecimento.</em> (Je reste à disposition pour tout éclaircissement.)</li><li><em>Sem mais de momento...</em> (Sans plus pour le moment...)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Rédigez votre e-mail",
+      "content": "<p>Rédigez un e-mail professionnel pour l'une de ces situations :</p><ol><li>Demander des informations sur un poste de travail</li><li>Confirmer votre présence à une réunion</li><li>Envoyer un document en pièce jointe</li></ol><p>Utilisez les formules d'ouverture et de clôture appropriées.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle formule de clôture est la plus formelle ?",
+      "correctAnswer": "Com os melhores cumprimentos",
+      "distractors": ["Abraço", "Até breve", "Beijinhos"],
+      "explanation": "'Com os melhores cumprimentos' est la formule de clôture formelle standard. 'Abraço' et 'Beijinhos' sont informels."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Venho por este meio ________ informações sobre o curso.",
+      "correctAnswer": "solicitar",
+      "explanation": "'Venho por este meio solicitar' est la formule standard pour 'Je viens par ce moyen demander'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'envoie ci-joint le rapport.'",
+      "correctAnswer": "Junto envio em anexo o relatório.",
+      "explanation": "'Junto envio em anexo' = j'envoie ci-joint. 'O relatório' = le rapport."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment s'adresse-t-on formellement à une femme par e-mail ?",
+      "correctAnswer": "Exma. Sra.",
+      "distractors": ["Cara Sra.", "Olá Sra.", "Prezada Sra."],
+      "explanation": "'Exma. Sra.' (Excelentíssima Senhora) est la formule la plus formelle en PT-EU."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Aguardo a sua resposta com a maior ________ possível.",
+      "correctAnswer": "brevidade",
+      "explanation": "'Com a maior brevidade possível' = dans les plus brefs délais."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "cumprimentos", "phonetic": "/kũpɾiˈmẽtuʃ/", "french": "salutations"},
+    {"portuguese": "atenciosamente", "phonetic": "/ɐtẽsjozɐˈmẽtɨ/", "french": "cordialement"},
+    {"portuguese": "solicitar", "phonetic": "/sulisiˈtaɾ/", "french": "demander (formel)"},
+    {"portuguese": "em anexo", "phonetic": "/ẽ ɐˈnɛksu/", "french": "en pièce jointe"},
+    {"portuguese": "inscrição", "phonetic": "/ĩʃkɾiˈsɐ̃w/", "french": "inscription"},
+    {"portuguese": "esclarecimento", "phonetic": "/ɨʃklɐɾɨsiˈmẽtu/", "french": "éclaircissement"},
+    {"portuguese": "brevidade", "phonetic": "/bɾɨviˈdadɨ/", "french": "brièveté"},
+    {"portuguese": "incómodo", "phonetic": "/ĩˈkɔmudu/", "french": "dérangement"},
+    {"portuguese": "assunto", "phonetic": "/ɐˈsũtu/", "french": "sujet (d'un e-mail)"}
+  ]
+}

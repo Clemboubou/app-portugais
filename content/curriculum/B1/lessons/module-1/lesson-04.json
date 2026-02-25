@@ -1,0 +1,83 @@
+{
+  "id": "b1-m1-l04",
+  "title": "Un événement marquant",
+  "type": "reading",
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Lire et comprendre un texte narratif au passé en portugais européen",
+    "Identifier les usages du Perfeito et de l'Imperfeito dans un récit authentique",
+    "Répondre à des questions de compréhension sur un texte narratif"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Un récit au passé",
+      "content": "<p>Vous allez lire un texte narratif qui mêle description (Imperfeito) et événements (Perfeito). Observez comment les deux temps se combinent naturellement dans un récit.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Texto : O dia do terramoto",
+      "content": "<p>Leia o texto seguinte :</p><blockquote><em>Era uma manhã normal de novembro. O céu estava cinzento e fazia frio. As pessoas iam para o trabalho como todos os dias. De repente, às nove e quarenta, a terra tremeu violentamente. Os edifícios começaram a cair e as pessoas correram para a rua em pânico. A poeira cobriu tudo. Ninguém sabia o que estava a acontecer. Depois do terramoto, veio o tsunami. Uma onda gigante entrou pelo rio Tejo e destruiu o que restava da Baixa. O dia 1 de novembro de 1755 mudou Lisboa para sempre.</em></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Analyse des temps",
+      "content": "<p><strong>Imperfeito (cadre, description) :</strong></p><ul><li><em>Era</em> uma manhã normal — description du cadre</li><li>O céu <em>estava</em> cinzento — description du temps qu'il faisait</li><li><em>Fazia</em> frio — situation continue</li><li>As pessoas <em>iam</em> para o trabalho — habitude en cours</li><li>Ninguém <em>sabia</em> o que <em>estava</em> a acontecer — état mental</li></ul><p><strong>Perfeito (événements ponctuels) :</strong></p><ul><li>A terra <em>tremeu</em> — événement soudain</li><li>Os edifícios <em>começaram</em> a cair — début d'action</li><li>As pessoas <em>correram</em> — réaction ponctuelle</li><li>Uma onda <em>entrou</em> pelo rio — événement unique</li><li>O dia <em>mudou</em> Lisboa — changement définitif</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Vocabulaire du texte",
+      "content": "<p>Mots clés à retenir :</p><ul><li><em>terramoto</em> — tremblement de terre (attention : en PT-BR on dit 'terremoto')</li><li><em>a terra tremeu</em> — la terre a tremblé</li><li><em>edifício</em> — bâtiment, immeuble</li><li><em>poeira</em> — poussière</li><li><em>onda</em> — vague</li><li><em>destruir</em> — détruire</li><li><em>o que restava</em> — ce qui restait</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Résumez le texte",
+      "content": "<p>Essayez de résumer le texte en 3 phrases en utilisant les deux temps du passé. Par exemple :</p><ul><li><em>Era uma manhã normal quando houve um grande terramoto em Lisboa.</em></li><li><em>Os edifícios caíram e as pessoas fugiram.</em></li><li><em>Depois, um tsunami destruiu a Baixa.</em></li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Selon le texte, quel temps faisait-il le matin du 1er novembre 1755 ?",
+      "correctAnswer": "Il faisait froid et le ciel était gris",
+      "distractors": ["Il faisait beau et chaud", "Il pleuvait beaucoup", "Il neigeait"],
+      "explanation": "Le texte dit : 'O céu estava cinzento e fazia frio' (Le ciel était gris et il faisait froid)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "De repente, às nove e quarenta, a terra ________ violentamente.",
+      "correctAnswer": "tremeu",
+      "explanation": "Action soudaine et ponctuelle → Perfeito de 'tremer' : tremeu."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Pourquoi 'iam' est-il à l'Imperfeito dans 'As pessoas iam para o trabalho' ?",
+      "correctAnswer": "C'est une action habituelle en cours au moment de l'événement",
+      "distractors": ["C'est une action soudaine", "C'est un ordre", "C'est une action terminée"],
+      "explanation": "Les gens étaient en train d'aller au travail (action en cours, habituelle) quand le séisme a frappé."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Uma onda gigante entrou pelo rio Tejo.'",
+      "correctAnswer": "Une vague géante est entrée par le fleuve Tage.",
+      "explanation": "'Onda gigante' = vague géante, 'entrou' = est entrée (Perfeito), 'pelo' = par le, 'rio Tejo' = fleuve Tage."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ninguém ________ (saber) o que ________ (estar) a acontecer.",
+      "correctAnswer": "sabia, estava",
+      "explanation": "Deux états mentaux/situations en cours dans le passé → Imperfeito : sabia, estava."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "terramoto", "phonetic": "/tɨʁɐˈmotu/", "french": "tremblement de terre"},
+    {"portuguese": "edifício", "phonetic": "/ɨdiˈfisju/", "french": "bâtiment, immeuble"},
+    {"portuguese": "poeira", "phonetic": "/puˈɐjɾɐ/", "french": "poussière"},
+    {"portuguese": "onda", "phonetic": "/ˈõdɐ/", "french": "vague"},
+    {"portuguese": "destruir", "phonetic": "/dɨʃtɾuˈiɾ/", "french": "détruire"},
+    {"portuguese": "pânico", "phonetic": "/ˈpɐniku/", "french": "panique"},
+    {"portuguese": "cinzento", "phonetic": "/sĩˈzẽtu/", "french": "gris"},
+    {"portuguese": "tremer", "phonetic": "/tɾɨˈmeɾ/", "french": "trembler"},
+    {"portuguese": "fugir", "phonetic": "/fuˈʒiɾ/", "french": "fuir"}
+  ]
+}

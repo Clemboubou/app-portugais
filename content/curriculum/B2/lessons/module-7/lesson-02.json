@@ -1,0 +1,84 @@
+{
+  "id": "b2-m7-l02",
+  "title": "Rédiger un article d'opinion",
+  "type": "writing",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Structurer un article d'opinion en thèse / antithèse / synthèse",
+    "Utiliser les connecteurs d'argumentation dans un texte long",
+    "Rédiger un texte argumentatif de 150-200 mots en portugais"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'article d'opinion (artigo de opinião)",
+      "content": "<p>L'<strong>artigo de opinião</strong> est un texte dans lequel l'auteur prend position sur un sujet d'actualité. C'est un exercice fondamental au niveau B2, car il exige de <strong>structurer sa pensée</strong>, d'<strong>argumenter</strong> et de <strong>nuancer</strong> en utilisant un registre soutenu.</p><p>Les grands quotidiens portugais (Público, Expresso, Observador) publient quotidiennement des articles d'opinion.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Modèle d'article d'opinion",
+      "content": "<p><strong>Tema: O teletrabalho deve ser um direito?</strong></p><blockquote><em>O teletrabalho tornou-se uma realidade incontornável após a pandemia. <strong>Na minha opinião</strong>, deveria ser consagrado como um direito para todos os trabalhadores cujas funções o permitam.</em><br/><br/><em><strong>Com efeito</strong>, os estudos mostram que a produtividade não diminuiu com o trabalho remoto. <strong>Além disso</strong>, o teletrabalho permite uma melhor conciliação entre vida profissional e pessoal, reduz o tempo gasto em deslocações e contribui para a redução das emissões de carbono.</em><br/><br/><em><strong>Todavia</strong>, é necessário reconhecer que nem todos os setores podem adotar este modelo. <strong>Acresce que</strong> o isolamento social e a dificuldade em separar vida pessoal e profissional são riscos reais.</em><br/><br/><em><strong>Em conclusão</strong>, o teletrabalho deveria ser um direito, <strong>não obstante</strong> a necessidade de regulamentação clara que proteja tanto os trabalhadores como as empresas.</em></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structure de l'article d'opinion",
+      "content": "<p><strong>1. Introduction</strong> — Présentation du sujet + thèse</p><ul><li><em>Na minha opinião... / Defendo que... / Considero que...</em></li></ul><p><strong>2. Arguments (thèse)</strong> — Développement des arguments en faveur</p><ul><li><em>Com efeito... / Em primeiro lugar... / Além disso...</em></li></ul><p><strong>3. Contre-arguments (antithèse)</strong> — Reconnaissance des limites</p><ul><li><em>Todavia... / Não obstante... / É verdade que... mas...</em></li></ul><p><strong>4. Conclusion (synthèse)</strong> — Position finale nuancée</p><ul><li><em>Em conclusão... / Em suma... / Parece-me, portanto, que...</em></li></ul><p><strong>Registre :</strong> Utilisez le conditionnel (<em>deveria, poderia</em>) pour nuancer, et évitez le langage familier.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Ordonner un article",
+      "content": "<p>Remettez ces paragraphes dans l'ordre correct :</p><p><strong>A.</strong> <em>Todavia, é preciso garantir que a digitalização não aumente as desigualdades sociais.</em></p><p><strong>B.</strong> <em>A transformação digital é, hoje em dia, um tema central no debate público.</em></p><p><strong>C.</strong> <em>Em conclusão, a digitalização é inevitável, mas deve ser acompanhada de políticas sociais adequadas.</em></p><p><strong>D.</strong> <em>Com efeito, as novas tecnologias permitem aumentar a eficiência dos serviços públicos e facilitar o acesso à informação.</em></p><p><strong>Ordre correct :</strong> B → D → A → C (Introduction → Arguments → Contre-argument → Conclusion)</p>"
+    },
+    {
+      "type": "production",
+      "title": "Votre article d'opinion",
+      "content": "<p>Rédigez un article d'opinion de <strong>150-200 mots</strong> sur un de ces sujets :</p><ol><li><em>As redes sociais são uma ameaça para a democracia?</em></li><li><em>Devemos proibir os carros no centro das cidades?</em></li><li><em>A inteligência artificial vai substituir os professores?</em></li></ol><p>Votre texte doit contenir : introduction + thèse, 2 arguments, 1 contre-argument, conclusion. Utilisez au minimum <strong>6 connecteurs</strong> différents.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la structure classique d'un article d'opinion ?",
+      "correctAnswer": "Introduction / Arguments / Contre-arguments / Conclusion",
+      "distractors": ["Titre / Résumé / Conclusion", "Question / Réponse / Exemples", "Description / Narration / Dialogue"],
+      "explanation": "La structure thèse / antithèse / synthèse est la base de l'article d'opinion : introduction + arguments + contre-arguments + conclusion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ que a situação é complexa, é necessário tomar medidas concretas. (= étant donné que)",
+      "correctAnswer": "Dado",
+      "explanation": "'Dado que' = étant donné que. Connecteur de cause + indicatif."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : En conclusion, il me semble que cette mesure est nécessaire.",
+      "correctAnswer": "Em conclusão, parece-me que esta medida é necessária.",
+      "explanation": "'Em conclusão' = en conclusion. 'Parece-me que' = il me semble que. 'Medida' = mesure. 'Necessária' = nécessaire (féminin)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel verbe introducteur convient pour annoncer sa thèse ?",
+      "correctAnswer": "Defendo que...",
+      "distractors": ["Pergunto-me se...", "Conto que...", "Descrevo que..."],
+      "explanation": "'Defendo que' = je défends que / je soutiens que. Verbe fort pour introduire une thèse dans un article d'opinion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O teletrabalho aumenta a produtividade. ________, reduz as emissões de carbono. (= de surcroît)",
+      "correctAnswer": "Além do mais",
+      "explanation": "'Além do mais' = de surcroît / de plus. Connecteur d'addition pour renforcer un argument."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "artigo de opinião", "phonetic": "/ɐɾˈtiɡu dɨ opiˈnjɐ̃w̃/", "french": "article d'opinion"},
+    {"portuguese": "tese", "phonetic": "/ˈtɛzɨ/", "french": "thèse"},
+    {"portuguese": "antítese", "phonetic": "/ɐ̃ˈtitɨzɨ/", "french": "antithèse"},
+    {"portuguese": "síntese", "phonetic": "/ˈsĩtɨzɨ/", "french": "synthèse"},
+    {"portuguese": "defender que", "phonetic": "/dɨfẽˈdeɾ kɨ/", "french": "soutenir que / défendre que"},
+    {"portuguese": "considerar que", "phonetic": "/kõsidɨˈɾaɾ kɨ/", "french": "considérer que"},
+    {"portuguese": "medida", "phonetic": "/mɨˈdidɐ/", "french": "mesure"},
+    {"portuguese": "ameaça", "phonetic": "/ɐmiˈasɐ/", "french": "menace"},
+    {"portuguese": "desigualdade", "phonetic": "/dɨziɡwɐɫˈdadɨ/", "french": "inégalité"},
+    {"portuguese": "regulamentação", "phonetic": "/ʁɨɡulɐmẽtɐˈsɐ̃w̃/", "french": "réglementation"}
+  ]
+}

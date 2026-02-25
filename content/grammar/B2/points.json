@@ -1,0 +1,168 @@
+[
+  {
+    "id": "g-b2-01",
+    "title": "Le plus-que-parfait (forme composée et simple)",
+    "level": "B2",
+    "explanation": "Le plus-que-parfait (pretérito mais-que-perfeito) exprime une action antérieure à une autre action passée. La forme composée (tinha + participe passé) est courante. La forme simple (falara, dissera) est littéraire et formelle.",
+    "examples": [
+      { "pt": "Ele tinha falado com o chefe antes de sair.", "fr": "Il avait parlé au chef avant de partir." },
+      { "pt": "Ele falara com o chefe. (forme littéraire)", "fr": "Il avait parlé au chef." },
+      { "pt": "Quando cheguei, eles já tinham partido.", "fr": "Quand je suis arrivé, ils étaient déjà partis." }
+    ],
+    "tip": "La forme simple se construit à partir de la 3ᵉ personne du pluriel du pretérito perfeito : falaram → falara."
+  },
+  {
+    "id": "g-b2-02",
+    "title": "Le discours indirect (concordância temporal)",
+    "level": "B2",
+    "explanation": "Quand le verbe introducteur est au passé, les temps changent dans le discours indirect : presente → imperfeito, futuro → condicional, pretérito perfeito → mais-que-perfeito composto. Les pronoms et marqueurs temporels changent aussi.",
+    "examples": [
+      { "pt": "Disse que estava cansado. (direct: Estou cansado.)", "fr": "Il a dit qu'il était fatigué." },
+      { "pt": "Disse que iria no dia seguinte. (direct: Irei amanhã.)", "fr": "Il a dit qu'il irait le lendemain." },
+      { "pt": "Perguntou-me se eu queria café.", "fr": "Il m'a demandé si je voulais du café." }
+    ],
+    "tip": "Si le verbe introducteur est au présent, il n'y a pas de changement de temps : Diz que está bem."
+  },
+  {
+    "id": "g-b2-03",
+    "title": "Les transformations dans le discours indirect",
+    "level": "B2",
+    "explanation": "Outre les temps verbaux, le discours indirect implique des changements de pronoms (eu→ele, meu→dele) et de marqueurs temporels (hoje→naquele dia, amanhã→no dia seguinte, aqui→ali).",
+    "examples": [
+      { "pt": "Disse: «Eu comprei este livro aqui.» → Disse que ele tinha comprado aquele livro ali.", "fr": "Il a dit : 'J'ai acheté ce livre ici.' → Il a dit qu'il avait acheté ce livre là-bas." },
+      { "pt": "hoje → naquele dia / amanhã → no dia seguinte / ontem → na véspera", "fr": "aujourd'hui → ce jour-là / demain → le lendemain / hier → la veille" }
+    ],
+    "tip": "Appliquez les trois transformations simultanément : temps + pronoms + marqueurs temporels."
+  },
+  {
+    "id": "g-b2-04",
+    "title": "La voix passive (ser + participe et passiva pronominal)",
+    "level": "B2",
+    "explanation": "Le portugais possède deux constructions passives. La passive analytique (ser + participe + por) pour les textes formels. La passive pronominale (verbe + -se) pour le langage courant, quand l'agent est inconnu.",
+    "examples": [
+      { "pt": "O livro foi escrito por Saramago.", "fr": "Le livre a été écrit par Saramago." },
+      { "pt": "Vendem-se apartamentos.", "fr": "On vend des appartements. / Des appartements sont vendus." },
+      { "pt": "Fala-se português aqui.", "fr": "On parle portugais ici." }
+    ],
+    "tip": "La passive pronominale est plus fréquente à l'oral en PT-PT. Le verbe s'accorde avec le sujet : Vende-se casa / Vendem-se casas."
+  },
+  {
+    "id": "g-b2-05",
+    "title": "L'infinitif personnel (infinitivo pessoal)",
+    "level": "B2",
+    "explanation": "L'infinitif personnel est une forme verbale unique au portugais. Il permet de conjuguer l'infinitif selon la personne. Il s'utilise après para, antes de, depois de, apesar de, sem, et avec les expressions impersonnelles.",
+    "examples": [
+      { "pt": "Para nós compreendermos a lição...", "fr": "Pour que nous comprenions la leçon..." },
+      { "pt": "Antes de eles saírem...", "fr": "Avant qu'ils (ne) sortent..." },
+      { "pt": "Apesar de sermos estrangeiros...", "fr": "Bien que nous soyons étrangers..." }
+    ],
+    "tip": "Terminaisons : (eu) -Ø, (tu) -es, (ele) -Ø, (nós) -mos, (eles) -em. Ajoutées directement à l'infinitif."
+  },
+  {
+    "id": "g-b2-06",
+    "title": "Le subjonctif dans les propositions relatives",
+    "level": "B2",
+    "explanation": "Dans une relative, on utilise le subjonctif quand l'antécédent est indéfini, hypothétique ou inexistant. On utilise l'indicatif quand il est connu et identifié.",
+    "examples": [
+      { "pt": "Procuro alguém que fale francês. (subjonctif — non identifié)", "fr": "Je cherche quelqu'un qui parle français." },
+      { "pt": "Conheço alguém que fala francês. (indicatif — identifié)", "fr": "Je connais quelqu'un qui parle français." },
+      { "pt": "Não há ninguém que saiba a resposta.", "fr": "Il n'y a personne qui sache la réponse." }
+    ],
+    "tip": "Indices : article indéfini + recherche → subjonctif. Article défini + certitude → indicatif. Ninguém, alguém, qualquer → subjonctif."
+  },
+  {
+    "id": "g-b2-07",
+    "title": "Les connecteurs d'argumentation formels",
+    "level": "B2",
+    "explanation": "Les connecteurs formels structurent l'argumentation. Cause : com efeito, dado que, visto que. Conséquence : por conseguinte. Opposition : todavia, não obstante. Concession : ainda que (+ conjuntivo). Addition : além do mais.",
+    "examples": [
+      { "pt": "Com efeito, os dados confirmam esta tendência.", "fr": "En effet, les données confirment cette tendance." },
+      { "pt": "Todavia, existem argumentos contrários.", "fr": "Toutefois, il existe des arguments contraires." },
+      { "pt": "Ainda que seja difícil, devemos tentar.", "fr": "Même si c'est difficile, nous devons essayer." }
+    ],
+    "tip": "'Ainda que' et 'embora' exigent le subjonctif. 'Dado que' et 'visto que' prennent l'indicatif."
+  },
+  {
+    "id": "g-b2-08",
+    "title": "Les conditionnelles irréelles au passé",
+    "level": "B2",
+    "explanation": "Pour exprimer une hypothèse irréelle au passé, on utilise : Se + mais-que-perfeito do conjuntivo (tivesse + participe), condicional composto (teria + participe). C'est l'équivalent du conditionnel passé français.",
+    "examples": [
+      { "pt": "Se eu tivesse estudado mais, teria passado no exame.", "fr": "Si j'avais étudié davantage, j'aurais réussi l'examen." },
+      { "pt": "Se não tivesse chovido, teríamos ido à praia.", "fr": "S'il n'avait pas plu, nous serions allés à la plage." }
+    ],
+    "tip": "Ne confondez pas avec l'irréel du présent : Se eu tivesse (passé) vs Se eu fosse (présent)."
+  },
+  {
+    "id": "g-b2-09",
+    "title": "La place des pronoms en PT-PT (enclise/proclise)",
+    "level": "B2",
+    "explanation": "En PT-PT, la règle de base est l'enclise (pronom après le verbe) dans les phrases affirmatives : Dá-me. La proclise (pronom avant le verbe) s'utilise après les mots négatifs, les subordonnées, les adverbes, et les pronoms interrogatifs.",
+    "examples": [
+      { "pt": "Dá-me o livro. (enclise — phrase affirmative)", "fr": "Donne-moi le livre." },
+      { "pt": "Não me dá o livro. (proclise — phrase négative)", "fr": "Il ne me donne pas le livre." },
+      { "pt": "Quem te disse isso? (proclise — interrogatif)", "fr": "Qui t'a dit ça ?" }
+    ],
+    "tip": "C'est une différence majeure entre PT-PT (enclise par défaut) et PT-BR (proclise par défaut)."
+  },
+  {
+    "id": "g-b2-10",
+    "title": "Les verbes introducteurs du discours rapporté",
+    "level": "B2",
+    "explanation": "Les verbes introducteurs précisent la manière dont les paroles sont rapportées. Certains exigent le subjonctif (ordenar que, pedir que, exigir que). D'autres prennent l'indicatif (dizer que, afirmar que, explicar que).",
+    "examples": [
+      { "pt": "Ele disse que estava doente. (indicatif)", "fr": "Il a dit qu'il était malade." },
+      { "pt": "Pediu que fechasse a porta. (subjonctif)", "fr": "Il a demandé qu'il ferme la porte." },
+      { "pt": "Ordenou que saíssemos imediatamente.", "fr": "Il a ordonné que nous sortions immédiatement." }
+    ],
+    "tip": "Les verbes d'ordre/demande/souhait (pedir, ordenar, exigir) exigent toujours le conjuntivo."
+  },
+  {
+    "id": "g-b2-11",
+    "title": "Le registre formel : tu / você / o senhor",
+    "level": "B2",
+    "explanation": "En PT-PT, 'tu' est informel (amis, famille). 'Você' est intermédiaire mais peut être perçu comme condescendant. 'O senhor / a senhora' est formel. La forme la plus polie est la 3ᵉ personne sans pronom explicite.",
+    "examples": [
+      { "pt": "Tu queres um café? (informel)", "fr": "Tu veux un café ?" },
+      { "pt": "O senhor deseja alguma coisa? (formel)", "fr": "Monsieur désire-t-il quelque chose ?" },
+      { "pt": "Poderia indicar-me...? (très poli, sans pronom)", "fr": "Pourriez-vous m'indiquer...?" }
+    ],
+    "tip": "En PT-PT, préférez la 3ᵉ personne sans pronom en contexte formel. Évitez 'você' avec des personnes plus âgées."
+  },
+  {
+    "id": "g-b2-12",
+    "title": "Estar a + infinitif vs gérondif",
+    "level": "B2",
+    "explanation": "En PT-PT, la forme progressive s'exprime avec 'estar a + infinitif' (estou a falar). Le gérondif (estou falando) est la forme brésilienne. C'est l'une des différences les plus marquantes entre PT-PT et PT-BR.",
+    "examples": [
+      { "pt": "Estou a trabalhar. (PT-PT)", "fr": "Je suis en train de travailler." },
+      { "pt": "O que é que estás a fazer? (PT-PT)", "fr": "Qu'est-ce que tu es en train de faire ?" },
+      { "pt": "Estão a chover. → Está a chover. (PT-PT)", "fr": "Il pleut (en ce moment)." }
+    ],
+    "tip": "Utilisez toujours 'estar a + infinitif' en PT-PT. Le gérondif est immédiatement identifié comme brésilien."
+  },
+  {
+    "id": "g-b2-13",
+    "title": "L'accord du participe passé dans la passive",
+    "level": "B2",
+    "explanation": "Dans la voix passive avec SER, le participe passé s'accorde en genre et en nombre avec le sujet. Attention aux participes irréguliers : escrito, feito, dito, visto, aberto, posto.",
+    "examples": [
+      { "pt": "A carta foi enviada. / As cartas foram enviadas.", "fr": "La lettre a été envoyée. / Les lettres ont été envoyées." },
+      { "pt": "Os livros foram escritos por Pessoa.", "fr": "Les livres ont été écrits par Pessoa." },
+      { "pt": "A porta foi aberta pelo porteiro.", "fr": "La porte a été ouverte par le portier." }
+    ],
+    "tip": "Participes irréguliers courants : fazer→feito, dizer→dito, ver→visto, escrever→escrito, abrir→aberto, pôr→posto."
+  },
+  {
+    "id": "g-b2-14",
+    "title": "Le subjonctif futur (futuro do conjuntivo)",
+    "level": "B2",
+    "explanation": "Le subjonctif futur, quasi exclusif au portugais parmi les langues romanes vivantes, s'utilise dans les subordonnées de condition (se) et de temps (quando) pour le futur. Il se forme comme le pretérito perfeito mais avec des terminaisons propres.",
+    "examples": [
+      { "pt": "Se eu tiver tempo, irei ao cinema.", "fr": "Si j'ai le temps, j'irai au cinéma." },
+      { "pt": "Quando chegares, liga-me.", "fr": "Quand tu arriveras, appelle-moi." },
+      { "pt": "Enquanto viveres em Portugal, fala português.", "fr": "Tant que tu vivras au Portugal, parle portugais." }
+    ],
+    "tip": "Se + futuro do conjuntivo (tiver) ≠ Se + imperfeito do conjuntivo (tivesse). Le premier est réel/possible, le second est irréel."
+  }
+]

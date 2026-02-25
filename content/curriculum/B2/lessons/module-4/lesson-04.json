@@ -1,0 +1,84 @@
+{
+  "id": "b2-m4-l04",
+  "title": "Analyser un texte littéraire",
+  "type": "writing",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Connaître les termes d'analyse littéraire en portugais",
+    "Identifier métaphore, ironie et type de narrateur dans un texte",
+    "Rédiger un court commentaire littéraire structuré"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les outils de l'analyse littéraire",
+      "content": "<p>Analyser un texte littéraire en portugais requiert un <strong>vocabulaire technique</strong> précis. Cette leçon vous donne les outils pour identifier les principales figures de style et structures narratives, et pour rédiger un commentaire organisé.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Un texte à analyser",
+      "content": "<p>Lisez cet extrait (adapté) :</p><blockquote><em>Lisboa era uma velha senhora que se pintava de novo todas as manhãs. As ruas estreitas do Alfama escondiam segredos que as paredes de azulejo guardavam em silêncio. O rio Tejo, eterno testemunha, via tudo e nada dizia. Naquele dia de outono, quando as folhas dançavam no chão como borboletas cansadas, o narrador percebeu que a cidade lhe falava, mas numa língua que ainda não sabia traduzir.</em></blockquote><p>(Lisbonne était une vieille dame qui se maquillait de nouveau chaque matin. Les rues étroites de l'Alfama cachaient des secrets que les murs de faïence gardaient en silence. Le Tage, éternel témoin, voyait tout et ne disait rien. Ce jour d'automne, quand les feuilles dansaient au sol comme des papillons fatigués, le narrateur comprit que la ville lui parlait, mais dans une langue qu'il ne savait pas encore traduire.)</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Figures de style et termes d'analyse",
+      "content": "<p><strong>Figures de style (figuras de estilo) :</strong></p><ul><li><em><strong>Metáfora</strong></em> — métaphore : <em>Lisboa era uma velha senhora</em> (comparaison implicite)</li><li><em><strong>Comparação</strong></em> — comparaison : <em>como borboletas cansadas</em> (avec « como »)</li><li><em><strong>Personificação</strong></em> — personnification : <em>o rio via tudo e nada dizia</em> (attributs humains)</li><li><em><strong>Ironia</strong></em> — ironie : dire le contraire de ce qu'on pense</li><li><em><strong>Hipérbole</strong></em> — hyperbole : exagération</li><li><em><strong>Aliteração</strong></em> — allitération : répétition de sons consonantiques</li></ul><p><strong>Types de narrateur :</strong></p><ul><li><em>Narrador na 1ª pessoa</em> — narrateur à la 1ʳᵉ personne</li><li><em>Narrador na 3ª pessoa / omnisciente</em> — narrateur omniscient</li><li><em>Narrador participante / não participante</em> — narrateur participant / non participant</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Identifier les figures de style",
+      "content": "<p>Dans l'extrait, identifiez :</p><ol><li>Une <strong>métaphore</strong> : <em>«Lisboa era uma velha senhora»</em> — la ville est comparée à une vieille dame sans « como ».</li><li>Une <strong>comparaison</strong> : <em>«as folhas dançavam como borboletas cansadas»</em> — avec le mot « como ».</li><li>Une <strong>personnification</strong> : <em>«O rio Tejo via tudo e nada dizia»</em> — le fleuve reçoit des attributs humains (voir, dire).</li><li>Le <strong>type de narrateur</strong> : narrateur à la 3ᵉ personne, participant (<em>o narrador percebeu</em>).</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Rédiger un commentaire littéraire",
+      "content": "<p>Rédigez un court commentaire (80-120 mots) de l'extrait en utilisant cette structure :</p><ol><li><em>Neste excerto, o autor descreve...</em> (description du thème)</li><li><em>O recurso à metáfora/comparação/personificação serve para...</em> (effet des figures de style)</li><li><em>O narrador é... e a sua perspetiva permite...</em> (analyse du narrateur)</li><li><em>Em conclusão, este texto transmite...</em> (interprétation globale)</li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Dans « Lisboa era uma velha senhora », quelle figure de style est utilisée ?",
+      "correctAnswer": "Metáfora",
+      "distractors": ["Comparação", "Personificação", "Hipérbole"],
+      "explanation": "C'est une métaphore car la comparaison est implicite (sans 'como'). Si c'était 'Lisboa era COMO uma velha senhora', ce serait une comparaison."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ________ consiste em atribuir características humanas a seres inanimados ou a animais.",
+      "correctAnswer": "personificação",
+      "explanation": "La personnification (personificação) attribue des caractéristiques humaines à des êtres non humains, comme le fleuve qui 'voit' et 'parle'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Le narrateur est à la troisième personne et omniscient.",
+      "correctAnswer": "O narrador é na terceira pessoa e omnisciente.",
+      "explanation": "'Narrador na terceira pessoa' = narrateur à la 3ᵉ personne. 'Omnisciente' = omniscient (même forme en PT)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'figure de style' en portugais ?",
+      "correctAnswer": "figura de estilo",
+      "distractors": ["forma de estilo", "imagem de estilo", "recurso de estilo"],
+      "explanation": "'Figura de estilo' est le terme exact. 'Recurso estilístico' est aussi acceptable comme synonyme."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A frase « as folhas dançavam como borboletas cansadas » contém uma ________.",
+      "correctAnswer": "comparação",
+      "explanation": "La présence du mot 'como' (comme) indique une comparaison (comparação), pas une métaphore."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "metáfora", "phonetic": "/mɨˈtafuɾɐ/", "french": "métaphore"},
+    {"portuguese": "comparação", "phonetic": "/kõpɐɾɐˈsɐ̃w̃/", "french": "comparaison"},
+    {"portuguese": "personificação", "phonetic": "/pɨɾsonifikɐˈsɐ̃w̃/", "french": "personnification"},
+    {"portuguese": "ironia", "phonetic": "/iɾuˈniɐ/", "french": "ironie"},
+    {"portuguese": "hipérbole", "phonetic": "/iˈpɛɾbulɨ/", "french": "hyperbole"},
+    {"portuguese": "narrador", "phonetic": "/nɐʁɐˈdoɾ/", "french": "narrateur"},
+    {"portuguese": "omnisciente", "phonetic": "/ɔmniʃiˈẽtɨ/", "french": "omniscient"},
+    {"portuguese": "excerto", "phonetic": "/ɨʃˈsɛɾtu/", "french": "extrait (littéraire)"},
+    {"portuguese": "figura de estilo", "phonetic": "/fiˈɡuɾɐ dɨ ɨʃˈtilu/", "french": "figure de style"},
+    {"portuguese": "azulejo", "phonetic": "/ɐzuˈleʒu/", "french": "carreau de faïence (azulejo)"}
+  ]
+}

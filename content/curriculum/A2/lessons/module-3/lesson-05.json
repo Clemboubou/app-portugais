@@ -1,0 +1,83 @@
+{
+  "id": "a2-m3-l05",
+  "title": "Donner des conseils de santé",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Former l'impératif des verbes réguliers et irréguliers courants",
+    "Utiliser 'deves + infinitif' pour donner des conseils",
+    "Donner des conseils de santé en portugais européen"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Conseiller et recommander",
+      "content": "<p>Donner des conseils est essentiel dans le domaine de la santé. En portugais, on utilise deux structures principales : l'<strong>imperativo</strong> (impératif) pour des instructions directes, et <strong>deves + infinitif</strong> pour des conseils plus nuancés.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "L'impératif (tu)",
+      "content": "<p>L'impératif de <em>tu</em> se forme à partir de la 3ème personne du présent de l'indicatif :</p><table><thead><tr><th>Infinitif</th><th>Présent (ele)</th><th>Impératif (tu)</th><th>Français</th></tr></thead><tbody><tr><td>comer</td><td>come</td><td><strong>Come!</strong></td><td>Mange !</td></tr><tr><td>beber</td><td>bebe</td><td><strong>Bebe!</strong></td><td>Bois !</td></tr><tr><td>descansar</td><td>descansa</td><td><strong>Descansa!</strong></td><td>Repose-toi !</td></tr><tr><td>dormir</td><td>dorme</td><td><strong>Dorme!</strong></td><td>Dors !</td></tr><tr><td>tomar</td><td>toma</td><td><strong>Toma!</strong></td><td>Prends !</td></tr></tbody></table><p><strong>Verbes irréguliers à l'impératif (tu)</strong> :</p><table><thead><tr><th>Infinitif</th><th>Impératif (tu)</th><th>Français</th></tr></thead><tbody><tr><td>fazer</td><td><strong>Faz!</strong></td><td>Fais !</td></tr><tr><td>ir</td><td><strong>Vai!</strong></td><td>Va !</td></tr><tr><td>ser</td><td><strong>Sê!</strong></td><td>Sois !</td></tr><tr><td>ter</td><td><strong>Tem!</strong></td><td>Aie !</td></tr><tr><td>dizer</td><td><strong>Diz!</strong></td><td>Dis !</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Deves + infinitif et autres structures",
+      "content": "<p>Pour des conseils plus doux, on utilise :</p><table><thead><tr><th>Structure</th><th>Exemple</th><th>Français</th></tr></thead><tbody><tr><td><strong>Deves + infinitif</strong></td><td><em>Deves descansar mais.</em></td><td>Tu dois / devrais te reposer plus.</td></tr><tr><td><strong>Devias + infinitif</strong></td><td><em>Devias ir ao médico.</em></td><td>Tu devrais aller chez le médecin.</td></tr><tr><td><strong>É melhor + infinitif</strong></td><td><em>É melhor ficares em casa.</em></td><td>C'est mieux que tu restes à la maison.</td></tr><tr><td><strong>Tenta + infinitif</strong></td><td><em>Tenta dormir mais.</em></td><td>Essaie de dormir plus.</td></tr><tr><td><strong>Não deves + infinitif</strong></td><td><em>Não deves fumar.</em></td><td>Tu ne dois pas fumer.</td></tr></tbody></table><p><strong>Note</strong> : <em>Devias</em> (conditionnel = tu devrais) est plus poli que <em>deves</em> (tu dois).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Conseils de santé en contexte",
+      "content": "<p>Voici des conseils courants :</p><ul><li><em><strong>Come</strong> mais fruta e legumes!</em> (Mange plus de fruits et légumes !)</li><li><em><strong>Bebe</strong> muita água todos os dias.</em> (Bois beaucoup d'eau tous les jours.)</li><li><em><strong>Faz</strong> exercício pelo menos três vezes por semana.</em> (Fais de l'exercice au moins trois fois par semaine.)</li><li><em><strong>Descansa</strong> bem — <strong>deves</strong> dormir oito horas por noite.</em> (Repose-toi bien — tu dois dormir huit heures par nuit.)</li><li><em><strong>Não</strong> fumes! É muito mau para a saúde.</em> (Ne fume pas ! C'est très mauvais pour la santé.)</li><li><em><strong>Devias</strong> ir ao médico se a febre não baixar.</em> (Tu devrais aller chez le médecin si la fièvre ne baisse pas.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Donner des conseils",
+      "content": "<p>Un ami vous dit qu'il est fatigué, qu'il mange mal et qu'il ne fait pas de sport. Donnez-lui 4 conseils en utilisant l'impératif et 'deves/devias' :</p><p>Exemple : <em>Deves comer melhor — come mais peixe e saladas. Faz exercício três vezes por semana, nem que seja caminhar. Devias dormir mais cedo. E bebe menos café!</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel est l'impératif (tu) du verbe COMER ?",
+      "correctAnswer": "Come!",
+      "distractors": ["Coma!", "Comes!", "Comeu!"],
+      "explanation": "L'impératif de 'tu' pour COMER est 'Come!' (= 3ème personne du présent de l'indicatif)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ mais água, é bom para a saúde!",
+      "correctAnswer": "Bebe",
+      "explanation": "L'impératif de 'tu' de BEBER est 'Bebe!' (bois !). Conseil courant pour la santé."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Tu devrais aller chez le médecin.'",
+      "correctAnswer": "Devias ir ao médico.",
+      "explanation": "'Devias' (conditionnel de dever) + infinitif = tu devrais + infinitif. Plus poli que 'deves'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme négative de l'impératif 'Fuma!' (Fume !) ?",
+      "correctAnswer": "Não fumes!",
+      "distractors": ["Não fuma!", "Não fumar!", "Não fumas!"],
+      "explanation": "L'impératif négatif de 'tu' utilise le subjonctif présent : 'Não fumes!' (Ne fume pas !)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ exercício três vezes por semana!",
+      "correctAnswer": "Faz",
+      "explanation": "L'impératif de 'tu' de FAZER est 'Faz!' (fais !). Verbe irrégulier à mémoriser."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "o imperativo", "phonetic": "/ĩpɨɾɐˈtivu/", "french": "l'impératif"},
+    {"portuguese": "deves", "phonetic": "/ˈdɛvɨʃ/", "french": "tu dois"},
+    {"portuguese": "devias", "phonetic": "/dɨˈviɐʃ/", "french": "tu devrais"},
+    {"portuguese": "descansar", "phonetic": "/dɨʃkɐ̃ˈsaɾ/", "french": "se reposer"},
+    {"portuguese": "fazer exercício", "phonetic": "/fɐˈzeɾ izɨɾˈsisju/", "french": "faire de l'exercice"},
+    {"portuguese": "fumar", "phonetic": "/fuˈmaɾ/", "french": "fumer"},
+    {"portuguese": "a saúde", "phonetic": "/sɐˈudɨ/", "french": "la santé"},
+    {"portuguese": "é melhor", "phonetic": "/ɛ mɨˈʎɔɾ/", "french": "c'est mieux"},
+    {"portuguese": "caminhar", "phonetic": "/kɐmiˈɲaɾ/", "french": "marcher"}
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "themes": [
+    {
+      "id": "theme-001",
+      "name_fr": "Alimentation et cuisine",
+      "name_pt": "Alimentacao e cozinha",
+      "icon": "\ud83c\udf7d\ufe0f",
+      "levels": {
+        "A1": [
+          { "pt": "a agua", "fr": "l'eau", "example": "Quero um copo de agua, por favor.", "audio_hint": "Le 'a' nasalise legerement devant 'g'" },
+          { "pt": "o pao", "fr": "le pain", "example": "O pao portugues e muito bom.", "audio_hint": "Le 'ao' se prononce comme une diphtongue nasale [aw~]" },
+          { "pt": "o cafe", "fr": "le cafe", "example": "Um cafe, se faz favor.", "audio_hint": "Accent sur le 'e' final, son ferme" },
+          { "pt": "o leite", "fr": "le lait", "example": "Quero cafe com leite.", "audio_hint": "Le 'ei' se prononce [aj] en PT-PT" },
+          { "pt": "a carne", "fr": "la viande", "example": "Gosto de carne de porco.", "audio_hint": "Le 'r' est roule legerement" },
+          { "pt": "o peixe", "fr": "le poisson", "example": "Em Portugal, comemos muito peixe.", "audio_hint": "Le 'ei' se prononce [aj], le 'x' se prononce [sh]" },
+          { "pt": "o arroz", "fr": "le riz", "example": "Arroz com frango e muito popular.", "audio_hint": "Double 'r' initial = son guttural [R]" },
+          { "pt": "a sopa", "fr": "la soupe", "example": "A sopa esta quente.", "audio_hint": "Prononciation standard, 'o' ferme" },
+          { "pt": "a fruta", "fr": "le fruit", "example": "Quero fruta fresca.", "audio_hint": "Le 'u' se prononce [u]" },
+          { "pt": "o pequeno-almoco", "fr": "le petit-dejeuner", "example": "O pequeno-almoco e as oito horas.", "audio_hint": "Terme typiquement PT-PT, jamais 'cafe da manha'" },
+          { "pt": "o almoco", "fr": "le dejeuner", "example": "Vamos almocar ao meio-dia.", "audio_hint": "'al' initial, accent sur le 'o'" },
+          { "pt": "o jantar", "fr": "le diner", "example": "O jantar e as oito.", "audio_hint": "Le 'j' se prononce [zh]" }
+        ],
+        "A2": [
+          { "pt": "o bacalhau", "fr": "la morue", "example": "Ha mais de mil receitas de bacalhau em Portugal.", "audio_hint": "Le 'lh' se prononce comme le 'll' espagnol [L]" },
+          { "pt": "o azeite", "fr": "l'huile d'olive", "example": "O azeite portugues e excelente.", "audio_hint": "'az' se prononce [az], 'ei' = [aj]" },
+          { "pt": "o pastel de nata", "fr": "le pasteis de nata (flan patissier)", "example": "Os pasteis de nata de Belem sao famosos.", "audio_hint": "Pluriel irregulier : pastel -> pasteis" },
+          { "pt": "o cozido a portuguesa", "fr": "le pot-au-feu portugais", "example": "O cozido e um prato tradicional.", "audio_hint": "Le 'z' intervocalique se prononce [z]" },
+          { "pt": "a sobremesa", "fr": "le dessert", "example": "Quer sobremesa? Temos arroz doce.", "audio_hint": "'sobre' + 'mesa', accent sur le 'e'" },
+          { "pt": "grelhado/a", "fr": "grille(e)", "example": "Quero peixe grelhado, por favor.", "audio_hint": "Le 'lh' se prononce [L]" },
+          { "pt": "cozido/a", "fr": "cuit(e)/bouilli(e)", "example": "Prefiro legumes cozidos.", "audio_hint": "Le 'z' se prononce [z]" },
+          { "pt": "a ementa", "fr": "le menu/la carte", "example": "Posso ver a ementa, por favor?", "audio_hint": "Terme PT-PT, au Bresil on dit 'cardapio'" },
+          { "pt": "a conta", "fr": "l'addition", "example": "A conta, se faz favor.", "audio_hint": "Prononciation standard" },
+          { "pt": "a cerveja", "fr": "la biere", "example": "Uma cerveja fresca, por favor.", "audio_hint": "Le 'j' se prononce [zh]" },
+          { "pt": "o vinho", "fr": "le vin", "example": "Portugal tem vinhos excelentes.", "audio_hint": "Le 'nh' se prononce comme le 'gn' francais" },
+          { "pt": "o marisco", "fr": "les fruits de mer", "example": "Lisboa e famosa pelo marisco.", "audio_hint": "'s' entre voyelles = [z] en PT-PT" }
+        ],
+        "B1": [
+          { "pt": "a receita", "fr": "la recette", "example": "Vou seguir a receita da minha avo.", "audio_hint": "Le 'c' devant 'e' se prononce [s]" },
+          { "pt": "temperar", "fr": "assaisonner", "example": "Preciso de temperar a salada.", "audio_hint": "Verbe regulier en -ar" },
+          { "pt": "o ingrediente", "fr": "l'ingredient", "example": "Faltam alguns ingredientes.", "audio_hint": "Accent sur le 'en'" },
+          { "pt": "a travessa", "fr": "le plat de service", "example": "Poe o bacalhau na travessa.", "audio_hint": "Double 's' = [s] sourd" },
+          { "pt": "o petisco", "fr": "l'amuse-bouche/le tapas", "example": "Vamos comer uns petiscos?", "audio_hint": "Specifique au Portugal, equivalent des tapas" },
+          { "pt": "a francesinha", "fr": "la francesinha (plat de Porto)", "example": "A francesinha e tipica do Porto.", "audio_hint": "Diminutif de 'francesa'" },
+          { "pt": "o leitao", "fr": "le cochon de lait", "example": "O leitao da Bairrada e delicioso.", "audio_hint": "'ao' nasalise [aw~]" },
+          { "pt": "a cataplana", "fr": "la cataplana (plat de l'Algarve)", "example": "A cataplana de marisco e tipica do Algarve.", "audio_hint": "Ustensile et plat typique" },
+          { "pt": "o caldo verde", "fr": "la soupe au chou vert", "example": "O caldo verde leva couve e chourico.", "audio_hint": "Plat emblematique du Nord" },
+          { "pt": "a sardinha", "fr": "la sardine", "example": "Sardinha assada e tipica de junho.", "audio_hint": "Le 'nh' se prononce [n mouille]" },
+          { "pt": "confecionar", "fr": "preparer/cuisiner", "example": "Ela sabe confecionar pratos tradicionais.", "audio_hint": "Plus soutenu que 'cozinhar'" }
+        ],
+        "B2": [
+          { "pt": "a gastronomia", "fr": "la gastronomie", "example": "A gastronomia portuguesa e muito variada.", "audio_hint": "Mot savant, prononciation reguliere" },
+          { "pt": "a degustacao", "fr": "la degustation", "example": "Fizemos uma degustacao de vinhos no Douro.", "audio_hint": "'ao' final nasalise" },
+          { "pt": "o paladar", "fr": "le palais (gustatif)", "example": "Este vinho tem um paladar complexo.", "audio_hint": "Accent sur la derniere syllabe" },
+          { "pt": "a iguaria", "fr": "le mets delicat", "example": "Os percebes sao uma iguaria cara.", "audio_hint": "'gu' devant 'a' = [gw]" },
+          { "pt": "o percebe", "fr": "le pouce-pied (crustace)", "example": "Os percebes sao apanhados nas rochas.", "audio_hint": "Specialite cotiere portugaise" },
+          { "pt": "a vindima", "fr": "les vendanges", "example": "A vindima no Douro e em setembro.", "audio_hint": "Le 'i' se prononce [i]" },
+          { "pt": "o enchido", "fr": "la charcuterie", "example": "Os enchidos do Alentejo sao famosos.", "audio_hint": "Generique pour saucissons, chouricos, etc." },
+          { "pt": "a confeicao", "fr": "la confection/preparation", "example": "A confeicao deste prato demora duas horas.", "audio_hint": "'ao' nasalise, 'c' cedille" },
+          { "pt": "apurar", "fr": "affiner/reduire (sauce)", "example": "Deixe apurar o molho em lume brando.", "audio_hint": "Terme culinaire typique" },
+          { "pt": "o lume brando", "fr": "le feu doux", "example": "Cozinhe em lume brando durante uma hora.", "audio_hint": "'Lume' est typiquement PT-PT pour 'feu de cuisson'" }
+        ]
+      }
+    },
+    {
+      "id": "theme-002",
+      "name_fr": "Sante et corps humain",
+      "name_pt": "Saude e corpo humano",
+      "icon": "\ud83c\udfe5",
+      "levels": {
+        "A1": [
+          { "pt": "a cabeca", "fr": "la tete", "example": "Doi-me a cabeca.", "audio_hint": "Le 'c' cedille se prononce [s]" },
+          { "pt": "o braco", "fr": "le bras", "example": "Parti o braco.", "audio_hint": "'c' cedille = [s]" },
+          { "pt": "a perna", "fr": "la jambe", "example": "Doi-me a perna.", "audio_hint": "Le 'e' se prononce [e] ouvert" },
+          { "pt": "a mao", "fr": "la main", "example": "A minha mao direita.", "audio_hint": "'ao' nasalise, pluriel irregulier: maos" },
+          { "pt": "o pe", "fr": "le pied", "example": "O pe esquerdo.", "audio_hint": "Accent aigu, son [e] ouvert" },
+          { "pt": "os olhos", "fr": "les yeux", "example": "Tenho olhos castanhos.", "audio_hint": "Le 'lh' se prononce [L]" },
+          { "pt": "a boca", "fr": "la bouche", "example": "Abre a boca.", "audio_hint": "'o' ouvert" },
+          { "pt": "o nariz", "fr": "le nez", "example": "O nariz esta entupido.", "audio_hint": "Accent sur la derniere syllabe" },
+          { "pt": "doente", "fr": "malade", "example": "Estou doente.", "audio_hint": "Le 'oe' se prononce [u-e~]" },
+          { "pt": "o medico", "fr": "le medecin", "example": "Preciso de ir ao medico.", "audio_hint": "Accent esdruxulo (proparoxytone)" },
+          { "pt": "a farmacia", "fr": "la pharmacie", "example": "Onde e a farmacia mais proxima?", "audio_hint": "Accent sur le 'a' penultieme" },
+          { "pt": "o hospital", "fr": "l'hopital", "example": "O hospital e perto daqui.", "audio_hint": "Accent sur la derniere syllabe" }
+        ],
+        "A2": [
+          { "pt": "a febre", "fr": "la fievre", "example": "Tenho febre alta.", "audio_hint": "Le 'e' se prononce [e] ferme" },
+          { "pt": "a tosse", "fr": "la toux", "example": "Tenho muita tosse.", "audio_hint": "Double 's' = [s] sourd" },
+          { "pt": "a constipacao", "fr": "le rhume", "example": "Estou constipado, nao e nada grave.", "audio_hint": "ATTENTION: signifie 'rhume' en PT-PT, pas 'constipation'!" },
+          { "pt": "a dor de garganta", "fr": "le mal de gorge", "example": "Tenho uma dor de garganta terrivel.", "audio_hint": "'g' devant 'a' = [g] dur" },
+          { "pt": "a dor de barriga", "fr": "le mal de ventre", "example": "O menino tem dores de barriga.", "audio_hint": "'rr' = [R] guttural" },
+          { "pt": "o comprimido", "fr": "le comprime", "example": "Tome dois comprimidos por dia.", "audio_hint": "Accent sur le 'i'" },
+          { "pt": "a receita medica", "fr": "l'ordonnance", "example": "Preciso de uma receita medica.", "audio_hint": "Meme mot que 'recette' (cuisine)" },
+          { "pt": "as urgencias", "fr": "les urgences", "example": "Fui as urgencias do hospital.", "audio_hint": "Toujours au pluriel" },
+          { "pt": "o centro de saude", "fr": "le centre de sante", "example": "O centro de saude abre as oito.", "audio_hint": "Equivalent du cabinet medical generaliste" },
+          { "pt": "o peito", "fr": "la poitrine", "example": "Tenho dores no peito.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "as costas", "fr": "le dos", "example": "Doi-me as costas.", "audio_hint": "Toujours au pluriel en portugais" },
+          { "pt": "o joelho", "fr": "le genou", "example": "Doi-me o joelho direito.", "audio_hint": "'lh' = [L] mouille" }
+        ],
+        "B1": [
+          { "pt": "a tensao arterial", "fr": "la tension arterielle", "example": "A minha tensao arterial esta alta.", "audio_hint": "'ao' nasalise" },
+          { "pt": "a analise de sangue", "fr": "l'analyse de sang", "example": "Fiz analises de sangue ontem.", "audio_hint": "'a' initial accentue" },
+          { "pt": "a ecografia", "fr": "l'echographie", "example": "A ecografia mostrou que esta tudo bem.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "o tratamento", "fr": "le traitement", "example": "O tratamento dura tres meses.", "audio_hint": "Accent sur le 'a' de 'men'" },
+          { "pt": "a alergia", "fr": "l'allergie", "example": "Tenho alergia ao polen.", "audio_hint": "Accent sur le 'i'" },
+          { "pt": "o sintoma", "fr": "le symptome", "example": "Quais sao os sintomas?", "audio_hint": "Masculin en portugais" },
+          { "pt": "a vacina", "fr": "le vaccin", "example": "Tomei a vacina contra a gripe.", "audio_hint": "'c' devant 'i' = [s]" },
+          { "pt": "o consultorio", "fr": "le cabinet medical", "example": "O consultorio do dentista e no segundo andar.", "audio_hint": "Accent sur le 'o'" },
+          { "pt": "a infecao", "fr": "l'infection", "example": "Tem uma infecao urinaria.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o diagnostico", "fr": "le diagnostic", "example": "O diagnostico foi rapido.", "audio_hint": "Proparoxytone, accent sur 'nos'" },
+          { "pt": "receitar", "fr": "prescrire", "example": "O medico receitou-me antibioticos.", "audio_hint": "'ei' = [aj]" }
+        ],
+        "B2": [
+          { "pt": "a patologia", "fr": "la pathologie", "example": "E uma patologia cronica.", "audio_hint": "Registre medical formel" },
+          { "pt": "o prognostico", "fr": "le pronostic", "example": "O prognostico e favoravel.", "audio_hint": "Proparoxytone" },
+          { "pt": "a reabilitacao", "fr": "la reeducation/rehabilitation", "example": "Precisa de reabilitacao apos a cirurgia.", "audio_hint": "'ao' nasalise final" },
+          { "pt": "a cirurgia", "fr": "la chirurgie/operation", "example": "A cirurgia correu bem.", "audio_hint": "'gi' se prononce [zhi]" },
+          { "pt": "o internamento", "fr": "l'hospitalisation", "example": "O internamento durou uma semana.", "audio_hint": "De 'internar' = hospitaliser" },
+          { "pt": "o efeito secundario", "fr": "l'effet secondaire", "example": "Este medicamento tem efeitos secundarios.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "a doenca cronica", "fr": "la maladie chronique", "example": "Vive com uma doenca cronica.", "audio_hint": "'oe' nasalise en PT-PT" },
+          { "pt": "o especialista", "fr": "le specialiste", "example": "Fui encaminhado para um especialista.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "a prevencao", "fr": "la prevention", "example": "A prevencao e a melhor medicina.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o seguro de saude", "fr": "l'assurance maladie", "example": "Tenho seguro de saude privado.", "audio_hint": "Terme administratif courant" }
+        ]
+      }
+    },
+    {
+      "id": "theme-003",
+      "name_fr": "Travail et professions",
+      "name_pt": "Trabalho e profissoes",
+      "icon": "\ud83d\udcbc",
+      "levels": {
+        "A2": [
+          { "pt": "o trabalho", "fr": "le travail", "example": "Vou para o trabalho de metro.", "audio_hint": "Le 'lh' se prononce [L]" },
+          { "pt": "o escritorio", "fr": "le bureau (lieu)", "example": "O meu escritorio e no centro.", "audio_hint": "Accent sur le 'o' final" },
+          { "pt": "o/a colega", "fr": "le/la collegue", "example": "A minha colega e muito simpatica.", "audio_hint": "Epicene, meme forme masculin/feminin" },
+          { "pt": "o/a chefe", "fr": "le/la chef/patron(ne)", "example": "O chefe esta numa reuniao.", "audio_hint": "Le 'ch' se prononce [sh]" },
+          { "pt": "o/a professor/a", "fr": "le/la professeur(e)", "example": "Sou professora de portugues.", "audio_hint": "'ss' = [s] sourd" },
+          { "pt": "o/a medico/a", "fr": "le/la medecin", "example": "O meu medico e muito bom.", "audio_hint": "Proparoxytone" },
+          { "pt": "o/a engenheiro/a", "fr": "l'ingenieur(e)", "example": "Ele e engenheiro informatico.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "o/a advogado/a", "fr": "l'avocat(e)", "example": "Preciso de falar com o advogado.", "audio_hint": "Le 'd' devant voyelle se prononce [d] dur en PT-PT (pas [dj])" },
+          { "pt": "o/a enfermeiro/a", "fr": "l'infirmier(e)", "example": "A enfermeira tirou-me sangue.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "o horario", "fr": "l'horaire", "example": "O meu horario e das nove as seis.", "audio_hint": "Accent sur le 'a'" },
+          { "pt": "o ordenado", "fr": "le salaire", "example": "O ordenado minimo subiu este ano.", "audio_hint": "PT-PT prefere 'ordenado' a 'salario'" },
+          { "pt": "a empresa", "fr": "l'entreprise", "example": "Trabalho numa empresa portuguesa.", "audio_hint": "Le 'em' nasalise [e~]" }
+        ],
+        "B1": [
+          { "pt": "o contrato de trabalho", "fr": "le contrat de travail", "example": "Assinei o contrato de trabalho.", "audio_hint": "Expression composee" },
+          { "pt": "a reuniao", "fr": "la reunion", "example": "Temos uma reuniao as tres.", "audio_hint": "'ao' nasalise, accent sur le 'i'" },
+          { "pt": "o curriculo", "fr": "le CV", "example": "Enviei o meu curriculo por email.", "audio_hint": "Proparoxytone, accent sur le 'i'" },
+          { "pt": "a entrevista de emprego", "fr": "l'entretien d'embauche", "example": "Tenho uma entrevista de emprego amanha.", "audio_hint": "'em' nasalise" },
+          { "pt": "o estagio", "fr": "le stage", "example": "Fiz um estagio de tres meses.", "audio_hint": "Accent sur le 'a'" },
+          { "pt": "despedir", "fr": "licencier", "example": "A empresa despediu dez funcionarios.", "audio_hint": "Reflexif 'despedir-se' = demissionner" },
+          { "pt": "o desemprego", "fr": "le chomage", "example": "A taxa de desemprego desceu.", "audio_hint": "'des' prefixe negatif" },
+          { "pt": "a candidatura", "fr": "la candidature", "example": "Enviei a minha candidatura ontem.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "o prazo", "fr": "le delai/echeance", "example": "O prazo e ate sexta-feira.", "audio_hint": "'z' se prononce [z]" },
+          { "pt": "o relatorio", "fr": "le rapport", "example": "Preciso de entregar o relatorio.", "audio_hint": "Accent sur le 'o' final" },
+          { "pt": "a formacao", "fr": "la formation", "example": "Fiz uma formacao em gestao.", "audio_hint": "'ao' nasalise" }
+        ],
+        "B2": [
+          { "pt": "o teletrabalho", "fr": "le teletravail", "example": "Trabalho em teletrabalho tres dias por semana.", "audio_hint": "Compose : tele + trabalho" },
+          { "pt": "a progressao na carreira", "fr": "l'evolution de carriere", "example": "A progressao na carreira e lenta.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o vencimento", "fr": "le salaire (formel)", "example": "O vencimento bruto inclui subsidios.", "audio_hint": "Terme plus formel que 'ordenado'" },
+          { "pt": "o subsidio de ferias", "fr": "la prime de vacances", "example": "Em Portugal ha subsidio de ferias e de Natal.", "audio_hint": "Droit du travail PT specifique" },
+          { "pt": "a negociacao", "fr": "la negociation", "example": "A negociacao salarial correu bem.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o/a empreendedor/a", "fr": "l'entrepreneur(e)", "example": "Lisboa e uma cidade de empreendedores.", "audio_hint": "'em' nasalise, 'edor' = suffixe d'agent" },
+          { "pt": "a gestao", "fr": "la gestion", "example": "Formou-se em gestao de empresas.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o recibo de vencimento", "fr": "le bulletin de salaire", "example": "Preciso do recibo de vencimento para o banco.", "audio_hint": "Expression administrative" },
+          { "pt": "a rescisao", "fr": "la resiliation/rupture", "example": "A rescisao do contrato foi amigavel.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o regime de contribuicoes", "fr": "le regime de cotisations", "example": "O regime de contribuicoes da Seguranca Social.", "audio_hint": "Vocabulaire administratif avance" }
+        ],
+        "C1": [
+          { "pt": "a reestruturacao", "fr": "la restructuration", "example": "A empresa esta em fase de reestruturacao.", "audio_hint": "'ao' nasalise" },
+          { "pt": "a externalizar", "fr": "externaliser", "example": "A empresa decidiu externalizar o servico de TI.", "audio_hint": "Verbe en -ar" },
+          { "pt": "o enquadramento legal", "fr": "le cadre juridique", "example": "O enquadramento legal do trabalho temporario.", "audio_hint": "'en' nasalise" },
+          { "pt": "a indemnizacao", "fr": "l'indemnite", "example": "Recebeu uma indemnizacao por despedimento.", "audio_hint": "'ao' nasalise" },
+          { "pt": "a auditoria", "fr": "l'audit", "example": "A auditoria revelou irregularidades.", "audio_hint": "'au' diphtongue [aw]" },
+          { "pt": "a sustentabilidade", "fr": "la durabilite/soutenabilite", "example": "A sustentabilidade e uma prioridade empresarial.", "audio_hint": "Mot long, accent sur 'da'" },
+          { "pt": "o compliance", "fr": "la conformite reglementaire", "example": "O departamento de compliance verifica os processos.", "audio_hint": "Anglicisme courant en portugais" },
+          { "pt": "a lideranca", "fr": "le leadership", "example": "Precisa de melhorar as suas competencias de lideranca.", "audio_hint": "'c' cedille, accent sur 'an'" },
+          { "pt": "o stakeholder", "fr": "la partie prenante", "example": "Devemos consultar todos os stakeholders.", "audio_hint": "Anglicisme utilise tel quel" },
+          { "pt": "a governanca corporativa", "fr": "la gouvernance d'entreprise", "example": "A governanca corporativa define as regras.", "audio_hint": "'c' cedille" }
+        ]
+      }
+    },
+    {
+      "id": "theme-004",
+      "name_fr": "Logement et maison",
+      "name_pt": "Alojamento e casa",
+      "icon": "\ud83c\udfe0",
+      "levels": {
+        "A1": [
+          { "pt": "a casa", "fr": "la maison", "example": "A minha casa e grande.", "audio_hint": "Le 's' intervocalique se prononce [z] en PT-PT" },
+          { "pt": "o quarto", "fr": "la chambre", "example": "O quarto tem uma cama grande.", "audio_hint": "'qu' = [kw]" },
+          { "pt": "a cozinha", "fr": "la cuisine", "example": "A cozinha e pequena.", "audio_hint": "'z' = [z], 'nh' = [n mouille]" },
+          { "pt": "a casa de banho", "fr": "la salle de bains", "example": "A casa de banho e ao fundo do corredor.", "audio_hint": "PT-PT: 'casa de banho', jamais 'banheiro'" },
+          { "pt": "a sala", "fr": "le salon", "example": "A sala tem um sofa grande.", "audio_hint": "Prononciation simple" },
+          { "pt": "a cama", "fr": "le lit", "example": "A cama e confortavel.", "audio_hint": "Prononciation standard" },
+          { "pt": "a mesa", "fr": "la table", "example": "A mesa da cozinha e redonda.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "a cadeira", "fr": "la chaise", "example": "Ha quatro cadeiras.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "a janela", "fr": "la fenetre", "example": "Abre a janela, por favor.", "audio_hint": "'j' = [zh]" },
+          { "pt": "a porta", "fr": "la porte", "example": "Fecha a porta.", "audio_hint": "'o' ferme" },
+          { "pt": "o andar", "fr": "l'etage", "example": "Moro no terceiro andar.", "audio_hint": "Signifie aussi 'marcher' (verbe)" }
+        ],
+        "A2": [
+          { "pt": "o apartamento", "fr": "l'appartement", "example": "Aluguei um apartamento T2.", "audio_hint": "T2 = 2 chambres (typologie PT)" },
+          { "pt": "a renda", "fr": "le loyer", "example": "A renda e seiscentos euros por mes.", "audio_hint": "PT-PT: 'renda', pas 'aluguel'" },
+          { "pt": "o senhorio", "fr": "le proprietaire (bailleur)", "example": "O senhorio e simpatico.", "audio_hint": "Feminin: 'senhoria'" },
+          { "pt": "o inquilino", "fr": "le locataire", "example": "Sou inquilino ha dois anos.", "audio_hint": "'in' nasalise" },
+          { "pt": "o frigorifico", "fr": "le refrigerateur", "example": "O frigorifico esta vazio.", "audio_hint": "Proparoxytone, PT-PT (pas 'geladeira')" },
+          { "pt": "o fogao", "fr": "la cuisiniere", "example": "O fogao e a gas.", "audio_hint": "'ao' nasalise" },
+          { "pt": "a maquina de lavar", "fr": "la machine a laver", "example": "A maquina de lavar esta avariada.", "audio_hint": "Accent sur le 'a' de 'maquina'" },
+          { "pt": "o armario", "fr": "l'armoire/le placard", "example": "O armario do quarto e grande.", "audio_hint": "Accent sur le 'a'" },
+          { "pt": "a varanda", "fr": "le balcon", "example": "A varanda tem vista para o rio.", "audio_hint": "Prononciation standard" },
+          { "pt": "a garagem", "fr": "le garage", "example": "O apartamento tem garagem.", "audio_hint": "Le 'g' final se prononce [zh]" },
+          { "pt": "a despensa", "fr": "le cellier/garde-manger", "example": "Guardo as conservas na despensa.", "audio_hint": "'s' devant consonne = [sh] en PT-PT" },
+          { "pt": "o elevador", "fr": "l'ascenseur", "example": "O predio tem elevador.", "audio_hint": "Prononciation reguliere" }
+        ],
+        "B1": [
+          { "pt": "a hipoteca", "fr": "l'hypotheque", "example": "Estou a pagar a hipoteca ao banco.", "audio_hint": "Accent sur le 'e'" },
+          { "pt": "o condominio", "fr": "les charges de copropriete", "example": "O condominio inclui agua e lixo.", "audio_hint": "Accent sur le 'i'" },
+          { "pt": "a obra", "fr": "les travaux", "example": "Vamos fazer obras na cozinha.", "audio_hint": "Souvent au pluriel" },
+          { "pt": "o canalizador", "fr": "le plombier", "example": "Chamei o canalizador para arranjar o cano.", "audio_hint": "PT-PT: pas 'encanador'" },
+          { "pt": "o eletricista", "fr": "l'electricien", "example": "O eletricista vem amanha.", "audio_hint": "Epicene" },
+          { "pt": "a mudanca", "fr": "le demenagement", "example": "A mudanca e no sabado.", "audio_hint": "'c' cedille, 'an' nasalise" },
+          { "pt": "o contrato de arrendamento", "fr": "le contrat de location", "example": "O contrato de arrendamento e de um ano.", "audio_hint": "Terme juridique PT" },
+          { "pt": "o predio", "fr": "l'immeuble", "example": "O predio tem seis andares.", "audio_hint": "Accent sur le 'e'" },
+          { "pt": "a moradia", "fr": "la maison individuelle", "example": "Sonho com uma moradia com jardim.", "audio_hint": "Plus specifique que 'casa'" },
+          { "pt": "o aquecimento central", "fr": "le chauffage central", "example": "O apartamento tem aquecimento central.", "audio_hint": "'qu' = [k] devant 'e'" },
+          { "pt": "a fianca", "fr": "la caution", "example": "Paguei dois meses de fianca.", "audio_hint": "'c' cedille" }
+        ]
+      }
+    },
+    {
+      "id": "theme-005",
+      "name_fr": "Transports",
+      "name_pt": "Transportes",
+      "icon": "\ud83d\ude89",
+      "levels": {
+        "A1": [
+          { "pt": "o comboio", "fr": "le train", "example": "Vou de comboio para o Porto.", "audio_hint": "PT-PT exclusivement, jamais 'trem'" },
+          { "pt": "o autocarro", "fr": "le bus", "example": "O autocarro para Sintra sai as dez.", "audio_hint": "PT-PT exclusivement, jamais 'onibus'" },
+          { "pt": "o metro", "fr": "le metro", "example": "Vou de metro para o trabalho.", "audio_hint": "Accent sur le 'e'" },
+          { "pt": "o carro", "fr": "la voiture", "example": "Tenho um carro pequeno.", "audio_hint": "Double 'r' = [R] guttural" },
+          { "pt": "o aviao", "fr": "l'avion", "example": "O aviao parte as sete.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o bilhete", "fr": "le billet/ticket", "example": "Um bilhete de ida e volta, por favor.", "audio_hint": "'lh' = [L]" },
+          { "pt": "a paragem", "fr": "l'arret (de bus)", "example": "A paragem de autocarro e ali.", "audio_hint": "PT-PT: 'paragem', pas 'parada'" },
+          { "pt": "a estacao", "fr": "la gare", "example": "A estacao de comboios e perto.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a direita", "fr": "a droite", "example": "Vire a direita.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "a esquerda", "fr": "a gauche", "example": "Vire a esquerda no semaforo.", "audio_hint": "'qu' = [k]" },
+          { "pt": "em frente", "fr": "tout droit", "example": "Siga em frente.", "audio_hint": "'em' nasalise" },
+          { "pt": "perto", "fr": "pres", "example": "A estacao e perto daqui.", "audio_hint": "'e' ferme" }
+        ],
+        "A2": [
+          { "pt": "o eletrico", "fr": "le tramway", "example": "O eletrico 28 e muito turistico.", "audio_hint": "PT-PT specifique, iconique a Lisbonne" },
+          { "pt": "o barco", "fr": "le bateau", "example": "Vou de barco para Cacilhas.", "audio_hint": "Prononciation standard" },
+          { "pt": "o taxi", "fr": "le taxi", "example": "Chamei um taxi.", "audio_hint": "Accent sur le 'a'" },
+          { "pt": "a carta de conducao", "fr": "le permis de conduire", "example": "Tirei a carta de conducao aos dezoito.", "audio_hint": "PT-PT: 'conducao', pas 'habilitacao'" },
+          { "pt": "a rotunda", "fr": "le rond-point", "example": "Na rotunda, saia na segunda saida.", "audio_hint": "Prononciation standard" },
+          { "pt": "o peao", "fr": "le pieton", "example": "Respeite a passadeira de peoes.", "audio_hint": "'ao' nasalise, pluriel 'peoes'" },
+          { "pt": "a passadeira", "fr": "le passage pieton", "example": "Atravesse na passadeira.", "audio_hint": "PT-PT specifique" },
+          { "pt": "a portagem", "fr": "le peage", "example": "A portagem e automatica.", "audio_hint": "Le 'g' final se prononce [zh]" },
+          { "pt": "o transito", "fr": "la circulation/le trafic", "example": "Ha muito transito a esta hora.", "audio_hint": "Proparoxytone" },
+          { "pt": "a via verde", "fr": "le telepeage (PT)", "example": "Tenho Via Verde no carro.", "audio_hint": "Systeme de telepeage typiquement portugais" },
+          { "pt": "o passe", "fr": "l'abonnement transport", "example": "Tenho passe mensal para o metro.", "audio_hint": "Equivalent de la carte Navigo" }
+        ],
+        "B1": [
+          { "pt": "o transbordo", "fr": "la correspondance", "example": "Tenho de fazer transbordo na estacao de Entrecampos.", "audio_hint": "'an' nasalise" },
+          { "pt": "a revisao do carro", "fr": "la revision de la voiture", "example": "O carro precisa de uma revisao.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o seguro automovel", "fr": "l'assurance auto", "example": "O seguro automovel e obrigatorio.", "audio_hint": "Accent sur le 'o' de 'automovel'" },
+          { "pt": "a multa", "fr": "l'amende", "example": "Levei uma multa por excesso de velocidade.", "audio_hint": "Prononciation standard" },
+          { "pt": "o reboque", "fr": "la fourriere/le remorquage", "example": "O carro foi para o reboque.", "audio_hint": "'qu' = [k]" },
+          { "pt": "o estacionamento", "fr": "le stationnement/parking", "example": "E dificil encontrar estacionamento em Lisboa.", "audio_hint": "Mot long, accent sur 'men'" },
+          { "pt": "a avaria", "fr": "la panne", "example": "O carro teve uma avaria.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "abastecer", "fr": "faire le plein (essence)", "example": "Preciso de abastecer o carro.", "audio_hint": "'s' devant 'c' = [sh] en PT-PT" },
+          { "pt": "a oficina", "fr": "le garage (mecanique)", "example": "Levei o carro a oficina.", "audio_hint": "'c' devant 'i' = [s]" },
+          { "pt": "o pneu", "fr": "le pneu", "example": "Tenho um pneu furado.", "audio_hint": "Prononciation identique au francais" }
+        ]
+      }
+    },
+    {
+      "id": "theme-006",
+      "name_fr": "Nature et environnement",
+      "name_pt": "Natureza e ambiente",
+      "icon": "\ud83c\udf3f",
+      "levels": {
+        "A2": [
+          { "pt": "o mar", "fr": "la mer", "example": "O mar em Portugal e muito bonito.", "audio_hint": "Prononciation standard" },
+          { "pt": "a praia", "fr": "la plage", "example": "Vamos a praia no verao.", "audio_hint": "'ai' = diphtongue [aj]" },
+          { "pt": "o rio", "fr": "le fleuve/la riviere", "example": "O rio Tejo passa por Lisboa.", "audio_hint": "'r' initial = [R] guttural" },
+          { "pt": "a montanha", "fr": "la montagne", "example": "A Serra da Estrela e a montanha mais alta.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "a arvore", "fr": "l'arbre", "example": "Ha muitas arvores no parque.", "audio_hint": "Accent sur le 'a' initial" },
+          { "pt": "a flor", "fr": "la fleur", "example": "As flores sao bonitas.", "audio_hint": "Prononciation standard" },
+          { "pt": "o cao", "fr": "le chien", "example": "O meu cao chama-se Rex.", "audio_hint": "'ao' nasalise, pluriel 'caes'" },
+          { "pt": "o gato", "fr": "le chat", "example": "A vizinha tem tres gatos.", "audio_hint": "Prononciation standard" },
+          { "pt": "o sol", "fr": "le soleil", "example": "Hoje esta muito sol.", "audio_hint": "'o' ferme" },
+          { "pt": "a chuva", "fr": "la pluie", "example": "Esta a chover muito.", "audio_hint": "'ch' = [sh]" },
+          { "pt": "o vento", "fr": "le vent", "example": "Ha muito vento na costa.", "audio_hint": "'en' nasalise" },
+          { "pt": "o campo", "fr": "la campagne", "example": "O campo alentejano e lindo.", "audio_hint": "'am' nasalise" }
+        ],
+        "B1": [
+          { "pt": "o ambiente", "fr": "l'environnement", "example": "Temos de proteger o ambiente.", "audio_hint": "'am' nasalise, 'en' nasalise" },
+          { "pt": "a reciclagem", "fr": "le recyclage", "example": "A reciclagem e importante.", "audio_hint": "Le 'g' final = [zh]" },
+          { "pt": "a poluicao", "fr": "la pollution", "example": "A poluicao do ar e um problema.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o incendio florestal", "fr": "l'incendie de foret", "example": "Os incendios florestais sao frequentes no verao.", "audio_hint": "'en' nasalise, accent sur le 'e'" },
+          { "pt": "a seca", "fr": "la secheresse", "example": "O Alentejo sofre com a seca.", "audio_hint": "'s' initial = [s]" },
+          { "pt": "o sobreiro", "fr": "le chene-liege", "example": "Portugal e o maior produtor de cortica.", "audio_hint": "Arbre emblematique du Portugal" },
+          { "pt": "a cortica", "fr": "le liege", "example": "A cortica e um produto tipico portugues.", "audio_hint": "'c' cedille" },
+          { "pt": "a serra", "fr": "la montagne/chaine", "example": "A Serra da Arrabida e muito bonita.", "audio_hint": "Double 'r' = [R] guttural" },
+          { "pt": "a fauna", "fr": "la faune", "example": "A fauna marinha e diversa.", "audio_hint": "'au' = diphtongue [aw]" },
+          { "pt": "a flora", "fr": "la flore", "example": "A flora do Algarve e variada.", "audio_hint": "Prononciation standard" },
+          { "pt": "as alteracoes climaticas", "fr": "le changement climatique", "example": "As alteracoes climaticas afetam Portugal.", "audio_hint": "Toujours au pluriel en PT" }
+        ],
+        "B2": [
+          { "pt": "a biodiversidade", "fr": "la biodiversite", "example": "A biodiversidade marinha esta ameacada.", "audio_hint": "Mot compose savant" },
+          { "pt": "a pegada ecologica", "fr": "l'empreinte ecologique", "example": "Devemos reduzir a nossa pegada ecologica.", "audio_hint": "'g' devant 'a' = [g] dur" },
+          { "pt": "a sustentabilidade", "fr": "la durabilite", "example": "A sustentabilidade e um desafio global.", "audio_hint": "Accent sur 'da'" },
+          { "pt": "o desenvolvimento sustentavel", "fr": "le developpement durable", "example": "Os objetivos de desenvolvimento sustentavel.", "audio_hint": "'en' nasalise" },
+          { "pt": "a energia renovavel", "fr": "l'energie renouvelable", "example": "Portugal investe em energias renovaveis.", "audio_hint": "Accent sur le 'a' de 'renovavel'" },
+          { "pt": "a especie ameacada", "fr": "l'espece menacee", "example": "O lince-iberico e uma especie ameacada.", "audio_hint": "'c' cedille" },
+          { "pt": "o ecossistema", "fr": "l'ecosysteme", "example": "O ecossistema marinho e fragil.", "audio_hint": "Accent sur le 'e'" },
+          { "pt": "a desertificacao", "fr": "la desertification", "example": "O interior de Portugal enfrenta a desertificacao.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o aquecimento global", "fr": "le rechauffement climatique", "example": "O aquecimento global afeta todo o planeta.", "audio_hint": "'qu' = [k]" },
+          { "pt": "a reflorestacao", "fr": "le reboisement", "example": "A reflorestacao e essencial apos os incendios.", "audio_hint": "'c' cedille + 'ao' nasalise" }
+        ]
+      }
+    },
+    {
+      "id": "theme-007",
+      "name_fr": "Technologie",
+      "name_pt": "Tecnologia",
+      "icon": "\ud83d\udcbb",
+      "levels": {
+        "A2": [
+          { "pt": "o computador", "fr": "l'ordinateur", "example": "Trabalho no computador todos os dias.", "audio_hint": "Accent sur la derniere syllabe" },
+          { "pt": "o telemovel", "fr": "le telephone portable", "example": "Onde esta o meu telemovel?", "audio_hint": "PT-PT exclusivement, jamais 'celular'" },
+          { "pt": "a Internet", "fr": "l'Internet", "example": "Nao tenho Internet em casa.", "audio_hint": "Souvent avec article feminin en PT" },
+          { "pt": "o ecra", "fr": "l'ecran", "example": "O ecra do telemovel partiu.", "audio_hint": "PT-PT: 'ecra', pas 'tela'" },
+          { "pt": "o rato", "fr": "la souris (informatique)", "example": "O rato do computador nao funciona.", "audio_hint": "Meme mot que 'souris' (animal)" },
+          { "pt": "o teclado", "fr": "le clavier", "example": "Preciso de um teclado novo.", "audio_hint": "Prononciation standard" },
+          { "pt": "o e-mail", "fr": "l'e-mail", "example": "Enviei-te um e-mail.", "audio_hint": "Parfois 'correio eletronico'" },
+          { "pt": "a palavra-passe", "fr": "le mot de passe", "example": "Esqueci-me da palavra-passe.", "audio_hint": "PT-PT: 'palavra-passe', pas 'senha'" },
+          { "pt": "o sitio web", "fr": "le site web", "example": "Visita o nosso sitio web.", "audio_hint": "PT-PT prefere 'sitio' a 'site'" },
+          { "pt": "descarregar", "fr": "telecharger", "example": "Vou descarregar a aplicacao.", "audio_hint": "PT-PT: 'descarregar', pas 'baixar'" },
+          { "pt": "a aplicacao", "fr": "l'application", "example": "Esta aplicacao e muito util.", "audio_hint": "PT-PT: 'aplicacao', pas 'aplicativo'" }
+        ],
+        "B1": [
+          { "pt": "o ficheiro", "fr": "le fichier", "example": "Guardei o ficheiro na nuvem.", "audio_hint": "PT-PT: 'ficheiro', pas 'arquivo' (informatique)" },
+          { "pt": "a pasta", "fr": "le dossier", "example": "Criei uma pasta nova no computador.", "audio_hint": "Prononciation standard" },
+          { "pt": "a base de dados", "fr": "la base de donnees", "example": "A base de dados tem muitos registos.", "audio_hint": "'s' final = [sh] en PT-PT" },
+          { "pt": "a rede social", "fr": "le reseau social", "example": "Nao uso muito as redes sociais.", "audio_hint": "'d' se prononce [d] dur en PT-PT" },
+          { "pt": "o programa", "fr": "le logiciel/programme", "example": "Instalei um programa novo.", "audio_hint": "Prononciation standard" },
+          { "pt": "a atualizacao", "fr": "la mise a jour", "example": "Ha uma atualizacao disponivel.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o armazenamento", "fr": "le stockage", "example": "Preciso de mais armazenamento na nuvem.", "audio_hint": "'en' nasalise" },
+          { "pt": "a nuvem", "fr": "le cloud/nuage", "example": "Guardo tudo na nuvem.", "audio_hint": "Traduction litterale de 'cloud'" },
+          { "pt": "a copia de seguranca", "fr": "la sauvegarde", "example": "Faz sempre copias de seguranca.", "audio_hint": "Expression composee" },
+          { "pt": "o virus informatico", "fr": "le virus informatique", "example": "O computador apanhou um virus.", "audio_hint": "Accent sur le 'i'" },
+          { "pt": "a ligacao", "fr": "la connexion", "example": "A ligacao a Internet esta lenta.", "audio_hint": "'c' cedille + 'ao' nasalise" }
+        ],
+        "B2": [
+          { "pt": "a inteligencia artificial", "fr": "l'intelligence artificielle", "example": "A inteligencia artificial esta a mudar o mundo.", "audio_hint": "'en' nasalise" },
+          { "pt": "o algoritmo", "fr": "l'algorithme", "example": "O algoritmo decide o que vemos.", "audio_hint": "Accent sur le 'i'" },
+          { "pt": "a ciberseguranca", "fr": "la cybersecurite", "example": "A ciberseguranca e cada vez mais importante.", "audio_hint": "'c' cedille" },
+          { "pt": "os dados pessoais", "fr": "les donnees personnelles", "example": "Devemos proteger os nossos dados pessoais.", "audio_hint": "'ss' = [s] sourd" },
+          { "pt": "a privacidade", "fr": "la vie privee/confidentialite", "example": "A privacidade online e um direito.", "audio_hint": "Prononciation standard" },
+          { "pt": "a automatizacao", "fr": "l'automatisation", "example": "A automatizacao vai transformar o trabalho.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a computacao em nuvem", "fr": "le cloud computing", "example": "A computacao em nuvem reduziu custos.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o processamento de dados", "fr": "le traitement de donnees", "example": "O processamento de dados e rapido.", "audio_hint": "Double 's' = [s]" },
+          { "pt": "o codigo aberto", "fr": "l'open source", "example": "Este programa e de codigo aberto.", "audio_hint": "Traduction de 'open source'" },
+          { "pt": "a transformacao digital", "fr": "la transformation numerique", "example": "A transformacao digital das empresas portuguesas.", "audio_hint": "'c' cedille + 'ao' nasalise" }
+        ],
+        "C1": [
+          { "pt": "a aprendizagem automatica", "fr": "le machine learning", "example": "A aprendizagem automatica permite prever comportamentos.", "audio_hint": "Traduction officielle PT-PT de 'machine learning'" },
+          { "pt": "a cadeia de blocos", "fr": "la blockchain", "example": "A cadeia de blocos garante a rastreabilidade.", "audio_hint": "Traduction litterale parfois utilisee" },
+          { "pt": "a interoperabilidade", "fr": "l'interoperabilite", "example": "A interoperabilidade dos sistemas e crucial.", "audio_hint": "Mot technique long" },
+          { "pt": "a escalabilidade", "fr": "la scalabilite", "example": "A escalabilidade da plataforma e essencial.", "audio_hint": "Calque de l'anglais 'scalability'" },
+          { "pt": "a infraestrutura", "fr": "l'infrastructure", "example": "A infraestrutura de rede precisa de melhorias.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "o desenvolvimento agil", "fr": "le developpement agile", "example": "Usamos metodologias de desenvolvimento agil.", "audio_hint": "Accent sur le 'a' de 'agil'" },
+          { "pt": "a arquitetura de software", "fr": "l'architecture logicielle", "example": "A arquitetura de software define a estrutura.", "audio_hint": "'qu' = [k]" },
+          { "pt": "a governacao de dados", "fr": "la gouvernance des donnees", "example": "A governacao de dados e um pilar da estrategia.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o ecossistema digital", "fr": "l'ecosysteme numerique", "example": "Portugal tem um ecossistema digital vibrante.", "audio_hint": "Accent sur le 'e'" },
+          { "pt": "a computacao quantica", "fr": "l'informatique quantique", "example": "A computacao quantica e o futuro.", "audio_hint": "'an' nasalise" }
+        ]
+      }
+    },
+    {
+      "id": "theme-008",
+      "name_fr": "Emotions et sentiments",
+      "name_pt": "Emocoes e sentimentos",
+      "icon": "\ud83d\ude0a",
+      "levels": {
+        "A2": [
+          { "pt": "contente", "fr": "content(e)/heureux(se)", "example": "Estou muito contente.", "audio_hint": "'en' nasalise" },
+          { "pt": "triste", "fr": "triste", "example": "Estou triste com a noticia.", "audio_hint": "'s' devant consonne = [sh] en PT-PT" },
+          { "pt": "zangado/a", "fr": "fache(e)/en colere", "example": "Ele esta zangado comigo.", "audio_hint": "'z' initial = [z]" },
+          { "pt": "cansado/a", "fr": "fatigue(e)", "example": "Estou muito cansada.", "audio_hint": "'an' nasalise" },
+          { "pt": "preocupado/a", "fr": "inquiet(e)", "example": "Estou preocupado com o exame.", "audio_hint": "'pr' initial, 'ado' final" },
+          { "pt": "nervoso/a", "fr": "nerveux(se)", "example": "Estou nervosa antes da apresentacao.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "surpreso/a", "fr": "surpris(e)", "example": "Fiquei surpresa com a noticia.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "assustado/a", "fr": "effraye(e)", "example": "Fiquei assustado com o barulho.", "audio_hint": "Double 's' = [s]" },
+          { "pt": "orgulhoso/a", "fr": "fier(e)", "example": "Estou orgulhoso de ti.", "audio_hint": "'gu' = [g], 'lh' = [L]" },
+          { "pt": "envergonhado/a", "fr": "gene(e)/honteux(se)", "example": "Fiquei envergonhada.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "apaixonado/a", "fr": "amoureux(se)", "example": "Estou apaixonada por Lisboa.", "audio_hint": "'x' = [sh]" }
+        ],
+        "B1": [
+          { "pt": "ansioso/a", "fr": "anxieux(se)", "example": "Sinto-me ansioso antes das provas.", "audio_hint": "'an' nasalise" },
+          { "pt": "frustrado/a", "fr": "frustre(e)", "example": "Estou frustrado com o transito.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "aliviado/a", "fr": "soulage(e)", "example": "Fiquei aliviada quando soube o resultado.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "entusiasmado/a", "fr": "enthousiaste", "example": "Estou entusiasmado com a viagem.", "audio_hint": "'en' nasalise" },
+          { "pt": "nostalgico/a", "fr": "nostalgique", "example": "Sinto-me nostalgico quando ouco fado.", "audio_hint": "Lie au concept de 'saudade'" },
+          { "pt": "a saudade", "fr": "la nostalgie/le manque (intraduisible)", "example": "Tenho saudades de Portugal.", "audio_hint": "Mot emblematique portugais, intraduisible" },
+          { "pt": "desiludido/a", "fr": "decu(e)", "example": "Fiquei desiludida com o resultado.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "grato/a", "fr": "reconnaissant(e)", "example": "Estou muito grata pela ajuda.", "audio_hint": "Prononciation standard" },
+          { "pt": "culpado/a", "fr": "coupable", "example": "Sinto-me culpado por nao ter ido.", "audio_hint": "'l' devant consonne = [l]" },
+          { "pt": "esperancoso/a", "fr": "plein(e) d'espoir", "example": "Sinto-me esperancoso em relacao ao futuro.", "audio_hint": "'c' cedille" },
+          { "pt": "solidario/a", "fr": "solidaire", "example": "Os portugueses sao muito solidarios.", "audio_hint": "Prononciation reguliere" }
+        ],
+        "B2": [
+          { "pt": "a amargura", "fr": "l'amertume", "example": "Fala com amargura do passado.", "audio_hint": "'g' devant 'u' = [g]" },
+          { "pt": "a angustia", "fr": "l'angoisse", "example": "Sente angustia perante o futuro.", "audio_hint": "'an' nasalise, 'gu' = [g]" },
+          { "pt": "a indignacao", "fr": "l'indignation", "example": "A indignacao do publico foi grande.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "resiliente", "fr": "resilient(e)", "example": "O povo portugues e muito resiliente.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "a empatia", "fr": "l'empathie", "example": "E preciso ter empatia pelos outros.", "audio_hint": "'em' nasalise" },
+          { "pt": "a melancolia", "fr": "la melancolie", "example": "O fado transmite melancolia.", "audio_hint": "'an' nasalise" },
+          { "pt": "o desalento", "fr": "le decouragement", "example": "Sentiu desalento apos a derrota.", "audio_hint": "'en' nasalise" },
+          { "pt": "a serenidade", "fr": "la serenite", "example": "Encontrou serenidade no campo.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "ambivalente", "fr": "ambivalent(e)", "example": "Tenho sentimentos ambivalentes.", "audio_hint": "'am' nasalise, 'en' nasalise" },
+          { "pt": "a plenitude", "fr": "la plenitude", "example": "Sente plenitude neste momento.", "audio_hint": "'en' nasalise" }
+        ],
+        "C1": [
+          { "pt": "a consternacao", "fr": "la consternation", "example": "A consternacao geral apos o acidente.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a complacencia", "fr": "la complaisance", "example": "A complacencia impede o progresso.", "audio_hint": "'en' nasalise" },
+          { "pt": "o desassossego", "fr": "l'inquietude/agitation", "example": "O Livro do Desassossego de Pessoa.", "audio_hint": "Titre celebre de Fernando Pessoa" },
+          { "pt": "a magnanimidade", "fr": "la magnanimite", "example": "Reagiu com magnanimidade.", "audio_hint": "Registre soutenu" },
+          { "pt": "a acrimonia", "fr": "l'acrimonie", "example": "Respondeu com acrimonia.", "audio_hint": "Registre litteraire" },
+          { "pt": "a abnegacao", "fr": "l'abnegation", "example": "Trabalhou com abnegacao durante anos.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a perplexidade", "fr": "la perplexite", "example": "A perplexidade dos cidadaos face a crise.", "audio_hint": "'x' = [ks]" },
+          { "pt": "a placidez", "fr": "la placidite", "example": "Falou com uma placidez admiravel.", "audio_hint": "'z' final = [sh] en PT-PT" },
+          { "pt": "a efusividade", "fr": "l'effusion/exuberance", "example": "Receberam-nos com efusividade.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "o desencanto", "fr": "le desenchantement", "example": "O desencanto da geracao jovem.", "audio_hint": "'en' nasalise" }
+        ]
+      }
+    },
+    {
+      "id": "theme-009",
+      "name_fr": "Education et apprentissage",
+      "name_pt": "Educacao e aprendizagem",
+      "icon": "\ud83c\udf93",
+      "levels": {
+        "A1": [
+          { "pt": "a escola", "fr": "l'ecole", "example": "A escola comeca as oito e meia.", "audio_hint": "'sc' se prononce [sh] en PT-PT" },
+          { "pt": "o/a aluno/a", "fr": "l'eleve", "example": "Ha trinta alunos na turma.", "audio_hint": "Prononciation standard" },
+          { "pt": "o livro", "fr": "le livre", "example": "O livro de portugues e azul.", "audio_hint": "'v' se prononce [v]" },
+          { "pt": "o caderno", "fr": "le cahier", "example": "Escreve no caderno.", "audio_hint": "'d' se prononce [d] dur en PT-PT" },
+          { "pt": "a caneta", "fr": "le stylo", "example": "Emprestas-me uma caneta?", "audio_hint": "Prononciation standard" },
+          { "pt": "o lapis", "fr": "le crayon", "example": "Preciso de um lapis.", "audio_hint": "Accent sur le 'a', proparoxytone" },
+          { "pt": "a aula", "fr": "le cours/la classe", "example": "A aula comeca as nove.", "audio_hint": "'au' = diphtongue [aw]" },
+          { "pt": "o exame", "fr": "l'examen", "example": "O exame e na proxima semana.", "audio_hint": "'x' = [z] apres 'e'" },
+          { "pt": "aprender", "fr": "apprendre", "example": "Quero aprender portugues.", "audio_hint": "'en' nasalise" },
+          { "pt": "estudar", "fr": "etudier", "example": "Preciso de estudar mais.", "audio_hint": "'s' devant consonne = [sh] en PT-PT" },
+          { "pt": "a pergunta", "fr": "la question", "example": "Tenho uma pergunta.", "audio_hint": "'er' = [er]" },
+          { "pt": "a resposta", "fr": "la reponse", "example": "A resposta esta certa.", "audio_hint": "'s' devant consonne = [sh]" }
+        ],
+        "A2": [
+          { "pt": "a universidade", "fr": "l'universite", "example": "Estudo na universidade de Lisboa.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "a disciplina", "fr": "la matiere (scolaire)", "example": "A minha disciplina preferida e historia.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "o trabalho de casa", "fr": "les devoirs", "example": "Fiz o trabalho de casa.", "audio_hint": "PT-PT: pas 'dever de casa'" },
+          { "pt": "a biblioteca", "fr": "la bibliotheque", "example": "Vou estudar na biblioteca.", "audio_hint": "'bi' initial" },
+          { "pt": "o quadro", "fr": "le tableau", "example": "O professor escreveu no quadro.", "audio_hint": "'qu' = [kw]" },
+          { "pt": "o/a explicador/a", "fr": "le/la professeur particulier", "example": "Tenho um explicador de matematica.", "audio_hint": "Terme specifique PT: cours particulier" },
+          { "pt": "a nota", "fr": "la note (scolaire)", "example": "Tive uma boa nota no exame.", "audio_hint": "Prononciation standard" },
+          { "pt": "chumbar", "fr": "echouer/redoubler", "example": "Nao quero chumbar este ano.", "audio_hint": "PT-PT familier pour 'reprovar'" },
+          { "pt": "passar", "fr": "reussir/passer (examen)", "example": "Passei no exame de conducao.", "audio_hint": "Prononciation standard" },
+          { "pt": "a licenciatura", "fr": "la licence (diplome)", "example": "Tenho uma licenciatura em engenharia.", "audio_hint": "'c' devant 'i' = [s]" },
+          { "pt": "o mestrado", "fr": "le master", "example": "Estou a fazer o mestrado.", "audio_hint": "'s' devant consonne = [sh]" }
+        ],
+        "B1": [
+          { "pt": "a bolsa de estudo", "fr": "la bourse d'etudes", "example": "Recebi uma bolsa de estudo.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "o doutoramento", "fr": "le doctorat", "example": "Esta a fazer o doutoramento em fisica.", "audio_hint": "'ou' = [o] ferme en PT-PT" },
+          { "pt": "a tese", "fr": "la these/memoire", "example": "Estou a escrever a tese.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "a investigacao", "fr": "la recherche", "example": "Faz investigacao na universidade.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a avaliacao", "fr": "l'evaluation", "example": "A avaliacao e continua.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "reprovar", "fr": "echouer (formel)", "example": "Reprovei em duas disciplinas.", "audio_hint": "Plus formel que 'chumbar'" },
+          { "pt": "o seminario", "fr": "le seminaire", "example": "Participei num seminario sobre linguistica.", "audio_hint": "Accent sur le 'a'" },
+          { "pt": "a propina", "fr": "les frais de scolarite", "example": "As propinas universitarias subiram.", "audio_hint": "Terme PT-PT specifique" },
+          { "pt": "a media", "fr": "la moyenne", "example": "A minha media e catorze.", "audio_hint": "Accent sur le 'e'" },
+          { "pt": "o estagio curricular", "fr": "le stage (dans cursus)", "example": "Fiz um estagio curricular no hospital.", "audio_hint": "Accent sur le 'a'" }
+        ],
+        "B2": [
+          { "pt": "a pedagogia", "fr": "la pedagogie", "example": "A pedagogia atual valoriza a autonomia.", "audio_hint": "Accent sur le 'i'" },
+          { "pt": "o ensino superior", "fr": "l'enseignement superieur", "example": "O ensino superior portugues tem boa reputacao.", "audio_hint": "'en' nasalise" },
+          { "pt": "a literacia", "fr": "la litteratie", "example": "A literacia digital e fundamental.", "audio_hint": "'c' devant 'i' = [s]" },
+          { "pt": "a curricula", "fr": "le programme scolaire", "example": "A curricula precisa de ser atualizada.", "audio_hint": "Du latin, usage PT" },
+          { "pt": "a aprendizagem ao longo da vida", "fr": "l'apprentissage tout au long de la vie", "example": "A aprendizagem ao longo da vida e essencial.", "audio_hint": "Expression composee" },
+          { "pt": "o pensamento critico", "fr": "la pensee critique", "example": "Devemos desenvolver o pensamento critico.", "audio_hint": "'en' nasalise" },
+          { "pt": "a competencia", "fr": "la competence", "example": "Desenvolveu competencias digitais.", "audio_hint": "'en' nasalise" },
+          { "pt": "a metodologia", "fr": "la methodologie", "example": "A metodologia de ensino mudou.", "audio_hint": "Accent sur le 'i'" },
+          { "pt": "o reconhecimento", "fr": "la reconnaissance (diplomes)", "example": "O reconhecimento de diplomas estrangeiros.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "a equidade", "fr": "l'equite", "example": "A equidade no acesso ao ensino.", "audio_hint": "'qu' = [kw]" }
+        ]
+      }
+    },
+    {
+      "id": "theme-010",
+      "name_fr": "Loisirs et sports",
+      "name_pt": "Lazer e desporto",
+      "icon": "\u26bd",
+      "levels": {
+        "A1": [
+          { "pt": "o futebol", "fr": "le football", "example": "Gosto de ver futebol.", "audio_hint": "Prononciation standard" },
+          { "pt": "a musica", "fr": "la musique", "example": "Ouco musica todos os dias.", "audio_hint": "Accent sur le 'u'" },
+          { "pt": "o cinema", "fr": "le cinema", "example": "Vamos ao cinema sabado?", "audio_hint": "'c' devant 'i' = [s]" },
+          { "pt": "a praia", "fr": "la plage", "example": "Vou a praia no domingo.", "audio_hint": "'ai' diphtongue" },
+          { "pt": "ler", "fr": "lire", "example": "Gosto de ler livros.", "audio_hint": "Verbe irregulier" },
+          { "pt": "nadar", "fr": "nager", "example": "Sei nadar muito bem.", "audio_hint": "Verbe regulier en -ar" },
+          { "pt": "correr", "fr": "courir", "example": "Vou correr de manha.", "audio_hint": "Double 'r' = [R] guttural" },
+          { "pt": "passear", "fr": "se promener", "example": "Gosto de passear a beira-mar.", "audio_hint": "Double 's' = [s]" },
+          { "pt": "dançar", "fr": "danser", "example": "Gosto de dancar.", "audio_hint": "'c' cedille" },
+          { "pt": "cozinhar", "fr": "cuisiner", "example": "Gosto de cozinhar ao fim de semana.", "audio_hint": "'z' = [z], 'nh' = [n mouille]" },
+          { "pt": "o desporto", "fr": "le sport", "example": "Faco desporto tres vezes por semana.", "audio_hint": "PT-PT: 'desporto', jamais 'esporte'" }
+        ],
+        "A2": [
+          { "pt": "o surf", "fr": "le surf", "example": "O surf e muito popular em Portugal.", "audio_hint": "Prononciation anglaise" },
+          { "pt": "o fado", "fr": "le fado", "example": "Vamos ouvir fado esta noite?", "audio_hint": "Genre musical typiquement portugais" },
+          { "pt": "o espetaculo", "fr": "le spectacle", "example": "O espetaculo comeca as nove.", "audio_hint": "Proparoxytone, accent sur le 'a'" },
+          { "pt": "o jogo", "fr": "le match/jeu", "example": "Vamos ver o jogo do Benfica?", "audio_hint": "'j' = [zh]" },
+          { "pt": "a caminhada", "fr": "la randonnee", "example": "Fizemos uma caminhada na serra.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "a exposicao", "fr": "l'exposition", "example": "Ha uma exposicao no museu.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a fotografia", "fr": "la photographie", "example": "A fotografia e o meu passatempo.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "a equipa", "fr": "l'equipe", "example": "A minha equipa favorita e o Sporting.", "audio_hint": "PT-PT: 'equipa', pas 'equipe'" },
+          { "pt": "o ginasio", "fr": "la salle de sport", "example": "Vou ao ginasio todos os dias.", "audio_hint": "Accent sur le 'a'" },
+          { "pt": "o concerto", "fr": "le concert", "example": "Fui a um concerto de fado.", "audio_hint": "'c' devant 'e' = [s]" },
+          { "pt": "o passatempo", "fr": "le passe-temps/hobby", "example": "O meu passatempo e a jardinagem.", "audio_hint": "Double 's' = [s]" }
+        ],
+        "B1": [
+          { "pt": "a vela", "fr": "la voile", "example": "Faco vela ao largo de Cascais.", "audio_hint": "Prononciation standard" },
+          { "pt": "o mergulho", "fr": "la plongee", "example": "Fiz mergulho nos Acores.", "audio_hint": "'lh' = [L]" },
+          { "pt": "a escalada", "fr": "l'escalade", "example": "A escalada e muito popular na serra.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "o torneio", "fr": "le tournoi", "example": "Ha um torneio de futebol amador.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "o campeonato", "fr": "le championnat", "example": "O campeonato portugues de futebol.", "audio_hint": "'eao' final" },
+          { "pt": "treinar", "fr": "s'entrainer", "example": "Treino tres vezes por semana.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "o adepto", "fr": "le supporter", "example": "Os adeptos encheram o estadio.", "audio_hint": "PT-PT: 'adepto', pas 'torcedor'" },
+          { "pt": "o palco", "fr": "la scene", "example": "Os artistas subiram ao palco.", "audio_hint": "'l' devant consonne" },
+          { "pt": "o bilhete", "fr": "le billet (spectacle)", "example": "Os bilhetes esgotaram rapidamente.", "audio_hint": "'lh' = [L]" },
+          { "pt": "a temporada", "fr": "la saison (sport/culture)", "example": "A temporada de teatro comeca em outubro.", "audio_hint": "Prononciation reguliere" }
+        ]
+      }
+    },
+    {
+      "id": "theme-011",
+      "name_fr": "Vetements et mode",
+      "name_pt": "Roupa e moda",
+      "icon": "\ud83d\udc55",
+      "levels": {
+        "A1": [
+          { "pt": "a camisola", "fr": "le pull", "example": "Preciso de uma camisola quente.", "audio_hint": "PT-PT: 'camisola' = pull, pas 'sueter'" },
+          { "pt": "as calcas", "fr": "le pantalon", "example": "Estas calcas sao novas.", "audio_hint": "Toujours au pluriel, 'c' cedille" },
+          { "pt": "a camisa", "fr": "la chemise", "example": "Veste uma camisa branca.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "o casaco", "fr": "la veste/le manteau", "example": "Leva o casaco, esta frio.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "os sapatos", "fr": "les chaussures", "example": "Comprei sapatos novos.", "audio_hint": "Prononciation standard" },
+          { "pt": "o vestido", "fr": "la robe", "example": "Que vestido bonito!", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "a saia", "fr": "la jupe", "example": "A saia e azul.", "audio_hint": "'ai' diphtongue" },
+          { "pt": "a t-shirt", "fr": "le t-shirt", "example": "Uso uma t-shirt no verao.", "audio_hint": "Anglicisme courant" },
+          { "pt": "vermelho/a", "fr": "rouge", "example": "Quero a camisola vermelha.", "audio_hint": "'lh' = [L]" },
+          { "pt": "azul", "fr": "bleu", "example": "A camisa azul.", "audio_hint": "Prononciation standard" },
+          { "pt": "branco/a", "fr": "blanc/blanche", "example": "Sapatos brancos.", "audio_hint": "'an' nasalise" },
+          { "pt": "preto/a", "fr": "noir(e)", "example": "Um casaco preto.", "audio_hint": "Prononciation standard" }
+        ],
+        "A2": [
+          { "pt": "as cuecas", "fr": "les sous-vetements", "example": "Preciso de comprar cuecas.", "audio_hint": "'ue' diphtongue" },
+          { "pt": "as meias", "fr": "les chaussettes", "example": "As meias estao no armario.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "o fato", "fr": "le costume", "example": "Preciso de um fato para a entrevista.", "audio_hint": "PT-PT: 'fato', pas 'terno'" },
+          { "pt": "o fato de banho", "fr": "le maillot de bain", "example": "Nao te esquecas do fato de banho.", "audio_hint": "PT-PT specifique" },
+          { "pt": "o chapeu", "fr": "le chapeau", "example": "Leva um chapeu por causa do sol.", "audio_hint": "Accent sur le 'e'" },
+          { "pt": "as sapatilhas", "fr": "les baskets/tennis", "example": "Vou correr com as sapatilhas novas.", "audio_hint": "PT-PT: 'sapatilhas', pas 'tenis'" },
+          { "pt": "o cachecol", "fr": "l'echarpe", "example": "Usa um cachecol no inverno.", "audio_hint": "'ch' = [sh]" },
+          { "pt": "as luvas", "fr": "les gants", "example": "Preciso de luvas para o frio.", "audio_hint": "Prononciation standard" },
+          { "pt": "o algodao", "fr": "le coton", "example": "Esta camisola e de algodao.", "audio_hint": "'ao' nasalise" },
+          { "pt": "a la", "fr": "la laine", "example": "Uma camisola de la.", "audio_hint": "Mot court, accent sur le 'a'" },
+          { "pt": "experimentar", "fr": "essayer (vetement)", "example": "Posso experimentar esta camisola?", "audio_hint": "'x' = [sh] en PT-PT apres 'e'" },
+          { "pt": "o tamanho", "fr": "la taille", "example": "Que tamanho usa?", "audio_hint": "'nh' = [n mouille]" }
+        ]
+      }
+    },
+    {
+      "id": "theme-012",
+      "name_fr": "Argent et finances",
+      "name_pt": "Dinheiro e financas",
+      "icon": "\ud83d\udcb0",
+      "levels": {
+        "A2": [
+          { "pt": "o dinheiro", "fr": "l'argent", "example": "Nao tenho dinheiro comigo.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "o banco", "fr": "la banque", "example": "Vou ao banco levantar dinheiro.", "audio_hint": "'an' nasalise" },
+          { "pt": "o multibanco", "fr": "le distributeur automatique", "example": "Ha um multibanco ali.", "audio_hint": "Nom de marque devenu generique en PT" },
+          { "pt": "a conta bancaria", "fr": "le compte bancaire", "example": "Abri uma conta bancaria em Portugal.", "audio_hint": "'an' nasalise" },
+          { "pt": "o cartao", "fr": "la carte (bancaire)", "example": "Posso pagar com cartao?", "audio_hint": "'ao' nasalise" },
+          { "pt": "o troco", "fr": "la monnaie (rendue)", "example": "Tem troco para vinte euros?", "audio_hint": "'o' ferme" },
+          { "pt": "o preco", "fr": "le prix", "example": "Qual e o preco?", "audio_hint": "'c' cedille" },
+          { "pt": "barato/a", "fr": "bon marche/pas cher", "example": "Este restaurante e barato.", "audio_hint": "Prononciation standard" },
+          { "pt": "caro/a", "fr": "cher(e)", "example": "Lisboa esta cada vez mais cara.", "audio_hint": "Prononciation standard" },
+          { "pt": "pagar", "fr": "payer", "example": "Quero pagar, por favor.", "audio_hint": "'g' devant 'a' = [g]" },
+          { "pt": "a fatura", "fr": "la facture", "example": "Quer fatura com contribuinte?", "audio_hint": "NIF (contribuinte) est demande partout" }
+        ],
+        "B1": [
+          { "pt": "o emprestimo", "fr": "le pret", "example": "Pedi um emprestimo ao banco.", "audio_hint": "Accent sur le 'e' initial" },
+          { "pt": "a poupanca", "fr": "l'epargne", "example": "Tenho uma conta poupanca.", "audio_hint": "'c' cedille" },
+          { "pt": "o ordenado", "fr": "le salaire", "example": "O ordenado entra no dia vinte e cinco.", "audio_hint": "PT-PT prefere 'ordenado'" },
+          { "pt": "o IRS", "fr": "l'impot sur le revenu", "example": "Tenho de entregar o IRS em abril.", "audio_hint": "Prononce lettre par lettre: i-erre-esse" },
+          { "pt": "o IMI", "fr": "la taxe fonciere", "example": "O IMI e pago em tres prestacoes.", "audio_hint": "Impot portugais specifique" },
+          { "pt": "o NIF", "fr": "le numero fiscal", "example": "Precisa do NIF para a fatura.", "audio_hint": "Numero de Identificacao Fiscal" },
+          { "pt": "o recibo", "fr": "le recu", "example": "Preciso do recibo para as despesas.", "audio_hint": "'c' devant 'i' = [s]" },
+          { "pt": "a transferencia", "fr": "le virement", "example": "Fiz uma transferencia bancaria.", "audio_hint": "'en' nasalise" },
+          { "pt": "o seguro", "fr": "l'assurance", "example": "Tenho seguro de saude.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "a despesa", "fr": "la depense", "example": "As despesas mensais sao altas.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "o orcamento", "fr": "le budget", "example": "Fiz um orcamento mensal.", "audio_hint": "'c' cedille" }
+        ],
+        "B2": [
+          { "pt": "o investimento", "fr": "l'investissement", "example": "Fiz um investimento em acoes.", "audio_hint": "'en' nasalise" },
+          { "pt": "as acoes", "fr": "les actions (bourse)", "example": "As acoes da empresa subiram.", "audio_hint": "'c' cedille + 'oes' nasalise" },
+          { "pt": "a hipoteca", "fr": "l'hypotheque", "example": "A taxa de juro da hipoteca subiu.", "audio_hint": "Accent sur le 'e'" },
+          { "pt": "a taxa de juro", "fr": "le taux d'interet", "example": "As taxas de juro estao a subir.", "audio_hint": "'x' = [ks]" },
+          { "pt": "o rendimento", "fr": "le revenu", "example": "O rendimento anual bruto.", "audio_hint": "'en' nasalise" },
+          { "pt": "o IVA", "fr": "la TVA", "example": "O IVA em Portugal e vinte e tres por cento.", "audio_hint": "Imposto sobre o Valor Acrescentado" },
+          { "pt": "a declaracao de impostos", "fr": "la declaration d'impots", "example": "Entreguei a declaracao de impostos.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o credito a habitacao", "fr": "le credit immobilier", "example": "Pedi um credito a habitacao.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a amortizacao", "fr": "l'amortissement", "example": "A amortizacao do emprestimo e a trinta anos.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o patrimonio", "fr": "le patrimoine", "example": "O patrimonio liquido da empresa.", "audio_hint": "Accent sur le 'o'" }
+        ]
+      }
+    },
+    {
+      "id": "theme-013",
+      "name_fr": "Voyages et tourisme",
+      "name_pt": "Viagens e turismo",
+      "icon": "\u2708\ufe0f",
+      "levels": {
+        "A1": [
+          { "pt": "a viagem", "fr": "le voyage", "example": "Boa viagem!", "audio_hint": "'g' final = [zh]" },
+          { "pt": "o hotel", "fr": "l'hotel", "example": "O hotel e no centro da cidade.", "audio_hint": "Accent sur la derniere syllabe" },
+          { "pt": "o aeroporto", "fr": "l'aeroport", "example": "O aeroporto de Lisboa e grande.", "audio_hint": "'ae' = diphtongue" },
+          { "pt": "o passaporte", "fr": "le passeport", "example": "Onde esta o meu passaporte?", "audio_hint": "Double 's' = [s]" },
+          { "pt": "a mala", "fr": "la valise", "example": "A minha mala e pesada.", "audio_hint": "Prononciation standard" },
+          { "pt": "o mapa", "fr": "la carte/le plan", "example": "Tens um mapa da cidade?", "audio_hint": "Masculin en portugais" },
+          { "pt": "a reserva", "fr": "la reservation", "example": "Tenho uma reserva para duas noites.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "o quarto", "fr": "la chambre (hotel)", "example": "Quero um quarto com vista para o mar.", "audio_hint": "'qu' = [kw]" },
+          { "pt": "o turista", "fr": "le/la touriste", "example": "Ha muitos turistas em Lisboa.", "audio_hint": "Epicene" },
+          { "pt": "a fotografia", "fr": "la photo", "example": "Pode tirar-me uma fotografia?", "audio_hint": "Prononciation reguliere" },
+          { "pt": "visitar", "fr": "visiter", "example": "Quero visitar o Mosteiro dos Jeronimos.", "audio_hint": "'s' intervocalique = [z]" }
+        ],
+        "A2": [
+          { "pt": "o voo", "fr": "le vol", "example": "O voo para o Porto dura uma hora.", "audio_hint": "'oo' = deux syllabes" },
+          { "pt": "o alojamento", "fr": "l'hebergement", "example": "Reservei o alojamento no Airbnb.", "audio_hint": "'j' = [zh]" },
+          { "pt": "a pensao", "fr": "la pension/auberge", "example": "Ficamos numa pensao no centro.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o hostel", "fr": "l'auberge de jeunesse", "example": "O hostel e barato e confortavel.", "audio_hint": "Anglicisme courant" },
+          { "pt": "o roteiro", "fr": "l'itineraire", "example": "Fiz um roteiro para a viagem.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "o guia", "fr": "le guide", "example": "Contratamos um guia turistico.", "audio_hint": "'gu' devant 'i' = [g]" },
+          { "pt": "a excursao", "fr": "l'excursion", "example": "Fizemos uma excursao a Sintra.", "audio_hint": "'x' = [ks], 'ao' nasalise" },
+          { "pt": "o miradouro", "fr": "le belvdedere/point de vue", "example": "O miradouro tem uma vista linda.", "audio_hint": "Terme typiquement portugais (Lisbonne)" },
+          { "pt": "o museu", "fr": "le musee", "example": "Visitamos o Museu dos Azulejos.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "o mosteiro", "fr": "le monastere", "example": "O Mosteiro dos Jeronimos e magnifico.", "audio_hint": "'ei' = [aj]" },
+          { "pt": "o castelo", "fr": "le chateau", "example": "O Castelo de Sao Jorge domina Lisboa.", "audio_hint": "'s' devant consonne = [sh]" }
+        ],
+        "B1": [
+          { "pt": "o destino", "fr": "la destination", "example": "Portugal e um destino muito procurado.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "a epoca alta", "fr": "la haute saison", "example": "Na epoca alta os precos sobem.", "audio_hint": "Accent sur le 'e' de 'epoca'" },
+          { "pt": "a epoca baixa", "fr": "la basse saison", "example": "Na epoca baixa ha menos turistas.", "audio_hint": "'x' = [sh]" },
+          { "pt": "o turismo rural", "fr": "le tourisme rural", "example": "O turismo rural e muito popular no Alentejo.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "o patrimonio mundial", "fr": "le patrimoine mondial", "example": "A Torre de Belem e patrimonio mundial.", "audio_hint": "Accent sur le 'o'" },
+          { "pt": "o artesanato", "fr": "l'artisanat", "example": "O artesanato portugues e variado.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "a gastronomia local", "fr": "la gastronomie locale", "example": "A gastronomia local e um atrativo.", "audio_hint": "Prononciation reguliere" },
+          { "pt": "o alojamento local", "fr": "le logement touristique", "example": "Ha cada vez mais alojamentos locais.", "audio_hint": "Statut juridique specifique au Portugal" },
+          { "pt": "a estadia", "fr": "le sejour", "example": "A estadia durou uma semana.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "o seguro de viagem", "fr": "l'assurance voyage", "example": "Fiz um seguro de viagem.", "audio_hint": "'s' intervocalique = [z]" }
+        ],
+        "B2": [
+          { "pt": "o turismo sustentavel", "fr": "le tourisme durable", "example": "O turismo sustentavel respeita o ambiente.", "audio_hint": "Accent sur le 'a' de 'sustentavel'" },
+          { "pt": "a massificacao turistica", "fr": "le surtourisme", "example": "Lisboa enfrenta problemas de massificacao turistica.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a gentrificacao", "fr": "la gentrification", "example": "A gentrificacao mudou bairros historicos.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o ecoturismo", "fr": "l'ecotourisme", "example": "O ecoturismo nos Acores esta a crescer.", "audio_hint": "Mot compose" },
+          { "pt": "a sazonalidade", "fr": "la saisonnalite", "example": "A sazonalidade afeta o emprego.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "a autenticidade", "fr": "l'authenticite", "example": "Os turistas procuram autenticidade.", "audio_hint": "'au' = [aw]" },
+          { "pt": "o itinerario cultural", "fr": "l'itineraire culturel", "example": "Fiz um itinerario cultural pelo Alentejo.", "audio_hint": "Accent sur le 'a'" },
+          { "pt": "a pegada turistica", "fr": "l'empreinte touristique", "example": "Devemos reduzir a nossa pegada turistica.", "audio_hint": "'g' devant 'a' = [g]" },
+          { "pt": "o agroturismo", "fr": "l'agrotourisme", "example": "O agroturismo permite conhecer o campo.", "audio_hint": "Mot compose" },
+          { "pt": "a conservacao", "fr": "la conservation (patrimoine)", "example": "A conservacao do patrimonio e prioritaria.", "audio_hint": "'c' cedille + 'ao' nasalise" }
+        ]
+      }
+    },
+    {
+      "id": "theme-014",
+      "name_fr": "Relations et famille",
+      "name_pt": "Relacoes e familia",
+      "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "levels": {
+        "A1": [
+          { "pt": "a mae", "fr": "la mere", "example": "A minha mae e portuguesa.", "audio_hint": "'ae' = diphtongue nasale" },
+          { "pt": "o pai", "fr": "le pere", "example": "O meu pai trabalha em Lisboa.", "audio_hint": "'ai' = diphtongue [aj]" },
+          { "pt": "o/a irmao/irma", "fr": "le frere/la soeur", "example": "Tenho dois irmaos.", "audio_hint": "'ao' nasalise, pluriel 'irmaos'" },
+          { "pt": "o/a filho/a", "fr": "le fils/la fille", "example": "Tenho um filho e uma filha.", "audio_hint": "'lh' = [L]" },
+          { "pt": "o/a avo/avo", "fr": "le grand-pere/la grand-mere", "example": "Os meus avos vivem no Porto.", "audio_hint": "Accent sur le 'o' differencie masculin/feminin" },
+          { "pt": "o marido", "fr": "le mari", "example": "O meu marido chama-se Pedro.", "audio_hint": "Prononciation standard" },
+          { "pt": "a mulher", "fr": "la femme/l'epouse", "example": "A minha mulher e professora.", "audio_hint": "'lh' = [L]" },
+          { "pt": "o/a amigo/a", "fr": "l'ami(e)", "example": "O meu melhor amigo e de Coimbra.", "audio_hint": "Prononciation standard" },
+          { "pt": "o/a vizinho/a", "fr": "le/la voisin(e)", "example": "A minha vizinha e muito simpatica.", "audio_hint": "'z' = [z], 'nh' = [n mouille]" },
+          { "pt": "o namorado/a namorada", "fr": "le petit ami/la petite amie", "example": "A minha namorada e de Faro.", "audio_hint": "Prononciation standard" },
+          { "pt": "o bebe", "fr": "le bebe", "example": "O bebe esta a dormir.", "audio_hint": "Accent sur le dernier 'e'" }
+        ],
+        "A2": [
+          { "pt": "o/a tio/a", "fr": "l'oncle/la tante", "example": "A minha tia vive no Algarve.", "audio_hint": "Prononciation standard" },
+          { "pt": "o/a primo/a", "fr": "le cousin/la cousine", "example": "Tenho muitos primos.", "audio_hint": "Prononciation standard" },
+          { "pt": "o/a sobrinho/a", "fr": "le neveu/la niece", "example": "O meu sobrinho tem tres anos.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "o/a sogro/a", "fr": "le beau-pere/la belle-mere", "example": "A minha sogra cozinha muito bem.", "audio_hint": "Parents du conjoint" },
+          { "pt": "o/a cunhado/a", "fr": "le beau-frere/la belle-soeur", "example": "O meu cunhado e engenheiro.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "o casamento", "fr": "le mariage", "example": "O casamento e em junho.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "o noivado", "fr": "les fiancailles", "example": "O noivado durou um ano.", "audio_hint": "'oi' = diphtongue [oj]" },
+          { "pt": "o divorcio", "fr": "le divorce", "example": "O divorcio foi amigavel.", "audio_hint": "Accent sur le 'o'" },
+          { "pt": "o/a padrinho/madrinha", "fr": "le parrain/la marraine", "example": "A minha madrinha e a irma da minha mae.", "audio_hint": "'nh' = [n mouille]" },
+          { "pt": "o/a afilhado/a", "fr": "le filleul/la filleule", "example": "Sou padrinho de tres afilhados.", "audio_hint": "'lh' = [L]" },
+          { "pt": "o enteado/a enteada", "fr": "le beau-fils/la belle-fille (enfant)", "example": "O meu enteado tem dez anos.", "audio_hint": "'en' nasalise" }
+        ],
+        "B1": [
+          { "pt": "a familia alargada", "fr": "la famille elargie", "example": "Reunimos a familia alargada no Natal.", "audio_hint": "Expression composee" },
+          { "pt": "o convivio", "fr": "la convivialite/reunion familiale", "example": "O convivio de familia e ao domingo.", "audio_hint": "Specifique a la culture PT" },
+          { "pt": "a gravidez", "fr": "la grossesse", "example": "A gravidez esta a correr bem.", "audio_hint": "'z' final = [sh] en PT-PT" },
+          { "pt": "criar", "fr": "elever (enfant)", "example": "Criar filhos e um desafio.", "audio_hint": "Verbe regulier en -ar" },
+          { "pt": "a educacao", "fr": "l'education", "example": "A educacao dos filhos e importante.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o conflito", "fr": "le conflit", "example": "Resolvemos o conflito familiar.", "audio_hint": "Prononciation standard" },
+          { "pt": "a confianca", "fr": "la confiance", "example": "A confianca e a base da relacao.", "audio_hint": "'c' cedille" },
+          { "pt": "a reconciliacao", "fr": "la reconciliation", "example": "A reconciliacao foi dificil.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "a heranca", "fr": "l'heritage", "example": "A heranca foi dividida pelos irmaos.", "audio_hint": "'c' cedille" },
+          { "pt": "o agregado familiar", "fr": "le foyer/menage", "example": "O agregado familiar tem quatro pessoas.", "audio_hint": "Terme administratif" }
+        ]
+      }
+    },
+    {
+      "id": "theme-015",
+      "name_fr": "Droit et administration",
+      "name_pt": "Direito e administracao",
+      "icon": "\u2696\ufe0f",
+      "levels": {
+        "B1": [
+          { "pt": "o bilhete de identidade", "fr": "la carte d'identite", "example": "Preciso de renovar o bilhete de identidade.", "audio_hint": "Remplace progressivement par le Cartao de Cidadao" },
+          { "pt": "o cartao de cidadao", "fr": "la carte de citoyen", "example": "O Cartao de Cidadao substitui o BI.", "audio_hint": "Document d'identite portugais actuel" },
+          { "pt": "o visto", "fr": "le visa", "example": "Preciso de um visto de residencia.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "a autorizacao de residencia", "fr": "le titre de sejour", "example": "A autorizacao de residencia e valida por dois anos.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "as Financas", "fr": "le centre des impots", "example": "Fui as Financas tratar do NIF.", "audio_hint": "'c' cedille" },
+          { "pt": "a Seguranca Social", "fr": "la Securite Sociale", "example": "Estou inscrito na Seguranca Social.", "audio_hint": "'c' cedille" },
+          { "pt": "a junta de freguesia", "fr": "la mairie de quartier", "example": "Fui a junta de freguesia pedir um atestado.", "audio_hint": "Division administrative typique PT" },
+          { "pt": "a camara municipal", "fr": "la mairie/municipalite", "example": "A Camara Municipal de Lisboa.", "audio_hint": "Accent sur le 'a' de 'camara'" },
+          { "pt": "o atestado", "fr": "l'attestation", "example": "Preciso de um atestado de residencia.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "a certidao", "fr": "le certificat/acte", "example": "A certidao de nascimento.", "audio_hint": "'ao' nasalise" },
+          { "pt": "o requerimento", "fr": "la demande (formulaire)", "example": "Preenchi o requerimento online.", "audio_hint": "'qu' = [k]" },
+          { "pt": "a conservatoria", "fr": "le bureau de l'etat civil", "example": "Fui a conservatoria registar o casamento.", "audio_hint": "Administration specifique PT" }
+        ],
+        "B2": [
+          { "pt": "o contencioso", "fr": "le contentieux", "example": "O caso foi para contencioso.", "audio_hint": "'en' nasalise" },
+          { "pt": "a procuracao", "fr": "la procuration", "example": "Passei uma procuracao ao advogado.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o recurso", "fr": "le recours", "example": "Vou apresentar recurso da decisao.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "a escritura", "fr": "l'acte notarie", "example": "A escritura da casa foi feita no notario.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "o notario", "fr": "le notaire", "example": "Fomos ao notario assinar a escritura.", "audio_hint": "Accent sur le 'a'" },
+          { "pt": "o tribunal", "fr": "le tribunal", "example": "O caso foi a tribunal.", "audio_hint": "Prononciation standard" },
+          { "pt": "o contribuinte", "fr": "le contribuable", "example": "Cada contribuinte tem um NIF.", "audio_hint": "'in' nasalise" },
+          { "pt": "a coima", "fr": "l'amende (administrative)", "example": "Levei uma coima por estacionamento ilegal.", "audio_hint": "'oi' = diphtongue [oj]" },
+          { "pt": "o alvara", "fr": "la licence/le permis (administratif)", "example": "O restaurante precisa de alvara.", "audio_hint": "Accent sur le dernier 'a'" },
+          { "pt": "a caducidade", "fr": "la peremption/expiration", "example": "A caducidade do documento e em 2025.", "audio_hint": "'c' devant 'a' = [k]" }
+        ],
+        "C1": [
+          { "pt": "a jurisprudencia", "fr": "la jurisprudence", "example": "A jurisprudencia do Supremo Tribunal.", "audio_hint": "'en' nasalise" },
+          { "pt": "o dispositivo legal", "fr": "le dispositif legal", "example": "O dispositivo legal preve sancoes.", "audio_hint": "'s' intervocalique = [z]" },
+          { "pt": "a arguicao", "fr": "la mise en examen", "example": "O suspeito foi constituido arguido.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o mandato", "fr": "le mandat", "example": "O mandato do presidente e de cinco anos.", "audio_hint": "'an' nasalise" },
+          { "pt": "a deliberacao", "fr": "la deliberation", "example": "A deliberacao da assembleia foi unanime.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o parecer", "fr": "l'avis (juridique)", "example": "O parecer juridico foi favoravel.", "audio_hint": "'c' devant 'e' = [s]" },
+          { "pt": "a impugnacao", "fr": "la contestation juridique", "example": "Apresentou uma impugnacao do ato administrativo.", "audio_hint": "'c' cedille + 'ao' nasalise" },
+          { "pt": "o despacho", "fr": "l'ordonnance/la decision (admin)", "example": "O despacho foi publicado em Diario da Republica.", "audio_hint": "'s' devant consonne = [sh]" },
+          { "pt": "a caducidade do contrato", "fr": "la resiliation du contrat", "example": "A caducidade do contrato ocorre em dezembro.", "audio_hint": "Expression juridique" },
+          { "pt": "o orgao de soberania", "fr": "l'organe de souverainete", "example": "O Presidente e um orgao de soberania.", "audio_hint": "Terme constitutionnel PT" }
+        ]
+      }
+    }
+  ]
+}

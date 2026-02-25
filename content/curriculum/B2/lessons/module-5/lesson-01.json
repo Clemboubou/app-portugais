@@ -1,0 +1,84 @@
+{
+  "id": "b2-m5-l01",
+  "title": "Le système politique portugais",
+  "type": "cultural",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Comprendre l'organisation politique du Portugal",
+    "Connaître les principales institutions (Assembleia, Presidente, Governo)",
+    "Acquérir le vocabulaire politique de base en portugais européen"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le Portugal : une république semi-présidentielle",
+      "content": "<p>Le Portugal est une <strong>república semi-presidencialista</strong> depuis la Révolution des Œillets du <strong>25 de Abril de 1974</strong>, qui a mis fin à la dictature de l'Estado Novo. La Constitution actuelle date de <strong>1976</strong>.</p><p>Le système repose sur trois piliers : le <strong>Presidente da República</strong>, l'<strong>Assembleia da República</strong> et le <strong>Governo</strong>.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les institutions portugaises",
+      "content": "<p><strong>O Presidente da República</strong></p><ul><li>Élu au suffrage universel direct pour 5 ans (maximum 2 mandats)</li><li>Chef de l'État, rôle d'arbitre</li><li>Peut dissoudre l'Assemblée et convoquer des élections</li><li>Peut opposer un veto aux lois (veto que l'Assemblée peut lever à la majorité absolue)</li></ul><p><strong>A Assembleia da República</strong></p><ul><li>Parlement unicaméral (une seule chambre) de 230 députés</li><li>Élus pour 4 ans à la proportionnelle</li><li>Vote les lois, approuve le budget de l'État</li></ul><p><strong>O Governo</strong></p><ul><li>Dirigé par le <em>Primeiro-Ministro</em>, nommé par le Président</li><li>Responsable devant l'Assemblée</li><li>Pouvoir exécutif : applique les lois, administre le pays</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire politique essentiel",
+      "content": "<p><strong>Institutions :</strong></p><ul><li><em>o Estado</em> — l'État</li><li><em>o Governo</em> — le gouvernement</li><li><em>o parlamento / a Assembleia da República</em> — le parlement</li><li><em>o deputado / a deputada</em> — le/la député(e)</li><li><em>o ministro / a ministra</em> — le/la ministre</li></ul><p><strong>Processus démocratique :</strong></p><ul><li><em>as eleições</em> — les élections</li><li><em>votar</em> — voter</li><li><em>o sufrágio universal</em> — le suffrage universel</li><li><em>a maioria absoluta</em> — la majorité absolue</li><li><em>a oposição</em> — l'opposition</li><li><em>o mandato</em> — le mandat</li></ul><p><strong>Le 25 avril :</strong></p><p>Le <em>25 de Abril</em> est le jour férié le plus symbolique du Portugal. Il commémore la Révolution des Œillets (<em>Revolução dos Cravos</em>) qui a renversé la dictature en 1974.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Comprendre le système",
+      "content": "<p>Vrai ou faux ? Corrigez les affirmations fausses :</p><ol><li><em>Portugal tem um parlamento com duas câmaras.</em> → <strong>Faux.</strong> L'Assembleia da República est unicamérale (uma só câmara).</li><li><em>O Presidente é eleito por sufrágio universal direto.</em> → <strong>Vrai.</strong></li><li><em>O Primeiro-Ministro é eleito diretamente pelo povo.</em> → <strong>Faux.</strong> Il est nommé par le Président, après les élections législatives.</li><li><em>A Revolução dos Cravos aconteceu em 1974.</em> → <strong>Vrai.</strong></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Comparer les systèmes",
+      "content": "<p>Rédigez en portugais (80-100 mots) une comparaison entre le système politique du Portugal et celui de la France :</p><p>Structures utiles :</p><ul><li><em>Ao contrário de França, Portugal tem...</em> (Contrairement à la France, le Portugal a...)</li><li><em>Tanto em Portugal como em França...</em> (Aussi bien au Portugal qu'en France...)</li><li><em>Uma diferença importante é que...</em> (Une différence importante est que...)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Combien de députés siègent à l'Assembleia da República ?",
+      "correctAnswer": "230",
+      "distractors": ["180", "300", "150"],
+      "explanation": "L'Assembleia da República compte 230 deputados, élus pour 4 ans à la proportionnelle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A Revolução dos ________ pôs fim à ditadura em 1974.",
+      "correctAnswer": "Cravos",
+      "explanation": "La 'Revolução dos Cravos' (Révolution des Œillets) — les soldats ont mis des œillets dans les canons de leurs fusils."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Le Premier ministre est nommé par le Président de la République.",
+      "correctAnswer": "O Primeiro-Ministro é nomeado pelo Presidente da República.",
+      "explanation": "'Nomear' = nommer. Passive : é nomeado (est nommé). 'Por + o' → 'pelo'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel type de système politique est le Portugal ?",
+      "correctAnswer": "Uma república semi-presidencialista",
+      "distractors": ["Uma monarquia constitucional", "Uma república federal", "Uma república parlamentar"],
+      "explanation": "Le Portugal est une république semi-présidentielle depuis 1976, avec un président élu et un gouvernement responsable devant le parlement."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O Presidente pode dissolver a ________ e convocar novas eleições.",
+      "correctAnswer": "Assembleia",
+      "explanation": "Le Président de la République a le pouvoir de dissoudre l'Assembleia da República et de convoquer de nouvelles élections."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "Assembleia da República", "phonetic": "/ɐsẽˈblɐjɐ dɐ ʁɨˈpublikɐ/", "french": "Assemblée de la République (parlement)"},
+    {"portuguese": "deputado", "phonetic": "/dɨpuˈtadu/", "french": "député"},
+    {"portuguese": "eleições", "phonetic": "/ɨlejˈsõj̃ʃ/", "french": "élections"},
+    {"portuguese": "sufrágio universal", "phonetic": "/suˈfɾaʒiu univɨɾˈsal/", "french": "suffrage universel"},
+    {"portuguese": "mandato", "phonetic": "/mɐ̃ˈdatu/", "french": "mandat"},
+    {"portuguese": "maioria absoluta", "phonetic": "/mɐjuˈɾiɐ ɐbsuˈlutɐ/", "french": "majorité absolue"},
+    {"portuguese": "Revolução dos Cravos", "phonetic": "/ʁɨvuluˈsɐ̃w̃ duʃ ˈkɾavuʃ/", "french": "Révolution des Œillets"},
+    {"portuguese": "ditadura", "phonetic": "/ditɐˈduɾɐ/", "french": "dictature"},
+    {"portuguese": "nomear", "phonetic": "/numiˈaɾ/", "french": "nommer"},
+    {"portuguese": "dissolver", "phonetic": "/disuɫˈveɾ/", "french": "dissoudre"}
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "b1-m3-l03",
+  "title": "Le subjonctif présent",
+  "type": "grammar",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Conjuguer les verbes réguliers et irréguliers au Presente do Conjuntivo",
+    "Identifier les déclencheurs du subjonctif (espero que, talvez, embora, para que)",
+    "Produire des phrases correctes avec le subjonctif présent"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le mode conjuntivo",
+      "content": "<p>Le <strong>Presente do Conjuntivo</strong> (subjonctif présent) exprime le doute, le souhait, la possibilité ou la nécessité. C'est un mode très utilisé en portugais européen, davantage qu'en français parlé.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Formation régulière",
+      "content": "<p>Le subjonctif présent se forme à partir de la 1ère personne du présent de l'indicatif, en changeant la voyelle thématique :</p><table><thead><tr><th>Personne</th><th>-AR (falar→fale)</th><th>-ER (comer→coma)</th><th>-IR (partir→parta)</th></tr></thead><tbody><tr><td>Eu</td><td>fale</td><td>coma</td><td>parta</td></tr><tr><td>Tu</td><td>fales</td><td>comas</td><td>partas</td></tr><tr><td>Ele/Ela</td><td>fale</td><td>coma</td><td>parta</td></tr><tr><td>Nós</td><td>falemos</td><td>comamos</td><td>partamos</td></tr><tr><td>Eles/Elas</td><td>falem</td><td>comam</td><td>partam</td></tr></tbody></table><p>Astuce : les verbes en -AR prennent un -E, et les verbes en -ER/-IR prennent un -A.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Irréguliers essentiels",
+      "content": "<p>Les verbes irréguliers les plus courants :</p><ul><li><strong>Ser</strong> : <em>seja, sejas, seja, sejamos, sejam</em></li><li><strong>Estar</strong> : <em>esteja, estejas, esteja, estejamos, estejam</em></li><li><strong>Ter</strong> : <em>tenha, tenhas, tenha, tenhamos, tenham</em></li><li><strong>Ir</strong> : <em>vá, vás, vá, vamos, vão</em></li><li><strong>Saber</strong> : <em>saiba, saibas, saiba, saibamos, saibam</em></li><li><strong>Haver</strong> : <em>haja, hajas, haja, hajamos, hajam</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Déclencheurs du subjonctif",
+      "content": "<p>Le subjonctif est déclenché par :</p><ul><li><strong>Souhait/espoir :</strong> <em>Espero que <strong>tenhas</strong> um bom dia.</em> (J'espère que tu aies une bonne journée.)</li><li><strong>Doute :</strong> <em>Talvez <strong>chova</strong> amanhã.</em> (Peut-être qu'il pleuvra demain.)</li><li><strong>Concession :</strong> <em>Embora <strong>esteja</strong> cansado, vou sair.</em> (Bien que je sois fatigué, je vais sortir.)</li><li><strong>But :</strong> <em>Estudo para que <strong>possamos</strong> conversar.</em> (J'étudie pour que nous puissions converser.)</li><li><strong>Nécessité :</strong> <em>É preciso que <strong>saibas</strong> a verdade.</em> (Il faut que tu saches la vérité.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Pratiquez le subjonctif",
+      "content": "<p>Complétez ces phrases avec le subjonctif :</p><ul><li><em>Espero que tu ________ (vir) à festa.</em> → venhas</li><li><em>Embora ele ________ (ser) simpático, não confio nele.</em> → seja</li><li><em>Talvez nós ________ (poder) ir ao cinema.</em> → possamos</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel est le subjonctif présent de 'ser' à la 3ème personne ?",
+      "correctAnswer": "seja",
+      "distractors": ["seia", "seje", "seija"],
+      "explanation": "Le subjonctif de 'ser' : seja, sejas, seja, sejamos, sejam."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Espero que tu ________ (estar) bem.",
+      "correctAnswer": "estejas",
+      "explanation": "'Espero que' déclenche le subjonctif. 'Estar' au subjonctif (tu) : estejas."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Bien qu'il fasse froid, je vais me promener.'",
+      "correctAnswer": "Embora faça frio, vou passear.",
+      "explanation": "'Embora' déclenche le subjonctif : 'faça' (subjonctif de 'fazer'). 'Passear' = se promener."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel mot déclenche toujours le subjonctif ?",
+      "correctAnswer": "talvez",
+      "distractors": ["sempre", "certamente", "realmente"],
+      "explanation": "'Talvez' (peut-être) déclenche toujours le subjonctif car il exprime le doute."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "É preciso que nós ________ (saber) a verdade.",
+      "correctAnswer": "saibamos",
+      "explanation": "'É preciso que' déclenche le subjonctif. 'Saber' → saibamos (nós)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "espero que", "phonetic": "/ɨʃˈpɛɾu kɨ/", "french": "j'espère que"},
+    {"portuguese": "talvez", "phonetic": "/talˈveʃ/", "french": "peut-être"},
+    {"portuguese": "embora", "phonetic": "/ẽˈboɾɐ/", "french": "bien que"},
+    {"portuguese": "para que", "phonetic": "/ˈpaɾɐ kɨ/", "french": "pour que"},
+    {"portuguese": "é preciso que", "phonetic": "/ɛ pɾɨˈsizu kɨ/", "french": "il faut que"},
+    {"portuguese": "duvido que", "phonetic": "/duˈvidu kɨ/", "french": "je doute que"},
+    {"portuguese": "antes que", "phonetic": "/ˈɐ̃tɨʃ kɨ/", "french": "avant que"},
+    {"portuguese": "sem que", "phonetic": "/sɐ̃j kɨ/", "french": "sans que"},
+    {"portuguese": "a menos que", "phonetic": "/ɐ ˈmɛnuʃ kɨ/", "french": "à moins que"}
+  ]
+}

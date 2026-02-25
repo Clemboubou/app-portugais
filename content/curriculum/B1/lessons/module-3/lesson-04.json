@@ -1,0 +1,83 @@
+{
+  "id": "b1-m3-l04",
+  "title": "Débattre d'un sujet de société",
+  "type": "conversation",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Participer à un débat structuré sur un sujet de société",
+    "Utiliser les expressions d'opinion, d'accord et de désaccord en contexte",
+    "Argumenter avec des connecteurs logiques simples"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le débat en portugais",
+      "content": "<p>Débattre d'un sujet de société requiert la maîtrise des expressions d'opinion, d'accord/désaccord, et des connecteurs logiques. C'est un exercice clé du niveau B1.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Sujets de débat courants",
+      "content": "<p>Au Portugal, les sujets de société qui font débat :</p><ul><li><em>A reciclagem</em> — le recyclage : <em>O que fazemos com o lixo?</em></li><li><em>Os transportes públicos</em> — les transports en commun : autocarros, comboios, metro</li><li><em>O turismo</em> — le tourisme : <em>O turismo está a destruir Lisboa?</em></li><li><em>A habitação</em> — le logement : <em>As rendas estão demasiado altas.</em></li><li><em>O ambiente</em> — l'environnement : energias renováveis, poluição</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structurer un argument",
+      "content": "<p>Pour construire un argument :</p><ol><li><strong>Thèse :</strong> <em>Na minha opinião, o turismo traz problemas a Lisboa.</em></li><li><strong>Argument :</strong> <em>Porque as rendas subiram muito nos últimos anos.</em></li><li><strong>Exemple :</strong> <em>Por exemplo, no bairro de Alfama, muitos habitantes tiveram de sair.</em></li><li><strong>Conclusion :</strong> <em>Portanto, é preciso encontrar um equilíbrio.</em></li></ol>"
+    },
+    {
+      "type": "practice",
+      "title": "Dialogue de débat",
+      "content": "<p><strong>Marta :</strong> <em>Acho que devíamos usar mais os transportes públicos.</em><br/><strong>João :</strong> <em>Concordo, mas os autocarros em Lisboa são muitas vezes atrasados.</em><br/><strong>Marta :</strong> <em>Tens razão, no entanto, o metro funciona bem. Além disso, é mais barato do que o carro.</em><br/><strong>João :</strong> <em>Sim, mas para quem mora fora de Lisboa, não há alternativa ao carro.</em><br/><strong>Marta :</strong> <em>Compreendo o teu ponto de vista. Portanto, é preciso investir mais nos transportes fora das grandes cidades.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Débattez !",
+      "content": "<p>Choisissez un sujet et préparez vos arguments :</p><ol><li><em>As redes sociais são úteis ou perigosas?</em></li><li><em>O teletrabalho é bom para os trabalhadores?</em></li><li><em>Portugal devia investir mais em energias renováveis?</em></li></ol><p>Utilisez : <em>na minha opinião, porque, por exemplo, portanto, no entanto, além disso</em>.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'les transports en commun' en portugais européen ?",
+      "correctAnswer": "os transportes públicos",
+      "distractors": ["os transportes comuns", "os meios de transporte comum", "as conduções públicas"],
+      "explanation": "'Os transportes públicos' est l'expression standard en PT-EU."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________, é preciso investir mais em energias renováveis.",
+      "correctAnswer": "Portanto",
+      "explanation": "'Portanto' = donc, par conséquent. Connecteur de conclusion."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'De plus, le recyclage est important pour l'environnement.'",
+      "correctAnswer": "Além disso, a reciclagem é importante para o ambiente.",
+      "explanation": "'Além disso' = de plus. 'O ambiente' = l'environnement (PT-EU, pas 'meio ambiente')."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel mot portugais européen désigne le bus ?",
+      "correctAnswer": "autocarro",
+      "distractors": ["ônibus", "bus", "camioneta"],
+      "explanation": "En PT-EU, on dit 'autocarro'. 'Ônibus' est la forme brésilienne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "As ________ estão demasiado altas em Lisboa.",
+      "correctAnswer": "rendas",
+      "explanation": "'As rendas' = les loyers. Un sujet de débat majeur au Portugal."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "reciclagem", "phonetic": "/ʁɨsikˈlaʒɐ̃j/", "french": "recyclage"},
+    {"portuguese": "transportes públicos", "phonetic": "/tɾɐ̃ʃˈpɔɾtɨʃ ˈpublikuʃ/", "french": "transports en commun"},
+    {"portuguese": "turismo", "phonetic": "/tuˈɾiʒmu/", "french": "tourisme"},
+    {"portuguese": "habitação", "phonetic": "/ɐbitɐˈsɐ̃w/", "french": "logement"},
+    {"portuguese": "renda", "phonetic": "/ˈʁẽdɐ/", "french": "loyer"},
+    {"portuguese": "equilíbrio", "phonetic": "/ɨkiˈlibɾju/", "french": "équilibre"},
+    {"portuguese": "autocarro", "phonetic": "/awtuˈkaʁu/", "french": "bus"},
+    {"portuguese": "comboio", "phonetic": "/kõˈboju/", "french": "train"},
+    {"portuguese": "ambiente", "phonetic": "/ɐ̃biˈẽtɨ/", "french": "environnement"}
+  ]
+}

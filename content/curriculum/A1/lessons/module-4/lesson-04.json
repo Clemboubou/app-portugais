@@ -1,0 +1,154 @@
+{
+  "id": "a1-m4-l04",
+  "title": "Les verbes TER et IR",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Conjuguer le verbe ter (avoir) au présent de l'indicatif en portugais européen",
+    "Conjuguer le verbe ir (aller) au présent de l'indicatif en portugais européen",
+    "Former le futur proche avec ir + infinitif pour exprimer une intention ou un projet"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Deux verbes essentiels : ter et ir",
+      "content": "Dans cette leçon, vous allez étudier deux verbes irréguliers fondamentaux du portugais européen : ter (avoir) et ir (aller). Ces deux verbes sont indispensables pour communiquer au quotidien. Ter s'utilise pour exprimer la possession et dans de nombreuses expressions idiomatiques. Ir s'utilise non seulement pour parler de déplacements, mais aussi pour former le futur proche, une construction très fréquente dans la langue parlée."
+    },
+    {
+      "type": "discovery",
+      "title": "La conjugaison de TER — avoir",
+      "content": "Le verbe TER (avoir) au présent de l'indicatif :\n\n| Personne     | Forme     | Prononciation       |\n|--------------|-----------|---------------------|\n| eu           | tenho     | /ˈtɐɲu/             |\n| tu           | tens      | /tɐ̃jʃ/              |\n| ele/ela/você | tem       | /tɐ̃j/               |\n| nós          | temos     | /ˈtemuʃ/            |\n| eles/elas/vocês | têm   | /tɐ̃j/               |\n\nExemples d'utilisation :\n• Eu tenho fome. (J'ai faim.)\n• Tu tens um cartão? (Tu as une carte ?)\n• Ele tem troco. (Il a de la monnaie.)\n• Nós temos tempo. (Nous avons le temps.)\n• Eles têm filhos. (Ils ont des enfants.)\n\nNote : au Portugal, nós est couramment utilisé, mais vous entendrez aussi a gente (+ 3e pers. sing.) en langue familière."
+    },
+    {
+      "type": "discovery",
+      "title": "La conjugaison de IR — aller",
+      "content": "Le verbe IR (aller) au présent de l'indicatif :\n\n| Personne     | Forme  | Prononciation  |\n|--------------|--------|----------------|\n| eu           | vou    | /vo/           |\n| tu           | vais   | /vajʃ/         |\n| ele/ela/você | vai    | /vaj/          |\n| nós          | vamos  | /ˈvɐmuʃ/       |\n| eles/elas/vocês | vão | /vɐ̃w̃/          |\n\nExemples d'utilisation :\n• Eu vou ao supermercado. (Je vais au supermarché.)\n• Tu vais ao restaurante? (Tu vas au restaurant ?)\n• Ela vai à padaria. (Elle va à la boulangerie.)\n• Nós vamos ao café. (Nous allons au café.)\n• Eles vão ao mercado. (Ils vont au marché.)\n\nNote : a + o = ao / a + a = à (contraction obligatoire en portugais européen)."
+    },
+    {
+      "type": "explanation",
+      "title": "IR + infinitif — le futur proche",
+      "content": "En portugais européen, comme en français, on utilise ir + infinitif pour exprimer une action future ou une intention proche :\n\nStructure : [forme de ir] + [infinitif du verbe]\n\nExemples :\n• Vou comer uma sopa. → Je vais manger une soupe.\n• Vais pagar com cartão? → Tu vas payer par carte ?\n• Ela vai comprar pão. → Elle va acheter du pain.\n• Vamos jantar fora. → Nous allons dîner dehors.\n• Vão trazer a conta? → Ils vont apporter l'addition ?\n\nCette construction est très fréquente dans la langue quotidienne, à l'oral comme à l'écrit. Elle est préférable au futur simple pour exprimer des projets imminents ou des intentions."
+    },
+    {
+      "type": "practice",
+      "title": "Identifier et utiliser les formes",
+      "content": "Complétez mentalement ces phrases :\n\n1. Eu ___ (ter) sede. → Eu tenho sede. (J'ai soif.)\n2. Tu ___ (ir) ao café? → Tu vais ao café?\n3. Ela ___ (ir) comprar fruta. → Ela vai comprar fruta.\n4. Nós ___ (ter) uma reserva. → Nós temos uma reserva.\n5. Eles ___ (ir) pagar a conta. → Eles vão pagar a conta.\n\nAstuce : mémorisez les formes eu (tenho / vou), tu (tens / vais) et ele/ela (tem / vai) en priorité — elles sont les plus utilisées en conversation."
+    },
+    {
+      "type": "production",
+      "title": "À vous de jouer",
+      "content": "Traduisez ces phrases en portugais européen :\n1. J'ai faim. (avoir faim = ter fome)\n2. Nous allons au restaurant.\n3. Tu as de la monnaie ?\n4. Elle va commander une salade.\n5. Ils ont du pain.\n\nRéponses : 1. Tenho fome. | 2. Vamos ao restaurante. | 3. Tens troco? | 4. Ela vai pedir uma salada. | 5. Eles têm pão."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme correcte de TER à la 1re personne du singulier (eu) en portugais européen ?",
+      "correctAnswer": "tenho",
+      "distractors": ["teno", "tengo", "tem"],
+      "explanation": "La conjugaison de ter est irrégulière : eu tenho. Attention à ne pas confondre avec tem (3e personne du singulier). La forme tenho est spécifique au portugais européen standard."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Conjuguez IR : « Ela ___ ao supermercado amanhã. » (Elle va au supermarché demain.)",
+      "correctAnswer": "vai",
+      "distractors": ["vou", "vais", "vão"],
+      "explanation": "Ela est la 3e personne du singulier. La forme correspondante de ir est vai. Vou = eu, vais = tu, vão = eles/elas."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Nous allons manger une soupe et du pain. »",
+      "correctAnswer": "Vamos comer uma sopa e pão.",
+      "distractors": [
+        "Vamos a comer uma sopa e pão.",
+        "Nós vais comer uma sopa e pão.",
+        "Vamos comendo uma sopa e pão."
+      ],
+      "explanation": "Le futur proche se forme avec ir + infinitif sans préposition : vamos comer (et non ~~vamos a comer~~). L'insertion de la préposition a avant l'infinitif est un trait du portugais brésilien, absent en portugais européen standard."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on « Ils ont de l'argent » en portugais européen ?",
+      "correctAnswer": "Eles têm dinheiro.",
+      "distractors": [
+        "Eles tem dinheiro.",
+        "Eles tenho dinheiro.",
+        "Eles temos dinheiro."
+      ],
+      "explanation": "La 3e personne du pluriel de ter est têm (avec accent circonflexe sur le e pour la distinguer de tem, 3e personne du singulier). C'est une distinction importante en portugais européen écrit et oral."
+    },
+    {
+      "type": "error_detection",
+      "prompt": "Trouvez l'erreur : « Tu vou pagar com cartão. »",
+      "correctAnswer": "Il faut dire « Tu vais pagar com cartão. » — vou est la forme de eu, pas de tu.",
+      "distractors": [
+        "Il faut dire « Tu vai pagar com cartão. »",
+        "Il faut dire « Tu vamos pagar com cartão. »",
+        "La phrase est correcte."
+      ],
+      "explanation": "Les formes de ir sont : eu vou, tu vais, ele/ela vai, nós vamos, eles/elas vão. Vou correspond uniquement à eu (je). Pour tu (tu), la forme est vais."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "ter",
+      "phonetic": "/ˈteɾ/",
+      "french": "avoir"
+    },
+    {
+      "portuguese": "tenho",
+      "phonetic": "/ˈtɐɲu/",
+      "french": "j'ai"
+    },
+    {
+      "portuguese": "tens",
+      "phonetic": "/tɐ̃jʃ/",
+      "french": "tu as"
+    },
+    {
+      "portuguese": "tem",
+      "phonetic": "/tɐ̃j/",
+      "french": "il/elle a"
+    },
+    {
+      "portuguese": "temos",
+      "phonetic": "/ˈtemuʃ/",
+      "french": "nous avons"
+    },
+    {
+      "portuguese": "têm",
+      "phonetic": "/tɐ̃j/",
+      "french": "ils/elles ont"
+    },
+    {
+      "portuguese": "ir",
+      "phonetic": "/iɾ/",
+      "french": "aller"
+    },
+    {
+      "portuguese": "vou",
+      "phonetic": "/vo/",
+      "french": "je vais"
+    },
+    {
+      "portuguese": "vais",
+      "phonetic": "/vajʃ/",
+      "french": "tu vas"
+    },
+    {
+      "portuguese": "vai",
+      "phonetic": "/vaj/",
+      "french": "il/elle va"
+    },
+    {
+      "portuguese": "vamos",
+      "phonetic": "/ˈvɐmuʃ/",
+      "french": "nous allons"
+    },
+    {
+      "portuguese": "vão",
+      "phonetic": "/vɐ̃w̃/",
+      "french": "ils/elles vont"
+    }
+  ]
+}

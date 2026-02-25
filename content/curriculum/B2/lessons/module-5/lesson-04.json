@@ -1,0 +1,84 @@
+{
+  "id": "b2-m5-l04",
+  "title": "Débattre d'un enjeu politique",
+  "type": "conversation",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Argumenter et contre-argumenter dans un débat en portugais",
+    "Utiliser les connecteurs logiques pour structurer un argument",
+    "Concéder un point avant de présenter son contre-argument"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'art du débat en portugais",
+      "content": "<p>Débattre en langue étrangère est l'une des compétences les plus exigeantes du niveau B2. Il faut pouvoir <strong>présenter un argument</strong>, <strong>concéder</strong> un point à l'adversaire, puis <strong>réfuter</strong> avec une contre-argumentation structurée — le tout de manière fluide et respectueuse.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Un débat modèle",
+      "content": "<p>Thème : <em>Deve o turismo ser limitado em Lisboa?</em></p><p><strong>Posição A (a favor) :</strong></p><p><em>«<strong>Na minha opinião</strong>, o turismo de massa deve ser regulamentado em Lisboa. <strong>Em primeiro lugar</strong>, os preços das rendas dispararam, expulsando os lisboetas dos bairros históricos. <strong>Além disso</strong>, o excesso de turistas degrada a qualidade de vida dos residentes. <strong>É verdade que</strong> o turismo traz riqueza, <strong>mas</strong> não podemos sacrificar a identidade da cidade.»</em></p><p><strong>Posição B (contra) :</strong></p><p><em>«<strong>Compreendo o seu ponto de vista, no entanto</strong>, limitar o turismo seria um erro económico. O setor turístico representa 15% do PIB e emprega milhares de pessoas. <strong>Concordo que</strong> há problemas, <strong>mas a solução não passa por</strong> limitar, e sim por gerir melhor. <strong>Proponho antes que</strong> se diversifique o turismo para outras regiões do país.»</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structures pour le débat",
+      "content": "<p><strong>Présenter un argument :</strong></p><ul><li><em>Na minha opinião...</em> (À mon avis...)</li><li><em>Em primeiro lugar... Em segundo lugar...</em> (En premier lieu... En second lieu...)</li><li><em>Além disso...</em> (De plus...)</li><li><em>Convém salientar que...</em> (Il convient de souligner que...)</li></ul><p><strong>Concéder :</strong></p><ul><li><em>É verdade que... mas...</em> (C'est vrai que... mais...)</li><li><em>Concordo que... no entanto...</em> (Je suis d'accord que... cependant...)</li><li><em>Compreendo o seu ponto de vista, mas...</em> (Je comprends votre point de vue, mais...)</li></ul><p><strong>Réfuter :</strong></p><ul><li><em>A solução não passa por...</em> (La solution ne consiste pas à...)</li><li><em>Os dados mostram que...</em> (Les données montrent que...)</li><li><em>Proponho antes que...</em> (Je propose plutôt que...)</li></ul><p><strong>Conclure :</strong></p><ul><li><em>Em conclusão...</em> (En conclusion...)</li><li><em>Parece-me evidente que...</em> (Il me semble évident que...)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Construire un argument",
+      "content": "<p>Complétez cet argument :</p><p><em>________ (à mon avis), a energia nuclear deveria ser reconsiderada em Portugal. ________ (en premier lieu), é uma fonte de energia que não emite CO₂. ________ (de plus), os avanços tecnológicos tornaram as centrais mais seguras. ________ (il est vrai que) existem riscos, ________ (mais) os benefícios superam os inconvenientes.</em></p><p><strong>Réponses :</strong> Na minha opinião / Em primeiro lugar / Além disso / É verdade que / mas</p>"
+    },
+    {
+      "type": "production",
+      "title": "Votre débat",
+      "content": "<p>Choisissez un sujet et préparez <strong>deux interventions</strong> (pour et contre, 60-80 mots chacune) :</p><ol><li><em>Deve Portugal investir mais em energias renováveis?</em></li><li><em>O teletrabalho deveria ser obrigatório dois dias por semana?</em></li><li><em>As propinas universitárias devem ser abolidas?</em></li></ol><p>Chaque intervention doit contenir : 1 argument principal, 1 concession, 1 conclusion.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment concéder un point avant de réfuter en portugais ?",
+      "correctAnswer": "É verdade que... mas...",
+      "distractors": ["Nunca é verdade que...", "Sem dúvida... portanto...", "Claro que não... aliás..."],
+      "explanation": "'É verdade que... mas...' permet de reconnaître la validité d'un argument adverse avant de présenter sa réfutation."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ o seu ponto de vista, no entanto, não concordo com a conclusão.",
+      "correctAnswer": "Compreendo",
+      "explanation": "'Compreendo o seu ponto de vista' = Je comprends votre point de vue. Formule de concession polie avant une réfutation."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : La solution ne consiste pas à interdire, mais à réglementer.",
+      "correctAnswer": "A solução não passa por proibir, mas sim por regulamentar.",
+      "explanation": "'A solução não passa por' + infinitif = la solution ne consiste pas à. 'Mas sim por' = mais plutôt à."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel connecteur signifie 'de plus' ?",
+      "correctAnswer": "Além disso",
+      "distractors": ["Apesar disso", "Em vez disso", "Por isso"],
+      "explanation": "'Além disso' = de plus. 'Apesar disso' = malgré cela. 'Em vez disso' = au lieu de cela. 'Por isso' = c'est pourquoi."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Os dados ________ que a economia cresceu 2% no último ano.",
+      "correctAnswer": "mostram",
+      "explanation": "'Os dados mostram que' = les données montrent que. Utilisé pour appuyer un argument avec des faits."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "regulamentar", "phonetic": "/ʁɨɡulɐmẽˈtaɾ/", "french": "réglementer"},
+    {"portuguese": "proibir", "phonetic": "/pɾuiˈbiɾ/", "french": "interdire"},
+    {"portuguese": "propor", "phonetic": "/pɾuˈpoɾ/", "french": "proposer"},
+    {"portuguese": "conceder", "phonetic": "/kõsɨˈdeɾ/", "french": "concéder"},
+    {"portuguese": "refutar", "phonetic": "/ʁɨfuˈtaɾ/", "french": "réfuter"},
+    {"portuguese": "convém salientar", "phonetic": "/kõˈvẽj̃ sɐliẽˈtaɾ/", "french": "il convient de souligner"},
+    {"portuguese": "propinas", "phonetic": "/pɾuˈpinɐʃ/", "french": "frais de scolarité (PT-PT)"},
+    {"portuguese": "energia renovável", "phonetic": "/enɨɾˈʒiɐ ʁɨnuˈvavɛl/", "french": "énergie renouvelable"},
+    {"portuguese": "dados", "phonetic": "/ˈdaduʃ/", "french": "données"},
+    {"portuguese": "ponto de vista", "phonetic": "/ˈpõtu dɨ ˈviʃtɐ/", "french": "point de vue"}
+  ]
+}

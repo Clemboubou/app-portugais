@@ -1,0 +1,83 @@
+{
+  "id": "b1-m5-l03",
+  "title": "Les fêtes populaires",
+  "type": "cultural",
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Découvrir les principales fêtes populaires portugaises",
+    "Connaître le vocabulaire des festivités et traditions",
+    "Décrire une fête ou un événement culturel"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le Portugal en fête",
+      "content": "<p>Les <strong>fêtes populaires</strong> (<em>festas populares</em>) rythment la vie au Portugal, surtout en juin. Ces célébrations mêlent traditions religieuses, musique, danse et gastronomie. Elles sont l'occasion de découvrir le Portugal authentique et de pratiquer la langue dans un contexte festif.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les Santos Populares",
+      "content": "<p>Les <strong>Santos Populares</strong> (Saints Populaires) sont les fêtes les plus emblématiques :</p><ul><li><strong>Santo António</strong> (13 juin) — fête de Lisbonne. Saint patron de la ville. Défilés (<em>marchas populares</em>) sur l'Avenida da Liberdade, sardines grillées dans les rues d'Alfama, petits autels (<em>tronos</em>) dans les quartiers</li><li><strong>São João</strong> (24 juin) — fête de Porto. La nuit la plus folle de l'année ! Les gens se frappent la tête avec des marteaux en plastique (<em>martelos</em>) ou des poireaux (<em>alho-porro</em>), feux d'artifice, lanternes volantes (<em>balões de São João</em>)</li><li><strong>São Pedro</strong> (29 juin) — fête dans plusieurs villes, notamment Sintra et Évora</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Autres fêtes importantes",
+      "content": "<p>Au-delà des Santos Populares :</p><ul><li><strong>Carnaval</strong> — les plus célèbres : Torres Vedras (le plus portugais), Loures, Ovar</li><li><strong>Festas dos Tabuleiros</strong> (Tomar) — tous les 4 ans, les femmes portent d'impressionnants plateaux de pain sur la tête</li><li><strong>Romarias</strong> — pèlerinages/fêtes religieuses dans le nord, notamment la <em>Romaria de Nossa Senhora da Agonia</em> (Viana do Castelo, août)</li><li><strong>Natal</strong> (Noël) — <em>consoada</em> (repas du réveillon), <em>bacalhau cozido</em> le 24 décembre</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Vocabulaire des festivités",
+      "content": "<p>Mots utiles pour décrire une fête :</p><ul><li><em>o arraial</em> — fête en plein air, verbena</li><li><em>o desfile</em> — défilé</li><li><em>os fogos de artifício</em> — feux d'artifice</li><li><em>a música ao vivo</em> — musique en direct</li><li><em>a procissão</em> — procession (religieuse)</li><li><em>os manjericos</em> — petits pots de basilic (symbole des Santos Populares)</li></ul><p>Exemple : <em>No São João, há fogos de artifício à meia-noite e música ao vivo por toda a cidade.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Décrire une fête",
+      "content": "<p>Répondez en portugais :</p><ol><li><em>Gostaria de participar nos Santos Populares? Porquê?</em></li><li><em>Descreva uma festa popular do seu país.</em></li><li><em>Qual é a diferença entre uma festa popular e uma festa religiosa?</em></li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel saint est le patron de Lisbonne ?",
+      "correctAnswer": "Santo António",
+      "distractors": ["São João", "São Pedro", "São Jorge"],
+      "explanation": "Santo António est le saint patron de Lisbonne. Sa fête est le 13 juin."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "No São João, as pessoas batem-se com ________ de plástico.",
+      "correctAnswer": "martelos",
+      "explanation": "'Martelos' = marteaux. C'est une tradition typique de Porto pendant la nuit de São João."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Il y a des feux d'artifice à minuit.'",
+      "correctAnswer": "Há fogos de artifício à meia-noite.",
+      "explanation": "'Fogos de artifício' = feux d'artifice. 'Meia-noite' = minuit."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que mange-t-on traditionnellement au réveillon de Noël au Portugal ?",
+      "correctAnswer": "Bacalhau cozido (morue bouillie)",
+      "distractors": ["Peru assado (dinde rôtie)", "Leitão (cochon de lait)", "Francesinha"],
+      "explanation": "La 'consoada' (repas du réveillon) au Portugal inclut traditionnellement du bacalhau cozido le 24 décembre."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Os ________ são pequenos vasos de manjericão, símbolo dos Santos Populares.",
+      "correctAnswer": "manjericos",
+      "explanation": "'Manjericos' = petits pots de basilic décorés. Ils sont offerts comme cadeau pendant les Santos Populares."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "festas populares", "phonetic": "/ˈfɛʃtɐʃ pupuˈlaɾɨʃ/", "french": "fêtes populaires"},
+    {"portuguese": "arraial", "phonetic": "/ɐʁɐˈjal/", "french": "fête en plein air, verbena"},
+    {"portuguese": "desfile", "phonetic": "/dɨʃˈfilɨ/", "french": "défilé"},
+    {"portuguese": "fogos de artifício", "phonetic": "/ˈfoɡuʃ dɨ ɐɾtiˈfisiu/", "french": "feux d'artifice"},
+    {"portuguese": "procissão", "phonetic": "/pɾusiˈsɐ̃w/", "french": "procession"},
+    {"portuguese": "manjericos", "phonetic": "/mɐ̃ʒɨˈɾikuʃ/", "french": "pots de basilic (tradition)"},
+    {"portuguese": "sardinha assada", "phonetic": "/sɐɾˈdiɲɐ ɐˈsadɐ/", "french": "sardine grillée"},
+    {"portuguese": "romaria", "phonetic": "/ʁumɐˈɾiɐ/", "french": "pèlerinage / fête religieuse"},
+    {"portuguese": "consoada", "phonetic": "/kõsuˈadɐ/", "french": "repas du réveillon de Noël"}
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "texts": [
+    {
+      "id": "r-a2-01",
+      "title": "Um e-mail de trabalho",
+      "content": "Caro Senhor Silva,\n\nEscrevo para confirmar a reunião de amanhã, terça-feira, às quinze horas na sala de conferências. A ordem do dia inclui a apresentação do novo projeto e a discussão do orçamento para o próximo trimestre.\n\nPor favor, traga os relatórios de vendas do mês passado. Se tiver alguma dúvida, não hesite em contactar-me.\n\nCom os melhores cumprimentos,\nAna Rodrigues\nDiretora de Marketing",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "Quel est l'objet principal de l'e-mail ?", "options": ["Annuler une réunion", "Confirmer une réunion", "Demander des vacances", "Présenter un nouveau collègue"], "answer": 1 },
+        { "id": "q2", "type": "true_false", "question": "La réunion est prévue le matin.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Que doit apporter le destinataire ?", "options": ["Son ordinateur", "Les rapports de ventes", "Le contrat", "Des photos"], "answer": 1 },
+        { "id": "q4", "type": "true_false", "question": "Ana Rodrigues est directrice marketing.", "answer": true }
+      ]
+    },
+    {
+      "id": "r-a2-02",
+      "title": "Anúncio de emprego",
+      "content": "PROCURA-SE EMPREGADO DE MESA\n\nRestaurante tradicional no Bairro Alto, Lisboa, procura empregado de mesa com experiência mínima de um ano. Horário: das onze às quinze e das dezoito às vinte e três horas, de terça a sábado. Folga ao domingo e segunda-feira.\n\nRequisitos:\n- Português fluente (inglês é uma mais-valia)\n- Boa apresentação\n- Disponibilidade imediata\n\nSalário: novecentos euros + gorjetas\nContacto: enviar CV para restaurante@email.pt",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "Quel poste est proposé ?", "options": ["Cuisinier", "Serveur", "Gérant", "Barman"], "answer": 1 },
+        { "id": "q2", "type": "true_false", "question": "Le restaurant est ouvert le dimanche.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Combien d'expérience est demandée ?", "options": ["Aucune", "Six mois", "Un an minimum", "Deux ans"], "answer": 2 },
+        { "id": "q4", "type": "true_false", "question": "La connaissance de l'anglais est obligatoire.", "answer": false }
+      ]
+    },
+    {
+      "id": "r-a2-03",
+      "title": "Blog de viagem",
+      "content": "O meu fim de semana no Alentejo\n\nNo sábado passado, saí de Lisboa de carro e fui até Évora, a capital do Alentejo. A viagem demorou cerca de uma hora e meia. Visitei o Templo Romano, que tem mais de dois mil anos, e a Capela dos Ossos, que é um pouco assustadora mas muito interessante.\n\nAlmocei num restaurante típico e comi migas com carne de porco — uma especialidade da região. À tarde, passeei pelas ruas antigas da cidade e comprei queijo e azeite numa loja local.\n\nNo domingo, fui até a aldeia de Monsaraz e fiquei impressionado com a vista para o lago. Recomendo a todos!",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "Combien de temps dure le trajet Lisboa-Évora ?", "options": ["30 minutes", "1 heure", "1h30", "2 heures"], "answer": 2 },
+        { "id": "q2", "type": "true_false", "question": "L'auteur a visité le Temple Romain.", "answer": true },
+        { "id": "q3", "type": "mcq", "question": "Qu'a-t-il mangé au déjeuner ?", "options": ["Du poisson grillé", "Des migas avec du porc", "Des pastéis de nata", "Du bacalhau"], "answer": 1 },
+        { "id": "q4", "type": "true_false", "question": "L'auteur n'a pas aimé Monsaraz.", "answer": false }
+      ]
+    },
+    {
+      "id": "r-a2-04",
+      "title": "Regulamento do condomínio",
+      "content": "REGULAMENTO DO CONDOMÍNIO — Edifício Sol Nascente\n\n1. O horário de silêncio é das vinte e duas horas às oito horas.\n2. É proibido estender roupa nas varandas da frente do edifício.\n3. Os animais de estimação devem ser levados à trela nas áreas comuns.\n4. O lixo deve ser colocado nos contentores adequados (reciclagem separada).\n5. O estacionamento na garagem é limitado a um lugar por fração.\n6. As obras nos apartamentos só podem ser realizadas entre as nove e as dezoito horas, de segunda a sexta.\n7. A utilização da piscina é permitida entre maio e setembro, das dez às vinte horas.",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "Quelles sont les heures de silence ?", "options": ["20h-7h", "22h-8h", "23h-9h", "21h-7h"], "answer": 1 },
+        { "id": "q2", "type": "true_false", "question": "On peut étendre du linge sur les balcons avant.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Quand peut-on utiliser la piscine ?", "options": ["Toute l'année", "De juin à août", "De mai à septembre", "De juillet à septembre"], "answer": 2 },
+        { "id": "q4", "type": "true_false", "question": "On peut faire des travaux le samedi.", "answer": false }
+      ]
+    },
+    {
+      "id": "r-a2-05",
+      "title": "Notícia de jornal",
+      "content": "Lisboa eleita melhor destino city break da Europa\n\nPelo quinto ano consecutivo, Lisboa foi eleita o melhor destino de city break da Europa nos World Travel Awards, considerados os Óscares do turismo.\n\nA capital portuguesa recebeu mais de sete milhões de turistas no ano passado, um aumento de doze por cento em relação ao ano anterior. Os visitantes destacam a gastronomia, o clima ameno, a simpatia dos portugueses e os preços acessíveis em comparação com outras capitais europeias.\n\nO presidente da Câmara de Lisboa agradeceu o prémio e prometeu continuar a investir na qualidade dos serviços turísticos, mantendo ao mesmo tempo a identidade cultural da cidade.",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "Combien de fois Lisbonne a-t-elle reçu ce prix ?", "options": ["Pour la première fois", "Pour la troisième fois", "Pour la cinquième fois", "Pour la dixième fois"], "answer": 2 },
+        { "id": "q2", "type": "true_false", "question": "Le nombre de touristes a diminué.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Qu'est-ce que les visiteurs apprécient le plus ?", "options": ["Les musées", "La gastronomie et le climat", "Les monuments", "Les plages"], "answer": 1 },
+        { "id": "q4", "type": "true_false", "question": "Le maire veut préserver l'identité culturelle.", "answer": true }
+      ]
+    }
+  ]
+}

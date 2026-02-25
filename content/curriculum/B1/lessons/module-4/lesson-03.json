@@ -1,0 +1,82 @@
+{
+  "id": "b1-m4-l03",
+  "title": "Le conditionnel",
+  "type": "grammar",
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Conjuguer les verbes réguliers et irréguliers au conditionnel (Condicional)",
+    "Utiliser le conditionnel pour exprimer des souhaits et des hypothèses",
+    "Distinguer le conditionnel de l'imparfait de courtoisie"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le Condicional en portugais européen",
+      "content": "<p>Le <strong>Condicional</strong> (ou <em>futuro do pretérito</em>) en portugais européen est utilisé pour exprimer des souhaits, des hypothèses et des conseils. Contrairement au français, en portugais européen oral, l'<strong>imparfait</strong> est souvent préféré au conditionnel pour la politesse. Mais le conditionnel reste essentiel à l'écrit et dans un registre formel.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Formation du conditionnel régulier",
+      "content": "<p>Le conditionnel se forme à partir de l'<strong>infinitif</strong> + terminaisons :</p><table><thead><tr><th>Personne</th><th>Falar</th><th>Comer</th><th>Partir</th></tr></thead><tbody><tr><td>Eu</td><td>falaria</td><td>comeria</td><td>partiria</td></tr><tr><td>Tu</td><td>falarias</td><td>comerias</td><td>partirias</td></tr><tr><td>Ele/Ela/Você</td><td>falaria</td><td>comeria</td><td>partiria</td></tr><tr><td>Nós</td><td>falaríamos</td><td>comeríamos</td><td>partiríamos</td></tr><tr><td>Eles/Elas/Vocês</td><td>falariam</td><td>comeriam</td><td>partiriam</td></tr></tbody></table><p>Les terminaisons sont les mêmes pour les trois groupes : <strong>-ia, -ias, -ia, -íamos, -iam</strong>.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Verbes irréguliers au conditionnel",
+      "content": "<p>Les mêmes verbes irréguliers au futur le sont aussi au conditionnel :</p><ul><li><strong>Fazer</strong> → <em>faria, farias, faria, faríamos, fariam</em></li><li><strong>Dizer</strong> → <em>diria, dirias, diria, diríamos, diriam</em></li><li><strong>Trazer</strong> → <em>traria, trarias, traria, traríamos, trariam</em></li></ul><p>Le radical est raccourci (faz- → far-, diz- → dir-, traz- → trar-), puis on ajoute les mêmes terminaisons.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Usages du conditionnel",
+      "content": "<p>Le conditionnel s'utilise pour :</p><ul><li><strong>Souhaits</strong> : <em>Gostaria de visitar o Algarve.</em> (J'aimerais visiter l'Algarve.)</li><li><strong>Conseils</strong> : <em>No seu lugar, eu faria diferente.</em> (À votre place, je ferais différemment.)</li><li><strong>Hypothèses</strong> : <em>Com mais dinheiro, viajaria todos os meses.</em> (Avec plus d'argent, je voyagerais tous les mois.)</li><li><strong>Discours indirect passé</strong> : <em>Ele disse que viria amanhã.</em> (Il a dit qu'il viendrait demain.)</li></ul><p><strong>Note PE</strong> : En portugais européen oral, on préfère souvent l'imparfait : <em>Eu queria um café</em> plutôt que <em>Eu quereria um café</em>.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Que feriez-vous ?",
+      "content": "<p>Répondez en utilisant le conditionnel :</p><ol><li><em>O que faria se ganhasse a lotaria?</em> (Que feriez-vous si vous gagniez à la loterie ?)</li><li><em>Onde moraria se pudesse escolher qualquer cidade?</em> (Où habiteriez-vous si vous pouviez choisir n'importe quelle ville ?)</li><li><em>O que diria ao Presidente se o encontrasse?</em> (Que diriez-vous au Président si vous le rencontriez ?)</li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Com mais tempo livre, eu ________ (viajar) pelo mundo.",
+      "correctAnswer": "viajaria",
+      "explanation": "Viajar + -ia = viajaria. Le conditionnel se forme sur l'infinitif + terminaisons."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme correcte du conditionnel de 'fazer' pour 'eu' ?",
+      "correctAnswer": "faria",
+      "distractors": ["fazeria", "fazaria", "fazia"],
+      "explanation": "'Fazer' est irrégulier au conditionnel : le radical devient 'far-' → faria. 'Fazia' est l'imparfait."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'aimerais visiter Lisbonne.'",
+      "correctAnswer": "Gostaria de visitar Lisboa.",
+      "explanation": "'Gostar de' + infinitif au conditionnel = gostaria de. C'est la formule classique pour exprimer un souhait."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ele disse que ________ (trazer) o livro amanhã.",
+      "correctAnswer": "traria",
+      "explanation": "'Trazer' est irrégulier : traz- → trar- + ia = traria. C'est le conditionnel dans le discours indirect."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel usage du conditionnel correspond à 'No seu lugar, eu faria diferente' ?",
+      "correctAnswer": "Un conseil",
+      "distractors": ["Un souhait", "Le discours indirect", "Une demande polie"],
+      "explanation": "'No seu lugar' (à votre place) + conditionnel sert à donner un conseil."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "condicional", "phonetic": "/kõdisiuˈnal/", "french": "conditionnel"},
+    {"portuguese": "gostaria", "phonetic": "/ɡuʃtɐˈɾiɐ/", "french": "j'aimerais"},
+    {"portuguese": "faria", "phonetic": "/fɐˈɾiɐ/", "french": "je ferais"},
+    {"portuguese": "diria", "phonetic": "/diˈɾiɐ/", "french": "je dirais"},
+    {"portuguese": "traria", "phonetic": "/tɾɐˈɾiɐ/", "french": "j'apporterais"},
+    {"portuguese": "viajaria", "phonetic": "/viɐʒɐˈɾiɐ/", "french": "je voyagerais"},
+    {"portuguese": "no seu lugar", "phonetic": "/nu sew luˈɡaɾ/", "french": "à votre place"},
+    {"portuguese": "se pudesse", "phonetic": "/sɨ puˈdɛsɨ/", "french": "si je pouvais"}
+  ]
+}

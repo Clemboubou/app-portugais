@@ -1,0 +1,155 @@
+[
+  {
+    "id": "s-c1-01",
+    "title": "Débat philosophique : Éthique et technologie",
+    "level": "C1",
+    "description": "Débattre les implications éthiques de l'IA et de la surveillance",
+    "objectives": [
+      "Argumenter sur des concepts abstraits complexes",
+      "Utiliser le subjonctif futur pour les hypothèses",
+      "Intégrer des expressions idiomatiques",
+      "Réguler le discours avec des marqueurs naturels"
+    ],
+    "scenario": "Vous débattez avec quelqu'un si l'IA pose une menace existentielle à l'humanité. Présentez arguments nuancés, réfutez contre-arguments, exprimez incertitude où approprié.",
+    "conversation_starters": [
+      "Acho que a IA representa risco genuíno. Caso contrário, como é que regulamos sistemas que não compreendemos?",
+      "Mas não exageras? Tecnologia sempre suscitou medo. Impressoras também foram consideradas ameaça..."
+    ],
+    "vocabulary": [
+      { "pt": "inteligência artificial", "fr": "intelligence artificielle" },
+      { "pt": "algoritmo opaco", "fr": "algorithme opaque" },
+      { "pt": "singularidade tecnológica", "fr": "singularité technologique" },
+      { "pt": "viés sistemático", "fr": "biais systématique" },
+      { "pt": "governança", "fr": "gouvernance" },
+      { "pt": "dilema ético", "fr": "dilemme éthique" },
+      { "pt": "consequências imprevistas", "fr": "conséquences imprévues" }
+    ],
+    "key_phrases": [
+      "Concordo no essencial, porém a escala é diferente.",
+      "Não é questão de se, mas de quando.",
+      "Isto toca num ponto crucial que frequentemente é ignorado.",
+      "Dito isto, há nuance que não devemos perder."
+    ]
+  },
+  {
+    "id": "s-c1-02",
+    "title": "Présentation académique : Recherche personnelle",
+    "level": "C1",
+    "description": "Présenter des résultats de recherche de manière structurée et rigoureuse",
+    "objectives": [
+      "Structurer présentation logiquement",
+      "Utiliser vocabulaire académique",
+      "Répondre à questions critiques",
+      "Exprimer certitude et incertitude appropriées"
+    ],
+    "scenario": "Vous présentez un projet de recherche à un séminaire académique. Vous avez 10 minutes pour présenter, puis répondez à questions.",
+    "conversation_starters": [
+      "Minha investigação focou em como migrantes reinterpretam identidade cultural.",
+      "E qual foi a metodologia? Como selecionou participantes?"
+    ],
+    "vocabulary": [
+      { "pt": "metodologia", "fr": "méthodologie" },
+      { "pt": "amostra", "fr": "échantillon" },
+      { "pt": "variável dependente", "fr": "variable dépendante" },
+      { "pt": "limite de pesquisa", "fr": "limitation de l'étude" },
+      { "pt": "implicação", "fr": "implication" },
+      { "pt": "dados preliminares", "fr": "données préliminaires" }
+    ],
+    "key_phrases": [
+      "A pesquisa sugere, embora não prove conclusivamente...",
+      "Como mencionei anteriormente...",
+      "É uma boa pergunta. Abordarei isto brevemente.",
+      "Isso fica além do escopo desta investigação, contudo poderia ser explorado futuramente."
+    ]
+  },
+  {
+    "id": "s-c1-03",
+    "title": "Négociation complexe : Résolution de conflits",
+    "level": "C1",
+    "description": "Négocier une situation conflictuelle avec compassion et rigueur",
+    "objectives": [
+      "Exprimer désaccord respectueusement",
+      "Utiliser l'imparfait de courtoisie",
+      "Proposer des compromis créatifs",
+      "Gérer l'émotion dans le discours"
+    ],
+    "scenario": "Vous négociez avec un partenaire de travail après un malentendu qui a endommagé la relation. Objectif : clarifier, trouver solution, restaurer confiance.",
+    "conversation_starters": [
+      "Preciso ser honesto: senti-me desvalorizado com a forma como foi tratado.",
+      "Eu compreendo. Mas de minha perspectiva, as coisas aconteceram diferente. Posso explicar?"
+    ],
+    "vocabulary": [
+      { "pt": "mal-entendido", "fr": "malentendu" },
+      { "pt": "comunicação não-violenta", "fr": "communication non-violente" },
+      { "pt": "empatia", "fr": "empathie" },
+      { "pt": "confiança restaurada", "fr": "confiance restaurée" },
+      { "pt": "reparação", "fr": "réparation" }
+    ],
+    "key_phrases": [
+      "Importava-me que compreendesses minha perspectiva.",
+      "Não era a minha intenção causar dano.",
+      "Gostaria de propor uma forma de avançarmos juntos.",
+      "Estarei disposto a fazer reparações necessárias."
+    ]
+  },
+  {
+    "id": "s-c1-04",
+    "title": "Analyse critique : Évaluation d'argument",
+    "level": "C1",
+    "description": "Analyser un argument en profondeur et identifier les failles logiques",
+    "objectives": [
+      "Identifier les prémisses et conclusions",
+      "Repérer les sophismes et biais",
+      "Proposer des contre-arguments valides",
+      "Reconnaître la validité partielle"
+    ],
+    "scenario": "Quelqu'un vous expose un argument politique. Vous écoutez, identifiez les problèmes logiques, proposez une réanalyse plus nuancée.",
+    "conversation_starters": [
+      "A redução de impostos estimulará crescimento. Quando impostos caem, investimento sobe, empregos são criados.",
+      "Compreendo a lógica, mas há pressupostos não verificados aqui..."
+    ],
+    "vocabulary": [
+      { "pt": "premissa", "fr": "prémisse" },
+      { "pt": "conclusão não sequitur", "fr": "conclusion non sequitur" },
+      { "pt": "generalização precipitada", "fr": "généralisation hâtive" },
+      { "pt": "confusão correlação/causalidade", "fr": "confusion corrélation/causalité" },
+      { "pt": "petição de princípio", "fr": "pétition de principe" }
+    ],
+    "key_phrases": [
+      "Entendo o argumento, mas há uma lacuna lógica...",
+      "Isto pressupõe que..., o que não é necessariamente verdadeiro.",
+      "A evidência que apresenta correlaciona-se, mas não prova causalidade.",
+      "Uma leitura alternativa seria..."
+    ]
+  },
+  {
+    "id": "s-c1-05",
+    "title": "Mentor professionnel : Conseil et guidance",
+    "level": "C1",
+    "description": "Offrir des conseils professionnels avec sagesse et perspective",
+    "objectives": [
+      "Écouter activement",
+      "Offrir perspective sans imposer",
+      "Partager expérience personelle pertinente",
+      "Encourager autonomie de réflexion"
+    ],
+    "scenario": "Un junior vous demande conseil sur une décision de carrière majeure. Vous écoutez sa situation, partagez insights, guidez vers sa propre conclusion.",
+    "conversation_starters": [
+      "Estou indeciso entre aceitar promoção aqui ou mudar para empresa nova.",
+      "É decisão importante. Fale-me das suas preocupações."
+    ],
+    "vocabulary": [
+      { "pt": "trajetória profissional", "fr": "trajectoire professionnelle" },
+      { "pt": "crescimento", "fr": "croissance" },
+      { "pt": "estabilidade", "fr": "stabilité" },
+      { "pt": "risco calculado", "fr": "risque calculé" },
+      { "pt": "realização pessoal", "fr": "épanouissement personnel" }
+    ],
+    "key_phrases": [
+      "Da minha experiência, é importante considerar...",
+      "A decisão é sua, mas deixa-me partilhar o que tenho visto.",
+      "Às vezes, o melhor crescimento vem de desconforto.",
+      "Mas a estabilidade também tem valor, dependendo de tua situação pessoal."
+    ]
+  }
+]

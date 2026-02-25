@@ -1,0 +1,51 @@
+[
+  {
+    "id": 16,
+    "levelCode": "B2",
+    "title": "Subjonctif et nuances",
+    "description": "Subjonctif présent vs imparfait, exprimer le doute et l'incertitude",
+    "order": 1
+  },
+  {
+    "id": 17,
+    "levelCode": "B2",
+    "title": "Hypothèses et regrets",
+    "description": "Le conditionnel, les phrases hypothétiques avec 'si', le passé du subjonctif",
+    "order": 2
+  },
+  {
+    "id": 18,
+    "levelCode": "B2",
+    "title": "Discours rapporté",
+    "description": "Rapporter des paroles, changements de temps, de pronoms et de adverbes",
+    "order": 3
+  },
+  {
+    "id": 19,
+    "levelCode": "B2",
+    "title": "Art et littérature",
+    "description": "Fernando Pessoa, Saramago, analyse de textes littéraires, cinéma portugais",
+    "order": 4
+  },
+  {
+    "id": 20,
+    "levelCode": "B2",
+    "title": "Politique et économie",
+    "description": "Système politique portugais, l'Union européenne, défis économiques actuels",
+    "order": 5
+  },
+  {
+    "id": 21,
+    "levelCode": "B2",
+    "title": "Portugais dans le monde",
+    "description": "Variantes du portugais (PALOP, Brésil), la Lusophonie, identité culturelle",
+    "order": 6
+  },
+  {
+    "id": 22,
+    "levelCode": "B2",
+    "title": "Argumentation formelle",
+    "description": "Rédiger des articles d'opinion, présentations formelles, connecteurs logiques avancés",
+    "order": 7
+  }
+]

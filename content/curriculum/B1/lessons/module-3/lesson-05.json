@@ -1,0 +1,84 @@
+{
+  "id": "b1-m3-l05",
+  "title": "Connecteurs logiques",
+  "type": "grammar",
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Maîtriser les connecteurs logiques essentiels du niveau B1",
+    "Structurer un discours argumentatif avec des transitions",
+    "Utiliser les connecteurs de cause, conséquence, opposition et addition"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Lier ses idées",
+      "content": "<p>Les connecteurs logiques (<em>conectores</em>) sont indispensables pour structurer un discours clair et cohérent. Au niveau B1, vous devez maîtriser les connecteurs de base pour argumenter.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Connecteurs par fonction",
+      "content": "<p><strong>Addition :</strong></p><ul><li><em>além disso</em> — de plus</li><li><em>também</em> — aussi</li><li><em>e ainda</em> — et aussi, et en plus</li></ul><p><strong>Opposition / Concession :</strong></p><ul><li><em>contudo</em> — cependant, toutefois</li><li><em>no entanto</em> — néanmoins</li><li><em>por outro lado</em> — d'un autre côté</li><li><em>apesar de</em> — malgré</li></ul><p><strong>Cause :</strong></p><ul><li><em>porque</em> — parce que</li><li><em>visto que</em> — étant donné que</li><li><em>uma vez que</em> — puisque</li></ul><p><strong>Conséquence :</strong></p><ul><li><em>portanto</em> — donc</li><li><em>por isso</em> — c'est pourquoi</li><li><em>assim</em> — ainsi</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Exemples en contexte",
+      "content": "<p>Observez comment les connecteurs structurent un texte :</p><blockquote><em>O turismo é importante para a economia portuguesa. <strong>Contudo</strong>, tem consequências negativas para os habitantes. <strong>Por exemplo</strong>, as rendas subiram muito em Lisboa. <strong>Além disso</strong>, muitos restaurantes tradicionais fecharam. <strong>Por isso</strong>, é preciso encontrar soluções. <strong>Uma vez que</strong> o turismo não vai parar de crescer, devemos criar regras para proteger os bairros históricos.</em></blockquote>"
+    },
+    {
+      "type": "practice",
+      "title": "Connecteurs de présentation",
+      "content": "<p>Pour organiser un exposé :</p><ul><li><em>Em primeiro lugar,...</em> (En premier lieu,...)</li><li><em>Em segundo lugar,...</em> (En second lieu,...)</li><li><em>Por fim,...</em> / <em>Finalmente,...</em> (Enfin,...)</li><li><em>Em conclusão,...</em> / <em>Em suma,...</em> (En conclusion,... / En somme,...)</li></ul><p>Exemple : <em>Em primeiro lugar, devemos reduzir o consumo de plástico. Em segundo lugar, é preciso investir em reciclagem. Por fim, todos devemos mudar os nossos hábitos.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Rédigez un paragraphe",
+      "content": "<p>Écrivez un paragraphe de 5-6 phrases sur un sujet au choix en utilisant au moins 4 connecteurs différents :</p><ul><li><em>O teletrabalho é uma boa ideia?</em></li><li><em>As redes sociais são úteis?</em></li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel connecteur exprime la conséquence ?",
+      "correctAnswer": "portanto",
+      "distractors": ["contudo", "além disso", "apesar de"],
+      "explanation": "'Portanto' = donc, par conséquent. C'est un connecteur de conséquence."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O tempo está mau. ________, vou ficar em casa.",
+      "correctAnswer": "Por isso",
+      "explanation": "'Por isso' = c'est pourquoi. Connecteur de conséquence courant à l'oral."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Malgré la pluie, nous sommes allés nous promener.'",
+      "correctAnswer": "Apesar da chuva, fomos passear.",
+      "explanation": "'Apesar de' + nom = malgré. 'Apesar da' = apesar de + a (contraction)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel connecteur signifie 'étant donné que' ?",
+      "correctAnswer": "visto que",
+      "distractors": ["portanto", "contudo", "além disso"],
+      "explanation": "'Visto que' = étant donné que, vu que. C'est un connecteur de cause formel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A tecnologia é útil. ________, pode ser perigosa.",
+      "correctAnswer": "Contudo",
+      "explanation": "'Contudo' = cependant, toutefois. Connecteur d'opposition."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "portanto", "phonetic": "/puɾˈtɐ̃tu/", "french": "donc"},
+    {"portuguese": "contudo", "phonetic": "/kõˈtudu/", "french": "cependant"},
+    {"portuguese": "no entanto", "phonetic": "/nu ẽˈtɐ̃tu/", "french": "néanmoins"},
+    {"portuguese": "além disso", "phonetic": "/ɐˈlɐ̃j ˈdisu/", "french": "de plus"},
+    {"portuguese": "por outro lado", "phonetic": "/puɾ ˈotɾu ˈladu/", "french": "d'un autre côté"},
+    {"portuguese": "apesar de", "phonetic": "/ɐpɨˈzaɾ dɨ/", "french": "malgré"},
+    {"portuguese": "visto que", "phonetic": "/ˈviʃtu kɨ/", "french": "étant donné que"},
+    {"portuguese": "uma vez que", "phonetic": "/ˈumɐ veʃ kɨ/", "french": "puisque"},
+    {"portuguese": "por isso", "phonetic": "/puɾ ˈisu/", "french": "c'est pourquoi"},
+    {"portuguese": "em conclusão", "phonetic": "/ẽ kõkluˈzɐ̃w/", "french": "en conclusion"}
+  ]
+}

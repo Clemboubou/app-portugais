@@ -1,0 +1,9341 @@
+[
+  {
+    "portuguese": "agora",
+    "phonetic": "",
+    "french": "maintenant",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "adverbes",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "ano",
+    "phonetic": "",
+    "french": "an / année",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "anos",
+    "phonetic": "",
+    "french": "ans / années",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "aqui",
+    "phonetic": "",
+    "french": "ici",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "adverbes",
+      "lieu"
+    ]
+  },
+  {
+    "portuguese": "bem",
+    "phonetic": "",
+    "french": "bien",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "dar",
+    "phonetic": "",
+    "french": "donner",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "dia",
+    "phonetic": "",
+    "french": "jour",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "dias",
+    "phonetic": "",
+    "french": "jours",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "dizer",
+    "phonetic": "",
+    "french": "dire",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "poder",
+    "phonetic": "",
+    "french": "pouvoir",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "querer",
+    "phonetic": "",
+    "french": "vouloir / aimer",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "também",
+    "phonetic": "",
+    "french": "aussi / également",
+    "level": "A1",
+    "frequency": 95,
+    "tags": [
+      "adverbes",
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "ainda",
+    "phonetic": "",
+    "french": "encore / toujours",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "depois",
+    "phonetic": "",
+    "french": "après / ensuite",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "adverbes",
+      "temps",
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "dormir",
+    "phonetic": "",
+    "french": "dormir",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "família",
+    "phonetic": "",
+    "french": "famille",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "ficar",
+    "phonetic": "",
+    "french": "rester / devenir / se trouver",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "hora",
+    "phonetic": "",
+    "french": "heure",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "manhã",
+    "phonetic": "",
+    "french": "matin",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "mão",
+    "phonetic": "",
+    "french": "main",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "nada",
+    "phonetic": "",
+    "french": "rien",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "noite",
+    "phonetic": "",
+    "french": "nuit / soir",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "nome",
+    "phonetic": "",
+    "french": "nom",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "nunca",
+    "phonetic": "",
+    "french": "jamais",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "pensar",
+    "phonetic": "",
+    "french": "penser",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "pessoa",
+    "phonetic": "",
+    "french": "personne",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "saber",
+    "phonetic": "",
+    "french": "savoir",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "sempre",
+    "phonetic": "",
+    "french": "toujours",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "tempo",
+    "phonetic": "",
+    "french": "temps (météo et durée)",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "temps",
+      "météo"
+    ]
+  },
+  {
+    "portuguese": "tudo",
+    "phonetic": "",
+    "french": "tout",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "vida",
+    "phonetic": "",
+    "french": "vie",
+    "level": "A1",
+    "frequency": 92,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "amiga",
+    "phonetic": "",
+    "french": "amie (fém.)",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "amigo",
+    "phonetic": "",
+    "french": "ami (masc.)",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "amor",
+    "phonetic": "",
+    "french": "amour",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "andar",
+    "phonetic": "",
+    "french": "marcher / aller (à pied)",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "antes",
+    "phonetic": "",
+    "french": "avant / auparavant",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adverbes",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "aprender",
+    "phonetic": "",
+    "french": "apprendre",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes",
+      "éducation"
+    ]
+  },
+  {
+    "portuguese": "assim",
+    "phonetic": "",
+    "french": "ainsi / comme ça",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adverbes",
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "boa",
+    "phonetic": "",
+    "french": "bonne (fém.)",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "bonita",
+    "phonetic": "",
+    "french": "belle / jolie",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "cabeça",
+    "phonetic": "",
+    "french": "tête",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "cama",
+    "phonetic": "",
+    "french": "lit",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "maison",
+      "meubles"
+    ]
+  },
+  {
+    "portuguese": "carro",
+    "phonetic": "",
+    "french": "voiture",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "cidade",
+    "phonetic": "",
+    "french": "ville",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "começar",
+    "phonetic": "",
+    "french": "commencer",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "criança",
+    "phonetic": "",
+    "french": "enfant",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "famille",
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "deixar",
+    "phonetic": "",
+    "french": "laisser / permettre / quitter",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "escrever",
+    "phonetic": "",
+    "french": "écrire",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "esperar",
+    "phonetic": "",
+    "french": "attendre / espérer",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "feliz",
+    "phonetic": "",
+    "french": "heureux",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "fácil",
+    "phonetic": "",
+    "french": "facile",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "gato",
+    "phonetic": "",
+    "french": "chat",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "gente",
+    "phonetic": "",
+    "french": "les gens / monde / on",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "horas",
+    "phonetic": "",
+    "french": "heures",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "importante",
+    "phonetic": "",
+    "french": "important",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "isso",
+    "phonetic": "",
+    "french": "ça / cela",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "lá",
+    "phonetic": "",
+    "french": "là / là-bas",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adverbes",
+      "lieu"
+    ]
+  },
+  {
+    "portuguese": "mamã",
+    "phonetic": "",
+    "french": "maman (EP)",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "melhor",
+    "phonetic": "",
+    "french": "meilleur / mieux",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adjectifs",
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "mãos",
+    "phonetic": "",
+    "french": "mains",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "médico",
+    "phonetic": "",
+    "french": "médecin",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "métiers",
+      "santé"
+    ]
+  },
+  {
+    "portuguese": "música",
+    "phonetic": "",
+    "french": "musique",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "culture",
+      "musique"
+    ]
+  },
+  {
+    "portuguese": "olho",
+    "phonetic": "",
+    "french": "œil",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "olhos",
+    "phonetic": "",
+    "french": "yeux",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "pais",
+    "phonetic": "",
+    "french": "parents",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "papá",
+    "phonetic": "",
+    "french": "papa (EP)",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "país",
+    "phonetic": "",
+    "french": "pays",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "géographie"
+    ]
+  },
+  {
+    "portuguese": "pedir",
+    "phonetic": "",
+    "french": "demander / commander",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "pessoas",
+    "phonetic": "",
+    "french": "personnes / gens",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "professor",
+    "phonetic": "",
+    "french": "professeur / enseignant",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "métiers",
+      "éducation"
+    ]
+  },
+  {
+    "portuguese": "pé",
+    "phonetic": "",
+    "french": "pied",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "rua",
+    "phonetic": "",
+    "french": "rue",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "ville",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "sair",
+    "phonetic": "",
+    "french": "sortir / partir",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "semana",
+    "phonetic": "",
+    "french": "semaine",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "sol",
+    "phonetic": "",
+    "french": "soleil",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "nature",
+      "météo"
+    ]
+  },
+  {
+    "portuguese": "só",
+    "phonetic": "",
+    "french": "seulement / seul",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "tarde",
+    "phonetic": "",
+    "french": "après-midi / tard",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "telefone",
+    "phonetic": "",
+    "french": "téléphone",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "technologie",
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "televisão",
+    "phonetic": "",
+    "french": "télévision",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "technologie",
+      "culture"
+    ]
+  },
+  {
+    "portuguese": "toda",
+    "phonetic": "",
+    "french": "toute",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "todo",
+    "phonetic": "",
+    "french": "tout (masc.)",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "todos",
+    "phonetic": "",
+    "french": "tous",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "trabalho",
+    "phonetic": "",
+    "french": "travail / boulot",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "travail"
+    ]
+  },
+  {
+    "portuguese": "usar",
+    "phonetic": "",
+    "french": "utiliser / porter (vêtement)",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "vez",
+    "phonetic": "",
+    "french": "fois",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "viver",
+    "phonetic": "",
+    "french": "vivre",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "voltar",
+    "phonetic": "",
+    "french": "revenir / retourner",
+    "level": "A1",
+    "frequency": 90,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "abrir",
+    "phonetic": "",
+    "french": "ouvrir",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "ajudar",
+    "phonetic": "",
+    "french": "aider",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "aluno",
+    "phonetic": "",
+    "french": "élève / étudiant",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "éducation"
+    ]
+  },
+  {
+    "portuguese": "amigos",
+    "phonetic": "",
+    "french": "amis",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "até",
+    "phonetic": "",
+    "french": "jusqu'à / même",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "boas",
+    "phonetic": "",
+    "french": "bonnes (fém. pl.)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "boca",
+    "phonetic": "",
+    "french": "bouche",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "cabelo",
+    "phonetic": "",
+    "french": "cheveux",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "cada",
+    "phonetic": "",
+    "french": "chaque",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "chocolate",
+    "phonetic": "",
+    "french": "chocolat",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "claro",
+    "phonetic": "",
+    "french": "clair / bien sûr",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "computador",
+    "phonetic": "",
+    "french": "ordinateur",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "technologie"
+    ]
+  },
+  {
+    "portuguese": "crianças",
+    "phonetic": "",
+    "french": "enfants",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "famille",
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "dentro",
+    "phonetic": "",
+    "french": "dedans / à l'intérieur",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adverbes",
+      "lieu"
+    ]
+  },
+  {
+    "portuguese": "difícil",
+    "phonetic": "",
+    "french": "difficile",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "direita",
+    "phonetic": "",
+    "french": "droite (direction)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "portuguese": "doze",
+    "phonetic": "",
+    "french": "douze",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "encontrar",
+    "phonetic": "",
+    "french": "trouver / rencontrer",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "entender",
+    "phonetic": "",
+    "french": "comprendre",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "entrar",
+    "phonetic": "",
+    "french": "entrer",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "esquerda",
+    "phonetic": "",
+    "french": "gauche (direction)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "portuguese": "essa",
+    "phonetic": "",
+    "french": "cette (fém.)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "esse",
+    "phonetic": "",
+    "french": "ce (masc.)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "esta",
+    "phonetic": "",
+    "french": "cette (fém. proche)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "este",
+    "phonetic": "",
+    "french": "ce (masc. proche)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "festa",
+    "phonetic": "",
+    "french": "fête / soirée",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "événements",
+      "loisirs"
+    ]
+  },
+  {
+    "portuguese": "filhos",
+    "phonetic": "",
+    "french": "enfants / fils",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "fim",
+    "phonetic": "",
+    "french": "fin",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "fome",
+    "phonetic": "",
+    "french": "faim",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "émotions",
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "homens",
+    "phonetic": "",
+    "french": "hommes",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "hospital",
+    "phonetic": "",
+    "french": "hôpital",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "santé",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "hotel",
+    "phonetic": "",
+    "french": "hôtel",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "voyage",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "idade",
+    "phonetic": "",
+    "french": "âge",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "ideia",
+    "phonetic": "",
+    "french": "idée",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "interessante",
+    "phonetic": "",
+    "french": "intéressant",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "isto",
+    "phonetic": "",
+    "french": "ceci",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "jogar",
+    "phonetic": "",
+    "french": "jouer (sport/jeu)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes",
+      "sports",
+      "loisirs"
+    ]
+  },
+  {
+    "portuguese": "jogo",
+    "phonetic": "",
+    "french": "jeu / match",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "sports",
+      "loisirs"
+    ]
+  },
+  {
+    "portuguese": "jovem",
+    "phonetic": "",
+    "french": "jeune",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs",
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "ler",
+    "phonetic": "",
+    "french": "lire",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "levar",
+    "phonetic": "",
+    "french": "emmener / porter / apporter",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "loja",
+    "phonetic": "",
+    "french": "boutique / magasin",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "shopping",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "longe",
+    "phonetic": "",
+    "french": "loin",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adverbes",
+      "lieu"
+    ]
+  },
+  {
+    "portuguese": "mar",
+    "phonetic": "",
+    "french": "mer",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "portuguese": "meses",
+    "phonetic": "",
+    "french": "mois (pluriel)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "mesmo",
+    "phonetic": "",
+    "french": "même / vraiment",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adverbes",
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "minuto",
+    "phonetic": "",
+    "french": "minute",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "mulheres",
+    "phonetic": "",
+    "french": "femmes",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "nova",
+    "phonetic": "",
+    "french": "nouvelle (fém.)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "número",
+    "phonetic": "",
+    "french": "numéro / chiffre",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "onze",
+    "phonetic": "",
+    "french": "onze",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "palavra",
+    "phonetic": "",
+    "french": "mot / parole",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "papel",
+    "phonetic": "",
+    "french": "papier",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "école",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "parar",
+    "phonetic": "",
+    "french": "arrêter / s'arrêter",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "passar",
+    "phonetic": "",
+    "french": "passer / traverser",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "pequena",
+    "phonetic": "",
+    "french": "petite (fém.)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "perguntar",
+    "phonetic": "",
+    "french": "demander / poser une question",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "perto",
+    "phonetic": "",
+    "french": "près / proche",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adverbes",
+      "lieu"
+    ]
+  },
+  {
+    "portuguese": "praia",
+    "phonetic": "",
+    "french": "plage",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nature",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "primeira",
+    "phonetic": "",
+    "french": "première (fém.)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs",
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "primeiro",
+    "phonetic": "",
+    "french": "premier (masc.)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs",
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "problema",
+    "phonetic": "",
+    "french": "problème",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "pés",
+    "phonetic": "",
+    "french": "pieds",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "quatorze",
+    "phonetic": "",
+    "french": "quatorze",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "quinze",
+    "phonetic": "",
+    "french": "quinze",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "realmente",
+    "phonetic": "",
+    "french": "vraiment / réellement",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "restaurante",
+    "phonetic": "",
+    "french": "restaurant",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nourriture",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "sala",
+    "phonetic": "",
+    "french": "salon / salle",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "maison"
+    ]
+  },
+  {
+    "portuguese": "semanas",
+    "phonetic": "",
+    "french": "semaines",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "supermercado",
+    "phonetic": "",
+    "french": "supermarché",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "shopping",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "talvez",
+    "phonetic": "",
+    "french": "peut-être",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "todas",
+    "phonetic": "",
+    "french": "toutes",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "tomar",
+    "phonetic": "",
+    "french": "prendre (médicament/café/décision)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "treze",
+    "phonetic": "",
+    "french": "treize",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "triste",
+    "phonetic": "",
+    "french": "triste",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "verdade",
+    "phonetic": "",
+    "french": "vérité",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "vezes",
+    "phonetic": "",
+    "french": "fois (pluriel)",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "viagem",
+    "phonetic": "",
+    "french": "voyage",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "voyage"
+    ]
+  },
+  {
+    "portuguese": "viajar",
+    "phonetic": "",
+    "french": "voyager",
+    "level": "A1",
+    "frequency": 88,
+    "tags": [
+      "verbes",
+      "voyage"
+    ]
+  },
+  {
+    "portuguese": "alto",
+    "phonetic": "",
+    "french": "haut / grand / fort (son)",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "directions",
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "apartamento",
+    "phonetic": "",
+    "french": "appartement",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "logement",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "avião",
+    "phonetic": "",
+    "french": "avion",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "baixo",
+    "phonetic": "",
+    "french": "bas / petit / doux (son)",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "directions",
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "banana",
+    "phonetic": "",
+    "french": "banane",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "banco",
+    "phonetic": "",
+    "french": "banque / banc",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "lieux",
+      "finances"
+    ]
+  },
+  {
+    "portuguese": "banho",
+    "phonetic": "",
+    "french": "bain / douche",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "maison"
+    ]
+  },
+  {
+    "portuguese": "batata",
+    "phonetic": "",
+    "french": "pomme de terre",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "bons",
+    "phonetic": "",
+    "french": "bons (masc. pl.)",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "brincar",
+    "phonetic": "",
+    "french": "jouer (enfants) / plaisanter",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes",
+      "loisirs"
+    ]
+  },
+  {
+    "portuguese": "caneta",
+    "phonetic": "",
+    "french": "stylo",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "école",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "cantar",
+    "phonetic": "",
+    "french": "chanter",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes",
+      "musique"
+    ]
+  },
+  {
+    "portuguese": "cinema",
+    "phonetic": "",
+    "french": "cinéma",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "loisirs",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "cinquenta",
+    "phonetic": "",
+    "french": "cinquante",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "cinza",
+    "phonetic": "",
+    "french": "gris",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "couleurs"
+    ]
+  },
+  {
+    "portuguese": "copo",
+    "phonetic": "",
+    "french": "verre",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "cozinhar",
+    "phonetic": "",
+    "french": "cuisiner",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes",
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "cuidado",
+    "phonetic": "",
+    "french": "attention ! / soin",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "dançar",
+    "phonetic": "",
+    "french": "danser",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes",
+      "musique"
+    ]
+  },
+  {
+    "portuguese": "desde",
+    "phonetic": "",
+    "french": "depuis",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "connecteurs",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "dezoito",
+    "phonetic": "",
+    "french": "dix-huit",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "entre",
+    "phonetic": "",
+    "french": "entre",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "essas",
+    "phonetic": "",
+    "french": "ces (fém. pl.)",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "estudante",
+    "phonetic": "",
+    "french": "étudiant",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "éducation"
+    ]
+  },
+  {
+    "portuguese": "fechar",
+    "phonetic": "",
+    "french": "fermer",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "garfo",
+    "phonetic": "",
+    "french": "fourchette",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "inverno",
+    "phonetic": "",
+    "french": "hiver",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "saisons"
+    ]
+  },
+  {
+    "portuguese": "lavar",
+    "phonetic": "",
+    "french": "laver",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "logo",
+    "phonetic": "",
+    "french": "tout de suite / bientôt / donc",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "adverbes",
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "lugar",
+    "phonetic": "",
+    "french": "endroit / lieu / place",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "lápis",
+    "phonetic": "",
+    "french": "crayon",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "école",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "maçã",
+    "phonetic": "",
+    "french": "pomme",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "menina",
+    "phonetic": "",
+    "french": "fille (enfant)",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "personnes",
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "menino",
+    "phonetic": "",
+    "french": "garçon (enfant)",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "personnes",
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "mesma",
+    "phonetic": "",
+    "french": "même (fém.)",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "mil",
+    "phonetic": "",
+    "french": "mille",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "minutos",
+    "phonetic": "",
+    "french": "minutes",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "mostrar",
+    "phonetic": "",
+    "french": "montrer",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "ninguém",
+    "phonetic": "",
+    "french": "personne / aucun",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "normal",
+    "phonetic": "",
+    "french": "normal",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "ovos",
+    "phonetic": "",
+    "french": "œufs",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "palavras",
+    "phonetic": "",
+    "french": "mots / paroles",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "partir",
+    "phonetic": "",
+    "french": "partir / casser",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "pegar",
+    "phonetic": "",
+    "french": "prendre / attraper",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "pizza",
+    "phonetic": "",
+    "french": "pizza",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "prato",
+    "phonetic": "",
+    "french": "assiette / plat",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "primavera",
+    "phonetic": "",
+    "french": "printemps",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "saisons"
+    ]
+  },
+  {
+    "portuguese": "problemas",
+    "phonetic": "",
+    "french": "problèmes",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "pronto",
+    "phonetic": "",
+    "french": "prêt / ok",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "quarenta",
+    "phonetic": "",
+    "french": "quarante",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "responder",
+    "phonetic": "",
+    "french": "répondre",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "rosa",
+    "phonetic": "",
+    "french": "rose",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "couleurs"
+    ]
+  },
+  {
+    "portuguese": "roupa",
+    "phonetic": "",
+    "french": "vêtements / tenue",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "sapato",
+    "phonetic": "",
+    "french": "chaussure",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "seguir",
+    "phonetic": "",
+    "french": "suivre / continuer",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "segunda",
+    "phonetic": "",
+    "french": "lundi (segunda-feira)",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "jours"
+    ]
+  },
+  {
+    "portuguese": "sessenta",
+    "phonetic": "",
+    "french": "soixante",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "setenta",
+    "phonetic": "",
+    "french": "soixante-dix",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "simples",
+    "phonetic": "",
+    "french": "simple",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "sozinho",
+    "phonetic": "",
+    "french": "seul / tout seul",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "terminar",
+    "phonetic": "",
+    "french": "finir / terminer",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "tia",
+    "phonetic": "",
+    "french": "tante",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "tio",
+    "phonetic": "",
+    "french": "oncle",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "tomate",
+    "phonetic": "",
+    "french": "tomate",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "trazer",
+    "phonetic": "",
+    "french": "apporter / amener",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "táxi",
+    "phonetic": "",
+    "french": "taxi",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "vender",
+    "phonetic": "",
+    "french": "vendre",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "verbes",
+      "shopping"
+    ]
+  },
+  {
+    "portuguese": "verão",
+    "phonetic": "",
+    "french": "été",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "saisons"
+    ]
+  },
+  {
+    "portuguese": "vidas",
+    "phonetic": "",
+    "french": "vies",
+    "level": "A1",
+    "frequency": 85,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "ali",
+    "phonetic": "",
+    "french": "là / là-bas",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "aquela",
+    "phonetic": "",
+    "french": "cette (fém. éloignée)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "aquele",
+    "phonetic": "",
+    "french": "ce (masc. éloigné)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "atrás",
+    "phonetic": "",
+    "french": "derrière / en arrière",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "portuguese": "aí",
+    "phonetic": "",
+    "french": "là / à cet endroit",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "bebê",
+    "phonetic": "",
+    "french": "bébé (BR) / bebé (EP)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "famille",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "caderno",
+    "phonetic": "",
+    "french": "cahier / carnet",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "école",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "caminhar",
+    "phonetic": "",
+    "french": "marcher / se promener",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "colher",
+    "phonetic": "",
+    "french": "cuillère",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "dezenove",
+    "phonetic": "",
+    "french": "dix-neuf (BR) / dezanove (EP)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "nombres",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "dezesseis",
+    "phonetic": "",
+    "french": "seize (BR) / dezasseis (EP)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "nombres",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "dezessete",
+    "phonetic": "",
+    "french": "dix-sept (BR) / dezassete (EP)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "nombres",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "esses",
+    "phonetic": "",
+    "french": "ces (masc. pl.)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "estas",
+    "phonetic": "",
+    "french": "ces (fém. proches)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "estes",
+    "phonetic": "",
+    "french": "ces (masc. proches)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "laranja",
+    "phonetic": "",
+    "french": "orange",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "nourriture",
+      "fruits",
+      "couleurs"
+    ]
+  },
+  {
+    "portuguese": "licença",
+    "phonetic": "",
+    "french": "permission / excuse-moi",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "politesse"
+    ]
+  },
+  {
+    "portuguese": "noventa",
+    "phonetic": "",
+    "french": "quatre-vingt-dix",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "oitenta",
+    "phonetic": "",
+    "french": "quatre-vingts",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "outono",
+    "phonetic": "",
+    "french": "automne",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "saisons"
+    ]
+  },
+  {
+    "portuguese": "quarta",
+    "phonetic": "",
+    "french": "mercredi (quarta-feira)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "jours"
+    ]
+  },
+  {
+    "portuguese": "quinta",
+    "phonetic": "",
+    "french": "jeudi (quinta-feira)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "jours"
+    ]
+  },
+  {
+    "portuguese": "sexta",
+    "phonetic": "",
+    "french": "vendredi (sexta-feira)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "jours"
+    ]
+  },
+  {
+    "portuguese": "sozinha",
+    "phonetic": "",
+    "french": "seule (fém.)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "terça",
+    "phonetic": "",
+    "french": "mardi (terça-feira)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "jours"
+    ]
+  },
+  {
+    "portuguese": "trem",
+    "phonetic": "",
+    "french": "train (BR) / comboio (EP)",
+    "level": "A1",
+    "frequency": 82,
+    "tags": [
+      "transport",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "aqueles",
+    "phonetic": "",
+    "french": "ces (masc. éloignés)",
+    "level": "A1",
+    "frequency": 80,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "cachorro",
+    "phonetic": "",
+    "french": "chien (BR) / cão (EP)",
+    "level": "A1",
+    "frequency": 80,
+    "tags": [
+      "animaux",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "contra",
+    "phonetic": "",
+    "french": "contre",
+    "level": "A1",
+    "frequency": 80,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "rapazes",
+    "phonetic": "",
+    "french": "garçons / jeunes hommes",
+    "level": "A1",
+    "frequency": 80,
+    "tags": [
+      "personnes"
+    ]
+  },
+  {
+    "portuguese": "ônibus",
+    "phonetic": "",
+    "french": "bus (BR) / autocarro (EP)",
+    "level": "A1",
+    "frequency": 80,
+    "tags": [
+      "transport",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "aquilo",
+    "phonetic": "",
+    "french": "ça / cela (éloigné)",
+    "level": "A1",
+    "frequency": 78,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "suco",
+    "phonetic": "",
+    "french": "jus (BR) / sumo (EP)",
+    "level": "A1",
+    "frequency": 78,
+    "tags": [
+      "nourriture",
+      "boissons",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "umas",
+    "phonetic": "",
+    "french": "des / quelques (fém.)",
+    "level": "A1",
+    "frequency": 78,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "uns",
+    "phonetic": "",
+    "french": "des / quelques (masc.)",
+    "level": "A1",
+    "frequency": 78,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "vaca",
+    "phonetic": "",
+    "french": "vache",
+    "level": "A1",
+    "frequency": 78,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "elefante",
+    "phonetic": "",
+    "french": "éléphant",
+    "level": "A1",
+    "frequency": 75,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "la",
+    "phonetic": "",
+    "french": "là (adverbe) / la (article BR)",
+    "level": "A1",
+    "frequency": 75,
+    "tags": [
+      "grammaire"
+    ]
+  },
+  {
+    "portuguese": "las",
+    "phonetic": "",
+    "french": "les (fém. pl., BR) / lá (adverbe)",
+    "level": "A1",
+    "frequency": 72,
+    "tags": [
+      "grammaire"
+    ]
+  },
+  {
+    "portuguese": "lo",
+    "phonetic": "",
+    "french": "le (article BR)",
+    "level": "A1",
+    "frequency": 72,
+    "tags": [
+      "grammaire"
+    ]
+  },
+  {
+    "portuguese": "los",
+    "phonetic": "",
+    "french": "les (masc. pl., BR)",
+    "level": "A1",
+    "frequency": 72,
+    "tags": [
+      "grammaire"
+    ]
+  },
+  {
+    "portuguese": "conhecer",
+    "phonetic": "",
+    "french": "connaître",
+    "level": "A2",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "conseguir",
+    "phonetic": "",
+    "french": "réussir à / parvenir à",
+    "level": "A2",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "continuar",
+    "phonetic": "",
+    "french": "continuer",
+    "level": "A2",
+    "frequency": 88,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "acabar",
+    "phonetic": "",
+    "french": "finir / terminer",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "certo",
+    "phonetic": "",
+    "french": "certain / correct / juste",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "contar",
+    "phonetic": "",
+    "french": "compter / raconter",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "corpo",
+    "phonetic": "",
+    "french": "corps",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "durante",
+    "phonetic": "",
+    "french": "pendant / durant",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "adverbes",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "ganhar",
+    "phonetic": "",
+    "french": "gagner / recevoir",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "mundo",
+    "phonetic": "",
+    "french": "monde",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "général"
+    ]
+  },
+  {
+    "portuguese": "parte",
+    "phonetic": "",
+    "french": "partie / part",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "perder",
+    "phonetic": "",
+    "french": "perdre",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "sentir",
+    "phonetic": "",
+    "french": "sentir / ressentir",
+    "level": "A2",
+    "frequency": 85,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "aceitar",
+    "phonetic": "",
+    "french": "accepter",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "acreditar",
+    "phonetic": "",
+    "french": "croire",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "algo",
+    "phonetic": "",
+    "french": "quelque chose",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "alguém",
+    "phonetic": "",
+    "french": "quelqu'un",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "apenas",
+    "phonetic": "",
+    "french": "seulement / juste",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "atenção",
+    "phonetic": "",
+    "french": "attention",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "bastante",
+    "phonetic": "",
+    "french": "assez / suffisamment",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "bela",
+    "phonetic": "",
+    "french": "belle",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "centro",
+    "phonetic": "",
+    "french": "centre",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "ville",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "chão",
+    "phonetic": "",
+    "french": "sol / plancher",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "maison"
+    ]
+  },
+  {
+    "portuguese": "conversar",
+    "phonetic": "",
+    "french": "discuter / bavarder",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "coração",
+    "phonetic": "",
+    "french": "cœur",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "diferente",
+    "phonetic": "",
+    "french": "différent",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "direito",
+    "phonetic": "",
+    "french": "droit (direction) / droit (juridique)",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "directions",
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "doente",
+    "phonetic": "",
+    "french": "malade",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adjectifs",
+      "santé"
+    ]
+  },
+  {
+    "portuguese": "dor",
+    "phonetic": "",
+    "french": "douleur",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "corps",
+      "santé"
+    ]
+  },
+  {
+    "portuguese": "emprego",
+    "phonetic": "",
+    "french": "emploi / boulot",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "travail"
+    ]
+  },
+  {
+    "portuguese": "ensinar",
+    "phonetic": "",
+    "french": "enseigner",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "equipa",
+    "phonetic": "",
+    "french": "équipe (PT)",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "sports",
+      "travail"
+    ]
+  },
+  {
+    "portuguese": "escritório",
+    "phonetic": "",
+    "french": "bureau (lieu de travail)",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "travail",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "esposa",
+    "phonetic": "",
+    "french": "épouse",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "esquecer",
+    "phonetic": "",
+    "french": "oublier",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "finalmente",
+    "phonetic": "",
+    "french": "enfin / finalement",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adverbes",
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "forma",
+    "phonetic": "",
+    "french": "forme / façon / manière",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "forte",
+    "phonetic": "",
+    "french": "fort",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "frango",
+    "phonetic": "",
+    "french": "poulet",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "nourriture",
+      "viande"
+    ]
+  },
+  {
+    "portuguese": "haver",
+    "phonetic": "",
+    "french": "avoir (auxiliaire) / il y a",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "história",
+    "phonetic": "",
+    "french": "histoire / récit",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "culture",
+      "éducation"
+    ]
+  },
+  {
+    "portuguese": "lado",
+    "phonetic": "",
+    "french": "côté",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "portuguese": "lembrar",
+    "phonetic": "",
+    "french": "se souvenir / rappeler",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "ligar",
+    "phonetic": "",
+    "french": "appeler (téléphone) / allumer / brancher",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "linda",
+    "phonetic": "",
+    "french": "belle (fém.)",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "lindo",
+    "phonetic": "",
+    "french": "beau (masc.)",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "luz",
+    "phonetic": "",
+    "french": "lumière",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "portuguese": "medo",
+    "phonetic": "",
+    "french": "peur",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "mudar",
+    "phonetic": "",
+    "french": "changer / déménager",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "namorada",
+    "phonetic": "",
+    "french": "petite amie",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "famille",
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "natal",
+    "phonetic": "",
+    "french": "Noël / natal",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "fêtes",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "procurar",
+    "phonetic": "",
+    "french": "chercher / rechercher",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "qualquer",
+    "phonetic": "",
+    "french": "n'importe quel / quelconque",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "receber",
+    "phonetic": "",
+    "french": "recevoir",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "rio",
+    "phonetic": "",
+    "french": "fleuve / rivière",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "portuguese": "tirar",
+    "phonetic": "",
+    "french": "enlever / retirer / prendre (photo)",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "vinho",
+    "phonetic": "",
+    "french": "vin",
+    "level": "A2",
+    "frequency": 82,
+    "tags": [
+      "nourriture",
+      "boissons"
+    ]
+  },
+  {
+    "portuguese": "algum",
+    "phonetic": "",
+    "french": "quelque (masc.)",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "alguma",
+    "phonetic": "",
+    "french": "quelque (fém.)",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "antigo",
+    "phonetic": "",
+    "french": "ancien / vieux",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "ar",
+    "phonetic": "",
+    "french": "air",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "portuguese": "camisa",
+    "phonetic": "",
+    "french": "chemise",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "casamento",
+    "phonetic": "",
+    "french": "mariage",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "famille",
+      "événements"
+    ]
+  },
+  {
+    "portuguese": "chá",
+    "phonetic": "",
+    "french": "thé",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "nourriture",
+      "boissons"
+    ]
+  },
+  {
+    "portuguese": "colega",
+    "phonetic": "",
+    "french": "collègue / camarade",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "travail",
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "colocar",
+    "phonetic": "",
+    "french": "placer / mettre",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "comigo",
+    "phonetic": "",
+    "french": "avec moi",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "contente",
+    "phonetic": "",
+    "french": "content / satisfait",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "contigo",
+    "phonetic": "",
+    "french": "avec toi",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "conversa",
+    "phonetic": "",
+    "french": "conversation / discussion",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "céu",
+    "phonetic": "",
+    "french": "ciel",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "portuguese": "descobrir",
+    "phonetic": "",
+    "french": "découvrir",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "engraçado",
+    "phonetic": "",
+    "french": "drôle / amusant",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "errado",
+    "phonetic": "",
+    "french": "faux / incorrect",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "escuro",
+    "phonetic": "",
+    "french": "sombre / foncé",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "especial",
+    "phonetic": "",
+    "french": "spécial",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "estrada",
+    "phonetic": "",
+    "french": "route / chemin",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "transport",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "exactamente",
+    "phonetic": "",
+    "french": "exactement",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "excelente",
+    "phonetic": "",
+    "french": "excellent",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "final",
+    "phonetic": "",
+    "french": "final / fin",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "força",
+    "phonetic": "",
+    "french": "force / courage !",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "garrafa",
+    "phonetic": "",
+    "french": "bouteille",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "grupo",
+    "phonetic": "",
+    "french": "groupe",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "impossível",
+    "phonetic": "",
+    "french": "impossible",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "incrível",
+    "phonetic": "",
+    "french": "incroyable",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "informação",
+    "phonetic": "",
+    "french": "information",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "limpar",
+    "phonetic": "",
+    "french": "nettoyer",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "livre",
+    "phonetic": "",
+    "french": "libre",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "maior",
+    "phonetic": "",
+    "french": "plus grand / majeur",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "mandar",
+    "phonetic": "",
+    "french": "envoyer / ordonner",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "mensagem",
+    "phonetic": "",
+    "french": "message",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "momento",
+    "phonetic": "",
+    "french": "moment",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "museu",
+    "phonetic": "",
+    "french": "musée",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "culture",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "nenhum",
+    "phonetic": "",
+    "french": "aucun (masc.)",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "nenhuma",
+    "phonetic": "",
+    "french": "aucune (fém.)",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "notícias",
+    "phonetic": "",
+    "french": "nouvelles / informations",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "culture",
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "polícia",
+    "phonetic": "",
+    "french": "police / policier",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "ponto",
+    "phonetic": "",
+    "french": "point / arrêt / endroit",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "portanto",
+    "phonetic": "",
+    "french": "donc / par conséquent",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "próximo",
+    "phonetic": "",
+    "french": "prochain / proche",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "questão",
+    "phonetic": "",
+    "french": "question / problème",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "razão",
+    "phonetic": "",
+    "french": "raison / cause",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "relógio",
+    "phonetic": "",
+    "french": "montre / horloge",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "resposta",
+    "phonetic": "",
+    "french": "réponse",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "segundo",
+    "phonetic": "",
+    "french": "seconde / deuxième",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "temps",
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "situação",
+    "phonetic": "",
+    "french": "situation",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "sonho",
+    "phonetic": "",
+    "french": "rêve",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "sorte",
+    "phonetic": "",
+    "french": "chance / sort",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "subir",
+    "phonetic": "",
+    "french": "monter / grimper",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "terra",
+    "phonetic": "",
+    "french": "terre / sol",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "portuguese": "tocar",
+    "phonetic": "",
+    "french": "toucher / jouer (instrument)",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "único",
+    "phonetic": "",
+    "french": "unique / seul",
+    "level": "A2",
+    "frequency": 80,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "acidente",
+    "phonetic": "",
+    "french": "accident",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "acordo",
+    "phonetic": "",
+    "french": "accord",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "advogado",
+    "phonetic": "",
+    "french": "avocat",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "alegre",
+    "phonetic": "",
+    "french": "joyeux / gai",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "algumas",
+    "phonetic": "",
+    "french": "quelques (fém.)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "alguns",
+    "phonetic": "",
+    "french": "quelques (masc.)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "além",
+    "phonetic": "",
+    "french": "au-delà / en plus",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes",
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "apanhar",
+    "phonetic": "",
+    "french": "attraper / prendre (PT)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "arranjar",
+    "phonetic": "",
+    "french": "arranger / trouver",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "artista",
+    "phonetic": "",
+    "french": "artiste",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "assunto",
+    "phonetic": "",
+    "french": "sujet / affaire",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "ator",
+    "phonetic": "",
+    "french": "acteur",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "atriz",
+    "phonetic": "",
+    "french": "actrice",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "avenida",
+    "phonetic": "",
+    "french": "avenue",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "ville",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "barco",
+    "phonetic": "",
+    "french": "bateau",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "biblioteca",
+    "phonetic": "",
+    "french": "bibliothèque",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "ville",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "bicicleta",
+    "phonetic": "",
+    "french": "vélo / bicyclette",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "bolo",
+    "phonetic": "",
+    "french": "gâteau",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "buscar",
+    "phonetic": "",
+    "french": "chercher / aller chercher",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "cair",
+    "phonetic": "",
+    "french": "tomber",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "calmo",
+    "phonetic": "",
+    "french": "calme",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "calça",
+    "phonetic": "",
+    "french": "pantalon (BR) / calças (EP)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "caminho",
+    "phonetic": "",
+    "french": "chemin / sentier",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "lieux",
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "camiseta",
+    "phonetic": "",
+    "french": "t-shirt (BR) / camiseta (EP)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "campo",
+    "phonetic": "",
+    "french": "campagne / champ / terrain",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nature",
+      "lieux",
+      "sports"
+    ]
+  },
+  {
+    "portuguese": "cantor",
+    "phonetic": "",
+    "french": "chanteur",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "cantora",
+    "phonetic": "",
+    "french": "chanteuse",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "cara",
+    "phonetic": "",
+    "french": "visage / figure",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "carta",
+    "phonetic": "",
+    "french": "lettre / carte à jouer",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "cartão",
+    "phonetic": "",
+    "french": "carte",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "casaco",
+    "phonetic": "",
+    "french": "manteau / veste",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "caso",
+    "phonetic": "",
+    "french": "cas / situation",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "cedo",
+    "phonetic": "",
+    "french": "tôt / de bonne heure",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "cerveja",
+    "phonetic": "",
+    "french": "bière",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nourriture",
+      "boissons"
+    ]
+  },
+  {
+    "portuguese": "cheio",
+    "phonetic": "",
+    "french": "plein / rempli",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "completamente",
+    "phonetic": "",
+    "french": "complètement",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "costas",
+    "phonetic": "",
+    "french": "dos (anatomie)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "crescer",
+    "phonetic": "",
+    "french": "grandir / pousser",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "depressa",
+    "phonetic": "",
+    "french": "vite / rapidement",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "descer",
+    "phonetic": "",
+    "french": "descendre",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "duro",
+    "phonetic": "",
+    "french": "dur / difficile",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "enfermeiro",
+    "phonetic": "",
+    "french": "infirmier",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "métiers",
+      "santé"
+    ]
+  },
+  {
+    "portuguese": "enquanto",
+    "phonetic": "",
+    "french": "pendant que / tandis que",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "erro",
+    "phonetic": "",
+    "french": "erreur / faute",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "escolha",
+    "phonetic": "",
+    "french": "choix",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "especialmente",
+    "phonetic": "",
+    "french": "spécialement / surtout",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "estranho",
+    "phonetic": "",
+    "french": "étrange / bizarre",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "faca",
+    "phonetic": "",
+    "french": "couteau",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "fantástico",
+    "phonetic": "",
+    "french": "fantastique",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "feijão",
+    "phonetic": "",
+    "french": "haricots",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "fogo",
+    "phonetic": "",
+    "french": "feu / incendie",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "portuguese": "fraco",
+    "phonetic": "",
+    "french": "faible",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "frente",
+    "phonetic": "",
+    "french": "devant / en face / front",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "portuguese": "futuro",
+    "phonetic": "",
+    "french": "futur / avenir",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "gastar",
+    "phonetic": "",
+    "french": "dépenser / consommer",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes",
+      "finances"
+    ]
+  },
+  {
+    "portuguese": "geralmente",
+    "phonetic": "",
+    "french": "généralement",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "imediatamente",
+    "phonetic": "",
+    "french": "immédiatement",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "infelizmente",
+    "phonetic": "",
+    "french": "malheureusement",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "jornal",
+    "phonetic": "",
+    "french": "journal (presse)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "culture",
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "lago",
+    "phonetic": "",
+    "french": "lac",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nature",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "limão",
+    "phonetic": "",
+    "french": "citron",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "local",
+    "phonetic": "",
+    "french": "endroit / local",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "mala",
+    "phonetic": "",
+    "french": "valise / sac",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "voyage",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "manteiga",
+    "phonetic": "",
+    "french": "beurre",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "marrom",
+    "phonetic": "",
+    "french": "marron (BR) / castanho (EP)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "couleurs",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "melhorar",
+    "phonetic": "",
+    "french": "améliorer / aller mieux",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "melhores",
+    "phonetic": "",
+    "french": "meilleurs",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "milhão",
+    "phonetic": "",
+    "french": "million",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "milhões",
+    "phonetic": "",
+    "french": "millions",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "montanha",
+    "phonetic": "",
+    "french": "montagne",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "nature",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "má",
+    "phonetic": "",
+    "french": "mauvaise (fém.)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "nascer",
+    "phonetic": "",
+    "french": "naître",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "negócio",
+    "phonetic": "",
+    "french": "affaire / commerce",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "travail",
+      "finances"
+    ]
+  },
+  {
+    "portuguese": "normalmente",
+    "phonetic": "",
+    "french": "normalement / d'habitude",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "norte",
+    "phonetic": "",
+    "french": "nord",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "portuguese": "novamente",
+    "phonetic": "",
+    "french": "à nouveau / de nouveau",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "passado",
+    "phonetic": "",
+    "french": "passé / ancien",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "temps",
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "paz",
+    "phonetic": "",
+    "french": "paix",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "valeurs"
+    ]
+  },
+  {
+    "portuguese": "pior",
+    "phonetic": "",
+    "french": "pire / pis",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs",
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "piscina",
+    "phonetic": "",
+    "french": "piscine",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "sports",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "plano",
+    "phonetic": "",
+    "french": "plan / projet",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "pobre",
+    "phonetic": "",
+    "french": "pauvre",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "pois",
+    "phonetic": "",
+    "french": "car / donc / puisque",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "pra",
+    "phonetic": "",
+    "french": "pour (BR, familier) / para",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "argot",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "presente",
+    "phonetic": "",
+    "french": "présent / cadeau",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "prima",
+    "phonetic": "",
+    "french": "cousine",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "primo",
+    "phonetic": "",
+    "french": "cousin",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "famille"
+    ]
+  },
+  {
+    "portuguese": "provavelmente",
+    "phonetic": "",
+    "french": "probablement",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "próprio",
+    "phonetic": "",
+    "french": "propre / soi-même",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "próxima",
+    "phonetic": "",
+    "french": "prochaine (fém.)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "quebrar",
+    "phonetic": "",
+    "french": "casser / briser",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "recentemente",
+    "phonetic": "",
+    "french": "récemment",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "regras",
+    "phonetic": "",
+    "french": "règles",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "rico",
+    "phonetic": "",
+    "french": "riche",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "roxo",
+    "phonetic": "",
+    "french": "violet / mauve",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "couleurs"
+    ]
+  },
+  {
+    "portuguese": "segundos",
+    "phonetic": "",
+    "french": "secondes",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "serviço",
+    "phonetic": "",
+    "french": "service",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "travail"
+    ]
+  },
+  {
+    "portuguese": "simplesmente",
+    "phonetic": "",
+    "french": "simplement",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "som",
+    "phonetic": "",
+    "french": "son",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "musique"
+    ]
+  },
+  {
+    "portuguese": "teatro",
+    "phonetic": "",
+    "french": "théâtre",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "culture",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "treinar",
+    "phonetic": "",
+    "french": "s'entraîner / entraîner",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes",
+      "sports"
+    ]
+  },
+  {
+    "portuguese": "vencer",
+    "phonetic": "",
+    "french": "vaincre / gagner",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "verbes",
+      "sports"
+    ]
+  },
+  {
+    "portuguese": "verdadeiro",
+    "phonetic": "",
+    "french": "vrai / réel",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "vestido",
+    "phonetic": "",
+    "french": "robe",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "volta",
+    "phonetic": "",
+    "french": "tour / retour",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "vontade",
+    "phonetic": "",
+    "french": "envie / volonté",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "voz",
+    "phonetic": "",
+    "french": "voix",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "communication",
+      "corps"
+    ]
+  },
+  {
+    "portuguese": "óculos",
+    "phonetic": "",
+    "french": "lunettes",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "accessoires"
+    ]
+  },
+  {
+    "portuguese": "última",
+    "phonetic": "",
+    "french": "dernière (fém.)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "último",
+    "phonetic": "",
+    "french": "dernier (masc.)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "única",
+    "phonetic": "",
+    "french": "unique (fém.)",
+    "level": "A2",
+    "frequency": 78,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "abaixo",
+    "phonetic": "",
+    "french": "en bas / ci-dessous",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "acima",
+    "phonetic": "",
+    "french": "en haut / ci-dessus",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "alho",
+    "phonetic": "",
+    "french": "ail",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "através",
+    "phonetic": "",
+    "french": "à travers / par",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "bolsa",
+    "phonetic": "",
+    "french": "sac à main",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "vêtements",
+      "accessoires"
+    ]
+  },
+  {
+    "portuguese": "causa",
+    "phonetic": "",
+    "french": "cause / raison",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "certamente",
+    "phonetic": "",
+    "french": "certainement / bien sûr",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "chapéu",
+    "phonetic": "",
+    "french": "chapeau",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "vêtements",
+      "accessoires"
+    ]
+  },
+  {
+    "portuguese": "chuvoso",
+    "phonetic": "",
+    "french": "pluvieux",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "météo"
+    ]
+  },
+  {
+    "portuguese": "connosco",
+    "phonetic": "",
+    "french": "avec nous (EP)",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "cozinheiro",
+    "phonetic": "",
+    "french": "cuisinier",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "cá",
+    "phonetic": "",
+    "french": "ici / par ici (PT)",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "câmara",
+    "phonetic": "",
+    "french": "caméra / appareil photo / mairie",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "objets",
+      "technologie"
+    ]
+  },
+  {
+    "portuguese": "demais",
+    "phonetic": "",
+    "french": "trop / en plus",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "disso",
+    "phonetic": "",
+    "french": "de ça / de cela",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "empregado",
+    "phonetic": "",
+    "french": "employé / serveur",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "engenheiro",
+    "phonetic": "",
+    "french": "ingénieur",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "ensolarado",
+    "phonetic": "",
+    "french": "ensoleillé",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "météo"
+    ]
+  },
+  {
+    "portuguese": "escritor",
+    "phonetic": "",
+    "french": "écrivain / auteur",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "estádio",
+    "phonetic": "",
+    "french": "stade",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "sports",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "floresta",
+    "phonetic": "",
+    "french": "forêt",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "nature",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "gelado",
+    "phonetic": "",
+    "french": "glace / crème glacée",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "honesto",
+    "phonetic": "",
+    "french": "honnête",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "jornalista",
+    "phonetic": "",
+    "french": "journaliste",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "macarrão",
+    "phonetic": "",
+    "french": "pâtes (BR) / massa (EP)",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "nourriture",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "metade",
+    "phonetic": "",
+    "french": "moitié",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "nombres"
+    ]
+  },
+  {
+    "portuguese": "mochila",
+    "phonetic": "",
+    "french": "sac à dos",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "accessoires"
+    ]
+  },
+  {
+    "portuguese": "moderno",
+    "phonetic": "",
+    "french": "moderne",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "modo",
+    "phonetic": "",
+    "french": "mode / façon",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "morango",
+    "phonetic": "",
+    "french": "fraise",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "moto",
+    "phonetic": "",
+    "french": "moto / scooter",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "motorista",
+    "phonetic": "",
+    "french": "chauffeur / conducteur",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "métiers",
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "paciente",
+    "phonetic": "",
+    "french": "patient",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "pena",
+    "phonetic": "",
+    "french": "peine / dommage",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "programa",
+    "phonetic": "",
+    "french": "programme / émission",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "technologie",
+      "culture"
+    ]
+  },
+  {
+    "portuguese": "prédio",
+    "phonetic": "",
+    "french": "immeuble / bâtiment",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "ville",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "própria",
+    "phonetic": "",
+    "french": "propre (fém.)",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "real",
+    "phonetic": "",
+    "french": "réel / royal",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "resto",
+    "phonetic": "",
+    "french": "reste / le reste",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "rádio",
+    "phonetic": "",
+    "french": "radio",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "culture",
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "saltar",
+    "phonetic": "",
+    "french": "sauter",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "verbes",
+      "sports"
+    ]
+  },
+  {
+    "portuguese": "sangue",
+    "phonetic": "",
+    "french": "sang",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "corps",
+      "santé"
+    ]
+  },
+  {
+    "portuguese": "sardinha",
+    "phonetic": "",
+    "french": "sardine",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "nourriture",
+      "poisson"
+    ]
+  },
+  {
+    "portuguese": "segurança",
+    "phonetic": "",
+    "french": "sécurité / sûreté",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "suficiente",
+    "phonetic": "",
+    "french": "suffisant / assez",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adjectifs",
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "teclado",
+    "phonetic": "",
+    "french": "clavier",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "technologie",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "tradução",
+    "phonetic": "",
+    "french": "traduction",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "communication",
+      "langues"
+    ]
+  },
+  {
+    "portuguese": "tranquilo",
+    "phonetic": "",
+    "french": "tranquille / calme",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "vendedor",
+    "phonetic": "",
+    "french": "vendeur",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "vista",
+    "phonetic": "",
+    "french": "vue / panorama",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "vizinha",
+    "phonetic": "",
+    "french": "voisine",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "vizinho",
+    "phonetic": "",
+    "french": "voisin",
+    "level": "A2",
+    "frequency": 75,
+    "tags": [
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "abacaxi",
+    "phonetic": "",
+    "french": "ananas",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "agitado",
+    "phonetic": "",
+    "french": "agité / nerveux",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "após",
+    "phonetic": "",
+    "french": "après / suivant",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "connecteurs",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "arquiteto",
+    "phonetic": "",
+    "french": "architecte",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "blusa",
+    "phonetic": "",
+    "french": "chemisier / blouse",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "bocado",
+    "phonetic": "",
+    "french": "morceau / un peu",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "bolas",
+    "phonetic": "",
+    "french": "balles / mince ! (exclamation)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "sports",
+      "argot"
+    ]
+  },
+  {
+    "portuguese": "caixa",
+    "phonetic": "",
+    "french": "caisse / boîte",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "camarão",
+    "phonetic": "",
+    "french": "crevette",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture",
+      "poisson"
+    ]
+  },
+  {
+    "portuguese": "carteira",
+    "phonetic": "",
+    "french": "portefeuille",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "accessoires"
+    ]
+  },
+  {
+    "portuguese": "cenoura",
+    "phonetic": "",
+    "french": "carotte",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "cinto",
+    "phonetic": "",
+    "french": "ceinture",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "consertar",
+    "phonetic": "",
+    "french": "réparer",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "corajoso",
+    "phonetic": "",
+    "french": "courageux",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "creme",
+    "phonetic": "",
+    "french": "crème",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "câmera",
+    "phonetic": "",
+    "french": "caméra (BR) / câmara (EP)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "objets",
+      "technologie",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "daí",
+    "phonetic": "",
+    "french": "de là / donc",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adverbes",
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "demasiado",
+    "phonetic": "",
+    "french": "trop (quantité)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "deus",
+    "phonetic": "",
+    "french": "Dieu / dieu",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "religion"
+    ]
+  },
+  {
+    "portuguese": "diante",
+    "phonetic": "",
+    "french": "devant / en face de",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "portuguese": "disto",
+    "phonetic": "",
+    "french": "de ceci",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "doce",
+    "phonetic": "",
+    "french": "bonbon / sucré",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture",
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "dourado",
+    "phonetic": "",
+    "french": "doré / or",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "couleurs"
+    ]
+  },
+  {
+    "portuguese": "estúpido",
+    "phonetic": "",
+    "french": "stupide",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "feio",
+    "phonetic": "",
+    "french": "laid / moche",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "felizmente",
+    "phonetic": "",
+    "french": "heureusement",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "fotógrafo",
+    "phonetic": "",
+    "french": "photographe",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "frequentemente",
+    "phonetic": "",
+    "french": "fréquemment / souvent",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "gajo",
+    "phonetic": "",
+    "french": "mec / gars (PT familier)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "argot",
+      "familier"
+    ]
+  },
+  {
+    "portuguese": "galinha",
+    "phonetic": "",
+    "french": "poule",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "garçom",
+    "phonetic": "",
+    "french": "serveur (BR) / empregado de mesa (EP)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "métiers",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "idoso",
+    "phonetic": "",
+    "french": "âgé / personne âgée",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "infeliz",
+    "phonetic": "",
+    "french": "malheureux",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "iogurte",
+    "phonetic": "",
+    "french": "yaourt",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "jaqueta",
+    "phonetic": "",
+    "french": "veste (BR) / casaco (EP)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "vêtements",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "jeito",
+    "phonetic": "",
+    "french": "façon / manière / don",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "lata",
+    "phonetic": "",
+    "french": "boîte de conserve / cannette",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "leão",
+    "phonetic": "",
+    "french": "lion",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "linha",
+    "phonetic": "",
+    "french": "ligne / fil",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "lista",
+    "phonetic": "",
+    "french": "liste",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "louco",
+    "phonetic": "",
+    "french": "fou",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "meia",
+    "phonetic": "",
+    "french": "chaussette",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "milho",
+    "phonetic": "",
+    "french": "maïs",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "miúda",
+    "phonetic": "",
+    "french": "fille / gamine (PT)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "argot",
+      "familier"
+    ]
+  },
+  {
+    "portuguese": "miúdo",
+    "phonetic": "",
+    "french": "gamin / gosse (PT)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "argot",
+      "familier"
+    ]
+  },
+  {
+    "portuguese": "navio",
+    "phonetic": "",
+    "french": "navire / bateau",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "nublado",
+    "phonetic": "",
+    "french": "nuageux",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "météo"
+    ]
+  },
+  {
+    "portuguese": "panela",
+    "phonetic": "",
+    "french": "casserole / marmite",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "passo",
+    "phonetic": "",
+    "french": "pas / étape",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "pijama",
+    "phonetic": "",
+    "french": "pyjama",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "vêtements"
+    ]
+  },
+  {
+    "portuguese": "piloto",
+    "phonetic": "",
+    "french": "pilote",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "métiers",
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "pintor",
+    "phonetic": "",
+    "french": "peintre",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "planeta",
+    "phonetic": "",
+    "french": "planète",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "science",
+      "nature"
+    ]
+  },
+  {
+    "portuguese": "porco",
+    "phonetic": "",
+    "french": "cochon / porc",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "possivelmente",
+    "phonetic": "",
+    "french": "possiblement / peut-être",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "queimar",
+    "phonetic": "",
+    "french": "brûler",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "quieto",
+    "phonetic": "",
+    "french": "tranquille / silencieux",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "raramente",
+    "phonetic": "",
+    "french": "rarement",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "refrigerante",
+    "phonetic": "",
+    "french": "boisson gazeuse / soda",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture",
+      "boissons"
+    ]
+  },
+  {
+    "portuguese": "rei",
+    "phonetic": "",
+    "french": "roi",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "culture",
+      "histoire"
+    ]
+  },
+  {
+    "portuguese": "revista",
+    "phonetic": "",
+    "french": "magazine / revue",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "culture",
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "salvar",
+    "phonetic": "",
+    "french": "sauver / sauvegarder",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "satisfeito",
+    "phonetic": "",
+    "french": "satisfait",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "segredo",
+    "phonetic": "",
+    "french": "secret",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "silencioso",
+    "phonetic": "",
+    "french": "silencieux",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "sinal",
+    "phonetic": "",
+    "french": "signe / signal",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "sincero",
+    "phonetic": "",
+    "french": "sincère",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "sob",
+    "phonetic": "",
+    "french": "sous",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "sorvete",
+    "phonetic": "",
+    "french": "glace (BR) / gelado (EP)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "suéter",
+    "phonetic": "",
+    "french": "pull / sweat (BR) / camisola (EP)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "vêtements",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "sítio",
+    "phonetic": "",
+    "french": "endroit / maison de campagne",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "tesoura",
+    "phonetic": "",
+    "french": "ciseaux",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "ultimamente",
+    "phonetic": "",
+    "french": "dernièrement / récemment",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "uva",
+    "phonetic": "",
+    "french": "raisin",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "verdadeiramente",
+    "phonetic": "",
+    "french": "vraiment / véritablement",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "vila",
+    "phonetic": "",
+    "french": "village / petite ville",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "voar",
+    "phonetic": "",
+    "french": "voler",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "verbes",
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "xícara",
+    "phonetic": "",
+    "french": "tasse (BR) / chávena (EP)",
+    "level": "A2",
+    "frequency": 72,
+    "tags": [
+      "cuisine",
+      "objets",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "alface",
+    "phonetic": "",
+    "french": "laitue / salade",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "aonde",
+    "phonetic": "",
+    "french": "où (vers où)",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "atum",
+    "phonetic": "",
+    "french": "thon",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "nourriture",
+      "poisson"
+    ]
+  },
+  {
+    "portuguese": "biscoito",
+    "phonetic": "",
+    "french": "biscuit / gâteau sec",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "dançarino",
+    "phonetic": "",
+    "french": "danseur",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "daqui",
+    "phonetic": "",
+    "french": "d'ici",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "dólares",
+    "phonetic": "",
+    "french": "dollars",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "finances"
+    ]
+  },
+  {
+    "portuguese": "jardineiro",
+    "phonetic": "",
+    "french": "jardinier",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "malvado",
+    "phonetic": "",
+    "french": "méchant / mauvais",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "miúdos",
+    "phonetic": "",
+    "french": "gamins / gosses (PT)",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "argot",
+      "familier"
+    ]
+  },
+  {
+    "portuguese": "molhado",
+    "phonetic": "",
+    "french": "mouillé / trempé",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "monitor",
+    "phonetic": "",
+    "french": "moniteur / écran",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "technologie",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "mouse",
+    "phonetic": "",
+    "french": "souris d'ordinateur (BR) / rato (EP)",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "technologie",
+      "objets",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "nele",
+    "phonetic": "",
+    "french": "en lui / dedans",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "nessa",
+    "phonetic": "",
+    "french": "dans cette (fém.)",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "nesse",
+    "phonetic": "",
+    "french": "dans ce (masc.)",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "nesta",
+    "phonetic": "",
+    "french": "dans cette (fém. proche)",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "neste",
+    "phonetic": "",
+    "french": "dans ce (masc. proche)",
+    "level": "A2",
+    "frequency": 70,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "barulhento",
+    "phonetic": "",
+    "french": "bruyant",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "brócolis",
+    "phonetic": "",
+    "french": "brocoli (BR) / brócolos (EP)",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "nourriture",
+      "légumes",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "caramelo",
+    "phonetic": "",
+    "french": "caramel",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "dessa",
+    "phonetic": "",
+    "french": "de cette (fém.)",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "desse",
+    "phonetic": "",
+    "french": "de ce (masc.)",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "desta",
+    "phonetic": "",
+    "french": "de cette (fém.)",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "deste",
+    "phonetic": "",
+    "french": "de ce (masc.)",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "fazenda",
+    "phonetic": "",
+    "french": "ferme / fazenda",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "campagne",
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "frigideira",
+    "phonetic": "",
+    "french": "poêle (cuisine)",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "golfinho",
+    "phonetic": "",
+    "french": "dauphin",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux",
+      "mer"
+    ]
+  },
+  {
+    "portuguese": "macaco",
+    "phonetic": "",
+    "french": "singe",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "marcador",
+    "phonetic": "",
+    "french": "marqueur / surligneur",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "école",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "medroso",
+    "phonetic": "",
+    "french": "peureux / craintif",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "melancia",
+    "phonetic": "",
+    "french": "pastèque",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "melão",
+    "phonetic": "",
+    "french": "melon",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "mosca",
+    "phonetic": "",
+    "french": "mouche",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux",
+      "insectes"
+    ]
+  },
+  {
+    "portuguese": "mosquito",
+    "phonetic": "",
+    "french": "moustique",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux",
+      "insectes"
+    ]
+  },
+  {
+    "portuguese": "nevado",
+    "phonetic": "",
+    "french": "enneigé",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "météo"
+    ]
+  },
+  {
+    "portuguese": "nisso",
+    "phonetic": "",
+    "french": "là-dedans / sur ça",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "pato",
+    "phonetic": "",
+    "french": "canard",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "pinguim",
+    "phonetic": "",
+    "french": "pingouin",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "pudim",
+    "phonetic": "",
+    "french": "pudding / flan",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "secar",
+    "phonetic": "",
+    "french": "sécher",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "seco",
+    "phonetic": "",
+    "french": "sec / aride",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "tangerina",
+    "phonetic": "",
+    "french": "mandarine",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "tigela",
+    "phonetic": "",
+    "french": "bol / saladier",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "tigre",
+    "phonetic": "",
+    "french": "tigre",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "tubarão",
+    "phonetic": "",
+    "french": "requin",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux",
+      "mer"
+    ]
+  },
+  {
+    "portuguese": "urso",
+    "phonetic": "",
+    "french": "ours",
+    "level": "A2",
+    "frequency": 68,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "abelha",
+    "phonetic": "",
+    "french": "abeille",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux",
+      "insectes"
+    ]
+  },
+  {
+    "portuguese": "abóbora",
+    "phonetic": "",
+    "french": "citrouille / courge",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "aposto",
+    "phonetic": "",
+    "french": "je parie",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "communication"
+    ]
+  },
+  {
+    "portuguese": "bandeja",
+    "phonetic": "",
+    "french": "plateau",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "borboleta",
+    "phonetic": "",
+    "french": "papillon",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux",
+      "insectes"
+    ]
+  },
+  {
+    "portuguese": "borracha",
+    "phonetic": "",
+    "french": "gomme / caoutchouc",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "école",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "carneiro",
+    "phonetic": "",
+    "french": "mouton / agneau",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux",
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "cereja",
+    "phonetic": "",
+    "french": "cerise",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "coco",
+    "phonetic": "",
+    "french": "noix de coco",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "couve",
+    "phonetic": "",
+    "french": "chou vert / chou kale",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "girafa",
+    "phonetic": "",
+    "french": "girafe",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "idiota",
+    "phonetic": "",
+    "french": "idiot",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "insultes"
+    ]
+  },
+  {
+    "portuguese": "jarra",
+    "phonetic": "",
+    "french": "carafe / pot",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "jesus",
+    "phonetic": "",
+    "french": "Jésus",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "religion"
+    ]
+  },
+  {
+    "portuguese": "limonada",
+    "phonetic": "",
+    "french": "limonade",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "nourriture",
+      "boissons"
+    ]
+  },
+  {
+    "portuguese": "lobo",
+    "phonetic": "",
+    "french": "loup",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "manga",
+    "phonetic": "",
+    "french": "mangue",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "molhar",
+    "phonetic": "",
+    "french": "mouiller",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "morno",
+    "phonetic": "",
+    "french": "tiède",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "nisto",
+    "phonetic": "",
+    "french": "en ceci",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "papagaio",
+    "phonetic": "",
+    "french": "perroquet",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "pote",
+    "phonetic": "",
+    "french": "pot / bocal",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "prateado",
+    "phonetic": "",
+    "french": "argenté",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "couleurs"
+    ]
+  },
+  {
+    "portuguese": "pêssego",
+    "phonetic": "",
+    "french": "pêche",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "raposa",
+    "phonetic": "",
+    "french": "renard",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "ruidoso",
+    "phonetic": "",
+    "french": "bruyant",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "régua",
+    "phonetic": "",
+    "french": "règle (instrument)",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "école",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "sacola",
+    "phonetic": "",
+    "french": "sac (BR) / saco (EP)",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "objets",
+      "shopping",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "tartaruga",
+    "phonetic": "",
+    "french": "tortue",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "torta",
+    "phonetic": "",
+    "french": "tarte / gâteau",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "ventoso",
+    "phonetic": "",
+    "french": "venteux",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "météo"
+    ]
+  },
+  {
+    "portuguese": "zebra",
+    "phonetic": "",
+    "french": "zèbre",
+    "level": "A2",
+    "frequency": 65,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "formiga",
+    "phonetic": "",
+    "french": "fourmi",
+    "level": "A2",
+    "frequency": 63,
+    "tags": [
+      "animaux",
+      "insectes"
+    ]
+  },
+  {
+    "portuguese": "cobra",
+    "phonetic": "",
+    "french": "serpent / cobra",
+    "level": "A2",
+    "frequency": 62,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "crocodilo",
+    "phonetic": "",
+    "french": "crocodile",
+    "level": "A2",
+    "frequency": 62,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "galo",
+    "phonetic": "",
+    "french": "coq",
+    "level": "A2",
+    "frequency": 62,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "pomba",
+    "phonetic": "",
+    "french": "colombe / pigeon",
+    "level": "A2",
+    "frequency": 62,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "repolho",
+    "phonetic": "",
+    "french": "chou",
+    "level": "A2",
+    "frequency": 62,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "ameixa",
+    "phonetic": "",
+    "french": "prune",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "baleia",
+    "phonetic": "",
+    "french": "baleine",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "animaux",
+      "mer"
+    ]
+  },
+  {
+    "portuguese": "cabra",
+    "phonetic": "",
+    "french": "chèvre",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "chaleira",
+    "phonetic": "",
+    "french": "bouilloire",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "cuisine",
+      "objets"
+    ]
+  },
+  {
+    "portuguese": "espinafre",
+    "phonetic": "",
+    "french": "épinards",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "gorila",
+    "phonetic": "",
+    "french": "gorille",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "lagarto",
+    "phonetic": "",
+    "french": "lézard",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "sapo",
+    "phonetic": "",
+    "french": "crapaud",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "veado",
+    "phonetic": "",
+    "french": "cerf",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "vespa",
+    "phonetic": "",
+    "french": "guêpe",
+    "level": "A2",
+    "frequency": 60,
+    "tags": [
+      "animaux",
+      "insectes"
+    ]
+  },
+  {
+    "portuguese": "coruja",
+    "phonetic": "",
+    "french": "hibou / chouette",
+    "level": "A2",
+    "frequency": 58,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "foca",
+    "phonetic": "",
+    "french": "phoque",
+    "level": "A2",
+    "frequency": 58,
+    "tags": [
+      "animaux",
+      "mer"
+    ]
+  },
+  {
+    "portuguese": "joaninha",
+    "phonetic": "",
+    "french": "coccinelle",
+    "level": "A2",
+    "frequency": 58,
+    "tags": [
+      "animaux",
+      "insectes"
+    ]
+  },
+  {
+    "portuguese": "mamão",
+    "phonetic": "",
+    "french": "papaye (BR) / papaia (EP)",
+    "level": "A2",
+    "frequency": 58,
+    "tags": [
+      "nourriture",
+      "fruits"
+    ]
+  },
+  {
+    "portuguese": "canário",
+    "phonetic": "",
+    "french": "canari",
+    "level": "A2",
+    "frequency": 55,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "ganso",
+    "phonetic": "",
+    "french": "oie",
+    "level": "A2",
+    "frequency": 55,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "rena",
+    "phonetic": "",
+    "french": "renne",
+    "level": "A2",
+    "frequency": 55,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "aumentar",
+    "phonetic": "",
+    "french": "augmenter",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "capaz",
+    "phonetic": "",
+    "french": "capable",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "embora",
+    "phonetic": "",
+    "french": "bien que / quoique",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "energia",
+    "phonetic": "",
+    "french": "énergie",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "science"
+    ]
+  },
+  {
+    "portuguese": "espaço",
+    "phonetic": "",
+    "french": "espace / lieu",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "science",
+      "général"
+    ]
+  },
+  {
+    "portuguese": "facto",
+    "phonetic": "",
+    "french": "fait",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "governo",
+    "phonetic": "",
+    "french": "gouvernement",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "politique"
+    ]
+  },
+  {
+    "portuguese": "guerra",
+    "phonetic": "",
+    "french": "guerre",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "international"
+    ]
+  },
+  {
+    "portuguese": "justo",
+    "phonetic": "",
+    "french": "juste / équitable",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "lei",
+    "phonetic": "",
+    "french": "loi",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "politique"
+    ]
+  },
+  {
+    "portuguese": "manter",
+    "phonetic": "",
+    "french": "maintenir / garder",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "mente",
+    "phonetic": "",
+    "french": "esprit / mental",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "corps",
+      "psychologie"
+    ]
+  },
+  {
+    "portuguese": "principalmente",
+    "phonetic": "",
+    "french": "principalement / surtout",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "relação",
+    "phonetic": "",
+    "french": "relation / rapport",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "respeito",
+    "phonetic": "",
+    "french": "respect",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "valeurs"
+    ]
+  },
+  {
+    "portuguese": "sentido",
+    "phonetic": "",
+    "french": "sens / direction / sentiment",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "sistema",
+    "phonetic": "",
+    "french": "système",
+    "level": "B1",
+    "frequency": 72,
+    "tags": [
+      "technologie"
+    ]
+  },
+  {
+    "portuguese": "base",
+    "phonetic": "",
+    "french": "base",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "brilhante",
+    "phonetic": "",
+    "french": "brillant",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "cientista",
+    "phonetic": "",
+    "french": "scientifique",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "companhia",
+    "phonetic": "",
+    "french": "compagnie / entreprise",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "travail"
+    ]
+  },
+  {
+    "portuguese": "estado",
+    "phonetic": "",
+    "french": "état / État",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "politique"
+    ]
+  },
+  {
+    "portuguese": "gerente",
+    "phonetic": "",
+    "french": "gérant / directeur",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "lutar",
+    "phonetic": "",
+    "french": "lutter / combattre",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "matar",
+    "phonetic": "",
+    "french": "tuer",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "morte",
+    "phonetic": "",
+    "french": "mort",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "oportunidade",
+    "phonetic": "",
+    "french": "opportunité / occasion",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "posição",
+    "phonetic": "",
+    "french": "position",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "povo",
+    "phonetic": "",
+    "french": "peuple / gens",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "politique"
+    ]
+  },
+  {
+    "portuguese": "proteger",
+    "phonetic": "",
+    "french": "protéger",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "prova",
+    "phonetic": "",
+    "french": "preuve / examen",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "éducation"
+    ]
+  },
+  {
+    "portuguese": "recusar",
+    "phonetic": "",
+    "french": "refuser",
+    "level": "B1",
+    "frequency": 70,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "agente",
+    "phonetic": "",
+    "french": "agent",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "ambos",
+    "phonetic": "",
+    "french": "tous les deux",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "antigamente",
+    "phonetic": "",
+    "french": "autrefois / jadis",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adverbes",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "arma",
+    "phonetic": "",
+    "french": "arme",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "ataque",
+    "phonetic": "",
+    "french": "attaque",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "bomba",
+    "phonetic": "",
+    "french": "bombe",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "breve",
+    "phonetic": "",
+    "french": "bref / court",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "crime",
+    "phonetic": "",
+    "french": "crime",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "culpa",
+    "phonetic": "",
+    "french": "faute / culpabilité",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "destino",
+    "phonetic": "",
+    "french": "destin / destination",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "voyage"
+    ]
+  },
+  {
+    "portuguese": "diminuir",
+    "phonetic": "",
+    "french": "diminuer / réduire",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "emprestar",
+    "phonetic": "",
+    "french": "prêter / emprunter",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "verbes",
+      "finances"
+    ]
+  },
+  {
+    "portuguese": "fiel",
+    "phonetic": "",
+    "french": "fidèle / loyal",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "francamente",
+    "phonetic": "",
+    "french": "franchement",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "frágil",
+    "phonetic": "",
+    "french": "fragile",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "fugir",
+    "phonetic": "",
+    "french": "fuir / s'échapper",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "fundo",
+    "phonetic": "",
+    "french": "fond / profond",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "furioso",
+    "phonetic": "",
+    "french": "furieux",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "generoso",
+    "phonetic": "",
+    "french": "généreux",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "guarda",
+    "phonetic": "",
+    "french": "garde / gardien",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "habitar",
+    "phonetic": "",
+    "french": "habiter",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "honestamente",
+    "phonetic": "",
+    "french": "honnêtement",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "injusto",
+    "phonetic": "",
+    "french": "injuste",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "juiz",
+    "phonetic": "",
+    "french": "juge",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "leal",
+    "phonetic": "",
+    "french": "loyal / fidèle",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "ordem",
+    "phonetic": "",
+    "french": "ordre",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "orgulhoso",
+    "phonetic": "",
+    "french": "fier / orgueilleux",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "particularmente",
+    "phonetic": "",
+    "french": "particulièrement",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "prudente",
+    "phonetic": "",
+    "french": "prudent",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "reunião",
+    "phonetic": "",
+    "french": "réunion",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "travail"
+    ]
+  },
+  {
+    "portuguese": "suave",
+    "phonetic": "",
+    "french": "doux / léger",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "tornar",
+    "phonetic": "",
+    "french": "redevenir / retourner",
+    "level": "B1",
+    "frequency": 68,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "armas",
+    "phonetic": "",
+    "french": "armes",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "bondoso",
+    "phonetic": "",
+    "french": "gentil / bienveillant",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "capitão",
+    "phonetic": "",
+    "french": "capitaine",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "militaire",
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "carpinteiro",
+    "phonetic": "",
+    "french": "charpentier / menuisier",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "cena",
+    "phonetic": "",
+    "french": "scène",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "culture"
+    ]
+  },
+  {
+    "portuguese": "cobrar",
+    "phonetic": "",
+    "french": "facturer / encaisser",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "competir",
+    "phonetic": "",
+    "french": "concourir / rivaliser",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "verbes",
+      "sports"
+    ]
+  },
+  {
+    "portuguese": "compositor",
+    "phonetic": "",
+    "french": "compositeur",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "métiers",
+      "musique"
+    ]
+  },
+  {
+    "portuguese": "consigo",
+    "phonetic": "",
+    "french": "avec soi / avec vous (formel)",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "pronoms"
+    ]
+  },
+  {
+    "portuguese": "descontente",
+    "phonetic": "",
+    "french": "mécontent",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "diabo",
+    "phonetic": "",
+    "french": "diable",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "religion",
+      "argot"
+    ]
+  },
+  {
+    "portuguese": "droga",
+    "phonetic": "",
+    "french": "drogue / zut (exclamation)",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "argot"
+    ]
+  },
+  {
+    "portuguese": "economizar",
+    "phonetic": "",
+    "french": "économiser",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "verbes",
+      "finances"
+    ]
+  },
+  {
+    "portuguese": "envergonhado",
+    "phonetic": "",
+    "french": "honteux / gêné",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adjectifs",
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "essencialmente",
+    "phonetic": "",
+    "french": "essentiellement",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "eventualmente",
+    "phonetic": "",
+    "french": "éventuellement / parfois (PT)",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "honra",
+    "phonetic": "",
+    "french": "honneur",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "valeurs"
+    ]
+  },
+  {
+    "portuguese": "horroroso",
+    "phonetic": "",
+    "french": "horrible / affreux",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "inferno",
+    "phonetic": "",
+    "french": "enfer",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "religion",
+      "argot"
+    ]
+  },
+  {
+    "portuguese": "inicialmente",
+    "phonetic": "",
+    "french": "initialement / au départ",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "inimigo",
+    "phonetic": "",
+    "french": "ennemi (masc.)",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "lamento",
+    "phonetic": "",
+    "french": "je regrette / lamento",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "émotions"
+    ]
+  },
+  {
+    "portuguese": "luta",
+    "phonetic": "",
+    "french": "combat / lutte",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "portuguese": "macio",
+    "phonetic": "",
+    "french": "doux / souple",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "mestre",
+    "phonetic": "",
+    "french": "maître / expert",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "métiers",
+      "éducation"
+    ]
+  },
+  {
+    "portuguese": "missão",
+    "phonetic": "",
+    "french": "mission",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "ordens",
+    "phonetic": "",
+    "french": "ordres",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "piorar",
+    "phonetic": "",
+    "french": "empirer / aggraver",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "poeta",
+    "phonetic": "",
+    "french": "poète",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "métiers",
+      "culture"
+    ]
+  },
+  {
+    "portuguese": "preso",
+    "phonetic": "",
+    "french": "prisonnier / arrêté",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "prisão",
+    "phonetic": "",
+    "french": "prison",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "lieux"
+    ]
+  },
+  {
+    "portuguese": "produtor",
+    "phonetic": "",
+    "french": "producteur",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "sereno",
+    "phonetic": "",
+    "french": "serein / calme",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "soldado",
+    "phonetic": "",
+    "french": "soldat",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "militaire"
+    ]
+  },
+  {
+    "portuguese": "tom",
+    "phonetic": "",
+    "french": "ton / tonalité",
+    "level": "B1",
+    "frequency": 65,
+    "tags": [
+      "musique"
+    ]
+  },
+  {
+    "portuguese": "assassino",
+    "phonetic": "",
+    "french": "assassin / tueur",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "divers"
+    ]
+  },
+  {
+    "portuguese": "audacioso",
+    "phonetic": "",
+    "french": "audacieux",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "brevemente",
+    "phonetic": "",
+    "french": "brièvement / bientôt",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "consumidor",
+    "phonetic": "",
+    "french": "consommateur",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "finances"
+    ]
+  },
+  {
+    "portuguese": "contador",
+    "phonetic": "",
+    "french": "comptable / compteur",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "desonesto",
+    "phonetic": "",
+    "french": "malhonnête",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "escultor",
+    "phonetic": "",
+    "french": "sculpteur",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "fundamentalmente",
+    "phonetic": "",
+    "french": "fondamentalement",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "inimiga",
+    "phonetic": "",
+    "french": "ennemie (fém.)",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "relations"
+    ]
+  },
+  {
+    "portuguese": "insatisfeito",
+    "phonetic": "",
+    "french": "insatisfait",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "liso",
+    "phonetic": "",
+    "french": "lisse / uni",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "ocasionalmente",
+    "phonetic": "",
+    "french": "occasionnellement",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "posteriormente",
+    "phonetic": "",
+    "french": "postérieurement / ensuite",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adverbes",
+      "temps"
+    ]
+  },
+  {
+    "portuguese": "previamente",
+    "phonetic": "",
+    "french": "préalablement / auparavant",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "quadra",
+    "phonetic": "",
+    "french": "terrain (sport) / quartier",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "portuguese": "robusto",
+    "phonetic": "",
+    "french": "robuste / solide",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "significativamente",
+    "phonetic": "",
+    "french": "significativement",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "trigo",
+    "phonetic": "",
+    "french": "blé",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "nourriture"
+    ]
+  },
+  {
+    "portuguese": "úmido",
+    "phonetic": "",
+    "french": "humide (BR) / húmido (EP)",
+    "level": "B1",
+    "frequency": 62,
+    "tags": [
+      "adjectifs",
+      "br"
+    ]
+  },
+  {
+    "portuguese": "afortunadamente",
+    "phonetic": "",
+    "french": "heureusement",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "cabo",
+    "phonetic": "",
+    "french": "cap (géo.) / câble / caporal",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "géographie"
+    ]
+  },
+  {
+    "portuguese": "comandante",
+    "phonetic": "",
+    "french": "commandant",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "militaire"
+    ]
+  },
+  {
+    "portuguese": "curiosamente",
+    "phonetic": "",
+    "french": "curieusement",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "desesperadamente",
+    "phonetic": "",
+    "french": "désespérément",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "desleal",
+    "phonetic": "",
+    "french": "déloyal",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "dessa forma",
+    "phonetic": "",
+    "french": "de cette façon",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "distribuidor",
+    "phonetic": "",
+    "french": "distributeur",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "métiers"
+    ]
+  },
+  {
+    "portuguese": "estranhamente",
+    "phonetic": "",
+    "french": "étrangement",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "fértil",
+    "phonetic": "",
+    "french": "fertile",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "infiel",
+    "phonetic": "",
+    "french": "infidèle",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "lamentavelmente",
+    "phonetic": "",
+    "french": "malheureusement / regrettablement",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "merda",
+    "phonetic": "",
+    "french": "merde (vulgaire)",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "argot",
+      "vulgarité"
+    ]
+  },
+  {
+    "portuguese": "nave",
+    "phonetic": "",
+    "french": "vaisseau / navire",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "transport"
+    ]
+  },
+  {
+    "portuguese": "perante",
+    "phonetic": "",
+    "french": "devant / face à",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "porra",
+    "phonetic": "",
+    "french": "putain / merde (vulgaire)",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "argot",
+      "vulgarité"
+    ]
+  },
+  {
+    "portuguese": "surpreendentemente",
+    "phonetic": "",
+    "french": "étonnamment",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "tempestuoso",
+    "phonetic": "",
+    "french": "tempétueux / orageux",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "météo"
+    ]
+  },
+  {
+    "portuguese": "urgentemente",
+    "phonetic": "",
+    "french": "urgemment",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "áspero",
+    "phonetic": "",
+    "french": "rugueux / rude",
+    "level": "B1",
+    "frequency": 60,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "amplamente",
+    "phonetic": "",
+    "french": "largement / amplement",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "coronel",
+    "phonetic": "",
+    "french": "colonel",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "militaire"
+    ]
+  },
+  {
+    "portuguese": "desgraçadamente",
+    "phonetic": "",
+    "french": "malheureusement / hélas",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "desse modo",
+    "phonetic": "",
+    "french": "de cette manière",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "detalhadamente",
+    "phonetic": "",
+    "french": "en détail",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "em conclusão",
+    "phonetic": "",
+    "french": "en conclusion",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "esfregar",
+    "phonetic": "",
+    "french": "frotter / récurer",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "verbes"
+    ]
+  },
+  {
+    "portuguese": "general",
+    "phonetic": "",
+    "french": "général (militaire)",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "militaire"
+    ]
+  },
+  {
+    "portuguese": "mediante",
+    "phonetic": "",
+    "french": "moyennant / par le biais de",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "connecteurs"
+    ]
+  },
+  {
+    "portuguese": "mesquinho",
+    "phonetic": "",
+    "french": "mesquin / pingre",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "notavelmente",
+    "phonetic": "",
+    "french": "remarquablement",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "puta",
+    "phonetic": "",
+    "french": "pute / putain (vulgaire)",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "argot",
+      "vulgarité"
+    ]
+  },
+  {
+    "portuguese": "resumidamente",
+    "phonetic": "",
+    "french": "brièvement / en résumé",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "sargento",
+    "phonetic": "",
+    "french": "sergent",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "militaire"
+    ]
+  },
+  {
+    "portuguese": "tenente",
+    "phonetic": "",
+    "french": "lieutenant",
+    "level": "B1",
+    "frequency": 58,
+    "tags": [
+      "militaire"
+    ]
+  },
+  {
+    "portuguese": "beterraba",
+    "phonetic": "",
+    "french": "betterave",
+    "level": "B1",
+    "frequency": 55,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "foda",
+    "phonetic": "",
+    "french": "baise / foutu (vulgaire)",
+    "level": "B1",
+    "frequency": 55,
+    "tags": [
+      "argot",
+      "vulgarité"
+    ]
+  },
+  {
+    "portuguese": "rúcula",
+    "phonetic": "",
+    "french": "roquette (salade)",
+    "level": "B1",
+    "frequency": 55,
+    "tags": [
+      "nourriture",
+      "légumes"
+    ]
+  },
+  {
+    "portuguese": "castor",
+    "phonetic": "",
+    "french": "castor",
+    "level": "B1",
+    "frequency": 52,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "chimpanzé",
+    "phonetic": "",
+    "french": "chimpanzé",
+    "level": "B1",
+    "frequency": 50,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "corvo",
+    "phonetic": "",
+    "french": "corbeau",
+    "level": "B1",
+    "frequency": 50,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "falcão",
+    "phonetic": "",
+    "french": "faucon",
+    "level": "B1",
+    "frequency": 50,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "libélula",
+    "phonetic": "",
+    "french": "libellule",
+    "level": "B1",
+    "frequency": 48,
+    "tags": [
+      "animaux",
+      "insectes"
+    ]
+  },
+  {
+    "portuguese": "lontra",
+    "phonetic": "",
+    "french": "loutre",
+    "level": "B1",
+    "frequency": 48,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "pardal",
+    "phonetic": "",
+    "french": "moineau",
+    "level": "B1",
+    "frequency": 48,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "gavião",
+    "phonetic": "",
+    "french": "épervier",
+    "level": "B1",
+    "frequency": 45,
+    "tags": [
+      "animaux",
+      "oiseaux"
+    ]
+  },
+  {
+    "portuguese": "hiena",
+    "phonetic": "",
+    "french": "hyène",
+    "level": "B1",
+    "frequency": 45,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "alce",
+    "phonetic": "",
+    "french": "élan",
+    "level": "B1",
+    "frequency": 40,
+    "tags": [
+      "animaux"
+    ]
+  },
+  {
+    "portuguese": "estéril",
+    "phonetic": "",
+    "french": "stérile",
+    "level": "B2",
+    "frequency": 55,
+    "tags": [
+      "adjectifs"
+    ]
+  },
+  {
+    "portuguese": "extensamente",
+    "phonetic": "",
+    "french": "largement / longuement",
+    "level": "B2",
+    "frequency": 50,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "alternadamente",
+    "phonetic": "",
+    "french": "alternativement",
+    "level": "B2",
+    "frequency": 48,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "sumariamente",
+    "phonetic": "",
+    "french": "sommairement / brièvement",
+    "level": "B2",
+    "frequency": 48,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "contemporaneamente",
+    "phonetic": "",
+    "french": "contemporainement",
+    "level": "B2",
+    "frequency": 45,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "hodiernamente",
+    "phonetic": "",
+    "french": "de nos jours (soutenu)",
+    "level": "B2",
+    "frequency": 45,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "relevantemente",
+    "phonetic": "",
+    "french": "de façon pertinente",
+    "level": "B2",
+    "frequency": 45,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "reduzidamente",
+    "phonetic": "",
+    "french": "en quantité réduite",
+    "level": "B2",
+    "frequency": 42,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "insignificantemente",
+    "phonetic": "",
+    "french": "de façon insignifiante",
+    "level": "B2",
+    "frequency": 40,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "irrelevantemente",
+    "phonetic": "",
+    "french": "de façon non pertinente",
+    "level": "B2",
+    "frequency": 40,
+    "tags": [
+      "adverbes"
+    ]
+  },
+  {
+    "portuguese": "regozijadamente",
+    "phonetic": "",
+    "french": "joyeusement / avec allégresse",
+    "level": "B2",
+    "frequency": 38,
+    "tags": [
+      "adverbes"
+    ]
+  }
+]

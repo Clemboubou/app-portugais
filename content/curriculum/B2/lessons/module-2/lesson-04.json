@@ -1,0 +1,88 @@
+{
+  "id": "b2-m2-l04",
+  "title": "Et si c'était différent ?",
+  "type": "writing",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Rédiger un texte hypothétique utilisant les structures conditionnelles complexes",
+    "Construire une uchronie cohérente en portugais européen",
+    "Maîtriser l'enchaînement des temps dans un texte narratif hypothétique"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'uchronie : imaginer un passé différent",
+      "content": "<p>L'<strong>uchronie</strong> consiste à imaginer ce qui se serait passé si un événement historique ou personnel avait été différent. C'est un excellent exercice pour maîtriser les <strong>structures hypothétiques complexes</strong> en portugais.</p><p>Dans cette leçon, vous allez rédiger un court texte imaginant un passé alternatif.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Modèle de texte hypothétique",
+      "content": "<p>Voici un exemple de texte uchronique :</p><blockquote><em>Se os Portugueses não <strong>tivessem chegado</strong> à Índia em 1498, a história do mundo <strong>teria sido</strong> completamente diferente. O comércio de especiarias <strong>teria continuado</strong> nas mãos dos Árabes e dos Venezianos. Talvez a Europa não <strong>tivesse desenvolvido</strong> a mesma influência global. Se Vasco da Gama não <strong>tivesse partido</strong> de Lisboa, possivelmente outros navegadores <strong>teriam encontrado</strong> o caminho marítimo mais tarde.</em></blockquote><p>Remarquez l'alternance entre <em>se + plus-que-parfait du subjonctif</em> et <em>conditionnel composé</em>.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Outils linguistiques pour l'uchronie",
+      "content": "<p><strong>Connecteurs temporels hypothétiques :</strong></p><ul><li><em>Se... não tivesse acontecido</em> (Si... n'avait pas eu lieu)</li><li><em>Nesse caso</em> (Dans ce cas)</li><li><em>Por consequência</em> (Par conséquent)</li><li><em>Em vez disso</em> (Au lieu de cela)</li><li><em>Possivelmente / Provavelmente</em> (Possiblement / Probablement)</li></ul><p><strong>Verbes utiles :</strong></p><ul><li><em>Imaginar que</em> (imaginer que)</li><li><em>Supor que</em> (supposer que)</li><li><em>Acontecer</em> (arriver / se passer)</li><li><em>Mudar</em> (changer)</li><li><em>Influenciar</em> (influencer)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Structures à utiliser dans votre texte",
+      "content": "<p>Intégrez ces structures dans votre rédaction :</p><ul><li><em>Imaginemos que... não <strong>tivesse</strong> acontecido.</em> (Imaginons que... ne soit pas arrivé.)</li><li><em>Se isso <strong>tivesse sido</strong> diferente, então...</em> (Si cela avait été différent, alors...)</li><li><em>O mundo <strong>teria sido</strong> radicalmente diferente.</em> (Le monde aurait été radicalement différent.)</li><li><em>Quem sabe se não <strong>teríamos</strong> hoje...</em> (Qui sait si nous n'aurions pas aujourd'hui...)</li><li><em>É fascinante pensar no que <strong>teria acontecido</strong> se...</em> (C'est fascinant de penser à ce qui serait arrivé si...)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Votre texte uchronique",
+      "content": "<p>Choisissez un de ces sujets et rédigez un texte de <strong>80 à 120 mots</strong> :</p><ol><li><em>Se eu não <strong>tivesse</strong> começado a aprender português...</em> (Si je n'avais pas commencé à apprendre le portugais...)</li><li><em>Se Portugal não <strong>tivesse entrado</strong> na União Europeia em 1986...</em> (Si le Portugal n'était pas entré dans l'UE en 1986...)</li><li><em>Se eu <strong>tivesse nascido</strong> em Lisboa...</em> (Si j'étais né à Lisbonne...)</li></ol><p>Utilisez au minimum : 3 conditionnels composés, 2 plus-que-parfait du subjonctif, 2 connecteurs.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Si cela n'avait pas eu lieu' en portugais ?",
+      "correctAnswer": "Se isso não tivesse acontecido",
+      "distractors": [
+        "Se isso não tinha acontecido",
+        "Se isso não acontecesse",
+        "Se isso não tivera acontecido"
+      ],
+      "explanation": "Pour une hypothèse irréelle au passé : 'se' + plus-que-parfait du subjonctif (tivesse acontecido)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Se Camões não ________ (escrever) Os Lusíadas, a literatura portuguesa teria sido diferente.",
+      "correctAnswer": "tivesse escrito",
+      "explanation": "Plus-que-parfait du subjonctif : tivesse + escrito (participe passé irrégulier de ESCREVER)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Au lieu de cela, le monde aurait été complètement différent.",
+      "correctAnswer": "Em vez disso, o mundo teria sido completamente diferente.",
+      "explanation": "'Em vez disso' = au lieu de cela. Conditionnel composé : teria sido."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel connecteur signifie 'par conséquent' ?",
+      "correctAnswer": "Por consequência",
+      "distractors": ["Em vez disso", "Nesse caso", "Possivelmente"],
+      "explanation": "'Por consequência' = par conséquent. 'Em vez disso' = au lieu de cela. 'Nesse caso' = dans ce cas."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Imaginemos que os Descobrimentos não ________ (existir). O mundo seria muito diferente.",
+      "correctAnswer": "tivessem existido",
+      "explanation": "'Imaginemos que' + plus-que-parfait du subjonctif pour une hypothèse passée : tivessem existido."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "imaginemos que", "phonetic": "/imɐʒiˈnemuʃ kɨ/", "french": "imaginons que"},
+    {"portuguese": "em vez disso", "phonetic": "/ẽ veʃ ˈdisu/", "french": "au lieu de cela"},
+    {"portuguese": "nesse caso", "phonetic": "/ˈnesɨ ˈkazu/", "french": "dans ce cas"},
+    {"portuguese": "por consequência", "phonetic": "/puɾ kõsɨˈkwẽsiɐ/", "french": "par conséquent"},
+    {"portuguese": "acontecer", "phonetic": "/ɐkõtɨˈseɾ/", "french": "arriver / se passer"},
+    {"portuguese": "influenciar", "phonetic": "/ĩfluẽˈsiaɾ/", "french": "influencer"},
+    {"portuguese": "especiarias", "phonetic": "/ɨʃpɨsiɐˈɾiɐʃ/", "french": "épices"},
+    {"portuguese": "navegador", "phonetic": "/nɐvɨɡɐˈdoɾ/", "french": "navigateur"},
+    {"portuguese": "descobrimentos", "phonetic": "/dɨʃkubɾiˈmẽtuʃ/", "french": "les Grandes Découvertes"},
+    {"portuguese": "caminho marítimo", "phonetic": "/kɐˈmiɲu mɐˈɾitimu/", "french": "route maritime"}
+  ]
+}

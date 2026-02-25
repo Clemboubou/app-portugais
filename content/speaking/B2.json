@@ -1,0 +1,171 @@
+[
+  {
+    "id": "s-b2-01",
+    "title": "Débat sur l'environnement",
+    "level": "B2",
+    "description": "Débat approfondi sur les changements climatiques et les solutions",
+    "objectives": [
+      "Argumenter de manière nuancée sur un sujet complexe",
+      "Utiliser le subjonctif pour exprimer des hypothèses",
+      "Réfuter les arguments d'autrui de façon polite"
+    ],
+    "scenario": "Vous débattez avec quelqu'un sur les solutions aux changements climatiques. L'un croit aux énergies renouvelables, l'autre pense que ce n'est pas suffisant.",
+    "conversation_starters": [
+      "Acha que as energias renováveis são a solução para os problemas climáticos?",
+      "Embora reconheça os benefícios, tenho dúvidas sobre a eficácia..."
+    ],
+    "vocabulary": [
+      { "pt": "mudança climática", "fr": "changement climatique" },
+      { "pt": "sustentabilidade", "fr": "durabilité" },
+      { "pt": "emissões de carbono", "fr": "émissions de carbone" },
+      { "pt": "energia renovável", "fr": "énergie renouvelable" },
+      { "pt": "poluição", "fr": "pollution" },
+      { "pt": "biodiversidade", "fr": "biodiversité" },
+      { "pt": "transição energética", "fr": "transition énergétique" },
+      { "pt": "política ambiental", "fr": "politique environnementale" }
+    ],
+    "key_phrases": [
+      "Concordo que as energias renováveis são importantes, porém não são a solução completa.",
+      "Embora reconheça os desafios, acredito que é possível alcançar a neutralidade carbónica.",
+      "Pelo contrário, os dados mostram que podemos reduzir emissões significativamente.",
+      "Que medidas específicas propõe então?",
+      "Seria necessário combinar transição energética com mudança comportamental."
+    ]
+  },
+  {
+    "id": "s-b2-02",
+    "title": "Réunion professionnelle",
+    "level": "B2",
+    "description": "Participer à une réunion d'équipe pour discuter un projet",
+    "objectives": [
+      "Présenter des idées professionnellement",
+      "Donner et recevoir des retours constructifs",
+      "Utiliser le registre formel"
+    ],
+    "scenario": "Vous êtes dans une réunion pour discuter d'un nouveau projet digital. Vous présentez votre vision, posez des questions et répondez aux objections.",
+    "conversation_starters": [
+      "Começamos com a apresentação do projeto digital.",
+      "Alguém gostaria de partilhar as suas ideias?"
+    ],
+    "vocabulary": [
+      { "pt": "projeto", "fr": "projet" },
+      { "pt": "objectivo", "fr": "objectif" },
+      { "pt": "timeline", "fr": "calendrier" },
+      { "pt": "orçamento", "fr": "budget" },
+      { "pt": "equipa", "fr": "équipe" },
+      { "pt": "implementação", "fr": "mise en œuvre" },
+      { "pt": "desafio", "fr": "défi" },
+      { "pt": "solução", "fr": "solution" }
+    ],
+    "key_phrases": [
+      "Na minha perspectiva, deveríamos começar pela análise do mercado.",
+      "Compreendo a sua preocupação, mas considero que as vantagens superam os riscos.",
+      "Pode detalhar um pouco mais sobre o cronograma?",
+      "Que recursos precisaríamos para esta implementação?",
+      "Sugiro que dividamos o projeto em fases.",
+      "Concordamos com os próximos passos?"
+    ]
+  },
+  {
+    "id": "s-b2-03",
+    "title": "Critique d'un film ou d'une œuvre d'art",
+    "level": "B2",
+    "description": "Discuter une œuvre artistique de manière analytique",
+    "objectives": [
+      "Donner une critique fondée avec des arguments",
+      "Utiliser le vocabulaire artistique",
+      "Exprimer des jugements nuancés"
+    ],
+    "scenario": "Vous discutez d'un film portugais récent (ex: Capitães de Abril). Analysez la cinématographie, l'intrigue, les acteurs et la pertinence historique.",
+    "conversation_starters": [
+      "Que achou do filme? Eu achei fascinante.",
+      "Concordo, mas a pacing era demasiado lenta para mim..."
+    ],
+    "vocabulary": [
+      { "pt": "filme", "fr": "film" },
+      { "pt": "cinematografia", "fr": "cinématographie" },
+      { "pt": "direcção", "fr": "réalisation" },
+      { "pt": "ator / atriz", "fr": "acteur / actrice" },
+      { "pt": "enredo", "fr": "intrigue" },
+      { "pt": "tema", "fr": "thème" },
+      { "pt": "crítica social", "fr": "critique sociale" },
+      { "pt": "impacto emocional", "fr": "impact émotionnel" }
+    ],
+    "key_phrases": [
+      "A cinematografia foi extraordinária, com composição visual impressionante.",
+      "O diretor conseguiu transmitir a carga emocional do evento histórico.",
+      "Embora reconheça a qualidade técnica, achei que o filme era excessivamente longo.",
+      "Os atores trouxeram profundidade aos seus personagens.",
+      "A crítica social implícita no filme ainda é relevante hoje.",
+      "Que aspecto do filme mais o impressionou?"
+    ]
+  },
+  {
+    "id": "s-b2-04",
+    "title": "Négociation commerciale",
+    "level": "B2",
+    "description": "Négocier les termes d'un contrat ou d'une vente",
+    "objectives": [
+      "Argumenter pour obtenir un meilleur prix ou conditions",
+      "Utiliser le conditionnel pour les hypothèses",
+      "Arriver à un compromis mutuellement acceptable"
+    ],
+    "scenario": "Vous négociez le prix et les conditions d'un contrat de service IT avec un fournisseur.",
+    "conversation_starters": [
+      "Apresentei a proposta conforme solicitado. O que acha das condições?",
+      "Consideramos a proposta interessante, porém há aspectos para negociar..."
+    ],
+    "vocabulary": [
+      { "pt": "proposta", "fr": "proposition" },
+      { "pt": "condições", "fr": "conditions" },
+      { "pt": "preço", "fr": "prix" },
+      { "pt": "desconto", "fr": "réduction" },
+      { "pt": "prazo de pagamento", "fr": "délai de paiement" },
+      { "pt": "penalidades", "fr": "pénalités" },
+      { "pt": "vigência", "fr": "durée de validité" },
+      { "pt": "renovação", "fr": "renouvellement" }
+    ],
+    "key_phrases": [
+      "Consideramos que o valor está acima do mercado.",
+      "Se oferecesse um desconto de 15%, poderíamos chegar a acordo.",
+      "Quanto aos prazos de pagamento, 60 dias seria mais adequado para nós.",
+      "Poderíamos incluir uma cláusula de revisão anual?",
+      "Entendo a sua posição, mas precisamos encontrar um ponto de equilíbrio.",
+      "Com estas ajustes, podemos prosseguir com o contrato."
+    ]
+  },
+  {
+    "id": "s-b2-05",
+    "title": "Entrevista d'un expert",
+    "level": "B2",
+    "description": "Mener une entrevue avec un expert sur un sujet spécialisé",
+    "objectives": [
+      "Poser des questions approfondies",
+      "Comprendre des explications complexes",
+      "Faire des suivis intelligents"
+    ],
+    "scenario": "Vous interviewez un urbaniste sur le futur des cités. Posez des questions sur durabilité, mobilité urbaine, et design.",
+    "conversation_starters": [
+      "Obrigado por aceitar esta entrevista. Qual é a sua visão para o futuro das cidades?",
+      "Agradeço a oportunidade. As cidades enfrentam desafios sem precedentes..."
+    ],
+    "vocabulary": [
+      { "pt": "urbanismo", "fr": "urbanisme" },
+      { "pt": "mobilidade urbana", "fr": "mobilité urbaine" },
+      { "pt": "densidade populacional", "fr": "densité de population" },
+      { "pt": "infraestrutura", "fr": "infrastructure" },
+      { "pt": "sustentabilidade", "fr": "durabilité" },
+      { "pt": "espaço público", "fr": "espace public" },
+      { "pt": "segregação social", "fr": "ségrégation sociale" },
+      { "pt": "planeamento urbano", "fr": "planification urbaine" }
+    ],
+    "key_phrases": [
+      "Qual é, na sua opinião, o principal desafio urbano atual?",
+      "Como é que podemos conciliar crescimento com sustentabilidade?",
+      "Pode explicar melhor o conceito de cidade de 15 minutos?",
+      "Que papel joga a tecnologia no design urbano futuro?",
+      "Como imaginará a cidade ideal?",
+      "E quanto à segregação social que ainda existe nas cidades?"
+    ]
+  }
+]

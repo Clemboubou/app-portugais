@@ -1,0 +1,83 @@
+{
+  "id": "a2-m3-l04",
+  "title": "À la pharmacie",
+  "type": "conversation",
+  "estimatedMinutes": 14,
+  "objectives": [
+    "Demander un médicament ou un produit à la pharmacie",
+    "Comprendre les conseils du pharmacien",
+    "Connaître le vocabulaire des médicaments courants"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La pharmacie au Portugal",
+      "content": "<p>Les <strong>farmácias</strong> (pharmacies) au Portugal sont facilement reconnaissables grâce à leur croix verte lumineuse. Elles sont très présentes et offrent souvent des conseils de santé sans rendez-vous. Le <strong>farmacêutico</strong> (pharmacien) peut recommander des médicaments sans ordonnance pour les petits problèmes de santé.</p><p><strong>Note culturelle</strong> : Au Portugal, il existe des <em>farmácias de serviço</em> (pharmacies de garde) ouvertes la nuit et les week-ends.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Vocabulaire de la pharmacie",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td><strong>o medicamento</strong></td><td>le médicament</td></tr><tr><td><strong>o comprimido</strong></td><td>le comprimé</td></tr><tr><td><strong>a pomada</strong></td><td>la pommade</td></tr><tr><td><strong>o xarope</strong></td><td>le sirop</td></tr><tr><td><strong>o penso rápido</strong></td><td>le pansement</td></tr><tr><td><strong>as gotas</strong></td><td>les gouttes</td></tr><tr><td><strong>a receita</strong></td><td>l'ordonnance</td></tr><tr><td><strong>o antibiótico</strong></td><td>l'antibiotique</td></tr><tr><td><strong>o analgésico</strong></td><td>l'antidouleur</td></tr><tr><td><strong>o protetor solar</strong></td><td>la crème solaire</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Dialogue à la pharmacie",
+      "content": "<blockquote><p><strong>Cliente</strong>: Boa tarde! Preciso de alguma coisa para as dores de cabeça.<br/><strong>Farmacêutica</strong>: Boa tarde. Tem receita médica?<br/><strong>Cliente</strong>: Não, não tenho.<br/><strong>Farmacêutica</strong>: Então posso dar-lhe paracetamol. Tome um comprimido de 8 em 8 horas, com água.<br/><strong>Cliente</strong>: Obrigado. Também preciso de um xarope para a tosse e pensos rápidos.<br/><strong>Farmacêutica</strong>: Este xarope é muito eficaz. Tome uma colher de sopa três vezes ao dia. E aqui estão os pensos. Mais alguma coisa?<br/><strong>Cliente</strong>: Não, é tudo. Quanto custa?<br/><strong>Farmacêutica</strong>: São 12 euros e 50 cêntimos.</p></blockquote>"
+    },
+    {
+      "type": "practice",
+      "title": "Phrases utiles à la pharmacie",
+      "content": "<p><strong>Pour demander :</strong></p><ul><li><em>Preciso de alguma coisa para...</em> (J'ai besoin de quelque chose pour...)</li><li><em>Tem algo para a dor de garganta?</em> (Avez-vous quelque chose pour le mal de gorge ?)</li><li><em>Pode recomendar-me um medicamento?</em> (Pouvez-vous me recommander un médicament ?)</li></ul><p><strong>Instructions du pharmacien :</strong></p><ul><li><em>Tome um comprimido de manhã e outro à noite.</em> (Prenez un comprimé le matin et un autre le soir.)</li><li><em>Aplique a pomada duas vezes ao dia.</em> (Appliquez la pommade deux fois par jour.)</li><li><em>Não tome com o estômago vazio.</em> (Ne prenez pas l'estomac vide.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Votre scénario à la pharmacie",
+      "content": "<p>Vous avez un coup de soleil et une piqûre d'insecte. Préparez un dialogue à la pharmacie en demandant :</p><ul><li>Une pommade pour la piqûre (<em>pomada para a picada de inseto</em>)</li><li>Une crème pour le coup de soleil (<em>creme para a queimadura solar</em>)</li><li>Le prix total</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'pansement' en portugais européen ?",
+      "correctAnswer": "penso rápido",
+      "distractors": ["band-aid", "penso adesivo", "curativo"],
+      "explanation": "En portugais européen, on dit 'penso rápido' pour un pansement adhésif."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tome um ________ de 8 em 8 horas.",
+      "correctAnswer": "comprimido",
+      "explanation": "'O comprimido' = le comprimé. 'De 8 em 8 horas' = toutes les 8 heures."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'ai besoin de quelque chose pour la toux.'",
+      "correctAnswer": "Preciso de alguma coisa para a tosse.",
+      "explanation": "'Preciso de' = j'ai besoin de. 'Alguma coisa para' = quelque chose pour. 'A tosse' = la toux."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'o xarope' ?",
+      "correctAnswer": "Le sirop",
+      "distractors": ["Le comprimé", "La pommade", "L'injection"],
+      "explanation": "'O xarope' = le sirop (médicament liquide). Se prend souvent 'uma colher de sopa' (une cuillère à soupe)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Aplique a ________ na pele duas vezes ao dia.",
+      "correctAnswer": "pomada",
+      "explanation": "'A pomada' = la pommade. 'Aplicar na pele' = appliquer sur la peau."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "o medicamento", "phonetic": "/mɨdikɐˈmɐ̃tu/", "french": "le médicament"},
+    {"portuguese": "o comprimido", "phonetic": "/kõpɾiˈmidu/", "french": "le comprimé"},
+    {"portuguese": "a pomada", "phonetic": "/puˈmadɐ/", "french": "la pommade"},
+    {"portuguese": "o xarope", "phonetic": "/ʃɐˈɾɔpɨ/", "french": "le sirop"},
+    {"portuguese": "o penso rápido", "phonetic": "/ˈpɐ̃su ˈʁapidu/", "french": "le pansement"},
+    {"portuguese": "as gotas", "phonetic": "/ˈɡɔtɐʃ/", "french": "les gouttes"},
+    {"portuguese": "o farmacêutico", "phonetic": "/fɐɾmɐˈsɐwtiku/", "french": "le pharmacien"},
+    {"portuguese": "a farmácia", "phonetic": "/fɐɾˈmasjɐ/", "french": "la pharmacie"},
+    {"portuguese": "a colher de sopa", "phonetic": "/kuˈʎɛɾ dɨ ˈsopɐ/", "french": "la cuillère à soupe"}
+  ]
+}

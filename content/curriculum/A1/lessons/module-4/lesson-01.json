@@ -1,0 +1,155 @@
+{
+  "id": "a1-m4-l01",
+  "title": "La nourriture de base",
+  "type": "vocabulary",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Nommer les aliments et boissons courants en portugais européen",
+    "Distinguer les genres des noms d'aliments (masculin/féminin)",
+    "Utiliser les articles définis o, a, os, as avec les aliments"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'alimentation en portugais européen",
+      "content": "Dans cette leçon, vous allez apprendre les aliments et boissons essentiels du quotidien. Le portugais européen distingue rigoureusement le genre des noms : chaque aliment est masculin ou féminin, ce qui détermine l'article à utiliser. En cuisine portugaise, certains aliments sont incontournables : le pão (pain), le bacalhau (morue), et le azeite (huile d'olive). Nous allons commencer par les bases."
+    },
+    {
+      "type": "discovery",
+      "title": "Les aliments essentiels",
+      "content": "Découvrez le vocabulaire de base, classé par genre :\n\nMASCULIN (o / os) :\n• o pão — le pain\n• o café — le café\n• o arroz — le riz\n• o peixe — le poisson\n• o queijo — le fromage\n• o ovo — l'œuf (os ovos — les œufs)\n• o leite — le lait\n\nFÉMININ (a / as) :\n• a água — l'eau\n• a carne — la viande\n• a fruta — le fruit / les fruits\n• a salada — la salade\n• a sopa — la soupe\n• a sobremesa — le dessert\n\nPLURIEL PARTICULIER :\n• os legumes — les légumes (toujours au pluriel dans le sens général)"
+    },
+    {
+      "type": "explanation",
+      "title": "Le genre des noms d'aliments",
+      "content": "En portugais européen, le genre du nom suit généralement ces règles :\n\n• Les noms terminés en -o sont souvent masculins : o pão, o café, o arroz\n• Les noms terminés en -a sont souvent féminins : a sopa, a fruta, a carne\n• Exceptions notables : a água (fém.), o leite (masc.), o peixe (masc.)\n\nL'article change selon le nombre :\n• Singulier : o pão → os pães (pluriel irrégulier !)\n• Singulier : a sopa → as sopas\n\nAttention au pluriel de pão : pães (et non ~~pãos~~). Cette irrégularité est caractéristique du portugais européen standard."
+    },
+    {
+      "type": "practice",
+      "title": "Associer l'article correct",
+      "content": "Entraînez-vous à placer le bon article devant chaque aliment :\n\n___ café → o café (masc.)\n___ água → a água (fém.)\n___ ovos → os ovos (masc. plur.)\n___ sopa → a sopa (fém.)\n___ legumes → os legumes (masc. plur.)\n___ fruta → a fruta (fém.)\n\nAstuce : en cas de doute, mémorisez le mot toujours avec son article. Apprenez « o pão » et non juste « pão »."
+    },
+    {
+      "type": "production",
+      "title": "À vous de jouer",
+      "content": "Répondez à ces questions en portugais :\n1. Comment dit-on « le lait » en portugais ?\n2. Quel est l'article de « carne » ?\n3. Comment dit-on « les œufs » ?\n4. Quelle est la traduction de « a sobremesa » ?\n\nRéponses : 1. o leite | 2. a (a carne) | 3. os ovos | 4. le dessert"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel est le genre du mot « peixe » en portugais ?",
+      "correctAnswer": "masculin — o peixe",
+      "distractors": ["féminin — a peixe", "neutre — peixe", "masculin — os peixes (toujours au pluriel)"],
+      "explanation": "Peixe est un nom masculin : on dit o peixe (le poisson) au singulier et os peixes (les poissons) au pluriel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez avec l'article correct : « Quero ___ sopa, por favor. » (Je veux la soupe, s'il vous plaît.)",
+      "correctAnswer": "a",
+      "distractors": ["o", "os", "as"],
+      "explanation": "Sopa est féminin singulier, donc l'article défini est « a ». On dit a sopa."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie « a sobremesa » en français ?",
+      "correctAnswer": "le dessert",
+      "distractors": ["la salade", "l'entrée", "le plat principal"],
+      "explanation": "A sobremesa désigne le dessert en portugais européen. C'est un mot féminin."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Je veux du pain et du fromage. »",
+      "correctAnswer": "Quero pão e queijo.",
+      "distractors": [
+        "Quero a pão e o queijo.",
+        "Quero pão e a queijo.",
+        "Quero os pão e queijo."
+      ],
+      "explanation": "En portugais, pour exprimer une quantité indéfinie (« du pain »), on n'utilise généralement pas d'article partitif : on dit simplement quero pão e queijo. Les articles définis o/a ne s'emploient pas ici."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez les mots dans le bon ordre : « água / a / fria / é »",
+      "correctAnswer": "A água é fria.",
+      "distractors": [
+        "É a água fria.",
+        "A fria água é.",
+        "Fria é a água."
+      ],
+      "explanation": "La structure habituelle en portugais est Sujet + Verbe + Attribut : A água é fria. (L'eau est froide.) L'adjectif suit le verbe être ici."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "o pão",
+      "phonetic": "/u ˈpɐ̃w̃/",
+      "french": "le pain"
+    },
+    {
+      "portuguese": "a água",
+      "phonetic": "/ɐ ˈaɡwɐ/",
+      "french": "l'eau"
+    },
+    {
+      "portuguese": "o café",
+      "phonetic": "/u kɐˈfɛ/",
+      "french": "le café"
+    },
+    {
+      "portuguese": "o leite",
+      "phonetic": "/u ˈlɐjtɨ/",
+      "french": "le lait"
+    },
+    {
+      "portuguese": "o arroz",
+      "phonetic": "/u ɐˈʁoʃ/",
+      "french": "le riz"
+    },
+    {
+      "portuguese": "a carne",
+      "phonetic": "/ɐ ˈkaɾnɨ/",
+      "french": "la viande"
+    },
+    {
+      "portuguese": "o peixe",
+      "phonetic": "/u ˈpɐjʃɨ/",
+      "french": "le poisson"
+    },
+    {
+      "portuguese": "a fruta",
+      "phonetic": "/ɐ ˈfɾutɐ/",
+      "french": "le fruit / les fruits"
+    },
+    {
+      "portuguese": "os legumes",
+      "phonetic": "/uʃ lɨˈɡumɨʃ/",
+      "french": "les légumes"
+    },
+    {
+      "portuguese": "o queijo",
+      "phonetic": "/u ˈkɐjʒu/",
+      "french": "le fromage"
+    },
+    {
+      "portuguese": "o ovo",
+      "phonetic": "/u ˈovu/",
+      "french": "l'œuf"
+    },
+    {
+      "portuguese": "a sopa",
+      "phonetic": "/ɐ ˈsɔpɐ/",
+      "french": "la soupe"
+    },
+    {
+      "portuguese": "a salada",
+      "phonetic": "/ɐ sɐˈladɐ/",
+      "french": "la salade"
+    },
+    {
+      "portuguese": "a sobremesa",
+      "phonetic": "/ɐ ˌsoβɾɨˈmezɐ/",
+      "french": "le dessert"
+    }
+  ]
+}

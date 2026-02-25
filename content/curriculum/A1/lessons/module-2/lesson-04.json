@@ -1,0 +1,109 @@
+{
+  "id": "a1-m2-l04",
+  "title": "La famille proche",
+  "type": "vocabulary",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Apprendre le vocabulaire de la famille proche en portugais européen",
+    "Maîtriser les formes masculines et féminines des membres de la famille",
+    "Utiliser le verbe ter (avoir) pour parler de sa famille"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La famille : un vocabulaire fondamental",
+      "content": "Parler de sa famille est l'une des premières choses que l'on apprend dans une nouvelle langue. En portugais européen, les termes familiaux ont souvent une forme masculine et une forme féminine distinctes. Cette leçon couvre les membres de la famille proche, avec les structures pour en parler naturellement."
+    },
+    {
+      "type": "discovery",
+      "title": "Les parents directs",
+      "content": "Les membres les plus proches de la famille :\n\n• pai → père\n  O meu pai chama-se António. → Mon père s'appelle António.\n\n• mãe → mère\n  A minha mãe é professora. → Ma mère est professeure.\n\n• filho → fils / filha → fille\n  Tenho um filho e uma filha. → J'ai un fils et une fille.\n\n• irmão → frère / irmã → sœur\n  O meu irmão tem vinte anos. → Mon frère a vingt ans.\n\nNote : En portugais européen, le possessif (mon, ma, etc.) se traduit par o meu / a minha (masculin/féminin). Contrairement au brésilien courant, le possessif est presque toujours accompagné de l'article défini en portugais européen : o meu pai (et non meu pai)."
+    },
+    {
+      "type": "discovery",
+      "title": "Les grands-parents, oncles et cousins",
+      "content": "Les membres de la famille élargie proche :\n\n• avô → grand-père / avó → grand-mère\n  Note : avô (avec accent circonflexe) = grand-père ; avó (avec accent aigu) = grand-mère. Cette distinction orthographique est importante !\n  Os meus avós vivem no Alentejo. → Mes grands-parents vivent en Alentejo.\n\n• tio → oncle / tia → tante\n  A minha tia mora em Lisboa. → Ma tante habite à Lisbonne.\n\n• primo → cousin / prima → cousine\n  Tenho muitos primos. → J'ai beaucoup de cousins.\n\n• sobrinho → neveu / sobrinha → nièce\n  O meu sobrinho tem cinco anos. → Mon neveu a cinq ans."
+    },
+    {
+      "type": "discovery",
+      "title": "Le couple : mari et femme",
+      "content": "Les termes pour le couple marié :\n\n• marido → mari\n  O meu marido é engenheiro. → Mon mari est ingénieur.\n\n• mulher → femme (au sens d'épouse) / esposa → épouse (plus formel)\n  A minha mulher é médica. → Ma femme est médecin.\n\nAttention : mulher signifie à la fois 'femme' (être humain féminin) et 'épouse' selon le contexte. Esposa est le terme plus formel pour 'épouse'.\n\nNote moderne : En portugais européen, on dit também marido/mulher pour les couples de même sexe dans un registre courant, et os maridos / as mulheres au pluriel."
+    },
+    {
+      "type": "explanation",
+      "title": "Présenter sa famille : structures clés",
+      "content": "Voici les structures essentielles pour parler de sa famille en portugais européen :\n\n1. Avec ter (avoir) :\n   Tenho um irmão e duas irmãs. → J'ai un frère et deux sœurs.\n   Tenho três filhos. → J'ai trois enfants.\n\n2. Avec ser (être) :\n   O António é o meu pai. → António est mon père.\n   Somos cinco na família. → Nous sommes cinq dans la famille.\n\n3. Avec chamar-se (s'appeler) :\n   O meu avô chama-se Manuel. → Mon grand-père s'appelle Manuel.\n\n4. La question : Tens irmãos? → Tu as des frères et sœurs ?\n   Réponse : Sim, tenho dois irmãos. / Não, sou filho único. / Não, sou filha única.\n\nRappel important : En portugais européen, le possessif est toujours précédé de l'article défini : o meu pai, a minha mãe, o meu irmão, a minha irmã."
+    },
+    {
+      "type": "practice",
+      "title": "Prononciation du vocabulaire familial",
+      "content": "Repères de prononciation en portugais européen :\n\n• pai → /paj/ — court, une syllabe\n• mãe → /mɐ̃j/ — voyelle nasale, une syllabe\n• filho → /ˈfiʎu/ — le -lh- se prononce /ʎ/ (son mouillé)\n• filha → /ˈfiʎɐ/ — même son mouillé\n• irmão → /iɾˈmɐ̃w̃/ — terminaison nasale -ão\n• irmã → /iɾˈmɐ̃/ — terminaison nasale\n• avô → /ɐˈvo/ — 'o' ouvert, accent circonflexe\n• avó → /ɐˈvɔ/ — 'o' encore plus ouvert, accent aigu\n• sobrinho → /suˈbɾiɲu/ — -nh- = /ɲ/ comme 'gn' français\n• primo → /ˈpɾimu/ — 'o' final = /u/\n• marido → /mɐˈɾidu/ — 'a' réduit, 'o' final = /u/"
+    },
+    {
+      "type": "production",
+      "title": "Présentez votre famille",
+      "content": "Décrivez votre propre famille en utilisant ce modèle :\n\n'Na minha família somos ___. Tenho ___ e ___. O meu pai chama-se ___ e a minha mãe chama-se ___. Também tenho ___ irmão(s) / irmã(s).'\n\nDans ma famille nous sommes ___. J'ai ___ et ___. Mon père s'appelle ___ et ma mère s'appelle ___. J'ai aussi ___ frère(s) / sœur(s).\n\nSi vous êtes marié(e) : O meu marido / A minha mulher chama-se ___.\nSi vous avez des enfants : Tenho ___ filho(s) / filha(s)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la différence entre 'avô' et 'avó' en portugais européen ?",
+      "correctAnswer": "avô = grand-père (accent circonflexe), avó = grand-mère (accent aigu)",
+      "distractors": [
+        "avô = grand-mère, avó = grand-père",
+        "Les deux mots signifient 'grands-parents' sans distinction",
+        "avô est le pluriel de avó"
+      ],
+      "explanation": "En portugais, l'accent change le sens du mot. Avô (accent circonflexe, 'o' mi-ouvert) = grand-père. Avó (accent aigu, 'o' très ouvert) = grand-mère. Cette distinction orthographique et phonétique est fondamentale."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on correctement 'mon père' en portugais européen ?",
+      "correctAnswer": "o meu pai",
+      "distractors": ["meu pai", "o minha pai", "mon pai"],
+      "explanation": "En portugais européen, le possessif est toujours précédé de l'article défini : o meu pai. La forme meu pai (sans article) est caractéristique du portugais brésilien familier. L'article s'accorde : o meu (masculin), a minha (féminin)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez : 'Tenho uma ___.' (J'ai une nièce.)",
+      "correctAnswer": "sobrinha",
+      "distractors": ["sobrinho", "sobrinhe", "sobrinha's"],
+      "explanation": "Neveu = sobrinho (masculin). Nièce = sobrinha (féminin). Le féminin se forme en remplaçant le -o final par -a, règle standard pour les noms de personnes en portugais."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez : 'Ma tante et mon oncle ont deux cousines.'",
+      "correctAnswer": "A minha tia e o meu tio têm duas primas.",
+      "distractors": [
+        "A minha tia e o meu tio tem duas primas.",
+        "A minha tia e o meu tio têm dois primos.",
+        "Minha tia e meu tio têm duas primas."
+      ],
+      "explanation": "Têm est la forme de ter à la 3e personne du pluriel (ils/elles ont). Duas primas = deux cousines (féminin). Les possessifs sont accompagnés de l'article en portugais européen : a minha tia, o meu tio."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez dans l'ordre : [filhos / três / Tenho / dois / e / filha / irmãos] pour dire : 'J'ai trois fils et deux frères.'",
+      "correctAnswer": "Tenho três filhos e dois irmãos.",
+      "distractors": [
+        "Tenho dois filhos e três irmãos.",
+        "Três filhos e dois irmãos tenho.",
+        "Tenho três filha e dois irmãos."
+      ],
+      "explanation": "Filhos est le pluriel de filho (fils). Irmãos est le pluriel de irmão (frère). La structure est : Tenho + nombre + nom au pluriel. Le verbe se place en deuxième position dans la phrase déclarative."
+    }
+  ],
+  "vocabulary": [
+    { "portuguese": "pai", "phonetic": "/paj/", "french": "père" },
+    { "portuguese": "mãe", "phonetic": "/mɐ̃j/", "french": "mère" },
+    { "portuguese": "filho / filha", "phonetic": "/ˈfiʎu/ / /ˈfiʎɐ/", "french": "fils / fille" },
+    { "portuguese": "irmão / irmã", "phonetic": "/iɾˈmɐ̃w̃/ / /iɾˈmɐ̃/", "french": "frère / sœur" },
+    { "portuguese": "avô / avó", "phonetic": "/ɐˈvo/ / /ɐˈvɔ/", "french": "grand-père / grand-mère" },
+    { "portuguese": "tio / tia", "phonetic": "/ˈtiu/ / /ˈtiɐ/", "french": "oncle / tante" },
+    { "portuguese": "primo / prima", "phonetic": "/ˈpɾimu/ / /ˈpɾimɐ/", "french": "cousin / cousine" },
+    { "portuguese": "marido", "phonetic": "/mɐˈɾidu/", "french": "mari" },
+    { "portuguese": "mulher / esposa", "phonetic": "/muˈʎeɾ/ / /iʃˈpɔzɐ/", "french": "femme / épouse" },
+    { "portuguese": "sobrinho / sobrinha", "phonetic": "/suˈbɾiɲu/ / /suˈbɾiɲɐ/", "french": "neveu / nièce" }
+  ]
+}

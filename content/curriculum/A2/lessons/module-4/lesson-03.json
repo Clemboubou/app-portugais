@@ -1,0 +1,84 @@
+{
+  "id": "a2-m4-l03",
+  "title": "A la banque et a la poste",
+  "type": "vocabulary",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Maitriser le vocabulaire bancaire et postal en portugais europeen",
+    "Effectuer des operations courantes a la banque et a la poste",
+    "Comprendre les termes lies au Multibanco et aux services postaux CTT"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les services au Portugal",
+      "content": "<p>Au Portugal, les services bancaires et postaux sont essentiels au quotidien. Le <strong>Multibanco</strong> (distributeur automatique) est omnipresent et permet bien plus que de simples retraits : payer des factures, charger un telephone, acheter des billets de spectacle. Les <strong>CTT</strong> (Correios de Portugal) gerent le courrier et les colis.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "A la banque",
+      "content": "<p>Vocabulaire bancaire essentiel :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><strong>o banco</strong></td><td>la banque</td></tr><tr><td><strong>a conta bancaria</strong></td><td>le compte bancaire</td></tr><tr><td><strong>o Multibanco</strong></td><td>le distributeur automatique (DAB)</td></tr><tr><td><strong>levantar dinheiro</strong></td><td>retirer de l'argent</td></tr><tr><td><strong>a transferencia</strong></td><td>le virement</td></tr><tr><td><strong>o cartao de debito</strong></td><td>la carte de debit</td></tr><tr><td><strong>o cartao de credito</strong></td><td>la carte de credit</td></tr><tr><td><strong>o saldo</strong></td><td>le solde</td></tr><tr><td><strong>o troco</strong></td><td>la monnaie (rendue)</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "A la poste (CTT)",
+      "content": "<p>Vocabulaire postal :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><strong>os correios / os CTT</strong></td><td>la poste</td></tr><tr><td><strong>a carta</strong></td><td>la lettre</td></tr><tr><td><strong>a encomenda</strong></td><td>le colis</td></tr><tr><td><strong>o selo</strong></td><td>le timbre</td></tr><tr><td><strong>o remetente</strong></td><td>l'expediteur</td></tr><tr><td><strong>o destinatario</strong></td><td>le destinataire</td></tr><tr><td><strong>a morada</strong></td><td>l'adresse</td></tr><tr><td><strong>o codigo postal</strong></td><td>le code postal</td></tr><tr><td><strong>enviar / mandar</strong></td><td>envoyer</td></tr><tr><td><strong>receber</strong></td><td>recevoir</td></tr></tbody></table><p><strong>Note</strong> : en portugais europeen, on dit <em>a morada</em> pour l'adresse (et non 'endereco' qui est plus bresilien).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Phrases pratiques",
+      "content": "<p>A la banque :</p><ul><li><em>Queria abrir uma conta, por favor.</em> (Je voudrais ouvrir un compte, s'il vous plait.)</li><li><em>Onde fica o Multibanco mais proximo?</em> (Ou est le distributeur le plus proche ?)</li><li><em>Quero fazer uma transferencia.</em> (Je veux faire un virement.)</li><li><em>Qual e o meu saldo?</em> (Quel est mon solde ?)</li></ul><p>A la poste :</p><ul><li><em>Queria enviar esta carta para Franca.</em> (Je voudrais envoyer cette lettre en France.)</li><li><em>Quanto custa um selo para a Europa?</em> (Combien coute un timbre pour l'Europe ?)</li><li><em>Quero enviar esta encomenda por correio registado.</em> (Je veux envoyer ce colis en recommande.)</li><li><em>Tenho uma encomenda para levantar.</em> (J'ai un colis a retirer.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Mise en situation",
+      "content": "<p>Vous devez envoyer un colis a un ami en France et retirer de l'argent. Ecrivez un mini-dialogue pour chaque situation :</p><p>Exemple poste : <em>Bom dia, queria enviar esta encomenda para Paris. — E correio normal ou registado? — Registado, por favor. Quanto custa? — Sao sete euros e cinquenta.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'distributeur automatique' en portugais europeen ?",
+      "correctAnswer": "Multibanco",
+      "distractors": ["Caixa automatica", "ATM", "Banco automatico"],
+      "explanation": "Au Portugal, le distributeur automatique s'appelle 'Multibanco'. C'est un terme specifiquement portugais."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Queria enviar esta ________ para Franca.",
+      "correctAnswer": "carta",
+      "explanation": "'A carta' = la lettre. Pour envoyer une lettre : 'enviar uma carta'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Combien coute un timbre pour l'Europe ?'",
+      "correctAnswer": "Quanto custa um selo para a Europa?",
+      "explanation": "'O selo' = le timbre. 'Quanto custa' = combien coute."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'levantar dinheiro' ?",
+      "correctAnswer": "Retirer de l'argent",
+      "distractors": ["Deposer de l'argent", "Compter de l'argent", "Echanger de l'argent"],
+      "explanation": "'Levantar dinheiro' = retirer de l'argent. 'Levantar' signifie litteralement 'lever/soulever'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quero fazer uma ________ bancaria.",
+      "correctAnswer": "transferencia",
+      "explanation": "'A transferencia' = le virement. 'Fazer uma transferencia' = faire un virement."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "o banco", "phonetic": "/ˈbɐ̃ku/", "french": "la banque"},
+    {"portuguese": "a conta", "phonetic": "/ˈkõtɐ/", "french": "le compte"},
+    {"portuguese": "o Multibanco", "phonetic": "/ˌmultiˈbɐ̃ku/", "french": "le distributeur automatique"},
+    {"portuguese": "a transferencia", "phonetic": "/tɾɐ̃ʃfɨˈɾẽsjɐ/", "french": "le virement"},
+    {"portuguese": "a carta", "phonetic": "/ˈkaɾtɐ/", "french": "la lettre"},
+    {"portuguese": "a encomenda", "phonetic": "/ẽkuˈmẽdɐ/", "french": "le colis"},
+    {"portuguese": "o selo", "phonetic": "/ˈselu/", "french": "le timbre"},
+    {"portuguese": "a morada", "phonetic": "/muˈɾadɐ/", "french": "l'adresse"},
+    {"portuguese": "enviar", "phonetic": "/ẽviˈaɾ/", "french": "envoyer"},
+    {"portuguese": "levantar dinheiro", "phonetic": "/lɨvɐ̃ˈtaɾ diˈɲɐjɾu/", "french": "retirer de l'argent"}
+  ]
+}

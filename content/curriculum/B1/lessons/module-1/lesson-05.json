@@ -1,0 +1,83 @@
+{
+  "id": "b1-m1-l05",
+  "title": "Interview sur le passé",
+  "type": "conversation",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Poser et répondre à des questions sur des expériences passées",
+    "Utiliser correctement le Perfeito et l'Imperfeito en conversation",
+    "Maîtriser les formules d'interview et de récit oral"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Parler de son passé",
+      "content": "<p>Savoir parler de son passé en conversation est une compétence clé du niveau B1. Vous allez apprendre à poser des questions et à raconter des expériences passées de manière naturelle.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Questions types sur le passé",
+      "content": "<p>Voici les questions les plus courantes :</p><ul><li><em>Onde é que cresceste?</em> (Où as-tu grandi ?)</li><li><em>Como era a tua infância?</em> (Comment était ton enfance ?)</li><li><em>Qual foi a tua melhor experiência?</em> (Quelle a été ta meilleure expérience ?)</li><li><em>O que fazias nas férias?</em> (Que faisais-tu en vacances ?)</li><li><em>Já alguma vez foste a Portugal?</em> (Es-tu déjà allé au Portugal ?)</li><li><em>Quando é que começaste a aprender português?</em> (Quand as-tu commencé à apprendre le portugais ?)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Répondre naturellement",
+      "content": "<p>Quelques structures pour répondre :</p><ul><li><em>Cresci em... / Nasci em...</em> (J'ai grandi à... / Je suis né à...)</li><li><em>A minha infância foi muito feliz porque...</em> (Mon enfance a été très heureuse parce que...)</li><li><em>Costumava ir... / Todos os verões ia...</em> (J'avais l'habitude d'aller... / Tous les étés j'allais...)</li><li><em>A melhor experiência que tive foi quando...</em> (La meilleure expérience que j'ai eue, c'est quand...)</li></ul><p>Remarque : en portugais européen, on utilise souvent <em>é que</em> dans les questions : <em>Onde <strong>é que</strong> nasceste?</em></p>"
+    },
+    {
+      "type": "practice",
+      "title": "Dialogue modèle",
+      "content": "<p>Lisez ce dialogue entre deux amis :</p><p><strong>Ana :</strong> <em>Onde é que cresceste?</em><br/><strong>Pedro :</strong> <em>Cresci no Porto. Vivíamos perto do rio Douro.</em><br/><strong>Ana :</strong> <em>E como era?</em><br/><strong>Pedro :</strong> <em>Era muito bonito. Costumava passear na Ribeira com os meus avós.</em><br/><strong>Ana :</strong> <em>Qual foi a melhor recordação que tens dessa época?</em><br/><strong>Pedro :</strong> <em>Um dia, o meu avô levou-me a ver o São João. Foi incrível! Havia fogueiras por todo o lado e as pessoas batiam com alhos-porros na cabeça uns dos outros.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "À votre tour !",
+      "content": "<p>Préparez des réponses aux questions suivantes :</p><ol><li><em>Onde é que cresceste?</em></li><li><em>Como era a tua escola?</em></li><li><em>Qual foi a melhor viagem que fizeste?</em></li><li><em>O que fazias nos tempos livres quando eras mais novo/nova?</em></li></ol><p>Utilisez <em>costumava</em>, des marqueurs temporels et alternez Perfeito/Imperfeito.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment poser la question 'Où as-tu grandi ?' en portugais européen ?",
+      "correctAnswer": "Onde é que cresceste?",
+      "distractors": ["Onde você cresceu?", "Aonde cresceste?", "De onde cresceste?"],
+      "explanation": "En PT-EU, on utilise 'é que' dans les interrogatives et le 'tu' conjugué : 'Onde é que cresceste?'"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A melhor experiência que ________ (ter) foi quando ________ (ir) ao Algarve.",
+      "correctAnswer": "tive, fui",
+      "explanation": "Expériences ponctuelles passées → Perfeito : tive (ter), fui (ir)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'avais l'habitude de jouer au football avec mes amis.'",
+      "correctAnswer": "Costumava jogar futebol com os meus amigos.",
+      "explanation": "'Costumava' + infinitif exprime une habitude passée. 'Jogar futebol' = jouer au football."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la particularité des questions en portugais européen ?",
+      "correctAnswer": "On utilise souvent la construction 'é que'",
+      "distractors": ["On inverse toujours le sujet et le verbe", "On utilise 'você' au lieu de 'tu'", "On met le verbe à la fin"],
+      "explanation": "Le PT-EU utilise fréquemment 'é que' dans les questions : 'Quando é que começaste?'"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quando eu ________ (ser) mais novo, ________ (viver) numa aldeia.",
+      "correctAnswer": "era, vivia",
+      "explanation": "Descriptions d'état et de situation dans le passé → Imperfeito : era, vivia."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "crescer", "phonetic": "/kɾɨʃˈseɾ/", "french": "grandir"},
+    {"portuguese": "infância", "phonetic": "/ĩˈfɐ̃sjɐ/", "french": "enfance"},
+    {"portuguese": "recordação", "phonetic": "/ʁɨkuɾdɐˈsɐ̃w/", "french": "souvenir (mémoire)"},
+    {"portuguese": "experiência", "phonetic": "/ɐjʃpɨˈɾjẽsjɐ/", "french": "expérience"},
+    {"portuguese": "tempos livres", "phonetic": "/ˈtẽpuʒ ˈlivɾɨʃ/", "french": "temps libre"},
+    {"portuguese": "passear", "phonetic": "/pɐsiˈaɾ/", "french": "se promener"},
+    {"portuguese": "nascer", "phonetic": "/nɐʃˈseɾ/", "french": "naître"},
+    {"portuguese": "fogueira", "phonetic": "/fuˈɡɐjɾɐ/", "french": "feu de joie"},
+    {"portuguese": "alho-porro", "phonetic": "/ˈaʎu ˈpoʁu/", "french": "poireau"}
+  ]
+}

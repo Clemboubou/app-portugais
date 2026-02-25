@@ -1,0 +1,179 @@
+{
+  "texts": [
+    {
+      "id": "r-a1-01",
+      "title": "Uma carta postale de Lisboa",
+      "content": "Olá Ana!\n\nEstou em Lisboa há três dias e é uma cidade maravilhosa! O tempo está ótimo — muito sol e vinte e cinco graus. Ontem visitei o Mosteiro dos Jerónimos em Belém e comi pastéis de nata, que são deliciosos.\n\nHoje de manhã, subi ao Castelo de São Jorge e vi uma vista incrível sobre a cidade e o rio Tejo. À tarde, vou apanhar o elétrico 28 para passear em Alfama.\n\nA comida portuguesa é fantástica. Provei o bacalhau à brás e a caldo verde. Tudo muito bom!\n\nEspero que estejas bem. Saudades!\n\nMarie",
+      "level": "A1",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "mcq",
+          "question": "D'où écrit l'auteur ?",
+          "options": ["Paris", "Lisboa", "Porto", "Faro"],
+          "answer": 1
+        },
+        {
+          "id": "q2",
+          "type": "true_false",
+          "question": "Le temps à Lisbonne est mauvais.",
+          "answer": false
+        },
+        {
+          "id": "q3",
+          "type": "mcq",
+          "question": "Qu'est-ce que l'auteur a mangé à Belém ?",
+          "options": ["Bacalhau à brás", "Caldo verde", "Pastéis de nata", "Arroz de pato"],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "type": "true_false",
+          "question": "L'auteur a visité le Castelo de São Jorge le matin.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "r-a1-02",
+      "title": "Anúncio — Curso de Português",
+      "content": "ESCOLA DE LÍNGUAS LUSÓFONA\n\nCURSO DE PORTUGUÊS EUROPEU\nNível A1 — Para principiantes\n\nHorários :\n• Segunda e Quarta-feira : 18h30 - 20h00\n• Sábado de manhã : 10h00 - 12h30\n\nPreço : 150€ por mês (8 aulas)\nLugar : Rua Augusta, 45 - Lisboa Centro\n\nO que está incluído :\n- Material didático\n- Acesso à plataforma online\n- Certificado no final do curso\n\nNúmero máximo de alunos : 12 por turma\n\nInscrições : inscricoes@lusofona.pt\nTelefone : 21 345 67 89",
+      "level": "A1",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "mcq",
+          "question": "Quel est le prix du cours par mois ?",
+          "options": ["100€", "120€", "150€", "200€"],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "type": "true_false",
+          "question": "Le cours du samedi dure 2h30.",
+          "answer": true
+        },
+        {
+          "id": "q3",
+          "type": "mcq",
+          "question": "Combien d'élèves maximum par classe ?",
+          "options": ["8", "10", "12", "15"],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "type": "true_false",
+          "question": "Le matériel didactique n'est pas inclus dans le prix.",
+          "answer": false
+        }
+      ]
+    },
+    {
+      "id": "r-a1-03",
+      "title": "Menu do Restaurante",
+      "content": "RESTAURANTE O FADO\n\nEMENTA DO DIA\n\nSOPAS\nCaldo verde ....................... 3,50€\nSopa de peixe .................. 4,00€\n\nPRATOS PRINCIPAIS\nBackalhau à brás .............. 12,50€\nFrango assado .................. 10,00€\nBifanas .............................. 8,50€\nArro de marisco ................ 15,00€\n\nSOBREMESAS\nPastéis de nata .................. 1,20€\nMousse de chocolate ......... 3,50€\nPudim flan ......................... 3,00€\n\nBEBIDAS\nVinho tinto / branco (copo) ... 2,50€\nCerveja ............................... 2,00€\nRefrigerante ........................ 1,50€\nÁgua .................................. 1,00€\n\nServiço não incluído.",
+      "level": "A1",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "mcq",
+          "question": "Quel est le plat principal le moins cher ?",
+          "options": ["Bacalhau à brás", "Frango assado", "Bifanas", "Arroz de marisco"],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "type": "true_false",
+          "question": "Le service est inclus dans les prix.",
+          "answer": false
+        },
+        {
+          "id": "q3",
+          "type": "mcq",
+          "question": "Combien coûtent les pastéis de nata ?",
+          "options": ["0,80€", "1,20€", "1,50€", "2,00€"],
+          "answer": 1
+        },
+        {
+          "id": "q4",
+          "type": "true_false",
+          "question": "Il y a deux types de soupes au menu.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "r-a1-04",
+      "title": "Sinalização — Informações para turistas",
+      "content": "METRO DE LISBOA — INFORMAÇÕES\n\n⚠ ATENÇÃO AOS BOLSOS!\nZona de muitos turistas — cuidado com os bolsos.\n\n🚇 BILHETES\n• Viagem simples : 1,65€\n• Carregamento mínimo do cartão Viva Viagem : 0,50€\n• Passe diário : 6,45€\n\n⏰ HORÁRIOS\nTodos os dias : 6h30 - 01h00\n\n📍 LINHAS\n• Linha Azul — Rato ↔ Odivelas\n• Linha Amarela — Rato ↔ Odivelas\n• Linha Verde — Cais do Sodré ↔ Telheiras\n• Linha Vermelha — Aeroporto ↔ S. Sebastião\n\n❓ INFORMAÇÕES : +351 21 500 70 70",
+      "level": "A1",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "mcq",
+          "question": "Quel est le prix d'un billet simple de métro ?",
+          "options": ["1,20€", "1,45€", "1,65€", "2,00€"],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "type": "true_false",
+          "question": "Le métro de Lisbonne fonctionne 24h/24.",
+          "answer": false
+        },
+        {
+          "id": "q3",
+          "type": "mcq",
+          "question": "Quelle ligne de métro dessert l'aéroport ?",
+          "options": ["Ligne Bleue", "Ligne Jaune", "Ligne Verte", "Ligne Rouge"],
+          "answer": 3
+        },
+        {
+          "id": "q4",
+          "type": "true_false",
+          "question": "Le chargement minimum du Viva Viagem est 0,50€.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "r-a1-05",
+      "title": "Diálogo curto — No aeroporto",
+      "content": "Funcionária : Bom dia! Posso ajudar?\n\nTurista : Bom dia! Sim, por favor. Perdi a minha mala.\n\nFuncionária : Lamento muito. Como é a sua mala?\n\nTurista : É uma mala grande, preta, com uma fita azul.\n\nFuncionária : O seu nome, por favor?\n\nTurista : Chamo-me Thomas Martin.\n\nFuncionária : E o número do seu voo?\n\nTurista : TP 812, de Paris.\n\nFuncionária : Muito bem. Por favor, preencha este formulário. Entraremos em contacto em 24 horas.\n\nTurista : Obrigado. Onde posso esperar?\n\nFuncionária : Na sala de chegadas, à direita.",
+      "level": "A1",
+      "questions": [
+        {
+          "id": "q1",
+          "type": "mcq",
+          "question": "Quel est le problème du touriste ?",
+          "options": [
+            "Il a raté son vol",
+            "Il a perdu son passeport",
+            "Il a perdu sa valise",
+            "Il ne trouve pas sa porte"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "q2",
+          "type": "true_false",
+          "question": "La valise est petite et rouge.",
+          "answer": false
+        },
+        {
+          "id": "q3",
+          "type": "mcq",
+          "question": "D'où vient le vol du touriste ?",
+          "options": ["Londres", "Madrid", "Paris", "Rome"],
+          "answer": 2
+        },
+        {
+          "id": "q4",
+          "type": "true_false",
+          "question": "La fonctionnaire dit que la réponse viendra dans 24 heures.",
+          "answer": true
+        }
+      ]
+    }
+  ]
+}

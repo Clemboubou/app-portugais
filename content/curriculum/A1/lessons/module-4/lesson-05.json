@@ -1,0 +1,134 @@
+{
+  "id": "a1-m4-l05",
+  "title": "Commander et faire des achats simples",
+  "type": "conversation",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Commander un article ou une boisson de façon polie dans un commerce en portugais européen",
+    "Demander si le paiement par carte est possible et s'il y a de la monnaie",
+    "Conclure une transaction avec les formules de politesse appropriées"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Faire ses achats au Portugal",
+      "content": "Au Portugal, les petits commerces — la padaria (boulangerie), la mercearia (épicerie), le café — font partie de la vie quotidienne. Les transactions y sont souvent courtes mais codifiées : on commence par une formule de salutation, on passe commande poliment, on règle et on remercie. Dans cette leçon, vous allez apprendre à gérer de bout en bout une transaction simple en portugais européen, en combinant tout ce que vous avez appris dans ce module."
+    },
+    {
+      "type": "discovery",
+      "title": "Les formules clés pour commander et payer",
+      "content": "Voici les expressions essentielles pour une transaction réussie :\n\nCOMMANDER :\n• Queria um café, por favor. — Je voudrais un café, s'il vous plaît.\n• Queria um pastel de nata, por favor. — Je voudrais un pastel de nata, s'il vous plaît.\n• Queria meio quilo de queijo. — Je voudrais un demi-kilo de fromage.\n\nINFORMATIONS SUR LE PAIEMENT :\n• Tem troco? — Avez-vous de la monnaie (pour rendre) ?\n• Posso pagar com cartão? — Puis-je payer par carte ?\n• Só aceita dinheiro? — Vous n'acceptez que les espèces ?\n\nCONCLURE LA TRANSACTION :\n• Obrigado. / Obrigada. — Merci. (masc. / fém.)\n• É tudo, obrigado/a. — C'est tout, merci.\n• Até logo. — À bientôt. (formule de congé courante)\n• Boa tarde. / Bom dia. — Bonsoir. / Bonjour. (pour prendre congé aussi)"
+    },
+    {
+      "type": "explanation",
+      "title": "Obrigado ou Obrigada — pourquoi la différence ?",
+      "content": "En portugais européen, le mot « merci » s'accorde avec le genre de la personne qui parle, et non avec celle à qui l'on parle :\n\n• Un homme dit : Obrigado. (/obɾiˈɡadu/)\n• Une femme dit : Obrigada. (/obɾiˈɡadɐ/)\n\nCette règle surprend souvent les francophones, car en français « merci » est invariable. En portugais, obrigado est un participe passé (du verbe obrigar — obliger), et il s'accorde donc comme un adjectif avec le sujet qui l'emploie.\n\nExemple :\n• João : Obrigado pela ajuda. (Merci pour l'aide.) → João est homme.\n• Ana : Obrigada pela ajuda. (Merci pour l'aide.) → Ana est femme.\n\nErreur fréquente à éviter : un homme ne doit pas dire Obrigada — cela serait grammaticalement incorrect."
+    },
+    {
+      "type": "practice",
+      "title": "Un dialogue dans une boulangerie",
+      "content": "Lisez et mémorisez ce dialogue typique dans une padaria (boulangerie) à Lisbonne :\n\nEmpregada : Bom dia! Que deseja?\n(Bonjour ! Que désirez-vous ?)\n\nCliente : Bom dia. Queria um pão de forma e dois pastéis de nata, por favor.\n(Bonjour. Je voudrais un pain de mie et deux pastéis de nata, s'il vous plaît.)\n\nEmpregada : São três euros e vinte.\n(C'est trois euros vingt.)\n\nCliente : Posso pagar com cartão?\n(Puis-je payer par carte ?)\n\nEmpregada : Claro, sim.\n(Bien sûr, oui.)\n\nCliente : Obrigada. É tudo.\n(Merci. C'est tout.)\n\nEmpregada : Obrigada. Até logo!\n(Merci. À bientôt !)\n\nNotes de dialogue :\n• O pão de forma = le pain de mie (pain carré, très courant au Portugal)\n• Os pastéis de nata = les pastéis de nata (gâteaux à la crème, spécialité lisbonnite)\n• São três euros e vinte = c'est trois euros vingt (sont = são)"
+    },
+    {
+      "type": "production",
+      "title": "À vous de jouer",
+      "content": "Jouez le rôle du client dans ces situations. Formulez la phrase en portugais :\n\nSituation 1 : Vous entrez dans un café. Commandez un café et un verre d'eau poliment.\nRéponse : Queria um café e uma água, por favor.\n\nSituation 2 : Le total est de 10 euros. Demandez si vous pouvez payer par carte.\nRéponse : Posso pagar com cartão?\n\nSituation 3 : Vous payez avec un billet de 20 euros. Demandez si le vendeur a de la monnaie.\nRéponse : Tem troco para vinte euros?\n\nSituation 4 : Vous avez tout ce qu'il vous faut. Remerciez et prenez congé (vous êtes une femme).\nRéponse : Obrigada. É tudo. Até logo!"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Une femme veut dire « merci » en portugais européen. Quelle est la forme correcte ?",
+      "correctAnswer": "Obrigada.",
+      "distractors": ["Obrigado.", "Obrigados.", "Obrigadas."],
+      "explanation": "En portugais, obrigado/obrigada s'accorde avec le genre de la personne qui parle. Une femme dit obrigada, un homme dit obrigado. C'est une règle grammaticale fondamentale du portugais européen."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Je voudrais un café et un verre d'eau, s'il vous plaît. »",
+      "correctAnswer": "Queria um café e uma água, por favor.",
+      "distractors": [
+        "Quero um café e uma água, por favor.",
+        "Queria um café e um água, por favor.",
+        "Queria o café e a água, por favor."
+      ],
+      "explanation": "Queria est la forme polie (imparfait à valeur conditionnelle). Água est féminin, donc l'article indéfini est uma (et non um). Pour une commande générale, on utilise l'article indéfini (um café, uma água) et non l'article défini."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez la phrase : « ___ pagar com cartão? » (Puis-je payer par carte ?)",
+      "correctAnswer": "Posso",
+      "distractors": ["Posso a", "Pode", "Queria"],
+      "explanation": "Posso est la 1re personne du singulier du verbe poder (pouvoir) : eu posso = je peux. C'est la formule correcte pour demander la permission de faire quelque chose. Pode (2e/3e pers.) s'adresse à quelqu'un d'autre."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez les mots dans le bon ordre pour former une phrase correcte : « troco / Tem / euros / vinte / para »",
+      "correctAnswer": "Tem troco para vinte euros?",
+      "distractors": [
+        "Para vinte euros tem troco?",
+        "Tem vinte troco para euros?",
+        "Troco tem para vinte euros?"
+      ],
+      "explanation": "La structure naturelle pour cette question est : Tem + troco + para + montant. Tem (vous avez / il y a) est au début de la phrase interrogative en portugais européen — pas d'inversion sujet-verbe, mais simplement l'intonation montante."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on « C'est tout, merci. » en portugais européen (locuteur masculin) ?",
+      "correctAnswer": "É tudo, obrigado.",
+      "distractors": [
+        "É tudo, obrigada.",
+        "Tudo é, obrigado.",
+        "É tudo, por favor."
+      ],
+      "explanation": "É tudo signifie « c'est tout ». Un homme dit obrigado pour remercier. Por favor (s'il vous plaît) s'utilise pour une demande, pas pour conclure une transaction."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "queria",
+      "phonetic": "/kɨˈɾiɐ/",
+      "french": "je voudrais (commande polie)"
+    },
+    {
+      "portuguese": "posso pagar com cartão?",
+      "phonetic": "/ˈposu pɐˈɡaɾ kõ kɐɾˈtɐ̃w̃/",
+      "french": "puis-je payer par carte ?"
+    },
+    {
+      "portuguese": "tem troco?",
+      "phonetic": "/tɐ̃j ˈtɾoku/",
+      "french": "avez-vous de la monnaie ?"
+    },
+    {
+      "portuguese": "obrigado",
+      "phonetic": "/obɾiˈɡadu/",
+      "french": "merci (dit par un homme)"
+    },
+    {
+      "portuguese": "obrigada",
+      "phonetic": "/obɾiˈɡadɐ/",
+      "french": "merci (dit par une femme)"
+    },
+    {
+      "portuguese": "é tudo",
+      "phonetic": "/ɛ ˈtudu/",
+      "french": "c'est tout"
+    },
+    {
+      "portuguese": "até logo",
+      "phonetic": "/ɐˈtɛ ˈloɡu/",
+      "french": "à bientôt"
+    },
+    {
+      "portuguese": "a padaria",
+      "phonetic": "/ɐ pɐdɐˈɾiɐ/",
+      "french": "la boulangerie"
+    },
+    {
+      "portuguese": "o pastel de nata",
+      "phonetic": "/u pɐʃˈtɛl dɨ ˈnatɐ/",
+      "french": "le pastel de nata (gâteau à la crème)"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "s-b1-01",
+    "title": "Entretien d'embauche",
+    "level": "B1",
+    "description": "Participer à un entretien d'embauche",
+    "objectives": [
+      "Parler de son expérience professionnelle",
+      "Exprimer ses points forts et faibles",
+      "Poser des questions sur le poste et l'entreprise"
+    ],
+    "scenario": "Vous êtes à un entretien d'embauche pour un poste de coordinateur marketing. Parlez de votre expérience, motivations et attentes salariales.",
+    "conversation_starters": [
+      "Bom dia. Bem-vindo à entrevista. Fale-nos um pouco sobre si.",
+      "Obrigado por vir. Pode contar-nos sobre sua experiência?"
+    ],
+    "vocabulary": [
+      { "pt": "experiência profissional", "fr": "expérience professionnelle" },
+      { "pt": "competência", "fr": "compétence" },
+      { "pt": "desafio", "fr": "défi" },
+      { "pt": "objetivo", "fr": "objectif" },
+      { "pt": "salário", "fr": "salaire" },
+      { "pt": "benefícios", "fr": "avantages" },
+      { "pt": "responsabilidade", "fr": "responsabilité" },
+      { "pt": "crescimento profissional", "fr": "développement professionnel" }
+    ],
+    "key_phrases": [
+      "Trabalhei em marketing durante três anos.",
+      "Meus pontos fortes são organização e criatividade.",
+      "Busco um desafio maior nesta empresa.",
+      "Qual é a expectativa salarial?",
+      "Como é o ambiente de trabalho?",
+      "Há oportunidades de crescimento profissional?"
+    ]
+  },
+  {
+    "id": "s-b1-02",
+    "title": "Discussion sur l'actualité",
+    "level": "B1",
+    "description": "Discuter d'un sujet d'actualité avec quelqu'un",
+    "objectives": [
+      "Exprimer une opinion et la justifier",
+      "Écouter et répondre aux arguments d'autrui",
+      "Utiliser des connecteurs logiques"
+    ],
+    "scenario": "Vous discutez du télétravail avec un collègue. L'un pense que c'est positif, l'autre doute. Débattez.",
+    "conversation_starters": [
+      "O que acha do teletrabalho? Eu acho excelente!",
+      "Concordo com você, mas também há desvantagens..."
+    ],
+    "vocabulary": [
+      { "pt": "ponto de vista", "fr": "point de vue" },
+      { "pt": "vantagem", "fr": "avantage" },
+      { "pt": "desvantagem", "fr": "inconvénient" },
+      { "pt": "argumento", "fr": "argument" },
+      { "pt": "concordar", "fr": "être d'accord" },
+      { "pt": "discordar", "fr": "être en désaccord" },
+      { "pt": "contrário", "fr": "au contraire" },
+      { "pt": "conclusão", "fr": "en conclusion" }
+    ],
+    "key_phrases": [
+      "Na minha opinião, o teletrabalho oferece muita flexibilidade.",
+      "Por um lado, sim. Por outro lado, há isolamento.",
+      "Concordo plenamente com isso.",
+      "Discordo. Acho que as reuniões presenciais são importantes.",
+      "Assim, chegamos a um equilíbrio entre os dois."
+    ]
+  },
+  {
+    "id": "s-b1-03",
+    "title": "Planifier un voyage",
+    "level": "B1",
+    "description": "Planifier un voyage avec quelqu'un ou un agent de voyages",
+    "objectives": [
+      "Parler de préférences de voyage",
+      "Discuter du budget et des dates",
+      "Demander des recommandations"
+    ],
+    "scenario": "Vous planifiez un voyage au Brésil avec un ami. Discutez des destinations, dates, budget et activités prévues.",
+    "conversation_starters": [
+      "Que tal viajarmos para o Brasil?",
+      "Boa ideia! Quando gostava de ir?"
+    ],
+    "vocabulary": [
+      { "pt": "destino", "fr": "destination" },
+      { "pt": "datas", "fr": "dates" },
+      { "pt": "orçamento", "fr": "budget" },
+      { "pt": "atividade", "fr": "activité" },
+      { "pt": "atracção", "fr": "attraction" },
+      { "pt": "alojamento", "fr": "logement" },
+      { "pt": "voo", "fr": "vol" },
+      { "pt": "duração", "fr": "durée" }
+    ],
+    "key_phrases": [
+      "Que tal visitarmos Rio de Janeiro e Salvador?",
+      "Prefiro viajar em Setembro, quando o clima está melhor.",
+      "O orçamento que tenho é de dois mil euros.",
+      "Gostava de fazer trilhas e conhecer a cultura local.",
+      "Que tipo de alojamento recomenda?",
+      "Quanto custa um voo direto para o Brasil?"
+    ]
+  },
+  {
+    "id": "s-b1-04",
+    "title": "Louer un appartement",
+    "level": "B1",
+    "description": "Visiter un appartement et négocier les conditions",
+    "objectives": [
+      "Demander des détails sur l'appartement",
+      "Discuter du loyer et des conditions",
+      "Poser des questions pratiques"
+    ],
+    "scenario": "Vous visitez un appartement à louer à Lisbonne. Demandez les détails, le loyer, les charges, la durée du contrat.",
+    "conversation_starters": [
+      "Bem-vindo. Este é o apartamento para arrendar.",
+      "Obrigado. Pode falar-me um pouco sobre o imóvel?"
+    ],
+    "vocabulary": [
+      { "pt": "aluguel", "fr": "loyer" },
+      { "pt": "depósito", "fr": "dépôt de garantie" },
+      { "pt": "contas", "fr": "charges" },
+      { "pt": "contrato", "fr": "contrat" },
+      { "pt": "arrendatário", "fr": "locataire" },
+      { "pt": "proprietário", "fr": "propriétaire" },
+      { "pt": "cláusula", "fr": "clause" },
+      { "pt": "renovação", "fr": "renouvellement" }
+    ],
+    "key_phrases": [
+      "Qual é o preço mensal do aluguel?",
+      "As contas (água, eletricidade) estão incluídas?",
+      "Qual é o valor do depósito?",
+      "Qual é a duração mínima do contrato?",
+      "Posso pintá-lo ou decorar?",
+      "Há animais de estimação permitidos?"
+    ]
+  },
+  {
+    "id": "s-b1-05",
+    "title": "Réclamation en magasin",
+    "level": "B1",
+    "description": "Réclamation ou retour d'un produit défectueux",
+    "objectives": [
+      "Décrire le problème du produit",
+      "Demander une solution (échange, remboursement)",
+      "Être ferme mais poli"
+    ],
+    "scenario": "Vous avez acheté un téléphone qui ne fonctionne pas. Vous retournez au magasin pour le réclamation.",
+    "conversation_starters": [
+      "Olá! Pode ajudá-lo?",
+      "Sim, claro. Qual é o problema?"
+    ],
+    "vocabulary": [
+      { "pt": "defeituoso", "fr": "défectueux" },
+      { "pt": "garantia", "fr": "garantie" },
+      { "pt": "troca", "fr": "échange" },
+      { "pt": "reembolso", "fr": "remboursement" },
+      { "pt": "reclamação", "fr": "réclamation" },
+      { "pt": "comprovante", "fr": "preuve d'achat" },
+      { "pt": "problema técnico", "fr": "problème technique" },
+      { "pt": "satisfação", "fr": "satisfaction" }
+    ],
+    "key_phrases": [
+      "Comprei este telemóvel há uma semana e já não funciona.",
+      "Veem aqui a nota de compra.",
+      "O ecrã está partido e não liga.",
+      "Gostava de uma troca ou um reembolso.",
+      "Qual é a validade da garantia?",
+      "Podia proceder à devolução hoje mesmo?"
+    ]
+  }
+]

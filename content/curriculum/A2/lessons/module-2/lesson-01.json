@@ -1,0 +1,84 @@
+{
+  "id": "a2-m2-l01",
+  "title": "Les pièces de la maison",
+  "type": "vocabulary",
+  "estimatedMinutes": 13,
+  "objectives": [
+    "Nommer les principales pièces d'une maison ou d'un appartement en portugais européen",
+    "Utiliser les articles définis corrects (o/a) avec chaque pièce",
+    "Décrire simplement la disposition d'un logement"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Bienvenue à la maison !",
+      "content": "<p>Savoir parler de son logement est essentiel au quotidien. Que vous cherchiez un appartement, décriviez votre maison à un ami, ou donniez des indications à un visiteur, le vocabulaire de la maison est incontournable.</p><p>Au Portugal, les logements les plus courants sont les <strong>apartamentos</strong> (appartements) et les <strong>moradias</strong> (maisons individuelles).</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les pièces principales",
+      "content": "<table><thead><tr><th>Portugais</th><th>Article</th><th>Français</th></tr></thead><tbody><tr><td><strong>a cozinha</strong></td><td>a</td><td>la cuisine</td></tr><tr><td><strong>o quarto</strong></td><td>o</td><td>la chambre</td></tr><tr><td><strong>a sala (de estar)</strong></td><td>a</td><td>le salon / la salle de séjour</td></tr><tr><td><strong>a sala de jantar</strong></td><td>a</td><td>la salle à manger</td></tr><tr><td><strong>a casa de banho</strong></td><td>a</td><td>la salle de bain / les toilettes</td></tr><tr><td><strong>o corredor</strong></td><td>o</td><td>le couloir</td></tr><tr><td><strong>a varanda</strong></td><td>a</td><td>le balcon / la véranda</td></tr><tr><td><strong>o escritório</strong></td><td>o</td><td>le bureau</td></tr><tr><td><strong>a garagem</strong></td><td>a</td><td>le garage</td></tr><tr><td><strong>a entrada</strong></td><td>a</td><td>l'entrée</td></tr></tbody></table><p><strong>Attention</strong> : En portugais européen, on dit <em>casa de banho</em> (pas 'banheiro' qui est brésilien). Ce mot désigne à la fois la salle de bain et les toilettes.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les types de logement au Portugal",
+      "content": "<p>Au Portugal, les appartements sont classés par le nombre de chambres :</p><ul><li><strong>T0</strong> = studio (sem quarto separado)</li><li><strong>T1</strong> = un appartement avec 1 chambre</li><li><strong>T2</strong> = un appartement avec 2 chambres</li><li><strong>T3</strong> = un appartement avec 3 chambres</li></ul><p>Le <strong>T</strong> signifie <em>tipologia</em>. On dit : <em>Vivo num T2</em> (Je vis dans un deux-pièces).</p><p>Autres termes utiles :</p><ul><li><strong>o andar</strong> = l'étage (ex. : <em>Moro no terceiro andar</em> — J'habite au troisième étage)</li><li><strong>o rés-do-chão</strong> = le rez-de-chaussée</li><li><strong>o prédio</strong> = l'immeuble</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Décrire un logement",
+      "content": "<p>Pour décrire votre logement, utilisez ces structures :</p><ul><li><em>A minha casa <strong>tem</strong> três quartos.</em> (Ma maison a trois chambres.)</li><li><em>O apartamento <strong>tem</strong> uma cozinha grande.</em> (L'appartement a une grande cuisine.)</li><li><em>A sala <strong>fica</strong> ao lado da cozinha.</em> (Le salon est à côté de la cuisine.)</li><li><em><strong>Há</strong> uma varanda com vista para o rio.</em> (Il y a un balcon avec vue sur le fleuve.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Décrivez votre logement",
+      "content": "<p>À votre tour, décrivez votre logement en portugais. Mentionnez :</p><ul><li>Le type (apartamento ou moradia)</li><li>Le nombre de pièces</li><li>Votre pièce préférée et pourquoi</li></ul><p>Exemple : <em>Vivo num apartamento T2. Tem dois quartos, uma sala, uma cozinha e uma casa de banho. A minha divisão preferida é a sala porque é muito luminosa e tem uma varanda.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'la salle de bain' en portugais européen ?",
+      "correctAnswer": "a casa de banho",
+      "distractors": ["o banheiro", "a sala de banho", "o banho"],
+      "explanation": "En portugais européen, on dit 'casa de banho'. 'Banheiro' est la forme brésilienne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A minha casa tem três ________ e uma sala grande.",
+      "correctAnswer": "quartos",
+      "explanation": "'Quarto' (chambre) au pluriel devient 'quartos'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'habite dans un appartement au deuxième étage.'",
+      "correctAnswer": "Moro num apartamento no segundo andar.",
+      "explanation": "'Moro' = j'habite. 'Num' = contraction de 'em um'. 'Segundo andar' = deuxième étage."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'T2' dans une annonce immobilière portugaise ?",
+      "correctAnswer": "Un appartement avec 2 chambres",
+      "distractors": ["Un appartement avec 2 pièces", "Un appartement de 2 étages", "Un immeuble de 2 niveaux"],
+      "explanation": "Le T suivi d'un chiffre indique le nombre de chambres (quartos) de l'appartement. T2 = 2 chambres."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ________ fica ao lado da sala de jantar.",
+      "correctAnswer": "cozinha",
+      "explanation": "'A cozinha' = la cuisine. 'Ficar ao lado de' = être à côté de."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "a cozinha", "phonetic": "/kuˈziɲɐ/", "french": "la cuisine"},
+    {"portuguese": "o quarto", "phonetic": "/ˈkwaɾtu/", "french": "la chambre"},
+    {"portuguese": "a sala", "phonetic": "/ˈsalɐ/", "french": "le salon"},
+    {"portuguese": "a casa de banho", "phonetic": "/kazɐ dɨ ˈbaɲu/", "french": "la salle de bain"},
+    {"portuguese": "o corredor", "phonetic": "/kuʁɨˈdoɾ/", "french": "le couloir"},
+    {"portuguese": "a varanda", "phonetic": "/vɐˈɾɐ̃dɐ/", "french": "le balcon"},
+    {"portuguese": "o escritório", "phonetic": "/ɨʃkɾiˈtɔɾju/", "french": "le bureau"},
+    {"portuguese": "a garagem", "phonetic": "/ɡɐˈɾaʒɐ̃j/", "french": "le garage"},
+    {"portuguese": "a entrada", "phonetic": "/ɐ̃ˈtɾadɐ/", "french": "l'entrée"},
+    {"portuguese": "o andar", "phonetic": "/ɐ̃ˈdaɾ/", "french": "l'étage"}
+  ]
+}

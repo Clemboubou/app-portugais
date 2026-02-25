@@ -1,0 +1,153 @@
+{
+  "id": "a1-m1-l03",
+  "title": "Se présenter",
+  "type": "conversation",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Dire son prénom et se présenter avec Eu sou... et Chamo-me...",
+    "Indiquer son pays d'origine avec Sou de...",
+    "Dire son âge avec Tenho X anos",
+    "Utiliser les formules de rencontre Prazer em conhecê-lo/la"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Se présenter en portugais européen",
+      "content": "<p>Se présenter est une des premières choses que vous ferez en portugais. En Portugal, les présentations sont souvent <strong>formelles mais chaleureuses</strong>. On serre la main, et dans un cadre informel entre amis, on se fait la bise.</p><p>Dans cette leçon, vous apprendrez les structures essentielles pour dire qui vous êtes, d'où vous venez et quel âge vous avez.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Dire son nom : deux façons",
+      "content": "<p>En portugais européen, il existe deux manières courantes de dire son nom :</p><table><thead><tr><th>Structure</th><th>Exemple</th><th>Traduction</th><th>Registre</th></tr></thead><tbody><tr><td><strong>Chamo-me...</strong></td><td>Chamo-me Pedro.</td><td>Je m'appelle Pedro.</td><td>Courant, naturel</td></tr><tr><td><strong>Eu sou...</strong></td><td>Eu sou o Pedro.</td><td>Je suis Pedro.</td><td>Direct, légèrement informel</td></tr><tr><td><strong>O meu nome é...</strong></td><td>O meu nome é Ana.</td><td>Mon nom est Ana.</td><td>Formel, administratif</td></tr></tbody></table><p><strong>Note culturelle :</strong> En portugais européen, on utilise souvent l'article défini devant les prénoms masculins (<em>o Pedro</em>, <em>o João</em>) et féminins (<em>a Ana</em>, <em>a Maria</em>) dans un registre courant. C'est une spécificité du portugais européen.</p><p><strong>Chamo-me</strong> est la structure la plus naturelle pour se présenter. Elle vient du verbe <em>chamar</em> (appeler) à la forme réfléchie.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Indiquer son pays d'origine",
+      "content": "<p>Pour dire d'où vous venez, utilisez <strong>Sou de...</strong> (Je suis de...) :</p><ul><li><em>Sou de França.</em> — Je suis de France.</li><li><em>Sou de Paris.</em> — Je suis de Paris.</li><li><em>Sou de Portugal.</em> — Je suis du Portugal.</li></ul><p>Vous pouvez aussi combiner avec votre nom :</p><blockquote><em>Chamo-me Claire. Sou de França, de Lyon.</em><br>Je m'appelle Claire. Je suis de France, de Lyon.</blockquote><p><strong>Attention :</strong> Pour les pays, on utilise souvent <em>Sou de...</em> sans article. Mais avec l'article défini, on dit <em>Sou do Brasil</em> (masculin) ou <em>Sou da França</em> (féminin). À ce stade, retenez simplement <em>Sou de + pays</em>.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Dire son âge : Tenho X anos",
+      "content": "<p>En portugais, l'âge s'exprime avec le verbe <strong>ter</strong> (avoir), comme en espagnol :</p><p><strong>Tenho + nombre + anos</strong> = J'ai X ans</p><ul><li><em>Tenho vinte anos.</em> — J'ai vingt ans.</li><li><em>Tenho trinta e dois anos.</em> — J'ai trente-deux ans.</li><li><em>Tenho quarenta e cinco anos.</em> — J'ai quarante-cinq ans.</li></ul><p><strong>Nombres utiles pour l'âge :</strong></p><table><thead><tr><th>Nombre</th><th>Portugais</th><th>Phonétique</th></tr></thead><tbody><tr><td>20</td><td>vinte</td><td>[ˈvĩtɨ]</td></tr><tr><td>25</td><td>vinte e cinco</td><td>[ˈvĩtɨ i ˈsĩku]</td></tr><tr><td>30</td><td>trinta</td><td>[ˈtrĩtɐ]</td></tr><tr><td>40</td><td>quarenta</td><td>[kwɐˈrẽtɐ]</td></tr><tr><td>50</td><td>cinquenta</td><td>[sĩˈkwẽtɐ]</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Formules de rencontre",
+      "content": "<p>Quand on vous présente quelqu'un, ou que vous rencontrez quelqu'un pour la première fois :</p><table><thead><tr><th>Portugais</th><th>Phonétique</th><th>Français</th><th>Usage</th></tr></thead><tbody><tr><td><strong>Prazer!</strong></td><td>[prɐˈzeɾ]</td><td>Enchanté(e) !</td><td>Court et courant</td></tr><tr><td><strong>Muito prazer!</strong></td><td>[ˈmujtu prɐˈzeɾ]</td><td>Très enchanté(e) !</td><td>Plus enthousiaste</td></tr><tr><td><strong>Prazer em conhecê-lo</strong></td><td>[prɐˈzeɾ ẽj kuɲɨˈselu]</td><td>Enchanté de vous connaître (masc.)</td><td>Formel, à un homme</td></tr><tr><td><strong>Prazer em conhecê-la</strong></td><td>[prɐˈzeɾ ẽj kuɲɨˈselɐ]</td><td>Enchantée de vous connaître (fém.)</td><td>Formel, à une femme</td></tr><tr><td><strong>Igualmente</strong></td><td>[iɡwɐɫˈmẽtɨ]</td><td>De même / Pareillement</td><td>En réponse à prazer</td></tr></tbody></table><p><strong>Astuce :</strong> Dans la vie courante, <em>Prazer!</em> seul suffit amplement. Les formes complètes avec <em>conhecê-lo/la</em> sont plus formelles et un peu plus recherchées.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Dialogue modèle",
+      "content": "<p>Lisez et mémorisez ce dialogue de présentation :</p><blockquote><p><strong>Ana :</strong> Olá! Chamo-me Ana. E você?<br><em>Bonjour ! Je m'appelle Ana. Et vous ?</em></p><p><strong>Pierre :</strong> Bom dia! Sou o Pierre. Muito prazer!<br><em>Bonjour ! Je suis Pierre. Très enchanté !</em></p><p><strong>Ana :</strong> Igualmente! De onde é?<br><em>Pareillement ! D'où êtes-vous ?</em></p><p><strong>Pierre :</strong> Sou de França, de Paris. E você?<br><em>Je suis de France, de Paris. Et vous ?</em></p><p><strong>Ana :</strong> Sou portuguesa, sou de Lisboa. Quantos anos tem?<br><em>Je suis portugaise, je suis de Lisbonne. Quel âge avez-vous ?</em></p><p><strong>Pierre :</strong> Tenho trinta anos. E você?<br><em>J'ai trente ans. Et vous ?</em></p><p><strong>Ana :</strong> Tenho vinte e oito anos.<br><em>J'ai vingt-huit ans.</em></p></blockquote><p><strong>Note :</strong> <em>De onde é?</em> = D'où êtes-vous ? et <em>Quantos anos tem?</em> = Quel âge avez-vous ? sont des questions que vous apprendrez à construire dans les prochaines leçons.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais : « Je m'appelle Sophie et j'ai vingt-cinq ans. »",
+      "correctAnswer": "Chamo-me Sophie e tenho vinte e cinco anos.",
+      "distractors": [
+        "Eu sou Sophie e sou vinte e cinco anos.",
+        "O meu nome Sophie e tenho vinte cinco anos.",
+        "Chamo-me Sophie e sou de vinte e cinco anos."
+      ],
+      "explanation": "<em>Chamo-me</em> pour se présenter, <em>tenho</em> (du verbe <em>ter</em>) pour l'âge suivi de <em>anos</em>. On ne dit pas <em>sou vingt-cinq ans</em> comme en français avec « j'ai ». Le verbe correct est <em>ter</em> (avoir) et non <em>ser</em> (être)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Vous rencontrez Madame Ferreira pour la première fois. Comment dites-vous « Enchantée de vous connaître » en vous adressant à elle ?",
+      "correctAnswer": "Prazer em conhecê-la!",
+      "distractors": [
+        "Prazer em conhecê-lo!",
+        "Muito prazer em conhecer!",
+        "Prazer em conhecer-lhe!"
+      ],
+      "explanation": "<em>Conhecê-la</em> s'utilise quand on s'adresse à une femme (-la = féminin). <em>Conhecê-lo</em> s'utilise pour un homme (-lo = masculin). C'est le pronom complément qui change selon le genre de la personne à qui on parle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez la phrase : « ___ de Portugal, ___ Lisboa. » (Je suis du Portugal, de Lisbonne.)",
+      "correctAnswer": "Sou / de",
+      "distractors": [
+        "Eu / em",
+        "Tenho / de",
+        "Chamo / em"
+      ],
+      "explanation": "On utilise <em>Sou de</em> pour indiquer son origine. La structure est <em>Sou de [pays/ville]</em>. Ici : <em>Sou de Portugal, de Lisboa.</em>"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Pierre (homme) dit merci après une présentation réussie. Il répond à un « Prazer! » par :",
+      "correctAnswer": "Igualmente!",
+      "distractors": [
+        "Obrigada!",
+        "De nada!",
+        "Adeus!"
+      ],
+      "explanation": "<em>Igualmente</em> (de même / pareillement) est la réponse naturelle à <em>prazer</em>. <em>Obrigada</em> est incorrect car Pierre est un homme (il dirait <em>obrigado</em>). <em>De nada</em> répond à un merci, pas à un « enchanté ». <em>Adeus</em> est un au revoir."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez les mots dans le bon ordre pour former une phrase correcte : [ anos / Tenho / e / trinta / dois ]",
+      "correctAnswer": "Tenho trinta e dois anos.",
+      "distractors": [
+        "Anos tenho trinta e dois.",
+        "Tenho dois e trinta anos.",
+        "Trinta e dois anos tenho."
+      ],
+      "explanation": "La structure pour l'âge est : <em>Tenho</em> + nombre + <em>anos</em>. Les dizaines et unités sont reliées par <em>e</em> (et) : <em>trinta e dois</em> = trente-deux. La phrase complète est : <em>Tenho trinta e dois anos.</em>"
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "Chamo-me",
+      "phonetic": "/ˈʃɐmu mɨ/",
+      "french": "Je m'appelle"
+    },
+    {
+      "portuguese": "Eu sou",
+      "phonetic": "/ew sow/",
+      "french": "Je suis"
+    },
+    {
+      "portuguese": "Sou de",
+      "phonetic": "/sow dɨ/",
+      "french": "Je suis de (origine)"
+    },
+    {
+      "portuguese": "Tenho X anos",
+      "phonetic": "/ˈteɲu … ˈɐnuʃ/",
+      "french": "J'ai X ans"
+    },
+    {
+      "portuguese": "Prazer",
+      "phonetic": "/prɐˈzeɾ/",
+      "french": "Enchanté(e)"
+    },
+    {
+      "portuguese": "Muito prazer",
+      "phonetic": "/ˈmujtu prɐˈzeɾ/",
+      "french": "Très enchanté(e)"
+    },
+    {
+      "portuguese": "Prazer em conhecê-lo",
+      "phonetic": "/prɐˈzeɾ ẽj kuɲɨˈselu/",
+      "french": "Enchanté de vous connaître (à un homme)"
+    },
+    {
+      "portuguese": "Prazer em conhecê-la",
+      "phonetic": "/prɐˈzeɾ ẽj kuɲɨˈselɐ/",
+      "french": "Enchantée de vous connaître (à une femme)"
+    },
+    {
+      "portuguese": "Igualmente",
+      "phonetic": "/iɡwɐɫˈmẽtɨ/",
+      "french": "De même / Pareillement"
+    },
+    {
+      "portuguese": "O meu nome é",
+      "phonetic": "/u mew ˈnomɨ ɛ/",
+      "french": "Mon nom est (formel)"
+    }
+  ]
+}

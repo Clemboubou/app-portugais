@@ -1,0 +1,83 @@
+{
+  "id": "a2-m2-l04",
+  "title": "Chercher un appartement",
+  "type": "reading",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Comprendre une annonce immobilière en portugais européen",
+    "Identifier les informations clés : type, prix, étage, équipements",
+    "Maîtriser le vocabulaire immobilier portugais"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Lire des annonces immobilières",
+      "content": "<p>Si vous vivez au Portugal ou prévoyez d'y habiter, vous aurez besoin de comprendre les <strong>anúncios imobiliários</strong> (annonces immobilières). Ces annonces utilisent un vocabulaire spécifique et des abréviations qu'il faut connaître.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Deux annonces à lire",
+      "content": "<div><h4>Anúncio 1</h4><blockquote><strong>T2 para arrendar — Alfama, Lisboa</strong><br/>Apartamento T2 no 3.º andar com elevador. Sala ampla com varanda e vista para o rio Tejo. Cozinha equipada (fogão, frigorífico, máquina de lavar loiça). Dois quartos, um com roupeiro embutido. Casa de banho com duche. Aquecimento central. Mobilado. Renda: 850€/mês. Disponível a partir de março.</blockquote></div><div><h4>Anúncio 2</h4><blockquote><strong>T1 para arrendar — Baixa, Porto</strong><br/>Estúdio renovado no rés-do-chão. Kitchenette aberta para a sala. Quarto com muita luz natural. Casa de banho completa. Sem mobília. Perto do metro e de transportes. Renda: 600€/mês + despesas. Sem animais.</blockquote></div>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire des annonces",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td><strong>arrendar</strong></td><td>louer</td></tr><tr><td><strong>a renda</strong></td><td>le loyer</td></tr><tr><td><strong>o andar</strong></td><td>l'étage</td></tr><tr><td><strong>o rés-do-chão</strong></td><td>le rez-de-chaussée</td></tr><tr><td><strong>o elevador</strong></td><td>l'ascenseur</td></tr><tr><td><strong>mobilado / sem mobília</strong></td><td>meublé / non meublé</td></tr><tr><td><strong>cozinha equipada</strong></td><td>cuisine équipée</td></tr><tr><td><strong>roupeiro embutido</strong></td><td>placard intégré</td></tr><tr><td><strong>aquecimento central</strong></td><td>chauffage central</td></tr><tr><td><strong>despesas</strong></td><td>charges</td></tr><tr><td><strong>disponível</strong></td><td>disponible</td></tr><tr><td><strong>renovado</strong></td><td>rénové</td></tr></tbody></table>"
+    },
+    {
+      "type": "practice",
+      "title": "Compréhension des annonces",
+      "content": "<p>Répondez aux questions :</p><ol><li>L'appartement d'Alfama a-t-il un ascenseur ? → <em>Sim, tem elevador.</em></li><li>Combien coûte le loyer de l'appartement de Porto ? → <em>600€ por mês mais despesas.</em></li><li>L'appartement de Porto est-il meublé ? → <em>Não, é sem mobília.</em></li><li>Quel appartement a vue sur le fleuve ? → <em>O T2 em Alfama tem vista para o rio Tejo.</em></li><li>Peut-on avoir un animal dans le T1 à Porto ? → <em>Não, o anúncio diz 'sem animais'.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Rédiger une recherche",
+      "content": "<p>Imaginez que vous cherchez un appartement. Rédigez un court message en portugais pour répondre à une annonce :</p><p>Exemple : <em>Boa tarde, estou interessado(a) no apartamento T2 em Alfama. Gostava de saber se o apartamento está disponível para visita. Posso ir no sábado de manhã? Obrigado(a).</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'arrendar' ?",
+      "correctAnswer": "Louer",
+      "distractors": ["Acheter", "Vendre", "Rénover"],
+      "explanation": "'Arrendar' signifie louer. 'A renda' = le loyer. Pour acheter, on dit 'comprar'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O apartamento fica no 3.º andar com ________.",
+      "correctAnswer": "elevador",
+      "explanation": "'O elevador' = l'ascenseur. En Portugal, les immeubles anciens n'ont pas toujours d'ascenseur."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Loyer : 850 euros par mois, charges comprises.'",
+      "correctAnswer": "Renda: 850€ por mês, despesas incluídas.",
+      "explanation": "'Renda' = loyer. 'Despesas incluídas' = charges comprises. 'Por mês' = par mois."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'rez-de-chaussée' en portugais ?",
+      "correctAnswer": "rés-do-chão",
+      "distractors": ["primeiro andar", "cave", "andar térreo"],
+      "explanation": "'Rés-do-chão' est le terme utilisé en portugais européen pour le rez-de-chaussée."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A cozinha é ________ com fogão e frigorífico.",
+      "correctAnswer": "equipada",
+      "explanation": "'Cozinha equipada' = cuisine équipée. C'est une expression courante dans les annonces."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "arrendar", "phonetic": "/ɐʁɐ̃ˈdaɾ/", "french": "louer"},
+    {"portuguese": "a renda", "phonetic": "/ˈʁɐ̃dɐ/", "french": "le loyer"},
+    {"portuguese": "o rés-do-chão", "phonetic": "/ʁɛʒ du ʃɐ̃w/", "french": "le rez-de-chaussée"},
+    {"portuguese": "mobilado", "phonetic": "/mubiˈladu/", "french": "meublé"},
+    {"portuguese": "cozinha equipada", "phonetic": "/kuˈziɲɐ ikiˈpadɐ/", "french": "cuisine équipée"},
+    {"portuguese": "roupeiro embutido", "phonetic": "/ʁoˈpɐjɾu ɐ̃buˈtidu/", "french": "placard intégré"},
+    {"portuguese": "aquecimento central", "phonetic": "/ɐkɨsiˈmɐ̃tu sɐ̃ˈtɾaɫ/", "french": "chauffage central"},
+    {"portuguese": "as despesas", "phonetic": "/dɨʃˈpezɐʃ/", "french": "les charges"},
+    {"portuguese": "disponível", "phonetic": "/diʃpuˈnivɛɫ/", "french": "disponible"}
+  ]
+}

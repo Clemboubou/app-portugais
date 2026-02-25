@@ -1,0 +1,84 @@
+{
+  "id": "b2-m7-l05",
+  "title": "Examen final B2",
+  "type": "grammar",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Réviser les principaux points de grammaire du niveau B2",
+    "Tester ses connaissances sur tous les temps et modes verbaux",
+    "Consolider les acquis avant le passage au niveau C1"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Révision globale B2",
+      "content": "<p>Cette leçon de révision couvre l'ensemble des compétences grammaticales du niveau B2. Vous allez revoir : le <strong>subjonctif</strong> (présent, imparfait, plus-que-parfait), le <strong>conditionnel</strong>, l'<strong>infinitif personnel</strong>, le <strong>discours indirect</strong>, la <strong>voix passive</strong> et les <strong>connecteurs formels</strong>.</p><p>C'est l'occasion de consolider vos acquis et d'identifier les points à renforcer.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Panorama des temps et modes B2",
+      "content": "<p><strong>Modes et temps maîtrisés au B2 :</strong></p><table><tr><th>Mode</th><th>Temps</th><th>Exemple</th></tr><tr><td>Indicativo</td><td>Tous les temps (presente → mais-que-perfeito)</td><td><em>Falo, falei, falava, tinha falado, falarei</em></td></tr><tr><td>Conjuntivo</td><td>Presente</td><td><em>Espero que <strong>fale</strong>.</em></td></tr><tr><td>Conjuntivo</td><td>Imperfeito</td><td><em>Se eu <strong>falasse</strong>...</em></td></tr><tr><td>Conjuntivo</td><td>Mais-que-perfeito</td><td><em>Se eu <strong>tivesse falado</strong>...</em></td></tr><tr><td>Condicional</td><td>Simples + Composto</td><td><em>Falaria / Teria falado</em></td></tr><tr><td>Infinitivo pessoal</td><td>—</td><td><em>Para nós <strong>falarmos</strong>...</em></td></tr></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Points clés à retenir",
+      "content": "<p><strong>1. Les conditionnelles :</strong></p><ul><li>Réel (présent) : <em>Se <strong>chove</strong>, fico em casa.</em></li><li>Irréel (présent) : <em>Se <strong>chovesse</strong>, ficava/ficaria em casa.</em></li><li>Irréel (passé) : <em>Se <strong>tivesse chovido</strong>, teria ficado em casa.</em></li></ul><p><strong>2. Discours indirect :</strong></p><ul><li>Presente → Imperfeito : <em>Disse que <strong>estava</strong> bem.</em></li><li>Futuro → Condicional : <em>Disse que <strong>iria</strong>.</em></li></ul><p><strong>3. Voix passive :</strong></p><ul><li>Analytique : <em>O livro <strong>foi escrito</strong> por...</em></li><li>Pronominale : <em><strong>Vendem-se</strong> casas.</em></li></ul><p><strong>4. Infinitif personnel :</strong></p><ul><li><em>Para nós <strong>compreendermos</strong>...</em></li><li><em>Apesar de eles <strong>serem</strong>...</em></li></ul><p><strong>5. Subjonctif dans les relatives :</strong></p><ul><li><em>Procuro alguém que <strong>fale</strong>...</em> (hypothétique → conjuntivo)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Exercices de révision",
+      "content": "<p>Complétez avec la forme correcte :</p><ol><li><em>Se eu ________ (ter) mais tempo, aprenderia chinês.</em> → <strong>tivesse</strong></li><li><em>Ele disse que ________ (ir) ao Porto no dia seguinte.</em> → <strong>iria</strong></li><li><em>Para nós ________ (poder) participar, é preciso inscrever-nos.</em> → <strong>podermos</strong></li><li><em>O museu ________ (inaugurar — passiva) pelo presidente.</em> → <strong>foi inaugurado</strong></li><li><em>Procuro alguém que ________ (saber) falar alemão.</em> → <strong>saiba</strong></li><li><em>Se eu ________ (estudar) mais, teria passado no exame.</em> → <strong>tivesse estudado</strong></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Production finale B2",
+      "content": "<p>Rédigez un texte de <strong>150-200 mots</strong> sur ce sujet :</p><p><em>Se pudesse mudar uma coisa no mundo, o que mudaria e porquê?</em></p><p>(Si vous pouviez changer une chose dans le monde, que changeriez-vous et pourquoi ?)</p><p>Votre texte doit démontrer la maîtrise de :</p><ul><li>Au moins 2 formes du subjonctif</li><li>Le conditionnel</li><li>3 connecteurs formels minimum</li><li>Un discours structuré (introduction, développement, conclusion)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Dans 'Se eu tivesse estudado, teria passado', quels temps sont utilisés ?",
+      "correctAnswer": "Plus-que-parfait du subjonctif + conditionnel composé",
+      "distractors": ["Imparfait du subjonctif + conditionnel simple", "Présent du subjonctif + futur", "Indicatif + impératif"],
+      "explanation": "Hypothèse irréelle au passé : 'Se + mais-que-perfeito do conjuntivo (tivesse estudado), condicional composto (teria passado)'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A nova ponte ________ (construir — passiva pronominal) em apenas dois anos.",
+      "correctAnswer": "construiu-se",
+      "explanation": "Passive pronominale au pretérito perfeito : construiu-se (3ᵉ pers. singulier + -se, car 'a ponte' est singulier)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Bien que nous soyons fatigués, nous avons continué à travailler.",
+      "correctAnswer": "Apesar de estarmos cansados, continuámos a trabalhar.",
+      "explanation": "Infinitif personnel après 'apesar de' : estarmos (1ʳᵉ pers. pl.). 'Continuámos a trabalhar' = nous avons continué à travailler (PT-PT)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle forme est exclusive au portugais parmi les langues romanes ?",
+      "correctAnswer": "L'infinitif personnel (infinitivo pessoal)",
+      "distractors": ["Le subjonctif futur", "Le gérondif", "L'indicatif plus-que-parfait"],
+      "explanation": "L'infinitif personnel est une exclusivité du portugais. Le subjonctif futur existe aussi (quasi exclusivement en portugais et galicien parmi les langues romanes vivantes)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ela perguntou-me se eu ________ (querer) ir ao cinema naquele dia.",
+      "correctAnswer": "queria",
+      "explanation": "Discours indirect au passé : presente (quero) → imperfeito (queria). 'Hoje' → 'naquele dia'."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "revisão", "phonetic": "/ʁɨviˈzɐ̃w̃/", "french": "révision"},
+    {"portuguese": "conjuntivo", "phonetic": "/kõʒũˈtivu/", "french": "subjonctif (PT-PT)"},
+    {"portuguese": "condicional", "phonetic": "/kõdisiuˈnal/", "french": "conditionnel"},
+    {"portuguese": "infinitivo pessoal", "phonetic": "/ĩfiniˈtivu pɨsuˈal/", "french": "infinitif personnel"},
+    {"portuguese": "voz passiva", "phonetic": "/vɔʃ pɐˈsivɐ/", "french": "voix passive"},
+    {"portuguese": "discurso indireto", "phonetic": "/diʃˈkuɾsu ĩdiˈɾɛtu/", "french": "discours indirect"},
+    {"portuguese": "conectores", "phonetic": "/kunɛˈtoɾɨʃ/", "french": "connecteurs"},
+    {"portuguese": "consolidar", "phonetic": "/kõsuliˈdaɾ/", "french": "consolider"},
+    {"portuguese": "adquirido", "phonetic": "/ɐdkiˈɾidu/", "french": "acquis"},
+    {"portuguese": "exame", "phonetic": "/ɨˈzɐmɨ/", "french": "examen"}
+  ]
+}

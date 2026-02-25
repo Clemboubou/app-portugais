@@ -1,0 +1,182 @@
+[
+  {
+    "id": "c1_001",
+    "title": "Mésoclise : Pronoms clitiques avec futur/conditionnel",
+    "level": "C1",
+    "explanation": "La mésoclise place le pronom à l'intérieur du verbe au futur ou conditionnel. Structure : radical + pronom + terminaison. Exemple : Fá-lo-ei (Je le ferai). Ceci est la norme écrite formelle en PT-PT. À l'oral, on dit souvent 'vou fazer isso', mais à l'écrit formel, la mésoclise est attendue.",
+    "examples": [
+      { "pt": "Dir-lhe-ei a verdade.", "fr": "Je lui dirai la vérité." },
+      { "pt": "Far-se-á a entrega amanhã.", "fr": "La livraison se fera demain." },
+      { "pt": "Enviar-lhe-iam os documentos.", "fr": "Ils lui enverraient les documents." }
+    ],
+    "tip": "Très rare à l'oral. Utilisez-la uniquement dans la rédaction formelle (rapports, lettres professionnelles, essais). À l'oral, préférez 'vou fazer / Lhe vou fazer'."
+  },
+  {
+    "id": "c1_002",
+    "title": "Infinitif Personnel : Formation et Usage",
+    "level": "C1",
+    "explanation": "L'infinitif personnel est une forme unique au portugais. Il permet de conjuguer l'infinitif selon la personne. Formation : infinitif + terminaisons (-Ø, -es, -Ø, -mos, -em). Usage : après prépositions (para, depois de, apesar de, sem, antes de), et pour clarifier le sujet d'une proposition subordonnée.",
+    "examples": [
+      { "pt": "Para nós compreendermos a situação...", "fr": "Pour que nous comprenions la situation..." },
+      { "pt": "Depois de eles saírem, a casa ficou vazia.", "fr": "Après qu'ils soient partis, la maison est restée vide." },
+      { "pt": "Apesar de sermos estrangeiros, fomos bem recebidos.", "fr": "Bien que nous soyons étrangers, nous avons été bien reçus." }
+    ],
+    "tip": "Avec l'infinitif personnel composé (ter/haver + participe), exprimez l'antériorité : 'Depois de terem chegado' (Après être arrivés)."
+  },
+  {
+    "id": "c1_003",
+    "title": "Subjonctif Futur : Hypothèses et Conditions",
+    "level": "C1",
+    "explanation": "Le subjonctif futur exprime une action future incertaine ou éventuelle. Usage après : se, quando, logo que, enquanto, sempre que, caso. Formé à partir de la 3ᵉ personne du pluriel du passé simple. Réguliers : falar → fale/fales/falemos. Irréguliers : fazer → faça, dizer → diga.",
+    "examples": [
+      { "pt": "Quando chegares a Lisboa, telefona-me.", "fr": "Quand tu arriveras à Lisbonne, appelle-moi." },
+      { "pt": "Se o projeto for aprovado, iniciaremos as obras.", "fr": "Si le projet est approuvé, nous commencerons les travaux." },
+      { "pt": "Sempre que puder, visitarei Portugal.", "fr": "Chaque fois que je peux, je visiterai le Portugal." }
+    ],
+    "tip": "Ne confondez pas avec le présent du subjonctif. Le subjonctif futur = futur+incertitude. Présent du subjonctif = présent + doute/volonté."
+  },
+  {
+    "id": "c1_004",
+    "title": "Voix Passive : Concordance des Temps",
+    "level": "C1",
+    "explanation": "La passive analytique utilise SER + participe passé (accordé en genre et nombre). Concordance des temps complexe : passé → 'foi construído' ; imparfait → 'era construído' ; composé → 'foi construído'. La passive synthétique (verbe + -se) reste courante mais la passive analytique est attendue en registre formel.",
+    "examples": [
+      { "pt": "O relatório foi analisado pela comissão.", "fr": "Le rapport a été analysé par la commission." },
+      { "pt": "As propostas estão sendo consideradas (passiva sintética: Consideram-se as propostas).", "fr": "Les propositions sont en cours d'examen." },
+      { "pt": "Quando chegou, foi informado de que o meeting tinha sido cancelado.", "fr": "Quand il est arrivé, il a été informé que la réunion avait été annulée." }
+    ],
+    "tip": "En PT-PT formel, la passive analytique est préférée. La passive synthétique avec '-se' reste courante à l'oral et dans les avis publics."
+  },
+  {
+    "id": "c1_005",
+    "title": "Concordance Temporelle Avancée",
+    "level": "C1",
+    "explanation": "La concordance correcte des temps dans le discours indirect rapporté et les subordonnées garantit la cohérence temporelle. Verbe principal au passé → verbe subordonné recule d'un temps. Présent → Imparfait. Futur → Conditionnel. Passé composé → Plus-que-parfait.",
+    "examples": [
+      { "pt": "Ele disse que (ele) tinha estado lá. / Ele diz que (ele) está lá.", "fr": "Il a dit qu'il avait été là. / Il dit qu'il est là." },
+      { "pt": "Pediu que eu viesse mais cedo. (Não: que eu venha)", "fr": "Il a demandé que je vienne plus tôt." },
+      { "pt": "Ela afirmou que teria terminado o projeto. (Não: que vai terminar)", "fr": "Elle a affirmé qu'elle aurait terminé le projet." }
+    ],
+    "tip": "Exercez-vous avec des textes littéraires. Cette règle est moins stricte à l'oral mais obligatoire en rédaction formelle."
+  },
+  {
+    "id": "c1_006",
+    "title": "Constructions Emphase et Clivage",
+    "level": "C1",
+    "explanation": "Les constructions clivées isolent un élément pour l'emphase. 'É...que' ou 'Ser...que' créent l'emphase. Exemple : 'Ser a Maria que fez isto' (C'est Maria qui l'a fait). Clivage temporel : 'É agora que as coisas mudam' (C'est maintenant que les choses changent).",
+    "examples": [
+      { "pt": "É a qualidade que importa, não a quantidade.", "fr": "C'est la qualité qui importe, pas la quantité." },
+      { "pt": "Quem o fez foi o João.", "fr": "Celui qui l'a fait, c'est Jean." },
+      { "pt": "Foi durante a pandemia que isto aconteceu.", "fr": "C'est pendant la pandémie que cela s'est passé." }
+    ],
+    "tip": "Utilisez les clivées pour donner du poids et de l'emphase à votre discours académique ou professionnel."
+  },
+  {
+    "id": "c1_007",
+    "title": "Constructions Relatives Avancées et Pronoms Relatifs",
+    "level": "C1",
+    "explanation": "Au-delà du simple 'que', le portugais dispose de 'qual/quais' (lequel/laquelle), 'cujo/cuja' (dont), 'onde' (où), 'quando' (quand), et les formes renforcées 'o qual/a qual'. L'usage corrects de ces formes complexifie et enrichit le discours académique.",
+    "examples": [
+      { "pt": "O livro sobre o qual falei é excelente.", "fr": "Le livre duquel j'ai parlé est excellent." },
+      { "pt": "O professor, cuja filha estuda comigo, é rigoroso.", "fr": "Le professeur, dont la fille étudie avec moi, est rigoureux." },
+      { "pt": "Este é o período em que a economia cresceu mais.", "fr": "C'est la période où l'économie a grandi le plus." }
+    ],
+    "tip": "'Cujo' s'accorde avec le nom qui le suit, pas avec l'antécédent. Prononciation : /'kuʒu/."
+  },
+  {
+    "id": "c1_008",
+    "title": "Participes Absolus et Ablatifs",
+    "level": "C1",
+    "explanation": "Le participe absolu (ou construction participiale) est une structure syntaxique elliptique et économique : sujet + participe passé (sans verbe auxiliaire). Exemple : 'Feito o dever, descansou' (Une fois le devoir fait, il s'est reposé). Structure très formelle, rare à l'oral, fréquente en littérature et prose académique.",
+    "examples": [
+      { "pt": "Concluída a investigação, publicaram os resultados.", "fr": "L'enquête conclue, ils ont publié les résultats." },
+      { "pt": "Saída a lua, o cenário tornou-se misterioso.", "fr": "La lune sortie, le paysage devint mystérieux." },
+      { "pt": "Resolvidos os problemas, continuamos o trabalho.", "fr": "Les problèmes résolus, nous avons continué le travail." }
+    ],
+    "tip": "Très littéraire. Reconnaître cette structure en lecture. Productivité à l'écrit : modérée. Priorité : compréhension."
+  },
+  {
+    "id": "c1_009",
+    "title": "Modalité et Expression du Potentiel : 'Possa', 'Pudesse', 'Puder'",
+    "level": "C1",
+    "explanation": "L'expression du potentiel et de l'hypothèse requiert une sélection minutieuse du temps/mode. Possa (peux, pourrai, peut-être) = présent du subjonctif (potentiel présent). Pudesse (pourrais) = imparfait du subjonctif (potentiel passé). Puder (pourrai) = futur du subjonctif (potentiel futur).",
+    "examples": [
+      { "pt": "Espero que possa ajudar.", "fr": "J'espère que tu peux m'aider." },
+      { "pt": "Se pudesse, iria com você.", "fr": "Si je pouvais, j'irais avec toi." },
+      { "pt": "Quando puder, visitarei a cidade.", "fr": "Quand je pourrai, je visiterai la ville." }
+    ],
+    "tip": "Ces trois formes sont souvent confondues par les apprenants. Pratiquez-les systématiquement."
+  },
+  {
+    "id": "c1_010",
+    "title": "Régime Verbal Avancé et Compléments",
+    "level": "C1",
+    "explanation": "Certains verbes exigent des régimes prépositionnel ou nominal spécifiques, souvent différents du français. Gostar de, Precisar de, Insistir em, Contar com, Aprimorar, Carecer de. Maîtriser le régime verbal est crucial pour l'aisance de la langue.",
+    "examples": [
+      { "pt": "Ele insiste em vir comigo. (Não: insiste de vir)", "fr": "Il insiste pour venir avec moi." },
+      { "pt": "Podemos contar com o vosso apoio? (Não: contar de)", "fr": "Pouvons-nous compter sur votre soutien ?" },
+      { "pt": "É necessário carecer de recursos. (Carecer = manquer de)", "fr": "Il est nécessaire de manquer de ressources." }
+    ],
+    "tip": "Constituez une liste personnalisée de régimes verbaux selon votre domaine professionnel."
+  },
+  {
+    "id": "c1_011",
+    "title": "Négation Avancée et Opérateurs de Portée",
+    "level": "C1",
+    "explanation": "Au-delà du simple 'não', le portugais dispose de négations nuancées : 'ninguém', 'nada', 'nenhum', 'nem', 'nunca', 'jamais'. La portée de la négation (ce qu'elle nie) doit être précisément positionnée pour éviter l'ambiguïté ou créer des effets pragmatiques.",
+    "examples": [
+      { "pt": "Ninguém sabe nada disso.", "fr": "Personne ne sait rien de cela." },
+      { "pt": "Nem eu nem tu sabemos.", "fr": "Ni toi ni moi ne savons." },
+      { "pt": "Não é que ele seja incompetente, mas cansado.", "fr": "Ce n'est pas qu'il soit incompétent, mais fatigué." }
+    ],
+    "tip": "Double négation est courante et acceptable en portugais oral (Não sabe nada). Évitez en rédaction formelle."
+  },
+  {
+    "id": "c1_012",
+    "title": "Ordre des Mots et Fronting pour l'Emphase",
+    "level": "C1",
+    "explanation": "Bien que le portugais soit plus rigide que d'autres langues romanes, l'ordre SVO (sujet-verbe-objet) peut être modifié pour l'emphase ou l'ancrage du discours. Fronting (déplacement du complément en début de phrase) : 'A economia, todos a compreendem mal' (L'économie, tout le monde la comprend mal).",
+    "examples": [
+      { "pt": "Isto, eu não faço. (Fronting de l'objet)", "fr": "Ça, je ne le fais pas." },
+      { "pt": "Feliz, ele nunca foi. (Fronting de l'adjectif attribut)", "fr": "Heureux, il ne l'a jamais été." },
+      { "pt": "A Lisboa, vou amanhã. (Fronting de la circonstance)", "fr": "À Lisbonne, j'irai demain." }
+    ],
+    "tip": "Le fronting crée une emphase ou un contraste. À utiliser judicieusement en discours académique."
+  },
+  {
+    "id": "c1_013",
+    "title": "Conditionnelles Irréelles Complexes",
+    "level": "C1",
+    "explanation": "Conditionnelles du passé irréel : Se + Imparfait du subjonctif + Conditionnel passé. Exemple : 'Se tivesse estudado mais, teria passado'. Enchâssement de conditionnelles : 'Se tivesse sabido que virias, se eu tivesse preparado a casa...'",
+    "examples": [
+      { "pt": "Se não tivesse chovido, teríamos ido à praia.", "fr": "S'il n'avait pas plu, nous serions allés à la plage." },
+      { "pt": "Se ele tivesse insistido, ela teria cedido.", "fr": "S'il avait insisté, elle aurait cédé." },
+      { "pt": "Se me tivesses avisado, tudo teria sido diferente.", "fr": "Si tu m'avais prévenu, tout aurait été différent." }
+    ],
+    "tip": "Très courant dans les récits rétrospectifs et les analyses. Pratiquez régulièrement."
+  },
+  {
+    "id": "c1_014",
+    "title": "Stratégies Rhétoriques : Parallélismes, Anaphores, Antithèses",
+    "level": "C1",
+    "explanation": "Au niveau C1, la maîtrise des figures de style améliore significativement le discours. Parallélisme : répétition de structures syntaxiques identiques. Anaphore : répétition du même terme en début de proposition. Antithèse : opposition de concepts. Ces techniques enrichissent la persuasion et la clarté argumentative.",
+    "examples": [
+      { "pt": "A educação liberta a mente, abre portas, muda destinos.", "fr": "L'éducation libère l'esprit, ouvre les portes, change les destins. (Parallélisme)" },
+      { "pt": "Nunca desisti, nunca duvidei, nunca me arrependi.", "fr": "Je n'ai jamais abandonné, jamais douté, jamais regretté. (Anaphore)" },
+      { "pt": "Fomos fortes no passado, somos frágeis no presente.", "fr": "Nous étions forts par le passé, nous sommes fragiles au présent. (Antithèse)" }
+    ],
+    "tip": "Ces figures sont attendues dans les essais et les discours académiques. Utilisez-les pour amplifier l'impact."
+  },
+  {
+    "id": "c1_015",
+    "title": "Registres Formels et Imparfait de Courtoisie",
+    "level": "C1",
+    "explanation": "L'imparfait de courtoisie (Imperfetto di cortesia) adoucit les demandes ou formule des hypothèses polies. Exemple : 'Importava-se de repetir?' (Pourriez-vous répéter, s'il vous plaît ?) au lieu de 'Repete!' (Répète !). Structure clé du registre formel portugais.",
+    "examples": [
+      { "pt": "Poderia indicar-me o caminho? (Plus poli que: Pode me indicar...)", "fr": "Pourriez-vous m'indiquer le chemin ?" },
+      { "pt": "Seria possível adiar a reunião? (Très formel)", "fr": "Serait-il possible de reporter la réunion ?" },
+      { "pt": "Gostaria de sugerir um compromisso.", "fr": "J'aimerais suggérer un compromis." }
+    ],
+    "tip": "Le conditionnel en portugais remplace souvent le subjonctif pour plus de politesse. Éssentiellement utilisé en contexte professionnel."
+  }
+]

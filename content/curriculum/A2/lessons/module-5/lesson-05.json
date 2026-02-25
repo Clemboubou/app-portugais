@@ -1,0 +1,84 @@
+{
+  "id": "a2-m5-l05",
+  "title": "Mes projets de vacances",
+  "type": "conversation",
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Planifier des vacances en discutant avec un ami",
+    "Proposer, accepter et refuser des suggestions poliment",
+    "Combiner les structures du futur, des intentions et de la meteo"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Planifier ensemble",
+      "content": "<p>Planifier des vacances entre amis ou en famille est une situation de communication tres courante. Il faut savoir <strong>proposer</strong> des idees, <strong>accepter</strong> ou <strong>refuser</strong> poliment, et se mettre d'accord sur les details : destination, dates, activites et hebergement.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Proposer et suggerer",
+      "content": "<p>Structures pour proposer :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><em>Que tal irmos a...?</em></td><td>Et si on allait a... ?</td></tr><tr><td><em>Podemos ir a...</em></td><td>Nous pouvons aller a...</td></tr><tr><td><em>E se fossemos a...?</em></td><td>Et si on allait a... ?</td></tr><tr><td><em>Sugiro irmos a...</em></td><td>Je suggere qu'on aille a...</td></tr><tr><td><em>Queres ir a...?</em></td><td>Tu veux aller a... ?</td></tr><tr><td><em>O que achas de...?</em></td><td>Qu'est-ce que tu penses de... ?</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Accepter et refuser",
+      "content": "<p><strong>Accepter</strong> une proposition :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><em>Boa ideia!</em></td><td>Bonne idee !</td></tr><tr><td><em>Otimo, concordo!</em></td><td>Super, je suis d'accord !</td></tr><tr><td><em>Sim, vamos!</em></td><td>Oui, allons-y !</td></tr><tr><td><em>Parece-me bem.</em></td><td>Ca me semble bien.</td></tr><tr><td><em>Adorava!</em></td><td>J'adorerais !</td></tr></tbody></table><p><strong>Refuser</strong> poliment :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><em>Preferia ir a outro lugar.</em></td><td>Je prefererais aller ailleurs.</td></tr><tr><td><em>Nao me apetece muito.</em></td><td>Ca ne me dit pas trop.</td></tr><tr><td><em>Tenho outra ideia...</em></td><td>J'ai une autre idee...</td></tr><tr><td><em>E boa ideia, mas...</em></td><td>C'est une bonne idee, mais...</td></tr><tr><td><em>Acho que nao posso nesse dia.</em></td><td>Je pense que je ne peux pas ce jour-la.</td></tr></tbody></table>"
+    },
+    {
+      "type": "practice",
+      "title": "Dialogue : planifier les vacances",
+      "content": "<p>Pratiquez ce dialogue :</p><p><strong>Ana</strong>: <em>Que tal irmos ao Algarve em julho?</em><br/><strong>Pedro</strong>: <em>Boa ideia! Podemos ficar numa casa perto da praia.</em><br/><strong>Ana</strong>: <em>Sim, vou procurar alojamentos. Quantos dias pensas ficar?</em><br/><strong>Pedro</strong>: <em>Penso que uma semana e suficiente. E se fossemos tambem a Sagres?</em><br/><strong>Ana</strong>: <em>Adorava! Dizem que as praias la sao lindas. Mas e o orcamento?</em><br/><strong>Pedro</strong>: <em>Planeio gastar no maximo quinhentos euros. E tu?</em><br/><strong>Ana</strong>: <em>Parece-me bem. Entao, vamos combinar os detalhes esta semana?</em><br/><strong>Pedro</strong>: <em>Combinado! Manda-me mensagem amanha.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Planifiez vos vacances",
+      "content": "<p>Un ami vous propose d'aller en vacances ensemble. Ecrivez un dialogue de 6-8 lignes ou vous discutez de la destination, de la duree, de l'hebergement et des activites. Utilisez au moins 2 propositions, 1 acceptation et 1 refus poli :</p><p>Exemple : <em>— Que tal irmos a Madeira nas ferias da Pascoa?<br/>— E boa ideia, mas preferia ir ao Acores. O que achas?<br/>— Otimo, concordo! Podemos ficar num hotel perto do mar.<br/>— Sim, vou procurar precos. Penso ficar cinco dias.<br/>— Perfeito! Vamos reservar esta semana.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment proposer 'Et si on allait a la plage ?' en portugais ?",
+      "correctAnswer": "Que tal irmos a praia?",
+      "distractors": ["Que tal vamos a praia?", "Podemos a praia ir?", "Se irmos a praia?"],
+      "explanation": "'Que tal + infinitif personnel' est une structure courante pour proposer. 'Irmos' = infinitif personnel (nos)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Boa ________! Vamos a Sintra no sabado.",
+      "correctAnswer": "ideia",
+      "explanation": "'Boa ideia!' = Bonne idee ! Expression courante pour accepter une proposition."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Je prefererais aller ailleurs.'",
+      "correctAnswer": "Preferia ir a outro lugar.",
+      "explanation": "'Preferia' (imparfait de preferir) = je prefererais. 'Outro lugar' = un autre endroit."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'Parece-me bem' ?",
+      "correctAnswer": "Ca me semble bien",
+      "distractors": ["Ca me parait mal", "Je ne suis pas d'accord", "Ca me surprend"],
+      "explanation": "'Parecer' = sembler. 'Parece-me bem' = ca me semble bien / ca me convient."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nao me ________ muito ir a montanha.",
+      "correctAnswer": "apetece",
+      "explanation": "'Apetecer' = avoir envie. 'Nao me apetece' = ca ne me dit pas / je n'ai pas envie. Refus poli."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "que tal", "phonetic": "/kɨ ˈtal/", "french": "et si / que dirais-tu de"},
+    {"portuguese": "boa ideia", "phonetic": "/ˈboɐ iˈdɐjɐ/", "french": "bonne idee"},
+    {"portuguese": "concordar", "phonetic": "/kõkuɾˈdaɾ/", "french": "etre d'accord"},
+    {"portuguese": "preferir", "phonetic": "/pɾɨfɨˈɾiɾ/", "french": "preferer"},
+    {"portuguese": "sugerir", "phonetic": "/suʒɨˈɾiɾ/", "french": "suggerer"},
+    {"portuguese": "apetecer", "phonetic": "/ɐpɨtɨˈseɾ/", "french": "avoir envie de"},
+    {"portuguese": "combinar", "phonetic": "/kõbiˈnaɾ/", "french": "se mettre d'accord"},
+    {"portuguese": "o orcamento", "phonetic": "/oɾsɐˈmẽtu/", "french": "le budget"},
+    {"portuguese": "o alojamento", "phonetic": "/ɐluʒɐˈmẽtu/", "french": "l'hebergement"},
+    {"portuguese": "a Pascoa", "phonetic": "/ˈpaʃkwɐ/", "french": "Paques"}
+  ]
+}

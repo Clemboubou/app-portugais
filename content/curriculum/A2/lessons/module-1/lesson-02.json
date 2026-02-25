@@ -1,0 +1,83 @@
+{
+  "id": "a2-m1-l02",
+  "title": "Verbes irréguliers au passé",
+  "type": "grammar",
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Conjuguer les principaux verbes irréguliers au Pretérito Perfeito Simples",
+    "Mémoriser les formes de fui/foste, tive, estive, fiz, disse, vi, pus, soube, trouxe",
+    "Utiliser ces verbes irréguliers dans des phrases au passé"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les verbes irréguliers : incontournables",
+      "content": "<p>En portugais européen, les verbes les plus utilisés au quotidien sont souvent <strong>irréguliers</strong> au Pretérito Perfeito Simples. Il est donc essentiel de les mémoriser.</p><p>Bonne nouvelle : une fois que vous connaissez la 1ère personne du singulier, les autres formes suivent un schéma assez régulier.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Tableau des verbes irréguliers",
+      "content": "<table><thead><tr><th>Infinitif</th><th>Eu</th><th>Tu</th><th>Ele/Você</th><th>Nós</th><th>Eles/Vocês</th></tr></thead><tbody><tr><td><strong>Ir / Ser</strong></td><td>fui</td><td>foste</td><td>foi</td><td>fomos</td><td>foram</td></tr><tr><td><strong>Ter</strong></td><td>tive</td><td>tiveste</td><td>teve</td><td>tivemos</td><td>tiveram</td></tr><tr><td><strong>Estar</strong></td><td>estive</td><td>estiveste</td><td>esteve</td><td>estivemos</td><td>estiveram</td></tr><tr><td><strong>Fazer</strong></td><td>fiz</td><td>fizeste</td><td>fez</td><td>fizemos</td><td>fizeram</td></tr><tr><td><strong>Dizer</strong></td><td>disse</td><td>disseste</td><td>disse</td><td>dissemos</td><td>disseram</td></tr><tr><td><strong>Ver</strong></td><td>vi</td><td>viste</td><td>viu</td><td>vimos</td><td>viram</td></tr><tr><td><strong>Pôr</strong></td><td>pus</td><td>puseste</td><td>pôs</td><td>pusemos</td><td>puseram</td></tr><tr><td><strong>Saber</strong></td><td>soube</td><td>soubeste</td><td>soube</td><td>soubemos</td><td>souberam</td></tr><tr><td><strong>Trazer</strong></td><td>trouxe</td><td>trouxeste</td><td>trouxe</td><td>trouxemos</td><td>trouxeram</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Groupes de verbes irréguliers",
+      "content": "<p>On peut regrouper ces irréguliers en familles :</p><ul><li><strong>Groupe en -ive</strong> : ter → <em>tive</em>, estar → <em>estive</em> (même schéma de terminaisons)</li><li><strong>Groupe en -sse</strong> : dizer → <em>disse</em>, trazer → <em>trouxe</em> (radical modifié, même logique)</li><li><strong>Groupe en -us</strong> : pôr → <em>pus</em>, saber → <em>soube</em></li><li><strong>Ser et Ir</strong> sont identiques au passé ! Seul le contexte permet de les distinguer.</li></ul><p><strong>Astuce</strong> : <em>Fui ao cinema</em> (je suis allé → ir) vs <em>Fui professor</em> (j'ai été professeur → ser).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Exemples en contexte",
+      "content": "<ul><li><em>Eu <strong>fiz</strong> o jantar ontem à noite.</em> (J'ai fait le dîner hier soir.)</li><li><em>Ela <strong>disse</strong> que vinha mais tarde.</em> (Elle a dit qu'elle venait plus tard.)</li><li><em>Nós <strong>vimos</strong> um filme muito bom.</em> (Nous avons vu un très bon film.)</li><li><em>Tu <strong>trouxeste</strong> o telemóvel?</em> (Tu as apporté le portable ?)</li><li><em>Eu <strong>soube</strong> a notícia ontem.</em> (J'ai appris la nouvelle hier.)</li><li><em>Ela <strong>pôs</strong> os livros na estante.</em> (Elle a posé les livres sur l'étagère.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "À vous de conjuguer",
+      "content": "<p>Essayez de compléter ces phrases avec le verbe irrégulier correct :</p><ul><li>Ontem, eu ________ (dizer) a verdade. → <em>disse</em></li><li>A Maria ________ (trazer) o bolo. → <em>trouxe</em></li><li>Nós ________ (estar) em Lisboa no verão. → <em>estivemos</em></li><li>Tu ________ (ver) o pôr do sol? → <em>viste</em></li><li>Eles ________ (fazer) uma viagem ao Porto. → <em>fizeram</em></li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme correcte de FAZER à la 1ère personne du singulier au passé ?",
+      "correctAnswer": "fiz",
+      "distractors": ["fazi", "fazei", "fezi"],
+      "explanation": "FAZER est irrégulier au Pretérito Perfeito : eu fiz, tu fizeste, ele fez, nós fizemos, eles fizeram."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ontem, eu ________ (ver) a minha avó.",
+      "correctAnswer": "vi",
+      "explanation": "VER au passé : eu vi, tu viste, ele viu, nós vimos, eles viram."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Elle a dit la vérité.'",
+      "correctAnswer": "Ela disse a verdade.",
+      "explanation": "DIZER au passé : eu disse, tu disseste, ele/ela disse, nós dissemos, eles disseram."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'J'ai apporté le livre' (verbe TRAZER) ?",
+      "correctAnswer": "Trouxe o livro.",
+      "distractors": ["Trazi o livro.", "Trazei o livro.", "Trouxi o livro."],
+      "explanation": "TRAZER au passé : eu trouxe, tu trouxeste, ele trouxe, nós trouxemos, eles trouxeram."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nós ________ (saber) a notícia pela televisão.",
+      "correctAnswer": "soubemos",
+      "explanation": "SABER au passé : eu soube, tu soubeste, ele soube, nós soubemos, eles souberam."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "fui", "phonetic": "/fuj/", "french": "je suis allé / j'ai été"},
+    {"portuguese": "tive", "phonetic": "/tivɨ/", "french": "j'ai eu"},
+    {"portuguese": "estive", "phonetic": "/ɨʃtivɨ/", "french": "j'ai été (état)"},
+    {"portuguese": "fiz", "phonetic": "/fiʃ/", "french": "j'ai fait"},
+    {"portuguese": "disse", "phonetic": "/disɨ/", "french": "j'ai dit"},
+    {"portuguese": "vi", "phonetic": "/vi/", "french": "j'ai vu"},
+    {"portuguese": "pus", "phonetic": "/puʃ/", "french": "j'ai mis/posé"},
+    {"portuguese": "soube", "phonetic": "/sobɨ/", "french": "j'ai su/appris"},
+    {"portuguese": "trouxe", "phonetic": "/tɾoʃɨ/", "french": "j'ai apporté"}
+  ]
+}

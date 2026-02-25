@@ -1,0 +1,84 @@
+{
+  "id": "b2-m5-l02",
+  "title": "Le Portugal dans l'UE",
+  "type": "reading",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Comprendre l'histoire de l'adhésion du Portugal à l'Union européenne",
+    "Connaître l'impact de l'UE sur le Portugal (euro, fonds structurels)",
+    "Lire et analyser un texte informatif sur les relations Portugal-UE"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le Portugal et l'Europe",
+      "content": "<p>Le Portugal a rejoint la <strong>Communauté économique européenne (CEE)</strong> le <strong>1er janvier 1986</strong>, en même temps que l'Espagne. Cette <em>adesão</em> (adhésion) a profondément transformé le pays — économiquement, socialement et politiquement. Comprendre cette relation est essentiel pour saisir le Portugal contemporain.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Texte : Le Portugal dans l'UE",
+      "content": "<p>Lisez ce texte informatif :</p><blockquote><em>A adesão de Portugal à Comunidade Europeia em 1986 marcou uma viragem decisiva na história do país. Doze anos após a Revolução dos Cravos, o país consolidava a sua democracia e abria-se ao mundo.</em><br/><br/><em>Os fundos estruturais europeus permitiram modernizar as infraestruturas: autoestradas, pontes, escolas e hospitais foram construídos por todo o território. O PIB per capita aumentou significativamente, aproximando-se da média europeia.</em><br/><br/><em>Em 1999, Portugal foi um dos países fundadores do euro, que substituiu o escudo em 2002. A moeda única trouxe estabilidade mas também desafios, nomeadamente a perda de soberania monetária.</em><br/><br/><em>Hoje, Portugal beneficia de fundos europeus para a transição digital e verde, mas o debate sobre a dependência em relação a Bruxelas continua vivo.</em></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire et concepts clés",
+      "content": "<p><strong>Termes européens :</strong></p><ul><li><em>adesão</em> — adhésion</li><li><em>fundos estruturais</em> — fonds structurels</li><li><em>infraestruturas</em> — infrastructures</li><li><em>PIB (Produto Interno Bruto)</em> — PIB</li><li><em>moeda única</em> — monnaie unique</li><li><em>soberania</em> — souveraineté</li></ul><p><strong>Repères chronologiques :</strong></p><ul><li><strong>1974</strong> — Revolução dos Cravos</li><li><strong>1986</strong> — Adesão à CEE</li><li><strong>1999</strong> — Adesão ao euro (introdução)</li><li><strong>2002</strong> — Entrada em circulação do euro (fin de l'escudo)</li><li><strong>2011</strong> — Crise da dívida, intervenção da Troika</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Compréhension du texte",
+      "content": "<p>Répondez en portugais :</p><ol><li><em>Em que ano Portugal aderiu à CEE?</em> → <em>Portugal aderiu à CEE em 1986.</em></li><li><em>O que permitiram os fundos estruturais?</em> → <em>Permitiram modernizar as infraestruturas: autoestradas, pontes, escolas e hospitais.</em></li><li><em>Qual era a moeda portuguesa antes do euro?</em> → <em>Era o escudo.</em></li><li><em>Que desafio trouxe o euro?</em> → <em>A perda de soberania monetária.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Rédiger un paragraphe argumentatif",
+      "content": "<p>Rédigez en portugais (80-100 mots) sur ce sujet :</p><p><em>Na sua opinião, a adesão à UE foi positiva para Portugal? Porquê?</em></p><p>Utilisez : <em>Por um lado...</em>, <em>Por outro lado...</em>, <em>Em conclusão...</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "En quelle année le Portugal a-t-il rejoint la CEE ?",
+      "correctAnswer": "1986",
+      "distractors": ["1974", "1992", "1999"],
+      "explanation": "Le Portugal a adhéré à la CEE le 1er janvier 1986, en même temps que l'Espagne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A moeda portuguesa antes do euro era o ________.",
+      "correctAnswer": "escudo",
+      "explanation": "L'escudo (escudo portugais) était la monnaie nationale avant l'adoption de l'euro en 2002."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Les fonds européens ont permis de moderniser les infrastructures.",
+      "correctAnswer": "Os fundos europeus permitiram modernizar as infraestruturas.",
+      "explanation": "'Permitir' + infinitif = permettre de. 'Fundos europeus' = fonds européens."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'PIB' en portugais ?",
+      "correctAnswer": "Produto Interno Bruto",
+      "distractors": ["Plano de Investimento Básico", "Programa Internacional Bancário", "Ponto de Integração Bilateral"],
+      "explanation": "PIB = Produto Interno Bruto, équivalent du PIB (Produit Intérieur Brut) en français."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ________ de Portugal à UE marcou uma viragem decisiva.",
+      "correctAnswer": "adesão",
+      "explanation": "'Adesão' = adhésion. 'A adesão de Portugal à UE' = l'adhésion du Portugal à l'UE."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "adesão", "phonetic": "/ɐdɨˈzɐ̃w̃/", "french": "adhésion"},
+    {"portuguese": "fundos estruturais", "phonetic": "/ˈfũduʃ ɨʃtɾutuˈɾajʃ/", "french": "fonds structurels"},
+    {"portuguese": "PIB", "phonetic": "/piˈibɨ/", "french": "PIB (Produto Interno Bruto)"},
+    {"portuguese": "moeda única", "phonetic": "/muˈedɐ ˈunikɐ/", "french": "monnaie unique"},
+    {"portuguese": "escudo", "phonetic": "/ɨʃˈkudu/", "french": "escudo (ancienne monnaie)"},
+    {"portuguese": "soberania", "phonetic": "/subɨɾɐˈniɐ/", "french": "souveraineté"},
+    {"portuguese": "autoestrada", "phonetic": "/awtuɨʃˈtɾadɐ/", "french": "autoroute"},
+    {"portuguese": "viragem", "phonetic": "/viˈɾaʒẽj̃/", "french": "tournant / virage"},
+    {"portuguese": "dívida", "phonetic": "/ˈdividɐ/", "french": "dette"},
+    {"portuguese": "infraestruturas", "phonetic": "/ĩfɾɐɨʃtɾuˈtuɾɐʃ/", "french": "infrastructures"}
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "b2-m2-l02",
+  "title": "Phrases hypothétiques complexes",
+  "type": "grammar",
+  "estimatedMinutes": 23,
+  "objectives": [
+    "Maîtriser les trois types de phrases conditionnelles en portugais européen",
+    "Construire des hypothèses avec se tivesse...teria et se pudesse...faria",
+    "Distinguer les conditions réelles, irréelles présentes et irréelles passées"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les trois types d'hypothèses",
+      "content": "<p>Le portugais européen distingue <strong>trois types de phrases conditionnelles</strong>, chacune avec une combinaison de temps spécifique :</p><ol><li><strong>Condition réelle</strong> (futur possible)</li><li><strong>Condition irréelle au présent</strong> (contraire à la réalité actuelle)</li><li><strong>Condition irréelle au passé</strong> (contraire à un fait passé)</li></ol>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les trois structures",
+      "content": "<p><strong>Type 1 — Condition réelle (futur) :</strong></p><p><em>Se</em> + <strong>Futuro do Conjuntivo</strong> → <strong>Presente / Futuro do Indicativo</strong></p><ul><li><em>Se eu <strong>tiver</strong> tempo, <strong>vou</strong> ao museu.</em> (Si j'ai le temps, je vais au musée.)</li></ul><p><strong>Type 2 — Condition irréelle (présent) :</strong></p><p><em>Se</em> + <strong>Imperfeito do Conjuntivo</strong> → <strong>Condicional / Imperfeito do Indicativo</strong></p><ul><li><em>Se eu <strong>tivesse</strong> tempo, <strong>iria</strong> ao museu.</em> (Si j'avais le temps, j'irais au musée.)</li><li><em>Se eu <strong>pudesse</strong>, <strong>fazia</strong> diferente.</em> (Si je pouvais, je ferais différemment.) — oral PT-PT</li></ul><p><strong>Type 3 — Condition irréelle (passé) :</strong></p><p><em>Se</em> + <strong>Mais-que-perfeito do Conjuntivo</strong> → <strong>Condicional Composto</strong></p><ul><li><em>Se eu <strong>tivesse tido</strong> tempo, <strong>teria ido</strong> ao museu.</em> (Si j'avais eu le temps, je serais allé au musée.)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Variantes orales en portugais européen",
+      "content": "<p>À l'oral, les Portugais simplifient souvent les types 2 et 3 :</p><p><strong>Type 2 — oral :</strong> Le conditionnel est remplacé par l'<strong>Imperfeito do Indicativo</strong> :</p><ul><li>Standard : <em>Se pudesse, <strong>faria</strong> isso.</em></li><li>Oral PT-PT : <em>Se pudesse, <strong>fazia</strong> isso.</em></li></ul><p><strong>Type 3 — oral :</strong> Le conditionnel composé est remplacé par le <strong>Mais-que-perfeito composto do Indicativo</strong> :</p><ul><li>Standard : <em>Se tivesse sabido, <strong>teria vindo</strong>.</em></li><li>Oral PT-PT : <em>Se tivesse sabido, <strong>tinha vindo</strong>.</em></li></ul><p>Les deux formes sont acceptées, mais la forme standard est préférable à l'écrit.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Combinaisons avancées",
+      "content": "<p>Des structures plus complexes :</p><ul><li><strong>Condition mixte</strong> (passé → conséquence présente) : <em>Se eu <strong>tivesse estudado</strong> medicina, agora <strong>era</strong> médico.</em> (Si j'avais étudié la médecine, maintenant je serais médecin.)</li><li><strong>Double condition</strong> : <em>Se <strong>tivesse</strong> mais dinheiro e se <strong>pudesse</strong> tirar férias, ia para os Açores.</em> (Si j'avais plus d'argent et si je pouvais prendre des vacances, j'irais aux Açores.)</li><li><strong>Avec « caso »</strong> (= se) : <em>Caso <strong>precisem</strong> de ajuda, digam-me.</em> (Au cas où vous auriez besoin d'aide, dites-le-moi.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Créer des scénarios hypothétiques",
+      "content": "<p>Pratiquez en construisant des scénarios :</p><ul><li><em>Se eu <strong>fosse</strong> rico, <strong>comprava</strong> uma casa no Alentejo e <strong>passava</strong> lá os verões.</em></li><li><em>Se nós <strong>tivéssemos viajado</strong> de comboio, <strong>teríamos chegado</strong> mais cedo e não <strong>teríamos perdido</strong> o concerto.</em></li><li><em>Se <strong>puderes</strong> vir amanhã, <strong>vamos</strong> almoçar juntos ao mercado.</em></li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel type de condition est : 'Se eu tiver tempo, vou ao cinema' ?",
+      "correctAnswer": "Condition réelle (futur possible)",
+      "distractors": [
+        "Condition irréelle au présent",
+        "Condition irréelle au passé",
+        "Condition mixte"
+      ],
+      "explanation": "'Se' + subjonctif futur (tiver) → indicatif présent/futur (vou) = condition réelle, future, possible."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Se eu ________ (poder), viajava pelo mundo inteiro.",
+      "correctAnswer": "pudesse",
+      "explanation": "Condition irréelle au présent : 'se' + subjonctif imparfait. PODER → pudesse."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Si nous avions pris le train, nous serions arrivés à l'heure.",
+      "correctAnswer": "Se tivéssemos apanhado o comboio, teríamos chegado a horas.",
+      "explanation": "Condition irréelle passée : 'se' + plus-que-parfait du subjonctif → conditionnel composé. 'A horas' = à l'heure en PT-PT."
+    },
+    {
+      "type": "mcq",
+      "prompt": "En portugais européen oral, comment dit-on souvent 'Se pudesse, faria isso' ?",
+      "correctAnswer": "Se pudesse, fazia isso.",
+      "distractors": [
+        "Se podia, faria isso.",
+        "Se pudesse, fiz isso.",
+        "Se pudesse, fará isso."
+      ],
+      "explanation": "À l'oral en PT-PT, le conditionnel (faria) est souvent remplacé par l'Imperfeito do Indicativo (fazia)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Se eles ________ (saber) a verdade, não teriam reagido assim.",
+      "correctAnswer": "tivessem sabido",
+      "explanation": "Condition irréelle passée : 'se' + mais-que-parfait du subjonctif (tivessem sabido)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "condição", "phonetic": "/kõdiˈsɐ̃w̃/", "french": "condition"},
+    {"portuguese": "hipótese", "phonetic": "/iˈpɔtɨzɨ/", "french": "hypothèse"},
+    {"portuguese": "caso", "phonetic": "/ˈkazu/", "french": "au cas où / en cas de"},
+    {"portuguese": "senão", "phonetic": "/sɨˈnɐ̃w̃/", "french": "sinon"},
+    {"portuguese": "de outra forma", "phonetic": "/dɨ ˈowtɾɐ ˈfɔɾmɐ/", "french": "autrement"},
+    {"portuguese": "por outro lado", "phonetic": "/puɾ ˈowtɾu ˈladu/", "french": "d'un autre côté"},
+    {"portuguese": "tirar férias", "phonetic": "/tiˈɾaɾ ˈfɛɾiɐʃ/", "french": "prendre des vacances"},
+    {"portuguese": "almoçar", "phonetic": "/aɫmuˈsaɾ/", "french": "déjeuner"},
+    {"portuguese": "a horas", "phonetic": "/ɐ ˈɔɾɐʃ/", "french": "à l'heure (PT-PT)"},
+    {"portuguese": "apanhar", "phonetic": "/ɐpɐˈɲaɾ/", "french": "prendre / attraper (PT-PT)"}
+  ]
+}

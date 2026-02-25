@@ -1,0 +1,84 @@
+{
+  "id": "b2-m6-l05",
+  "title": "L'Accord orthographique de 1990",
+  "type": "cultural",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Comprendre l'origine et les objectifs de l'Accord orthographique de 1990",
+    "Connaître les principaux changements orthographiques",
+    "Comprendre la polémique autour de cet accord au Portugal"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Unifier l'orthographe du portugais ?",
+      "content": "<p>L'<strong>Acordo Ortográfico de 1990</strong> (AO90) est un traité international visant à <strong>unifier l'orthographe</strong> du portugais entre tous les pays lusophones. Signé en 1990, il n'est entré en vigueur au Portugal qu'en <strong>2009</strong>, et reste l'un des sujets les plus <strong>polémiques</strong> de la vie culturelle portugaise.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les principaux changements",
+      "content": "<p><strong>1. Suppression des consonnes muettes :</strong></p><table><tr><th>Avant (PT-PT ancien)</th><th>Après (AO90)</th></tr><tr><td><em>acção</em></td><td><em><strong>ação</strong></em></td></tr><tr><td><em>direcção</em></td><td><em><strong>direção</strong></em></td></tr><tr><td><em>óptimo</em></td><td><em><strong>ótimo</strong></em></td></tr><tr><td><em>adopção</em></td><td><em><strong>adoção</strong></em></td></tr><tr><td><em>baptismo</em></td><td><em><strong>batismo</strong></em></td></tr></table><p><strong>2. Suppression de l'accent dans certains mots :</strong></p><ul><li><em>pára</em> (verbe parar) → <em><strong>para</strong></em> (identique à la préposition)</li><li><em>pólo</em> → <em><strong>polo</strong></em></li></ul><p><strong>3. Usage du trait d'union :</strong> simplification des règles (certains mots composés perdent le tiret).</p><p><strong>4. Majuscules :</strong> les mois et jours de la semaine restent en minuscules en PT (contrairement à l'anglais).</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "La polémique",
+      "content": "<p><strong>Arguments en faveur :</strong></p><ul><li>Uniformisation entre les pays lusophones</li><li>Facilite les échanges culturels et commerciaux</li><li>Le portugais se rapproche du standard international</li></ul><p><strong>Arguments contre :</strong></p><ul><li>Perte de l'identité orthographique portugaise</li><li>Les consonnes muettes ne sont pas muettes en PT-PT (ex : <em>facto</em> → le 'c' se prononce !)</li><li>L'accord bénéficie surtout au Brésil (moins de changements pour le PT-BR)</li><li>Confusion entre mots : <em>para</em> (préposition) et <em>para</em> (verbe parar) ne se distinguent plus</li></ul><p><strong>Situation actuelle :</strong> L'accord est officiellement en vigueur, mais beaucoup de Portugais continuent à écrire selon l'ancienne orthographe. Certains journaux et éditeurs résistent.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Reconnaître les formes",
+      "content": "<p>Indiquez si ces mots sont en orthographe pré-AO90 ou post-AO90 :</p><ol><li><em>ação</em> → <strong>Post-AO90</strong> (ancien : acção)</li><li><em>óptimo</em> → <strong>Pré-AO90</strong> (nouveau : ótimo)</li><li><em>direção</em> → <strong>Post-AO90</strong> (ancien : direcção)</li><li><em>baptismo</em> → <strong>Pré-AO90</strong> (nouveau : batismo)</li><li><em>facto</em> → <strong>Inchangé !</strong> Le 'c' se prononce en PT-PT, donc il est conservé.</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Donner son avis",
+      "content": "<p>Rédigez en portugais (60-80 mots) votre opinion :</p><p><em>Na sua opinião, é uma boa ideia unificar a ortografia do português? Porquê?</em></p><p>Structures utiles : <em>Parece-me que...</em>, <em>Por um lado... por outro lado...</em>, <em>Compreendo os argumentos... no entanto...</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment s'écrit 'action' en portugais après l'AO90 ?",
+      "correctAnswer": "ação",
+      "distractors": ["acção", "açção", "assão"],
+      "explanation": "Après l'AO90, les consonnes muettes sont supprimées : acção → ação. Le 'c' muet disparaît."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "L'Accord orthographique a été signé en 1990 mais n'est entré en vigueur au Portugal qu'en ________.",
+      "correctAnswer": "2009",
+      "explanation": "Bien que signé en 1990, l'AO90 n'est devenu obligatoire au Portugal qu'en 2009 (et progressivement appliqué)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Le mot 'facto' garde le 'c' car il se prononce en portugais européen.",
+      "correctAnswer": "A palavra 'facto' mantém o 'c' porque se pronuncia em português europeu.",
+      "explanation": "'Manter' = maintenir/garder. 'Porque se pronuncia' = car il se prononce. 'Facto' est un exemple clé de la différence PT-PT vs PT-BR."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Pourquoi certains Portugais s'opposent-ils à l'AO90 ?",
+      "correctAnswer": "Ils considèrent que certaines consonnes ne sont pas muettes en PT-PT",
+      "distractors": ["Parce que l'accord est trop ancien", "Parce qu'il rend le portugais plus difficile", "Parce qu'il n'a jamais été signé"],
+      "explanation": "L'argument principal est que des consonnes supprimées comme 'muettes' se prononcent en PT-PT (ex : facto, ótimo/óptimo)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Avant l'AO90, 'excellent' s'écrivait ________ en PT-PT.",
+      "correctAnswer": "óptimo",
+      "explanation": "Pré-AO90 : 'óptimo' (avec le 'p'). Post-AO90 : 'ótimo'. Le 'p' est considéré comme muet."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "acordo ortográfico", "phonetic": "/ɐˈkoɾdu oɾtuˈɡɾafiku/", "french": "accord orthographique"},
+    {"portuguese": "ortografia", "phonetic": "/oɾtuɡɾɐˈfiɐ/", "french": "orthographe"},
+    {"portuguese": "consoante muda", "phonetic": "/kõsuˈɐ̃tɨ ˈmudɐ/", "french": "consonne muette"},
+    {"portuguese": "uniformização", "phonetic": "/uniformizɐˈsɐ̃w̃/", "french": "uniformisation"},
+    {"portuguese": "polémica", "phonetic": "/puˈlɛmikɐ/", "french": "polémique (PT-PT)"},
+    {"portuguese": "entrar em vigor", "phonetic": "/ẽˈtɾaɾ ẽ viˈɡoɾ/", "french": "entrer en vigueur"},
+    {"portuguese": "facto", "phonetic": "/ˈfaktu/", "french": "fait (PT-PT, le 'c' se prononce)"},
+    {"portuguese": "ação", "phonetic": "/ɐˈsɐ̃w̃/", "french": "action (post-AO90)"},
+    {"portuguese": "direção", "phonetic": "/diɾɨˈsɐ̃w̃/", "french": "direction (post-AO90)"},
+    {"portuguese": "identidade", "phonetic": "/idẽtiˈdadɨ/", "french": "identité"}
+  ]
+}

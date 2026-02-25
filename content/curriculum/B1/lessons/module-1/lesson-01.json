@@ -1,0 +1,67 @@
+{
+  "id": "b1-m1-l01",
+  "title": "Le Pretérito Imperfeito",
+  "type": "grammar",
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Conjuguer les verbes réguliers à l'imparfait (Pretérito Imperfeito)",
+    "Décrire des habitudes passées et des souvenirs d'enfance",
+    "Faire le contraste entre le Perfeito Simples et l'Imperfeito"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Habitudes et souvenirs",
+      "content": "<p>Pour parler du passé sans point final précis, décrire une situation, des habitudes ou des souvenirs d'enfance, on utilise le <strong>Pretérito Imperfeito</strong>. C'est l'équivalent de l'imparfait français.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Verbes réguliers à l'imparfait",
+      "content": "<table><thead><tr><th>Personne</th><th>-AR (Cantar)</th><th>-ER (Beber)</th><th>-IR (Partir)</th></tr></thead><tbody><tr><td>Eu</td><td>cantava</td><td>bebia</td><td>partia</td></tr><tr><td>Tu</td><td>cantavas</td><td>bebias</td><td>partias</td></tr><tr><td>Ele/Ela/Você</td><td>cantava</td><td>bebia</td><td>partia</td></tr><tr><td>Nós</td><td>cantávamos</td><td>bebíamos</td><td>partíamos</td></tr><tr><td>Eles/Elas/Vocês</td><td>cantavam</td><td>bebiam</td><td>partiam</td></tr></tbody></table><p>Notez que la 1ère et la 3ème personnes du singulier sont identiques.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Verbes irréguliers essentiels",
+      "content": "<p>L'imparfait n'a que quatre verbes réellement irréguliers :</p><ul><li><strong>Ser</strong> : <em>era, eras, era, éramos, eram</em></li><li><strong>Ter</strong> : <em>tinha, tinhas, tinha, tínhamos, tinham</em></li><li><strong>Ir</strong> : <em>ia, ias, ia, íamos, iam</em></li><li><strong>Vir</strong> (venir) : <em>vinha, vinhas, vinha, vínhamos, vinham</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "L'imparfait de courtoisie",
+      "content": "<p>En portugais européen, l'imparfait est aussi utilisé pour demander poliment quelque chose (plus que le conditionnel) :</p><ul><li><em>Eu <strong>queria</strong> um café, por favor.</em> (Je voudrais un café, s'il vous plaît.)</li><li><em><strong>Podia</strong> dar-me licença?</em> (Pourriez-vous me laisser passer ?)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Quand j'étais petit...",
+      "content": "<p>Utilisez l'imparfait pour décrire votre enfance :</p><ul><li><em>Quando eu <strong>era</strong> criança, <strong>ia</strong> à praia todos os Verões.</em> (Quand j'étais enfant, j'allais à la plage tous les étés.)</li><li><em><strong>Tínhamos</strong> um cão chamado Bobby.</em> (Nous avions un chien nommé Bobby.)</li><li><em>Antigamente, as pessoas <strong>falavam</strong> mais umas com as outras.</em> (Autrefois, les gens parlaient plus entre eux.)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Quando eu era pequeno, ________ (ter) medo do escuro.",
+      "correctAnswer": "tinha",
+      "explanation": "Le verbe TER à l'imparfait pour la première personne est 'tinha'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Nous étions' (verbe SER) ?",
+      "correctAnswer": "Éramos",
+      "distractors": [
+        "Fomos",
+        "Eramos",
+        "Émos"
+      ],
+      "explanation": "Le verbe SER à l'imparfait à la première personne du pluriel est 'éramos' avec un accent sur le E."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "antigamente",
+      "french": "autrefois"
+    },
+    {
+      "portuguese": "infância",
+      "french": "enfance"
+    }
+  ]
+}

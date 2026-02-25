@@ -1,0 +1,102 @@
+{
+  "exercises": [
+    {
+      "id": "l-a2-01",
+      "title": "Au guichet de la gare",
+      "type": "mcq",
+      "text": "Bom dia, queria um bilhete para o Porto, por favor. Ida e volta ou só ida? Ida e volta, para o comboio das catorze e trinta. São quinze euros e vinte cêntimos. Pode pagar com multibanco?",
+      "question": "Quel moyen de transport va prendre cette personne ?",
+      "options": ["L'autobus", "Le train", "L'avion", "Le métro"],
+      "correctAnswer": 1,
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-02",
+      "title": "Chez le médecin",
+      "type": "mcq",
+      "text": "Doutor, dói-me muito a cabeça e tenho febre desde ontem. Tem tomado algum medicamento? Sim, tomei um paracetamol esta manhã, mas não melhorou. Vou receitar-lhe um anti-inflamatório. Tome um comprimido de oito em oito horas.",
+      "question": "Que prescrit le médecin ?",
+      "options": ["Du paracétamol", "Un anti-inflammatoire", "Un antibiotique", "Du repos"],
+      "correctAnswer": 1,
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-03",
+      "title": "Chercher un appartement",
+      "type": "true_false",
+      "text": "Estou a procurar um apartamento T2 em Lisboa. Tenho um orçamento de seiscentos euros por mês. Prefiro uma zona com bons transportes públicos. O apartamento tem de ter cozinha equipada.",
+      "question": "La personne cherche un appartement avec 3 chambres.",
+      "correctAnswer": false,
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-04",
+      "title": "Raconter ses vacances",
+      "type": "mcq",
+      "text": "No verão passado, fui ao Algarve com a minha família. Ficámos num hotel perto da praia durante uma semana. O tempo esteve sempre bom e comemos muitos peixes grelhados. As crianças adoraram brincar na areia.",
+      "question": "Combien de temps ont-ils passé en Algarve ?",
+      "options": ["Un week-end", "Trois jours", "Une semaine", "Deux semaines"],
+      "correctAnswer": 2,
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-05",
+      "title": "Les transports de Lisbonne",
+      "type": "fill_blank",
+      "text": "Para andar em Lisboa, pode usar o metro, o autocarro ou o famoso elétrico vinte e oito. O passe mensal da Navegante custa quarenta euros e dá acesso a todos os transportes públicos da cidade.",
+      "question": "Le passe mensuel Navegante coûte ___ euros.",
+      "correctAnswer": "quarenta",
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-06",
+      "title": "Une recette de cuisine",
+      "type": "mcq",
+      "text": "Para fazer pastéis de nata, precisa de massa folhada, ovos, açúcar, farinha, leite e canela. Primeiro, aqueça o forno a duzentos e vinte graus. Depois, forre as forminhas com a massa. Misture os ingredientes e deite nas forminhas. Leve ao forno durante quinze minutos.",
+      "question": "Quelle est la température du four ?",
+      "options": ["180 degrés", "200 degrés", "220 degrés", "250 degrés"],
+      "correctAnswer": 2,
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-07",
+      "title": "Au bureau de poste",
+      "type": "true_false",
+      "text": "Queria enviar esta encomenda para França. Quanto pesa? Dois quilos e meio. Quer envio normal ou urgente? Urgente, por favor. São doze euros e cinquenta. Chega em três dias úteis.",
+      "question": "Le colis arrivera en une semaine.",
+      "correctAnswer": false,
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-08",
+      "title": "Bulletin météo",
+      "type": "mcq",
+      "text": "A previsão para amanhã: céu nublado com períodos de chuva no norte e centro do país. No sul, tempo mais seco com temperaturas a rondar os vinte e dois graus. Vento fraco a moderado. Possibilidade de trovoada no final do dia na região de Lisboa.",
+      "question": "Quel temps fait-il dans le sud ?",
+      "options": ["Pluie forte", "Temps plus sec", "Neige", "Brouillard"],
+      "correctAnswer": 1,
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-09",
+      "title": "Appel téléphonique",
+      "type": "fill_blank",
+      "text": "Estou? Bom dia, é da clínica dentária. Ligo para confirmar a sua consulta de amanhã, quarta-feira, às dez e meia. Pode confirmar? Sim, confirmo. É na Rua Augusta, número trinta e cinco, certo? Exatamente. Até amanhã.",
+      "question": "Le rendez-vous est prévu à ___ heures et demie.",
+      "correctAnswer": "dez",
+      "level": "A2"
+    },
+    {
+      "id": "l-a2-10",
+      "title": "Visite guidée de Sintra",
+      "type": "dictation",
+      "sentences": [
+        "Sintra é uma vila histórica perto de Lisboa.",
+        "O Palácio da Pena foi construído no século dezanove.",
+        "A vista do castelo é magnífica.",
+        "Recomendo provar os travesseiros de Sintra."
+      ],
+      "level": "A2"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "exercises": [
+    {
+      "id": "listen-a1-1",
+      "type": "mcq",
+      "title": "Au café",
+      "text": "Bom dia! Queria um café e um pastel de nata, por favor.",
+      "question": "Que veut commander cette personne ?",
+      "options": [
+        "Un café et un pastel de nata",
+        "Un thé et un gâteau",
+        "Deux cafés",
+        "Un jus d'orange"
+      ],
+      "correctAnswer": 0,
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-2",
+      "type": "mcq",
+      "title": "Présentations",
+      "text": "Olá, eu chamo-me Ana e sou de Coimbra. Tenho vinte e três anos.",
+      "question": "D'où vient Ana ?",
+      "options": [
+        "De Lisbonne",
+        "De Porto",
+        "De Coimbra",
+        "De Faro"
+      ],
+      "correctAnswer": 2,
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-3",
+      "type": "true_false",
+      "title": "À la gare",
+      "text": "O próximo comboio para o Porto parte às catorze e trinta.",
+      "question": "Le prochain train pour Porto part à 14h30.",
+      "correctAnswer": true,
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-4",
+      "type": "true_false",
+      "title": "La météo",
+      "text": "Hoje está sol em Lisboa, mas amanhã vai chover.",
+      "question": "Il pleut aujourd'hui à Lisbonne.",
+      "correctAnswer": false,
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-5",
+      "type": "fill_blank",
+      "title": "Au restaurant",
+      "text": "Boa noite. Uma mesa para duas pessoas, por favor.",
+      "question": "Complétez : Uma mesa para ___ pessoas.",
+      "correctAnswer": "duas",
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-6",
+      "type": "dictation",
+      "title": "Dictée — Salutations",
+      "sentences": [
+        "Bom dia.",
+        "Como está?",
+        "Estou bem, obrigado."
+      ],
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-7",
+      "type": "dictation",
+      "title": "Dictée — Au marché",
+      "sentences": [
+        "Quero um quilo de laranjas.",
+        "Quanto custa?",
+        "São dois euros."
+      ],
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-8",
+      "type": "mcq",
+      "title": "Les directions",
+      "text": "A farmácia fica à direita, ao lado do supermercado.",
+      "question": "Où se trouve la pharmacie ?",
+      "options": [
+        "À gauche du supermarché",
+        "À droite, à côté du supermarché",
+        "En face du supermarché",
+        "Derrière le supermarché"
+      ],
+      "correctAnswer": 1,
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-9",
+      "type": "mcq",
+      "title": "L'heure",
+      "text": "Que horas são? São dez e um quarto da manhã.",
+      "question": "Quelle heure est-il ?",
+      "options": [
+        "10h00",
+        "10h15",
+        "10h30",
+        "10h45"
+      ],
+      "correctAnswer": 1,
+      "level": "A1"
+    },
+    {
+      "id": "listen-a1-10",
+      "type": "fill_blank",
+      "title": "La famille",
+      "text": "A minha mãe chama-se Maria e o meu pai chama-se António.",
+      "question": "Complétez : O meu ___ chama-se António.",
+      "correctAnswer": "pai",
+      "level": "A1"
+    }
+  ]
+}

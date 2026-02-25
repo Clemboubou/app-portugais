@@ -1,0 +1,84 @@
+{
+  "id": "b2-m4-l01",
+  "title": "Fernando Pessoa et les hétéronymes",
+  "type": "cultural",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Découvrir Fernando Pessoa et le concept unique des hétéronymes",
+    "Distinguer les styles de Campos, Reis et Caeiro",
+    "Comprendre l'importance de Pessoa dans la culture portugaise"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Fernando Pessoa : le poète aux multiples voix",
+      "content": "<p><strong>Fernando Pessoa</strong> (1888-1935) est le plus grand poète portugais du XXᵉ siècle. Sa particularité unique dans l'histoire de la littérature mondiale : il a créé des <strong>hétéronymes</strong> — des personnalités littéraires complètes, avec leur biographie, leur style et leur philosophie propres.</p><p>Ce ne sont pas de simples pseudonymes : chaque hétéronyme écrit différemment, pense différemment, vit différemment.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les trois grands hétéronymes",
+      "content": "<p><strong>1. Álvaro de Campos</strong> — le futuriste passionné</p><p>Ingénieur naval, influencé par le futurisme. Style intense, excessif, parfois angoissé.</p><p><em>«Sentir tudo de todas as maneiras, / Viver tudo de todos os lados.»</em><br/>(Ressentir tout de toutes les manières, / Vivre tout de tous les côtés.)</p><p><strong>2. Ricardo Reis</strong> — le classique stoïcien</p><p>Médecin, latiniste, influencé par Horace. Style mesuré, formel, odes classiques.</p><p><em>«Para ser grande, sê inteiro: nada / Teu exagera ou exclui.»</em><br/>(Pour être grand, sois entier : rien / De toi n'exagère ou n'exclut.)</p><p><strong>3. Alberto Caeiro</strong> — le maître pastoral</p><p>Homme simple, sans éducation formelle. Poésie de la nature, du regard direct. Considéré comme le « maître » des autres.</p><p><em>«O meu olhar é nítido como um girassol.»</em><br/>(Mon regard est clair comme un tournesol.)</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Pessoa lui-même (ortónimo) et l'héritage",
+      "content": "<p>Sous son propre nom, Pessoa écrivait aussi, notamment le célèbre <em><strong>Mensagem</strong></em> (Message, 1934), seul livre publié de son vivant en portugais — un recueil de poèmes sur l'histoire du Portugal et le <em>sebastianismo</em>.</p><p><strong>Le Livro do Desassossego</strong> (Livre de l'intranquillité), attribué au semi-hétéronyme <strong>Bernardo Soares</strong>, est un journal intime fragmentaire considéré comme un chef-d'œuvre de la prose moderne.</p><p><strong>Pessoa dans la culture portugaise aujourd'hui :</strong></p><ul><li>Sa statue est devant le café <em>A Brasileira</em> dans le Chiado, à Lisbonne</li><li>Son visage figure sur les billets et les timbres</li><li>Le prix littéraire <em>Prémio Pessoa</em> est le plus prestigieux du Portugal</li><li>La Casa Fernando Pessoa est un musée-bibliothèque à Lisbonne</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Identifier les hétéronymes",
+      "content": "<p>À quel hétéronyme correspond chaque extrait ?</p><ol><li><em>«Não me importa a mim que o mundo não tenha sentido. Tenho eu sentido?»</em> → <strong>Álvaro de Campos</strong> (angoisse existentielle, ton interrogatif)</li><li><em>«Colho o dia de hoje e sou contente.»</em> → <strong>Ricardo Reis</strong> (carpe diem, stoïcisme)</li><li><em>«Eu não tenho filosofia: tenho sentidos.»</em> → <strong>Alberto Caeiro</strong> (rejet de la pensée abstraite, sensorialité)</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Réflexion et expression",
+      "content": "<p>Répondez en portugais (5-8 phrases) à l'une de ces questions :</p><ol><li><em>Qual dos três heterónimos prefere? Porquê?</em> (Quel hétéronyme préférez-vous ? Pourquoi ?)</li><li><em>Porque é que Pessoa criou heterónimos em vez de usar pseudónimos?</em> (Pourquoi Pessoa a-t-il créé des hétéronymes plutôt que des pseudonymes ?)</li></ol><p>Utilisez des structures comme : <em>Na minha opinião...</em>, <em>Parece-me que...</em>, <em>O que mais me impressiona é...</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel hétéronyme de Pessoa est considéré comme le « maître » des autres ?",
+      "correctAnswer": "Alberto Caeiro",
+      "distractors": ["Álvaro de Campos", "Ricardo Reis", "Bernardo Soares"],
+      "explanation": "Alberto Caeiro est considéré comme le maître (o mestre) des autres hétéronymes. Sa poésie du regard direct et simple a influencé les autres."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O único livro de poesia publicado por Pessoa em vida, em português, foi ________.",
+      "correctAnswer": "Mensagem",
+      "explanation": "'Mensagem' (1934) est le seul recueil de poésie en portugais publié du vivant de Pessoa."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Pour être grand, sois entier.",
+      "correctAnswer": "Para ser grande, sê inteiro.",
+      "explanation": "Vers célèbre de Ricardo Reis. 'Sê' est l'impératif de SER (2ᵉ personne du singulier, forme PT-PT)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Où se trouve la célèbre statue de Fernando Pessoa à Lisbonne ?",
+      "correctAnswer": "Devant le café A Brasileira, dans le Chiado",
+      "distractors": ["À la gare de Santa Apolónia", "Dans le parc Eduardo VII", "Sur la place du Commerce"],
+      "explanation": "La statue en bronze de Pessoa est assise à une table devant le café A Brasileira, dans le quartier du Chiado."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O Livro do Desassossego é atribuído ao semi-heterónimo ________.",
+      "correctAnswer": "Bernardo Soares",
+      "explanation": "Bernardo Soares est un semi-hétéronyme (une version altérée de Pessoa lui-même), auteur du 'Livro do Desassossego'."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "heterónimo", "phonetic": "/ɛtɨˈɾɔnimu/", "french": "hétéronyme"},
+    {"portuguese": "ortónimo", "phonetic": "/oɾˈtɔnimu/", "french": "orthonyme (nom propre de l'auteur)"},
+    {"portuguese": "girassol", "phonetic": "/ʒiɾɐˈsɔl/", "french": "tournesol"},
+    {"portuguese": "desassossego", "phonetic": "/dɨzɐsuˈseɡu/", "french": "intranquillité / inquiétude"},
+    {"portuguese": "ode", "phonetic": "/ˈɔdɨ/", "french": "ode (poème)"},
+    {"portuguese": "futurismo", "phonetic": "/futuˈɾiʒmu/", "french": "futurisme"},
+    {"portuguese": "sebastianismo", "phonetic": "/sɨbɐʃtiɐˈniʒmu/", "french": "sébastianisme (mythe du retour du roi)"},
+    {"portuguese": "recueil", "phonetic": "/ʁɨˈkɔʎɐ/", "french": "recueil"},
+    {"portuguese": "prosa", "phonetic": "/ˈpɾɔzɐ/", "french": "prose"},
+    {"portuguese": "poesia", "phonetic": "/puɨˈziɐ/", "french": "poésie"}
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "idioms": [
+    {
+      "id": "idiom-a2-001",
+      "level": "A2",
+      "portuguese": "meter a colher",
+      "french": "mettre sa cuillère dans le plat",
+      "english": "to stick your nose in",
+      "meaning": "Intervenir de manière inappropriée ou intrusive",
+      "example": "Não metes a colher na vida dos outros!",
+      "context": "Informel, légèrement péjoratif"
+    },
+    {
+      "id": "idiom-a2-002",
+      "level": "A2",
+      "portuguese": "estar com fome",
+      "french": "avoir faim",
+      "english": "to be hungry",
+      "meaning": "Avoir faim (littéral et figuré)",
+      "example": "Estou com fome de aventura.",
+      "context": "Très courant"
+    },
+    {
+      "id": "idiom-b1-001",
+      "level": "B1",
+      "portuguese": "dar o braço a torcer",
+      "french": "céder / reconnaître son erreur",
+      "english": "to give in / admit defeat",
+      "meaning": "Reconnaître son erreur ou céder dans une discussion",
+      "example": "Ele nunca dá o braço a torcer.",
+      "context": "Formel et informel"
+    },
+    {
+      "id": "idiom-b1-002",
+      "level": "B1",
+      "portuguese": "dar com o nariz na porta",
+      "french": "se heurter à un obstacle",
+      "english": "to hit a brick wall",
+      "meaning": "Trouver porte close, échouer au dernier moment",
+      "example": "Fui pedir um empréstimo e dei com o nariz na porta.",
+      "context": "Informel, légèrement comique"
+    },
+    {
+      "id": "idiom-b1-003",
+      "level": "B1",
+      "portuguese": "são muitos anos a virar frangos",
+      "french": "avoir beaucoup d'expérience",
+      "english": "he/she has been in the business for years",
+      "meaning": "Avoir longue expérience justifiant compétence",
+      "example": "Ele é médico há 30 anos. São muitos anos a virar frangos.",
+      "context": "Informel, légèrement sarcastique"
+    },
+    {
+      "id": "idiom-b1-004",
+      "level": "B1",
+      "portuguese": "estar com a soga ao pescoço",
+      "french": "être dans une situation précaire",
+      "english": "to be in a tight spot",
+      "meaning": "Être dans une situation difficile, piégé",
+      "example": "A empresa está com a soga ao pescoço financeiramente.",
+      "context": "Formel, sérieux"
+    },
+    {
+      "id": "idiom-b1-005",
+      "level": "B1",
+      "portuguese": "ir à luta",
+      "french": "se battre / se battre contre",
+      "english": "to fight / to struggle",
+      "meaning": "Affronter un défi ou un combat avec détermination",
+      "example": "Temos que ir à luta para conseguir justiça.",
+      "context": "Motivé, volonté de combattre"
+    },
+    {
+      "id": "idiom-b2-001",
+      "level": "B2",
+      "portuguese": "pôr a asa ao peito",
+      "french": "voler de ses propres ailes",
+      "english": "to fly on one's own",
+      "meaning": "Devenir indépendant",
+      "example": "Quando terminou a universidade, pôs a asa ao peito.",
+      "context": "Littéraire, tendre"
+    },
+    {
+      "id": "idiom-b2-002",
+      "level": "B2",
+      "portuguese": "bater com a porta na cara",
+      "french": "fermer la porte au nez de quelqu'un",
+      "english": "to slam the door in someone's face",
+      "meaning": "Rejeter quelqu'un rudement ou de manière inattendue",
+      "example": "Ela pediu ajuda e ele bateu-lhe com a porta na cara.",
+      "context": "Négatif, rejet"
+    },
+    {
+      "id": "idiom-b2-003",
+      "level": "B2",
+      "portuguese": "engolir em seco",
+      "french": "avaler ses paroles",
+      "english": "to swallow hard",
+      "meaning": "Accepter quelque chose de difficile ou désagréable",
+      "example": "Teve que engolir em seco a crítica do chefe.",
+      "context": "Émotionnel, acceptation"
+    },
+    {
+      "id": "idiom-b2-004",
+      "level": "B2",
+      "portuguese": "estar em coma",
+      "french": "être en hibernation / inactif",
+      "english": "to be in a coma",
+      "meaning": "Être inactive, en standby, sans action",
+      "example": "A economia está em coma.",
+      "context": "Critique, manque d'activité"
+    },
+    {
+      "id": "idiom-c1-001",
+      "level": "C1",
+      "portuguese": "valer o seu peso em ouro",
+      "french": "valoir son poids en or",
+      "english": "to be worth one's weight in gold",
+      "meaning": "Être extrêmement précieux ou utile",
+      "example": "Este collaborador vale o seu peso em ouro.",
+      "context": "Compliment, appréciation"
+    },
+    {
+      "id": "idiom-c1-002",
+      "level": "C1",
+      "portuguese": "estar com os pés na terra",
+      "french": "avoir les pieds sur terre",
+      "english": "to have one's feet on the ground",
+      "meaning": "Être réaliste et pragmatique",
+      "example": "Apesar de seus sonhos, está com os pés na terra.",
+      "context": "Positif, sagesse"
+    },
+    {
+      "id": "idiom-c1-003",
+      "level": "C1",
+      "portuguese": "mexer na férida",
+      "french": "rouvrir les plaies",
+      "english": "to reopen old wounds",
+      "meaning": "Rappeler une blessure émotionnelle ou un sujet douloureux",
+      "example": "Não mexas na férida. Isso aconteceu há anos.",
+      "context": "Avertissement, délicat"
+    },
+    {
+      "id": "idiom-c1-004",
+      "level": "C1",
+      "portuguese": "chover à cântaros",
+      "french": "pleuvoir des cordes",
+      "english": "to rain cats and dogs",
+      "meaning": "Pleuvoir très fort",
+      "example": "Estava a chover à cântaros quando saímos.",
+      "context": "Météo, informel"
+    },
+    {
+      "id": "idiom-c1-005",
+      "level": "C1",
+      "portuguese": "estar na berlinda",
+      "french": "être sur la sellette",
+      "english": "to be in the spotlight",
+      "meaning": "Être au centre de l'attention, particulièrement critique",
+      "example": "O governo está na berlinda após o escândalo.",
+      "context": "Politique, critique"
+    }
+  ]
+}

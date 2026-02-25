@@ -1,0 +1,147 @@
+{
+  "id": "a1-m1-l01",
+  "title": "L'alphabet portugais",
+  "type": "pronunciation",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Reconnaître et nommer les 26 lettres de l'alphabet portugais",
+    "Prononcer correctement les sons spécifiques au portugais européen : ç, nh, lh, ch, ã",
+    "Comprendre comment certaines lettres se prononcent différemment du français"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Bienvenue dans l'alphabet portugais",
+      "content": "<p>Le portugais européen utilise le même alphabet latin que le français, avec <strong>26 lettres</strong>. Cependant, certains sons sont très différents, et quelques combinaisons de lettres produisent des sons qui n'existent pas en français.</p><p>Bonne nouvelle : si vous connaissez le français, vous avez déjà une bonne base. Voyons ensemble les spécificités du portugais parlé à <strong>Lisbonne</strong>.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les 26 lettres et leur nom",
+      "content": "<p>Voici l'alphabet portugais avec le nom de chaque lettre tel qu'il se prononce en portugais européen :</p><table><thead><tr><th>Lettre</th><th>Nom (PT)</th><th>Approximation</th></tr></thead><tbody><tr><td>A a</td><td>á</td><td>comme « ah »</td></tr><tr><td>B b</td><td>bê</td><td>comme en français</td></tr><tr><td>C c</td><td>cê</td><td>« k » devant a, o, u ; « s » devant e, i</td></tr><tr><td>D d</td><td>dê</td><td>comme en français (jamais « dj »)</td></tr><tr><td>E e</td><td>é</td><td>peut être fermé [e], ouvert [ɛ], ou presque muet [ɨ]</td></tr><tr><td>F f</td><td>éfe</td><td>comme en français</td></tr><tr><td>G g</td><td>guê</td><td>« g » dur devant a, o, u ; « j » devant e, i</td></tr><tr><td>H h</td><td>agá</td><td>toujours muet</td></tr><tr><td>I i</td><td>i</td><td>comme en français</td></tr><tr><td>J j</td><td>jota</td><td>comme le « j » français</td></tr><tr><td>K k</td><td>capa</td><td>comme en français (mots étrangers)</td></tr><tr><td>L l</td><td>éle</td><td>comme en français</td></tr><tr><td>M m</td><td>ême</td><td>comme en français</td></tr><tr><td>N n</td><td>ène</td><td>comme en français</td></tr><tr><td>O o</td><td>ó</td><td>peut être fermé [o] ou ouvert [ɔ]</td></tr><tr><td>P p</td><td>pê</td><td>comme en français (non aspiré)</td></tr><tr><td>Q q</td><td>quê</td><td>toujours suivi de u + voyelle</td></tr><tr><td>R r</td><td>érre</td><td>roulé en début de mot ou « r » simple entre voyelles</td></tr><tr><td>S s</td><td>ésse</td><td>« s » ou « z » selon la position</td></tr><tr><td>T t</td><td>tê</td><td>comme en français (jamais « tch »)</td></tr><tr><td>U u</td><td>u</td><td>comme en français</td></tr><tr><td>V v</td><td>vê</td><td>comme en français</td></tr><tr><td>W w</td><td>dáblio</td><td>mots étrangers uniquement</td></tr><tr><td>X x</td><td>chis</td><td>peut sonner « ch », « s », « z » ou « ks »</td></tr><tr><td>Y y</td><td>ípsilon</td><td>mots étrangers uniquement</td></tr><tr><td>Z z</td><td>zê</td><td>comme en français</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les sons spécifiques au portugais européen",
+      "content": "<p>Ces combinaisons et lettres sont propres au portugais et méritent une attention particulière :</p><h3>1. Le Ç (cê cedilha)</h3><p>Exactement comme en français : toujours le son <strong>[s]</strong>.<br>Exemples : <em>França</em> [frɐ̃sɐ] = France, <em>açúcar</em> [ɐˈsukɐr] = sucre</p><h3>2. Le digraphe NH</h3><p>Se prononce comme le « gn » français dans « montagne » : son <strong>[ɲ]</strong>.<br>Exemples : <em>manhã</em> [mɐˈɲɐ̃] = matin, <em>inho</em> [ˈiɲu] = suffixe diminutif</p><h3>3. Le digraphe LH</h3><p>Se prononce comme le « ll » espagnol ou le « gli » italien : son <strong>[ʎ]</strong>. Proche du « lh » mouillé.<br>Exemples : <em>filho</em> [ˈfiʎu] = fils, <em>trabalho</em> [trɐˈbaʎu] = travail</p><h3>4. Le digraphe CH</h3><p>En portugais européen, <strong>ch</strong> se prononce <strong>[ʃ]</strong>, comme le « ch » français dans « chat ».<br>Exemples : <em>chá</em> [ʃa] = thé, <em>chave</em> [ˈʃavɨ] = clé</p><h3>5. Le tilde Ã / ÃO</h3><p>La voyelle nasale <strong>ã</strong> [ɐ̃] n'existe pas en français. Elle ressemble au « an » français mais sans fermer la bouche. <strong>ão</strong> [ɐ̃w̃] est encore plus particulier : c'est une voyelle nasale diphtongue.<br>Exemples : <em>irmã</em> [irˈmɐ̃] = sœur, <em>pão</em> [pɐ̃w̃] = pain, <em>não</em> [nɐ̃w̃] = non</p><h3>6. Le E « muet » portugais</h3><p>En portugais européen (contrairement au brésilien), le <strong>e</strong> en fin de syllabe non accentuée devient presque muet : le son <strong>[ɨ]</strong>, comme un « e » très réduit.<br>Exemple : <em>tarde</em> se prononce [ˈtardɨ], pas [tarde]</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Le R portugais",
+      "content": "<p>Le <strong>R</strong> est un son crucial à maîtriser :</p><ul><li><strong>En début de mot ou après N/L/S</strong> : r roulé uvulaire, fort, proche du « r » allemand ou du « rr » espagnol. Ex : <em>rua</em> [ˈʁuɐ] = rue</li><li><strong>Entre deux voyelles</strong> : r simple, doux, proche du « r » anglais ou espagnol simple. Ex : <em>caro</em> [ˈkaɾu] = cher</li><li><strong>Double RR</strong> : toujours roulé fort. Ex : <em>carro</em> [ˈkaʁu] = voiture</li></ul><p>Attention : en portugais européen, le R final de mot est souvent <strong>peu prononcé</strong> voire muet dans le registre courant. Ex : <em>falar</em> (parler) sonne souvent [fɐˈla] à Lisbonne.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Entraînez-vous !",
+      "content": "<p>Lisez ces mots à voix haute en appliquant les règles apprises. Concentrez-vous sur les sons spécifiques :</p><ul><li><strong>manhã</strong> [mɐˈɲɐ̃] — le NH et le ã nasale</li><li><strong>filho</strong> [ˈfiʎu] — le LH mouillé</li><li><strong>chave</strong> [ˈʃavɨ] — le CH et le e réduit final</li><li><strong>pão</strong> [pɐ̃w̃] — la diphtongue nasale ão</li><li><strong>trabalho</strong> [trɐˈbaʎu] — le LH et la réduction des voyelles</li><li><strong>obrigado</strong> [obriˈɡadu] — mot du quotidien : merci (dit par un homme)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment se prononce le digraphe <strong>LH</strong> en portugais européen ?",
+      "correctAnswer": "Comme « gli » en italien ou « ll » espagnol — son [ʎ] mouillé",
+      "distractors": [
+        "Comme « l » + « h » séparés, deux sons distincts",
+        "Comme « ch » dans « chat » en français",
+        "Comme « lh » dans «alhambra » — toujours muet"
+      ],
+      "explanation": "LH représente le son [ʎ], une latérale palatale. C'est le même son que le « gli » italien ou le « ll » de certains dialectes espagnols. Ex : <em>filho</em> (fils), <em>trabalho</em> (travail)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Le mot <em>tarde</em> (après-midi) se prononce comment en portugais européen ?",
+      "correctAnswer": "[ˈtardɨ] — le e final est très réduit, presque muet",
+      "distractors": [
+        "[tarde] — exactement comme on l'écrit",
+        "[tarˈde] — avec accent sur la deuxième syllabe",
+        "[ˈtardə] — comme un e muet français"
+      ],
+      "explanation": "En portugais européen, le E non accentué en fin de syllabe se réduit en [ɨ], un son très bref et réduit. C'est une différence majeure avec le portugais brésilien où ce E serait pleinement prononcé."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel son produit <strong>NH</strong> dans le mot <em>manhã</em> ?",
+      "correctAnswer": "Le son [ɲ], comme « gn » dans « montagne » en français",
+      "distractors": [
+        "Le son [nh], deux consonnes prononcées séparément",
+        "Le son [n], identique au N simple",
+        "Le son [ŋ], comme dans « parking » en français"
+      ],
+      "explanation": "NH est un digraphe qui représente la consonne nasale palatale [ɲ]. C'est exactement le même son que « gn » en français (montagne, agneau). Ex : <em>manhã</em> [mɐˈɲɐ̃] = matin."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Lequel de ces mots contient la diphtongue nasale <strong>ão</strong> ?",
+      "correctAnswer": "pão",
+      "distractors": [
+        "caro",
+        "chave",
+        "filho"
+      ],
+      "explanation": "<em>Pão</em> [pɐ̃w̃] (pain) contient la diphtongue nasale ão. C'est l'un des sons les plus caractéristiques du portugais, absent en français. <em>Não</em> (non) et <em>irmão</em> (frère) en sont d'autres exemples courants."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment le H se comporte-t-il en portugais (seul, pas dans NH ou LH) ?",
+      "correctAnswer": "Il est toujours muet",
+      "distractors": [
+        "Il s'aspire légèrement, comme en anglais",
+        "Il durcit la consonne précédente",
+        "Il allonge la voyelle qui le suit"
+      ],
+      "explanation": "En portugais, le H seul est toujours muet. Ex : <em>hotel</em> [oˈtɛɫ], <em>hoje</em> [ˈoʒɨ] (aujourd'hui). C'est la même règle qu'en français. Seuls NH et LH produisent des sons spéciaux."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "manhã",
+      "phonetic": "/mɐˈɲɐ̃/",
+      "french": "matin"
+    },
+    {
+      "portuguese": "filho",
+      "phonetic": "/ˈfiʎu/",
+      "french": "fils"
+    },
+    {
+      "portuguese": "trabalho",
+      "phonetic": "/trɐˈbaʎu/",
+      "french": "travail"
+    },
+    {
+      "portuguese": "chave",
+      "phonetic": "/ˈʃavɨ/",
+      "french": "clé"
+    },
+    {
+      "portuguese": "pão",
+      "phonetic": "/pɐ̃w̃/",
+      "french": "pain"
+    },
+    {
+      "portuguese": "não",
+      "phonetic": "/nɐ̃w̃/",
+      "french": "non"
+    },
+    {
+      "portuguese": "rua",
+      "phonetic": "/ˈʁuɐ/",
+      "french": "rue"
+    },
+    {
+      "portuguese": "tarde",
+      "phonetic": "/ˈtardɨ/",
+      "french": "après-midi / tard"
+    },
+    {
+      "portuguese": "obrigado",
+      "phonetic": "/obriˈɡadu/",
+      "french": "merci (dit par un homme)"
+    },
+    {
+      "portuguese": "França",
+      "phonetic": "/ˈfrɐ̃sɐ/",
+      "french": "France"
+    }
+  ]
+}

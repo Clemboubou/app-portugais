@@ -1,0 +1,105 @@
+{
+  "id": "a1-m2-l05",
+  "title": "Les articles définis et indéfinis",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Connaître les quatre formes de l'article défini (o, a, os, as) et les quatre formes de l'article indéfini (um, uma, uns, umas)",
+    "Comprendre les règles d'accord en genre et en nombre avec le nom",
+    "Choisir correctement entre article défini et article indéfini selon le contexte"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les articles : le, la, les, un, une...",
+      "content": "En portugais, comme en français, chaque nom a un genre (masculin ou féminin) et un nombre (singulier ou pluriel). Les articles s'accordent obligatoirement avec le nom qu'ils accompagnent. Cette leçon vous donnera toutes les clés pour bien utiliser les articles définis (o, a, os, as) et indéfinis (um, uma, uns, umas) en portugais européen."
+    },
+    {
+      "type": "explanation",
+      "title": "L'article défini : o, a, os, as",
+      "content": "L'article défini correspond au français 'le, la, les'. Il s'utilise pour parler d'un élément spécifique, connu, ou déjà mentionné.\n\nTableau des formes :\n\n|           | Masculin | Féminin |\n|-----------|----------|---------|\n| Singulier | o        | a       |\n| Pluriel   | os       | as      |\n\nExemples :\n• o livro → le livre (masculin singulier)\n• a mesa → la table (féminin singulier)\n• os livros → les livres (masculin pluriel)\n• as mesas → les tables (féminin pluriel)\n\nEn portugais européen, l'article défini est très présent. Il accompagne notamment :\n- Les noms propres de personnes : O João chegou. → João est arrivé.\n- Les possessifs : o meu pai, a minha mãe (voir leçon 4)\n- Les pays et régions : Portugal, a França, o Brasil"
+    },
+    {
+      "type": "explanation",
+      "title": "L'article indéfini : um, uma, uns, umas",
+      "content": "L'article indéfini correspond au français 'un, une, des'. Il s'utilise pour parler d'un élément non spécifié ou mentionné pour la première fois.\n\nTableau des formes :\n\n|           | Masculin | Féminin |\n|-----------|----------|---------|\n| Singulier | um       | uma     |\n| Pluriel   | uns      | umas    |\n\nExemples :\n• um carro → une voiture (masculin singulier)\n• uma casa → une maison (féminin singulier)\n• uns carros → des voitures (masculin pluriel)\n• umas casas → des maisons (féminin pluriel)\n\nNote : uns et umas au pluriel ont un sens légèrement atténué, proche de 'quelques' :\n• Tenho uns amigos em Lisboa. → J'ai quelques amis à Lisbonne.\n• Comprei umas flores. → J'ai acheté quelques fleurs."
+    },
+    {
+      "type": "explanation",
+      "title": "Comment déterminer le genre d'un nom",
+      "content": "Le genre des noms en portugais ne se déduit pas toujours facilement. Voici quelques repères utiles :\n\nRègles générales :\n• La plupart des noms terminés en -o sont masculins : o livro, o gato, o carro\n• La plupart des noms terminés en -a sont féminins : a mesa, a casa, a porta\n• Les noms terminés en -ção sont féminins : a canção (la chanson), a estação (la gare)\n• Les noms terminés en -ade sont féminins : a cidade (la ville), a saudade\n• Les noms terminés en -ema sont masculins : o problema, o sistema, o tema\n\nExceptions notables :\n• o dia → le jour (masculin, malgré le -a)\n• a mão → la main (féminin, malgré le -ão)\n• o mapa → la carte (masculin, malgré le -a)\n\nConseil : Apprenez chaque nouveau nom avec son article, comme une seule unité : o livro, a casa. C'est la méthode la plus efficace."
+    },
+    {
+      "type": "explanation",
+      "title": "Défini vs indéfini : quand utiliser lequel ?",
+      "content": "La règle fondamentale :\n\n• Article INDÉFINI (um/uma) → première mention, élément non identifié :\n  Tenho um gato. → J'ai un chat. (on l'apprend pour la première fois)\n\n• Article DÉFINI (o/a) → élément déjà connu, spécifique, ou unique en son genre :\n  O gato é preto. → Le chat est noir. (on parle du chat déjà mentionné)\n\nAutres contextes de l'article défini :\n1. Avec les noms de pays (sauf Portugal, Cabo Verde, etc.) :\n   Vivo em Portugal. / Vivo em França? → Non : Vivo na França. (na = em + a)\n\n2. Avec les noms de personnes en portugais européen :\n   A Maria telefona. → Maria appelle. (usage typique du portugais européen)\n\n3. Avec les parties du corps et les vêtements :\n   Parti o braço. → Je me suis cassé le bras.\n\nCas sans article :\n- Professions après ser : Sou médico. → Je suis médecin. (sans article)\n- Portugal, Cabo Verde, Timor-Leste, Moçambique (ces noms n'ont pas d'article)"
+    },
+    {
+      "type": "practice",
+      "title": "Les contractions avec les prépositions",
+      "content": "En portugais européen, l'article défini se contracte obligatoirement avec certaines prépositions :\n\n• em (dans, en) + o → no / em + a → na / em + os → nos / em + as → nas\n  Estou no supermercado. → Je suis au supermarché.\n  Vivo na cidade. → J'habite en ville.\n\n• de (de) + o → do / de + a → da / de + os → dos / de + as → das\n  O livro do professor. → Le livre du professeur.\n  A casa da avó. → La maison de la grand-mère.\n\n• a (à, vers) + o → ao / a + a → à / a + os → aos / a + as → às\n  Vou ao mercado. → Je vais au marché.\n  Chego às oito. → J'arrive à huit heures.\n\nCes contractions sont obligatoires, il n'est pas correct de dire *em o* ou *de a* en portugais standard."
+    },
+    {
+      "type": "production",
+      "title": "Mise en pratique : décrivez des objets",
+      "content": "Entraînez-vous à utiliser les articles dans ces contextes :\n\n1. Présentez un objet pour la première fois, puis redécrivez-le :\n   'Tenho um livro. O livro é azul.'\n   J'ai un livre. Le livre est bleu.\n\n2. Parlez d'un lieu :\n   'Há um café na rua. O café abre às oito.'\n   Il y a un café dans la rue. Le café ouvre à huit heures.\n\n3. Parlez de votre quartier :\n   'Vivo numa cidade portuguesa. A cidade chama-se ___. Há uma universidade na cidade.'\n   Je vis dans une ville portugaise. La ville s'appelle ___. Il y a une université dans la ville."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel article convient pour 'problema' (le problème) ?",
+      "correctAnswer": "o problema",
+      "distractors": ["a problema", "um problema (masc. correct mais l'indéfini est demandé)", "as problemas"],
+      "explanation": "Problema est masculin en portugais, malgré sa terminaison en -a. C'est un mot d'origine grecque. La forme correcte avec l'article défini est o problema. Le même principe s'applique à o sistema, o tema, o clima."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Choisissez la phrase correcte pour dire 'Je vais à la plage' (praia = plage, féminin) :",
+      "correctAnswer": "Vou à praia.",
+      "distractors": ["Vou a a praia.", "Vou ao praia.", "Vou na praia."],
+      "explanation": "La préposition a + l'article féminin a forment la contraction à (avec accent grave). Vou a a praia est incorrect (pas de double article sans contraction). Ao est la contraction pour le masculin (a + o). Na (em + a) s'utilise pour indiquer une localisation statique, pas un mouvement vers."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez avec l'article défini correct : '___ dias são longos no verão.' (Les jours sont longs en été. — dia est masculin pluriel)",
+      "correctAnswer": "Os",
+      "distractors": ["As", "A", "O"],
+      "explanation": "Dia est masculin (malgré le -a). Au pluriel masculin, l'article défini est os. Os dias = les jours. Ne pas confondre avec as dias (incorrect, as est féminin pluriel)."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez : 'J'ai une voiture. La voiture est grise.' (carro = voiture, masculin)",
+      "correctAnswer": "Tenho um carro. O carro é cinzento.",
+      "distractors": [
+        "Tenho uma carro. O carro é cinzento.",
+        "Tenho um carro. Um carro é cinzento.",
+        "Tenho um carro. O carro é cinzenta."
+      ],
+      "explanation": "Carro est masculin → um carro (article indéfini masculin). Au deuxième mention, on utilise l'article défini o carro. Cinzento s'accorde avec le masculin carro → cinzento (pas cinzenta)."
+    },
+    {
+      "type": "error_detection",
+      "prompt": "Trouvez l'erreur dans : 'Ela é a médica.' (Elle est médecin.)",
+      "correctAnswer": "Il ne faut pas d'article avec les professions après ser : 'Ela é médica.'",
+      "distractors": [
+        "Il faut dire 'Ela é uma médica.'",
+        "Il faut dire 'Ela és médica.'",
+        "Il n'y a pas d'erreur."
+      ],
+      "explanation": "En portugais, on n'utilise pas d'article devant les noms de profession après le verbe ser (être), sauf si un adjectif qualificatif accompagne le nom. La forme correcte est : Ela é médica. Comparez : Ela é uma médica excelente. (avec article car 'excelente' qualifie)."
+    }
+  ],
+  "vocabulary": [
+    { "portuguese": "o", "phonetic": "/u/", "french": "le (article défini masculin singulier)" },
+    { "portuguese": "a", "phonetic": "/ɐ/", "french": "la (article défini féminin singulier)" },
+    { "portuguese": "os", "phonetic": "/uʃ/", "french": "les (article défini masculin pluriel)" },
+    { "portuguese": "as", "phonetic": "/ɐʃ/", "french": "les (article défini féminin pluriel)" },
+    { "portuguese": "um", "phonetic": "/ũ/", "french": "un (article indéfini masculin singulier)" },
+    { "portuguese": "uma", "phonetic": "/ˈumɐ/", "french": "une (article indéfini féminin singulier)" },
+    { "portuguese": "uns", "phonetic": "/ũʃ/", "french": "des / quelques (article indéfini masculin pluriel)" },
+    { "portuguese": "umas", "phonetic": "/ˈumɐʃ/", "french": "des / quelques (article indéfini féminin pluriel)" },
+    { "portuguese": "no / na", "phonetic": "/nu/ / /nɐ/", "french": "dans le / dans la (em + o/a)" },
+    { "portuguese": "do / da", "phonetic": "/du/ / /dɐ/", "french": "du / de la (de + o/a)" }
+  ]
+}

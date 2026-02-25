@@ -1,0 +1,516 @@
+{
+  "sections": [
+    {
+      "id": "cult-001",
+      "title": "Le Portugal en un coup d'œil : géographie",
+      "level": "A1",
+      "category": "geography",
+      "content_fr": "Le Portugal est situé à l'extrême ouest de l'Europe, sur la péninsule Ibérique. Il partage sa seule frontière terrestre avec l'Espagne. Le pays comprend aussi deux archipels autonomes : les Açores (Açores) au milieu de l'Atlantique et Madère (Madeira) plus au sud. Le continent est divisé en régions : le Minho vert au nord, le Trás-os-Montes montagneux, le Douro viticole, la Beira intérieure, l'Alentejo plat et chaud, et l'Algarve touristique au sud. Lisbonne (Lisboa) est la capitale et la plus grande ville, suivie de Porto au nord.",
+      "content_pt": "Portugal está situado no extremo ocidental da Europa, na Península Ibérica. Partilha a sua única fronteira terrestre com Espanha. O país inclui também dois arquipélagos autónomos: os Açores, no meio do Atlântico, e a Madeira, mais a sul. O continente está dividido em regiões: o Minho verde a norte, Trás-os-Montes montanhoso, o Douro vinícola, a Beira interior, o Alentejo plano e quente, e o Algarve turístico a sul. Lisboa é a capital e a maior cidade, seguida do Porto a norte.",
+      "key_vocabulary": [
+        { "pt": "a fronteira", "fr": "la frontière" },
+        { "pt": "o arquipélago", "fr": "l'archipel" },
+        { "pt": "a capital", "fr": "la capitale" },
+        { "pt": "o norte", "fr": "le nord" },
+        { "pt": "o sul", "fr": "le sud" }
+      ],
+      "fun_fact": "Le Portugal est le plus vieux pays d'Europe avec des frontières quasiment inchangées depuis 1249."
+    },
+    {
+      "id": "cult-002",
+      "title": "Les villes principales",
+      "level": "A1",
+      "category": "geography",
+      "content_fr": "Lisbonne est la capitale, connue pour ses collines, ses tramways jaunes et ses quartiers historiques comme Alfama et Belém. Porto, au nord, est célèbre pour le vin de Porto et son centre historique classé à l'UNESCO. Coimbra abrite la plus ancienne université du pays (1290). Braga est le cœur religieux du Portugal. Évora, en Alentejo, est une ville-musée romaine et médiévale. Faro est la porte d'entrée de l'Algarve. Funchal est la capitale de Madère, et Ponta Delgada celle des Açores.",
+      "content_pt": "Lisboa é a capital, conhecida pelas suas colinas, elétricos amarelos e bairros históricos como Alfama e Belém. O Porto, a norte, é famoso pelo vinho do Porto e pelo seu centro histórico classificado pela UNESCO. Coimbra alberga a universidade mais antiga do país (1290). Braga é o coração religioso de Portugal. Évora, no Alentejo, é uma cidade-museu romana e medieval. Faro é a porta de entrada do Algarve. O Funchal é a capital da Madeira e Ponta Delgada a dos Açores.",
+      "key_vocabulary": [
+        { "pt": "a colina", "fr": "la colline" },
+        { "pt": "o elétrico", "fr": "le tramway" },
+        { "pt": "o bairro", "fr": "le quartier" },
+        { "pt": "a universidade", "fr": "l'université" },
+        { "pt": "a cidade", "fr": "la ville" }
+      ],
+      "fun_fact": "Le tramway 28 de Lisbonne est devenu si touristique que les Lisboètes l'évitent, mais il reste le meilleur moyen de traverser les ruelles d'Alfama."
+    },
+    {
+      "id": "cult-003",
+      "title": "Le bacalhau, roi de la gastronomie",
+      "level": "A1",
+      "category": "gastronomy",
+      "content_fr": "Le bacalhau (morue séchée et salée) est le plat national du Portugal. On dit qu'il existe 365 recettes de bacalhau — une pour chaque jour de l'année. Les plus connues sont le bacalhau à Brás (effiloché avec œufs et pommes de terre paille), le bacalhau com natas (gratiné à la crème), le bacalhau à Gomes de Sá (au four avec pommes de terre et oignons) et les pastéis de bacalhau (croquettes frites). Paradoxalement, la morue ne vient pas du Portugal mais de Norvège et d'Islande. Les Portugais la pêchaient à Terre-Neuve dès le XVe siècle.",
+      "content_pt": "O bacalhau é o prato nacional de Portugal. Diz-se que existem 365 receitas de bacalhau — uma para cada dia do ano. As mais conhecidas são o bacalhau à Brás (desfiado com ovos e batata palha), o bacalhau com natas (gratinado), o bacalhau à Gomes de Sá (no forno com batatas e cebola) e os pastéis de bacalhau (croquetes fritos). Paradoxalmente, o bacalhau não vem de Portugal, mas da Noruega e da Islândia. Os portugueses pescavam-no na Terra Nova desde o século XV.",
+      "key_vocabulary": [
+        { "pt": "o bacalhau", "fr": "la morue" },
+        { "pt": "a receita", "fr": "la recette" },
+        { "pt": "os ovos", "fr": "les œufs" },
+        { "pt": "as batatas", "fr": "les pommes de terre" },
+        { "pt": "o forno", "fr": "le four" }
+      ],
+      "fun_fact": "Le Portugal est le plus gros consommateur de morue au monde, avec environ 20% de la consommation mondiale."
+    },
+    {
+      "id": "cult-004",
+      "title": "Pastéis de nata et pâtisserie",
+      "level": "A1",
+      "category": "gastronomy",
+      "content_fr": "Les pastéis de nata sont de petites tartelettes à la crème, croustillantes et caramélisées, nées au monastère des Hiéronymites à Belém au XIXe siècle. Après l'extinction des ordres religieux en 1834, les moines vendirent la recette à une pâtisserie voisine : la Fábrica dos Pastéis de Belém, qui garde la recette secrète encore aujourd'hui. On les mange saupoudrés de cannelle et de sucre glace, avec un café (uma bica à Lisbonne, um cimbalino à Porto). Autres pâtisseries typiques : les ovos moles d'Aveiro, le bolo de arroz, et le travesseiro de Sintra.",
+      "content_pt": "Os pastéis de nata são pequenas tartes de creme, estaladiças e caramelizadas, nascidas no Mosteiro dos Jerónimos em Belém no século XIX. Após a extinção das ordens religiosas em 1834, os monges venderam a receita a uma pastelaria vizinha: a Fábrica dos Pastéis de Belém, que guarda a receita em segredo até hoje. Comem-se polvilhados com canela e açúcar em pó, com um café (uma bica em Lisboa, um cimbalino no Porto). Outras pastelarias típicas: os ovos moles de Aveiro, o bolo de arroz e o travesseiro de Sintra.",
+      "key_vocabulary": [
+        { "pt": "a pastelaria", "fr": "la pâtisserie" },
+        { "pt": "a canela", "fr": "la cannelle" },
+        { "pt": "o açúcar", "fr": "le sucre" },
+        { "pt": "uma bica", "fr": "un expresso (à Lisbonne)" },
+        { "pt": "o mosteiro", "fr": "le monastère" }
+      ],
+      "fun_fact": "À Lisbonne, on commande « uma bica », à Porto « um cimbalino » — mais c'est le même expresso ! Utiliser le mauvais terme trahit immédiatement d'où vous venez."
+    },
+    {
+      "id": "cult-005",
+      "title": "Heures des repas et habitudes alimentaires",
+      "level": "A1",
+      "category": "daily_life",
+      "content_fr": "Les Portugais prennent le petit-déjeuner (pequeno-almoço) tôt, souvent un café avec une pâtisserie ou du pain grillé (torrada). Le déjeuner (almoço) est le repas principal, entre 12h30 et 14h — c'est un vrai repas complet avec soupe, plat et dessert. Beaucoup de restaurants proposent un « prato do dia » (plat du jour) bon marché. Le goûter (lanche) vers 16h-17h est courant. Le dîner (jantar) est entre 19h30 et 21h, plus léger que le déjeuner. Au restaurant, le pain, olives et beurre arrivent automatiquement (couvert), mais ils sont payants — vous pouvez les refuser.",
+      "content_pt": "Os portugueses tomam o pequeno-almoço cedo, muitas vezes um café com um pastel ou uma torrada. O almoço é a refeição principal, entre as 12h30 e as 14h — é uma refeição completa com sopa, prato e sobremesa. Muitos restaurantes oferecem um «prato do dia» a bom preço. O lanche pelas 16h-17h é habitual. O jantar é entre as 19h30 e as 21h, mais leve do que o almoço. No restaurante, o pão, azeitonas e manteiga chegam automaticamente (couvert), mas são pagos — pode recusá-los.",
+      "key_vocabulary": [
+        { "pt": "o pequeno-almoço", "fr": "le petit-déjeuner" },
+        { "pt": "o almoço", "fr": "le déjeuner" },
+        { "pt": "o jantar", "fr": "le dîner" },
+        { "pt": "o prato do dia", "fr": "le plat du jour" },
+        { "pt": "a sopa", "fr": "la soupe" }
+      ],
+      "fun_fact": "Attention au « couvert » dans les restaurants portugais : le pain, les olives et le beurre posés sur la table ne sont pas gratuits. Si vous y touchez, ils seront ajoutés à l'addition."
+    },
+    {
+      "id": "cult-006",
+      "title": "Salutations et étiquette de base",
+      "level": "A1",
+      "category": "etiquette",
+      "content_fr": "Au Portugal, on fait généralement deux bises (beijinhos) entre femmes ou entre homme et femme quand on se connaît. Entre hommes, c'est une poignée de main (aperto de mão). Le tutoiement (tu) s'utilise entre amis, en famille et entre jeunes. Le vouvoiement formel utilise « o senhor / a senhora » suivi du verbe à la 3e personne — le pronom « você » existe mais est considéré comme impoli dans certains contextes au Portugal (contrairement au Brésil). En situation formelle, on utilise aussi le prénom précédé de « Senhor/a » ou le titre professionnel (Senhor Engenheiro, Senhora Doutora).",
+      "content_pt": "Em Portugal, dão-se geralmente dois beijinhos entre mulheres ou entre homem e mulher quando se conhecem. Entre homens, é um aperto de mão. O tutear (tu) usa-se entre amigos, em família e entre jovens. O tratamento formal usa «o senhor / a senhora» seguido do verbo na 3.ª pessoa — o pronome «você» existe mas é considerado indelicado em certos contextos em Portugal (ao contrário do Brasil). Em situação formal, usa-se também o primeiro nome precedido de «Senhor/a» ou o título profissional (Senhor Engenheiro, Senhora Doutora).",
+      "key_vocabulary": [
+        { "pt": "os beijinhos", "fr": "les bises" },
+        { "pt": "o aperto de mão", "fr": "la poignée de main" },
+        { "pt": "o senhor / a senhora", "fr": "monsieur / madame" },
+        { "pt": "com licença", "fr": "excusez-moi (permission)" },
+        { "pt": "faz favor", "fr": "s'il vous plaît" }
+      ],
+      "fun_fact": "Évitez « você » avec des personnes âgées au Portugal — c'est perçu comme impoli. Dites plutôt « o senhor » ou « a senhora ». C'est l'une des grandes différences avec le portugais brésilien."
+    },
+    {
+      "id": "cult-007",
+      "title": "Santos Populares : les fêtes de juin",
+      "level": "A2",
+      "category": "traditions",
+      "content_fr": "Juin est le mois des Santos Populares (Saints Populaires), les plus grandes fêtes du Portugal. Le 13 juin, Lisbonne célèbre Santo António avec des sardines grillées, des manjerico (petits basilics en pot avec un poème), des marchas populares sur l'Avenida da Liberdade et des fêtes dans tout Alfama. Le 24 juin, Porto fête São João : on se tape sur la tête avec des marteaux en plastique (ou autrefois des poireaux !), on lâche des lanternes et on mange des sardines. Le 29 juin, Braga fête São Pedro. Pendant tout le mois, les vieux quartiers sont décorés de guirlandes et on danse dans les rues.",
+      "content_pt": "Junho é o mês dos Santos Populares, as maiores festas de Portugal. A 13 de junho, Lisboa celebra o Santo António com sardinhas assadas, manjericos (pequenos vasos de manjericão com um poema), marchas populares na Avenida da Liberdade e festas em toda a Alfama. A 24 de junho, o Porto festeja o São João: batem-se com martelos de plástico na cabeça (ou antigamente com alhos-porros!), largam-se balões de São João e comem-se sardinhas. A 29 de junho, Braga festeja São Pedro. Durante todo o mês, os bairros antigos estão decorados com arraiais e dança-se na rua.",
+      "key_vocabulary": [
+        { "pt": "as sardinhas assadas", "fr": "les sardines grillées" },
+        { "pt": "o manjerico", "fr": "le petit basilic en pot" },
+        { "pt": "as marchas populares", "fr": "les défilés populaires" },
+        { "pt": "o arraial", "fr": "la fête populaire" },
+        { "pt": "o santo padroeiro", "fr": "le saint patron" }
+      ],
+      "fun_fact": "Santo António est le saint patron de Lisbonne et aussi le saint des mariages. Le 13 juin, la mairie de Lisbonne organise des mariages collectifs gratuits appelés « Casamentos de Santo António »."
+    },
+    {
+      "id": "cult-008",
+      "title": "Noël et Pâques au Portugal",
+      "level": "A2",
+      "category": "traditions",
+      "content_fr": "Noël (Natal) est la fête la plus importante au Portugal. Le réveillon du 24 décembre (Consoada) est un repas familial avec de la morue (bacalhau cozido), du chou, des pommes de terre et des œufs durs. Le dessert traditionnel comprend les rabanadas (pain perdu), le bolo-rei (brioche des rois avec fruits confits) et les filhós (beignets). Les cadeaux sont ouverts le 24 au soir ou le 25 au matin. À Pâques (Páscoa), on offre des amandes en chocolat (amêndoas) et le folar da Páscoa (brioche avec des œufs entiers). La Semaine Sainte est très célébrée à Braga avec des processions impressionnantes.",
+      "content_pt": "O Natal é a festa mais importante em Portugal. A Consoada, no dia 24 de dezembro, é uma ceia em família com bacalhau cozido, couves, batatas e ovos cozidos. A sobremesa tradicional inclui as rabanadas, o bolo-rei (com frutas cristalizadas) e os filhós. Os presentes abrem-se na noite de 24 ou na manhã de 25. Na Páscoa, oferecem-se amêndoas de chocolate e o folar da Páscoa (bolo com ovos inteiros). A Semana Santa é muito celebrada em Braga com procissões impressionantes.",
+      "key_vocabulary": [
+        { "pt": "a Consoada", "fr": "le réveillon de Noël" },
+        { "pt": "o bolo-rei", "fr": "la brioche des rois" },
+        { "pt": "as rabanadas", "fr": "le pain perdu" },
+        { "pt": "os presentes", "fr": "les cadeaux" },
+        { "pt": "a Páscoa", "fr": "Pâques" }
+      ],
+      "fun_fact": "Le bolo-rei contient traditionnellement une fève (fava) : celui qui la trouve doit offrir le prochain gâteau !"
+    },
+    {
+      "id": "cult-009",
+      "title": "Le fado : l'âme du Portugal",
+      "level": "A2",
+      "category": "music",
+      "content_fr": "Le fado est le genre musical emblématique du Portugal, classé au patrimoine immatériel de l'UNESCO depuis 2011. Né dans les quartiers populaires de Lisbonne au XIXe siècle (Alfama, Mouraria, Madragoa), il exprime la saudade — un mélange de nostalgie, de mélancolie et de désir. Le fado de Lisbonne est chanté par un(e) fadiste accompagné(e) d'une guitarra portuguesa (guitare à 12 cordes) et d'une viola (guitare classique). Amália Rodrigues (1920-1999) est la plus grande fadiste de l'histoire. Aujourd'hui, Mariza, Ana Moura et Carminho perpétuent la tradition. Il existe aussi un fado de Coimbra, chanté exclusivement par des hommes, lié à la tradition universitaire.",
+      "content_pt": "O fado é o género musical emblemático de Portugal, classificado como Património Imaterial da UNESCO desde 2011. Nasceu nos bairros populares de Lisboa no século XIX (Alfama, Mouraria, Madragoa) e exprime a saudade — uma mistura de nostalgia, melancolia e desejo. O fado de Lisboa é cantado por um(a) fadista acompanhado(a) por uma guitarra portuguesa (de 12 cordas) e uma viola (guitarra clássica). Amália Rodrigues (1920-1999) é a maior fadista da história. Hoje, Mariza, Ana Moura e Carminho mantêm a tradição. Existe também um fado de Coimbra, cantado exclusivamente por homens, ligado à tradição universitária.",
+      "key_vocabulary": [
+        { "pt": "o fado", "fr": "le fado" },
+        { "pt": "a saudade", "fr": "la nostalgie / le manque" },
+        { "pt": "o/a fadista", "fr": "le/la chanteur(se) de fado" },
+        { "pt": "a guitarra portuguesa", "fr": "la guitare portugaise" },
+        { "pt": "cantar", "fr": "chanter" }
+      ],
+      "fun_fact": "Dans les maisons de fado traditionnelles, quand un fadiste commence à chanter, tout le monde doit se taire. Les serveurs arrêtent de servir et les conversations cessent — sous peine de regards désapprobateurs."
+    },
+    {
+      "id": "cult-010",
+      "title": "Caldo verde et francesinha",
+      "level": "A2",
+      "category": "gastronomy",
+      "content_fr": "Le caldo verde est la soupe nationale portugaise : un velouté de pommes de terre avec des lanières très fines de chou cavalier (couve galega), un filet d'huile d'olive et une rondelle de chouriço. Simple mais délicieux, il est servi partout, des fêtes populaires aux restaurants étoilés. La francesinha est une spécialité de Porto : un sandwich garni de viandes variées (linguiça, chipolata, fiambre, bife), recouvert de fromage fondu et noyé dans une sauce tomate-bière épicée. On la sert avec des frites. Chaque restaurant de Porto a sa propre recette de sauce secrète. Les habitants de Porto sont très fiers de leur francesinha et n'acceptent pas les versions lisboètes.",
+      "content_pt": "O caldo verde é a sopa nacional portuguesa: um creme de batata com tiras muito finas de couve galega, um fio de azeite e uma rodela de chouriço. Simples mas delicioso, é servido em todo o lado, desde arraiais a restaurantes com estrela. A francesinha é uma especialidade do Porto: uma sandes recheada com carnes variadas (linguiça, salsicha, fiambre, bife), coberta de queijo derretido e banhada num molho de tomate e cerveja picante. Serve-se com batatas fritas. Cada restaurante do Porto tem a sua própria receita de molho secreta. Os portuenses têm muito orgulho da sua francesinha e não aceitam versões lisboetas.",
+      "key_vocabulary": [
+        { "pt": "o caldo verde", "fr": "la soupe au chou" },
+        { "pt": "a couve", "fr": "le chou" },
+        { "pt": "o azeite", "fr": "l'huile d'olive" },
+        { "pt": "o chouriço", "fr": "le chorizo portugais" },
+        { "pt": "as batatas fritas", "fr": "les frites" }
+      ],
+      "fun_fact": "La francesinha a été inventée dans les années 1950 par un émigrant portugais revenu de France, inspiré par le croque-monsieur — d'où son nom « petite française »."
+    },
+    {
+      "id": "cult-011",
+      "title": "La culture du café",
+      "level": "A2",
+      "category": "daily_life",
+      "content_fr": "Le café est un rituel social au Portugal. Les Portugais boivent en moyenne 4 cafés par jour. Le café de base est un expresso court et fort : « uma bica » à Lisbonne, « um cimbalino » à Porto, ou simplement « um café » partout. Variantes : « um garoto » (expresso avec un peu de lait), « uma meia de leite » (moitié café, moitié lait, dans une grande tasse), « um abatanado » (expresso allongé). Les cafés (pastelarias) sont des lieux de socialisation essentiels. On y prend le petit-déjeuner, le goûter, on y lit le journal, on y retrouve des amis. Beaucoup de Portugais ont « leur » café où ils vont quotidiennement et où le barista connaît leur commande.",
+      "content_pt": "O café é um ritual social em Portugal. Os portugueses bebem em média 4 cafés por dia. O café base é uma bica curta e forte: «uma bica» em Lisboa, «um cimbalino» no Porto, ou simplesmente «um café» em todo o lado. Variantes: «um garoto» (café com um pouco de leite), «uma meia de leite» (metade café, metade leite, numa chávena grande), «um abatanado» (café alongado). As pastelarias são locais de socialização essenciais. Toma-se o pequeno-almoço, o lanche, lê-se o jornal, encontram-se amigos. Muitos portugueses têm «o seu» café onde vão diariamente e onde o empregado conhece a sua encomenda.",
+      "key_vocabulary": [
+        { "pt": "uma bica", "fr": "un expresso (Lisbonne)" },
+        { "pt": "um garoto", "fr": "un expresso noisette" },
+        { "pt": "uma meia de leite", "fr": "un café au lait" },
+        { "pt": "a pastelaria", "fr": "le café-pâtisserie" },
+        { "pt": "a chávena", "fr": "la tasse" }
+      ],
+      "fun_fact": "Le mot « bica » viendrait de l'acronyme « Beba Isto Com Açúcar » (Buvez ceci avec du sucre), inscrit dans les premiers cafés de Lisbonne pour encourager les clients à adoucir le goût fort du café."
+    },
+    {
+      "id": "cult-012",
+      "title": "Le tutoiement : pièges et subtilités",
+      "level": "A2",
+      "category": "etiquette",
+      "content_fr": "Au Portugal, le système de politesse est plus complexe qu'en France. Il y a trois niveaux : « tu » (informel, amis et famille), « você » (intermédiaire, mais souvent perçu comme impoli — à éviter avec les personnes âgées), et « o senhor / a senhora » (formel et respectueux). En pratique, beaucoup de Portugais évitent le pronom sujet et utilisent juste le verbe à la 3e personne : « Quer um café? » au lieu de « Você quer um café? ». Au travail, même entre collègues, on utilise souvent le prénom avec le verbe à la 3e personne : « O João quer almoçar? ». Tutoyer quelqu'un trop vite est mal vu. Attendez qu'on vous propose le « tu ».",
+      "content_pt": "Em Portugal, o sistema de delicadeza é mais complexo do que em França. Há três níveis: «tu» (informal, amigos e família), «você» (intermédio, mas frequentemente sentido como indelicado — a evitar com pessoas idosas) e «o senhor / a senhora» (formal e respeitoso). Na prática, muitos portugueses evitam o pronome sujeito e usam apenas o verbo na 3.ª pessoa: «Quer um café?» em vez de «Você quer um café?». No trabalho, mesmo entre colegas, usa-se frequentemente o primeiro nome com o verbo na 3.ª pessoa: «O João quer almoçar?». Tutear alguém demasiado cedo é mal visto. Espere que lhe proponham o «tu».",
+      "key_vocabulary": [
+        { "pt": "tutear", "fr": "tutoyer" },
+        { "pt": "tratar por tu", "fr": "passer au tutoiement" },
+        { "pt": "tratar por você", "fr": "vouvoyer" },
+        { "pt": "o tratamento", "fr": "la forme de politesse" },
+        { "pt": "indelicado", "fr": "impoli" }
+      ],
+      "fun_fact": "Au Portugal, un professeur d'université est appelé « Senhor Professor Doutor » — et il faut utiliser le titre complet ! Les titres académiques et professionnels sont pris très au sérieux."
+    },
+    {
+      "id": "cult-013",
+      "title": "Les Grandes Découvertes",
+      "level": "B1",
+      "category": "history",
+      "content_fr": "Les Découvertes portugaises (Descobrimentos) sont l'époque de gloire nationale (XVe-XVIe siècles). Sous l'impulsion d'Henri le Navigateur (Infante D. Henrique), les Portugais ont exploré les côtes africaines, découvert la route maritime vers l'Inde (Vasco da Gama, 1498), atteint le Brésil (Pedro Álvares Cabral, 1500) et établi un empire commercial mondial de Macao à Goa en passant par le Mozambique et le Brésil. Le Traité de Tordesillas (1494) a partagé le monde entre le Portugal et l'Espagne. Le Monument des Découvertes (Padrão dos Descobrimentos) à Belém et la Tour de Belém sont des symboles de cette époque. Ce passé est une source de fierté mais aussi de débat contemporain sur le colonialisme.",
+      "content_pt": "Os Descobrimentos portugueses são a época de glória nacional (séculos XV-XVI). Sob o impulso do Infante D. Henrique, os portugueses exploraram as costas africanas, descobriram a rota marítima para a Índia (Vasco da Gama, 1498), chegaram ao Brasil (Pedro Álvares Cabral, 1500) e estabeleceram um império comercial mundial de Macau a Goa, passando por Moçambique e pelo Brasil. O Tratado de Tordesilhas (1494) dividiu o mundo entre Portugal e Espanha. O Padrão dos Descobrimentos em Belém e a Torre de Belém são símbolos desta época. Este passado é fonte de orgulho mas também de debate contemporâneo sobre o colonialismo.",
+      "key_vocabulary": [
+        { "pt": "os Descobrimentos", "fr": "les Découvertes" },
+        { "pt": "o navegador", "fr": "le navigateur" },
+        { "pt": "a rota marítima", "fr": "la route maritime" },
+        { "pt": "o império", "fr": "l'empire" },
+        { "pt": "o colonialismo", "fr": "le colonialisme" }
+      ],
+      "fun_fact": "Les Portugais ont été les premiers Européens à arriver au Japon en 1543. Ils y ont introduit les armes à feu et la tempura (du mot portugais « tempero », assaisonnement)."
+    },
+    {
+      "id": "cult-014",
+      "title": "La Révolution des Œillets (25 de Abril)",
+      "level": "B1",
+      "category": "history",
+      "content_fr": "Le 25 avril 1974, un coup d'État militaire pacifique a renversé la dictature de l'Estado Novo, la plus longue d'Europe occidentale (48 ans, de Salazar à Caetano). Le signal du soulèvement fut la diffusion de la chanson « Grândola, Vila Morena » de Zeca Afonso à la radio. Les soldats, soutenus massivement par le peuple, ont mis des œillets rouges dans les canons de leurs fusils — d'où le nom « Revolução dos Cravos ». Personne ou presque n'a été tué. Le 25 avril est aujourd'hui le jour férié le plus important du Portugal (Dia da Liberdade). Le pont de Lisbonne, rebaptisé Ponte 25 de Abril, porte le nom de cette date.",
+      "content_pt": "A 25 de abril de 1974, um golpe de Estado militar pacífico derrubou a ditadura do Estado Novo, a mais longa da Europa ocidental (48 anos, de Salazar a Caetano). O sinal do levantamento foi a transmissão da canção «Grândola, Vila Morena» de Zeca Afonso na rádio. Os soldados, apoiados massivamente pelo povo, colocaram cravos vermelhos nos canos das espingardas — daí o nome «Revolução dos Cravos». Quase ninguém foi morto. O 25 de Abril é hoje o feriado mais importante de Portugal (Dia da Liberdade). A ponte de Lisboa, rebatizada Ponte 25 de Abril, leva o nome desta data.",
+      "key_vocabulary": [
+        { "pt": "a revolução", "fr": "la révolution" },
+        { "pt": "o cravo", "fr": "l'œillet" },
+        { "pt": "a ditadura", "fr": "la dictature" },
+        { "pt": "a liberdade", "fr": "la liberté" },
+        { "pt": "o feriado", "fr": "le jour férié" }
+      ],
+      "fun_fact": "Aujourd'hui encore, quand « Grândola, Vila Morena » est jouée dans un lieu public au Portugal, tout le monde se lève — c'est un réflexe quasi pavlovien de fierté démocratique."
+    },
+    {
+      "id": "cult-015",
+      "title": "Salazar et l'Estado Novo",
+      "level": "B1",
+      "category": "history",
+      "content_fr": "António de Oliveira Salazar a dirigé le Portugal de 1933 à 1968 sous un régime autoritaire appelé Estado Novo (État Nouveau). Le régime reposait sur trois piliers : Deus, Pátria, Família (Dieu, Patrie, Famille). La police politique (PIDE) surveillait et emprisonnait les opposants. La liberté de presse n'existait pas. Le Portugal, très pauvre, a connu une émigration massive. Les guerres coloniales en Afrique (1961-1974) au Mozambique, en Angola et en Guinée-Bissau ont épuisé le pays et provoqué la révolution de 1974. En 2007, un sondage TV controversé a élu Salazar « plus grand Portugais de tous les temps », provoquant un vif débat national.",
+      "content_pt": "António de Oliveira Salazar dirigiu Portugal de 1933 a 1968 sob um regime autoritário chamado Estado Novo. O regime assentava em três pilares: Deus, Pátria, Família. A polícia política (PIDE) vigiava e prendia os opositores. A liberdade de imprensa não existia. Portugal, muito pobre, conheceu uma emigração massiva. As guerras coloniais em África (1961-1974) em Moçambique, Angola e Guiné-Bissau esgotaram o país e provocaram a revolução de 1974. Em 2007, uma sondagem televisiva controversa elegeu Salazar «o maior português de todos os tempos», provocando um debate nacional aceso.",
+      "key_vocabulary": [
+        { "pt": "a ditadura", "fr": "la dictature" },
+        { "pt": "o regime", "fr": "le régime" },
+        { "pt": "a censura", "fr": "la censure" },
+        { "pt": "a emigração", "fr": "l'émigration" },
+        { "pt": "a guerra colonial", "fr": "la guerre coloniale" }
+      ],
+      "fun_fact": "Salazar est tombé de sa chaise longue en 1968 et a subi un AVC. On ne lui a jamais dit qu'il avait été remplacé — il a continué à croire qu'il gouvernait jusqu'à sa mort en 1970."
+    },
+    {
+      "id": "cult-016",
+      "title": "La saudade : un sentiment uniquement portugais",
+      "level": "B1",
+      "category": "daily_life",
+      "content_fr": "La saudade est considérée comme l'âme du peuple portugais. C'est un sentiment complexe, sans équivalent exact dans d'autres langues : un mélange de nostalgie douce-amère, de mélancolie, de manque d'un être aimé, d'un lieu ou d'un temps passé. On peut avoir « saudades de casa » (le mal du pays), « saudades tuas » (tu me manques) ou « saudades do verão » (la nostalgie de l'été). Ce n'est pas simplement de la tristesse — c'est un plaisir mélancolique de se souvenir. La saudade imprègne le fado, la littérature et la vie quotidienne. Les Portugais disent « matar saudades » (tuer les saudades) quand ils retrouvent quelqu'un ou quelque chose qu'ils n'avaient pas vu depuis longtemps.",
+      "content_pt": "A saudade é considerada a alma do povo português. É um sentimento complexo, sem equivalente exato noutras línguas: uma mistura de nostalgia agridoce, melancolia, falta de um ente querido, de um lugar ou de um tempo passado. Pode-se ter «saudades de casa», «saudades tuas» ou «saudades do verão». Não é simplesmente tristeza — é um prazer melancólico de recordar. A saudade impregna o fado, a literatura e a vida quotidiana. Os portugueses dizem «matar saudades» quando reencontram alguém ou algo que não viam há muito tempo.",
+      "key_vocabulary": [
+        { "pt": "a saudade", "fr": "la nostalgie / le manque" },
+        { "pt": "ter saudades de", "fr": "avoir la nostalgie de" },
+        { "pt": "matar saudades", "fr": "retrouver qqn/qqch après longtemps" },
+        { "pt": "a nostalgia", "fr": "la nostalgie" },
+        { "pt": "a melancolia", "fr": "la mélancolie" }
+      ],
+      "fun_fact": "Le roi D. Duarte a écrit un traité philosophique sur la saudade au XVe siècle — le « Leal Conselheiro » — prouvant que ce sentiment est ancré dans la culture portugaise depuis des siècles."
+    },
+    {
+      "id": "cult-017",
+      "title": "Fernando Pessoa : le poète aux multiples visages",
+      "level": "B1",
+      "category": "literature",
+      "content_fr": "Fernando Pessoa (1888-1935) est le plus grand poète portugais du XXe siècle. Sa particularité unique : il a créé des « hétéronymes » — des personnalités littéraires complètes avec leur propre biographie, style et philosophie. Les trois principaux sont Alberto Caeiro (poète pastoral, sensualiste), Ricardo Reis (néoclassique, stoïcien) et Álvaro de Campos (futuriste, tourmenté). Pessoa lui-même écrivait comme « orthonyme ». Son chef-d'œuvre en prose est le « Livro do Desassossego » (Livre de l'Intranquillité), journal intime fragmentaire attribué à Bernardo Soares. La statue de Pessoa est assise au café A Brasileira, dans le Chiado à Lisbonne.",
+      "content_pt": "Fernando Pessoa (1888-1935) é o maior poeta português do século XX. A sua particularidade única: criou «heterónimos» — personalidades literárias completas com a sua própria biografia, estilo e filosofia. Os três principais são Alberto Caeiro (poeta pastoral, sensualista), Ricardo Reis (neoclássico, estoico) e Álvaro de Campos (futurista, atormentado). Pessoa ele próprio escrevia como «ortónimo». A sua obra-prima em prosa é o «Livro do Desassossego», diário íntimo fragmentário atribuído a Bernardo Soares. A estátua de Pessoa está sentada no café A Brasileira, no Chiado em Lisboa.",
+      "key_vocabulary": [
+        { "pt": "o poeta", "fr": "le poète" },
+        { "pt": "o heterónimo", "fr": "l'hétéronyme" },
+        { "pt": "a obra-prima", "fr": "le chef-d'œuvre" },
+        { "pt": "o desassossego", "fr": "l'intranquillité" },
+        { "pt": "o escritor", "fr": "l'écrivain" }
+      ],
+      "fun_fact": "Pessoa a laissé à sa mort une malle contenant plus de 25 000 manuscrits non publiés. On continue encore aujourd'hui à découvrir et publier ses textes inédits."
+    },
+    {
+      "id": "cult-018",
+      "title": "José Saramago : le Nobel portugais",
+      "level": "B1",
+      "category": "literature",
+      "content_fr": "José Saramago (1922-2010) est le seul auteur de langue portugaise à avoir reçu le prix Nobel de littérature (1998). Ses romans les plus célèbres sont « Ensaio sobre a Cegueira » (L'Aveuglement), « O Memorial do Convento » (Le Dieu manchot) et « O Evangelho segundo Jesus Cristo ». Son style est unique : il n'utilise presque pas de points, remplace les guillemets par des virgules et écrit de très longues phrases. Communiste convaincu, athée provocateur, il a quitté le Portugal pour Lanzarote (Canaries) en 1992 après une censure de son roman sur l'Évangile. Malgré cela, il reste vénéré au Portugal et sa fondation est à Lisbonne.",
+      "content_pt": "José Saramago (1922-2010) é o único autor de língua portuguesa a ter recebido o Prémio Nobel da Literatura (1998). Os seus romances mais célebres são «Ensaio sobre a Cegueira», «O Memorial do Convento» e «O Evangelho segundo Jesus Cristo». O seu estilo é único: quase não usa pontos finais, substitui as aspas por vírgulas e escreve frases muito longas. Comunista convicto, ateu provocador, deixou Portugal rumo a Lanzarote (Canárias) em 1992 após uma censura do seu romance sobre o Evangelho. Apesar disso, continua venerado em Portugal e a sua fundação está em Lisboa.",
+      "key_vocabulary": [
+        { "pt": "o romance", "fr": "le roman" },
+        { "pt": "o prémio", "fr": "le prix" },
+        { "pt": "a cegueira", "fr": "l'aveuglement / la cécité" },
+        { "pt": "o escritor", "fr": "l'écrivain" },
+        { "pt": "a literatura", "fr": "la littérature" }
+      ],
+      "fun_fact": "Saramago n'a publié son premier roman qu'à 25 ans, puis n'a plus rien écrit pendant 18 ans. Sa carrière littéraire n'a vraiment décollé qu'après ses 60 ans."
+    },
+    {
+      "id": "cult-019",
+      "title": "Le football : religion nationale",
+      "level": "B1",
+      "category": "daily_life",
+      "content_fr": "Le football (futebol) est une passion nationale au Portugal. Les trois grands clubs (os três grandes) sont le SL Benfica (Lisbonne), le FC Porto et le Sporting CP (Lisbonne). La rivalité entre eux structure la vie sociale : on vous demandera très vite « De que clube és? ». Benfica est le club le plus populaire, le Porto domine au niveau européen, et le Sporting est le club formateur par excellence (Cristiano Ronaldo y a été formé). La sélection nationale (Seleção) a gagné l'Euro 2016 en France et la première Ligue des Nations en 2019. Eusébio (1942-2014), surnommé la « Panthère noire », est considéré comme le plus grand joueur portugais avant Cristiano Ronaldo.",
+      "content_pt": "O futebol é uma paixão nacional em Portugal. Os três grandes clubes são o SL Benfica (Lisboa), o FC Porto e o Sporting CP (Lisboa). A rivalidade entre eles estrutura a vida social: vão perguntar-lhe muito rapidamente «De que clube és?». O Benfica é o clube mais popular, o Porto domina a nível europeu e o Sporting é o clube formador por excelência (Cristiano Ronaldo formou-se lá). A Seleção Nacional ganhou o Euro 2016 em França e a primeira Liga das Nações em 2019. Eusébio (1942-2014), apelidado de «Pantera Negra», é considerado o maior jogador português antes de Cristiano Ronaldo.",
+      "key_vocabulary": [
+        { "pt": "o futebol", "fr": "le football" },
+        { "pt": "o clube", "fr": "le club" },
+        { "pt": "o jogo", "fr": "le match" },
+        { "pt": "o estádio", "fr": "le stade" },
+        { "pt": "a seleção", "fr": "l'équipe nationale" }
+      ],
+      "fun_fact": "Au Portugal, quand le Benfica perd un match important, l'humeur de toute la ville de Lisbonne change le lendemain. Les conversations dans les cafés tournent exclusivement autour du match."
+    },
+    {
+      "id": "cult-020",
+      "title": "Le liège : or vert du Portugal",
+      "level": "B1",
+      "category": "geography",
+      "content_fr": "Le Portugal est le premier producteur mondial de liège (cortiça), avec plus de 50% de la production mondiale. Les forêts de chênes-lièges (sobreiros) couvrent l'Alentejo et sont protégées par la loi — il est interdit d'abattre un sobreiro. L'écorce est récoltée à la main tous les 9 ans, sans abîmer l'arbre. Le liège sert aux bouchons de vin, mais le Portugal a innové : sacs à main, portefeuilles, parapluies, vêtements et même des revêtements de sol en liège. La marque portugaise « Cork » exporte dans le monde entier. Le liège est aussi écologique : les forêts de sobreiros absorbent d'énormes quantités de CO2.",
+      "content_pt": "Portugal é o primeiro produtor mundial de cortiça, com mais de 50% da produção mundial. As florestas de sobreiros cobrem o Alentejo e são protegidas por lei — é proibido abater um sobreiro. A casca é colhida à mão de 9 em 9 anos, sem danificar a árvore. A cortiça serve para rolhas de vinho, mas Portugal inovou: malas, carteiras, guarda-chuvas, roupa e até revestimentos de chão em cortiça. A marca portuguesa «Cork» exporta para o mundo inteiro. A cortiça é também ecológica: as florestas de sobreiros absorvem enormes quantidades de CO2.",
+      "key_vocabulary": [
+        { "pt": "a cortiça", "fr": "le liège" },
+        { "pt": "o sobreiro", "fr": "le chêne-liège" },
+        { "pt": "a rolha", "fr": "le bouchon" },
+        { "pt": "a floresta", "fr": "la forêt" },
+        { "pt": "colher", "fr": "récolter" }
+      ],
+      "fun_fact": "Chaque sobreiro reçoit un numéro peint sur son tronc indiquant l'année de la dernière récolte. Si vous voyez un « 3 » peint en blanc sur un tronc, cela signifie que l'écorce a été récoltée en 2023."
+    },
+    {
+      "id": "cult-021",
+      "title": "Le surf à Nazaré et la côte portugaise",
+      "level": "B2",
+      "category": "geography",
+      "content_fr": "Nazaré est devenue la capitale mondiale du surf de grosses vagues grâce au canyon sous-marin de Nazaré, le plus grand d'Europe, qui amplifie les houles atlantiques et crée des vagues pouvant dépasser 30 mètres. C'est à Nazaré que les records du monde de la plus grande vague surfée sont régulièrement battus. Le surfeur brésilien Rodrigo Koxa puis l'Allemand Sebastian Steudtner y ont établi des records. Mais le Portugal offre aussi Ericeira (réserve mondiale de surf), Peniche (Supertubos, étape du World Surf League), et la côte vicentine en Algarve. Le surf est devenu un pilier économique et culturel, attirant des milliers de nomades numériques et transformant des villages de pêcheurs en spots branchés.",
+      "content_pt": "Nazaré tornou-se a capital mundial do surf de ondas grandes graças ao canhão submarino da Nazaré, o maior da Europa, que amplifica as ondulações atlânticas e cria ondas que podem ultrapassar 30 metros. É na Nazaré que os recordes mundiais da maior onda surfada são regularmente batidos. O surfista brasileiro Rodrigo Koxa e depois o alemão Sebastian Steudtner estabeleceram recordes lá. Mas Portugal oferece também Ericeira (reserva mundial de surf), Peniche (Supertubos, etapa do World Surf League) e a costa vicentina no Algarve. O surf tornou-se um pilar económico e cultural, atraindo milhares de nómadas digitais e transformando aldeias piscatórias em spots na moda.",
+      "key_vocabulary": [
+        { "pt": "a onda", "fr": "la vague" },
+        { "pt": "o surfista", "fr": "le surfeur" },
+        { "pt": "o canhão submarino", "fr": "le canyon sous-marin" },
+        { "pt": "a praia", "fr": "la plage" },
+        { "pt": "a aldeia piscatória", "fr": "le village de pêcheurs" }
+      ],
+      "fun_fact": "Avant de devenir célèbre pour le surf, Nazaré était connue pour ses pêcheurs et ses femmes en « sete saias » (sept jupes superposées), tradition vestimentaire aujourd'hui presque disparue."
+    },
+    {
+      "id": "cult-022",
+      "title": "Lisbonne, hub technologique européen",
+      "level": "B2",
+      "category": "daily_life",
+      "content_fr": "Depuis les années 2010, Lisbonne s'est transformée en hub technologique majeur en Europe. Le Web Summit, le plus grand événement tech au monde, s'y tient depuis 2016 au Parque das Nações. Des milliers de startups ont élu domicile à Lisbonne, attirées par le coût de vie raisonnable, le climat, la qualité de vie et des avantages fiscaux comme le régime des résidents non habituels (RNH). Des entreprises comme Farfetch, OutSystems et Talkdesk sont des licornes portugaises. L'écosystème tech est concentré autour du Hub Criativo do Beato et de la Factory Lisbon. Cependant, cette transformation a aussi provoqué une crise du logement et une gentrification qui touche durement les habitants locaux.",
+      "content_pt": "Desde os anos 2010, Lisboa transformou-se num hub tecnológico importante na Europa. O Web Summit, o maior evento tech do mundo, realiza-se lá desde 2016 no Parque das Nações. Milhares de startups instalaram-se em Lisboa, atraídas pelo custo de vida razoável, o clima, a qualidade de vida e vantagens fiscais como o regime dos residentes não habituais (RNH). Empresas como a Farfetch, OutSystems e Talkdesk são unicórnios portugueses. O ecossistema tech está concentrado no Hub Criativo do Beato e na Factory Lisbon. Contudo, esta transformação provocou também uma crise habitacional e uma gentrificação que afeta duramente os habitantes locais.",
+      "key_vocabulary": [
+        { "pt": "a empresa", "fr": "l'entreprise" },
+        { "pt": "o custo de vida", "fr": "le coût de la vie" },
+        { "pt": "o alojamento", "fr": "le logement" },
+        { "pt": "a gentrificação", "fr": "la gentrification" },
+        { "pt": "o empreendedorismo", "fr": "l'entrepreneuriat" }
+      ],
+      "fun_fact": "Le Web Summit attire chaque année plus de 70 000 participants à Lisbonne. L'événement a un tel impact que les prix des hôtels triplent pendant la semaine du sommet."
+    },
+    {
+      "id": "cult-023",
+      "title": "L'importance de la famille",
+      "level": "B2",
+      "category": "daily_life",
+      "content_fr": "La famille (família) est le pilier central de la société portugaise. Les repas du dimanche en famille sont sacrés — on se retrouve chez les grands-parents pour un long déjeuner qui dure tout l'après-midi. Les enfants vivent souvent chez leurs parents jusqu'au mariage ou au-delà de 25-30 ans, sans stigmatisation sociale. Les grands-parents jouent un rôle actif dans l'éducation des petits-enfants, surtout en milieu rural. Le concept de « família alargada » (famille élargie) est vivace : oncles, tantes, cousins se voient régulièrement. Les fêtes familiales (baptêmes, mariages, anniversaires) sont des événements majeurs avec de nombreux invités. Cette structure familiale forte est aussi un filet de sécurité sociale informel dans un pays aux salaires modestes.",
+      "content_pt": "A família é o pilar central da sociedade portuguesa. Os almoços de domingo em família são sagrados — encontram-se em casa dos avós para um longo almoço que dura toda a tarde. Os filhos vivem frequentemente em casa dos pais até ao casamento ou para além dos 25-30 anos, sem estigma social. Os avós desempenham um papel ativo na educação dos netos, sobretudo em meio rural. O conceito de «família alargada» é vivo: tios, primos veem-se regularmente. As festas familiares (batizados, casamentos, aniversários) são eventos importantes com muitos convidados. Esta estrutura familiar forte é também uma rede de segurança social informal num país de salários modestos.",
+      "key_vocabulary": [
+        { "pt": "a família", "fr": "la famille" },
+        { "pt": "os avós", "fr": "les grands-parents" },
+        { "pt": "os netos", "fr": "les petits-enfants" },
+        { "pt": "o almoço de domingo", "fr": "le déjeuner du dimanche" },
+        { "pt": "o casamento", "fr": "le mariage" }
+      ],
+      "fun_fact": "Le Portugal a l'un des taux les plus élevés d'Europe de jeunes adultes vivant chez leurs parents : environ 60% des 18-34 ans. Ce n'est pas vu comme un échec mais comme une normalité culturelle."
+    },
+    {
+      "id": "cult-024",
+      "title": "Eça de Queirós et le réalisme portugais",
+      "level": "B2",
+      "category": "literature",
+      "content_fr": "José Maria de Eça de Queirós (1845-1900) est le grand romancier réaliste portugais, souvent comparé à Flaubert ou Zola. Ses romans sont des critiques acerbes de la société portugaise bourgeoise du XIXe siècle. « Os Maias » est considéré comme le plus grand roman portugais : l'histoire de trois générations d'une famille lisboète, mêlant drame familial, satire sociale et tragédie incestueuse. « O Crime do Padre Amaro » (Le Crime du Père Amaro) attaque l'hypocrisie religieuse. « A Cidade e as Serras » oppose la sophistication parisienne à la simplicité de la campagne portugaise. Son style ironique et élégant reste très moderne. Eça est au Portugal ce que Balzac est à la France.",
+      "content_pt": "José Maria de Eça de Queirós (1845-1900) é o grande romancista realista português, frequentemente comparado a Flaubert ou Zola. Os seus romances são críticas ferozes da sociedade portuguesa burguesa do século XIX. «Os Maias» é considerado o maior romance português: a história de três gerações de uma família lisboeta, misturando drama familiar, sátira social e tragédia incestuosa. «O Crime do Padre Amaro» ataca a hipocrisia religiosa. «A Cidade e as Serras» opõe a sofisticação parisiense à simplicidade do campo português. O seu estilo irónico e elegante continua muito moderno. Eça está para Portugal como Balzac está para França.",
+      "key_vocabulary": [
+        { "pt": "o romancista", "fr": "le romancier" },
+        { "pt": "a sociedade", "fr": "la société" },
+        { "pt": "a crítica", "fr": "la critique" },
+        { "pt": "a burguesia", "fr": "la bourgeoisie" },
+        { "pt": "a hipocrisia", "fr": "l'hypocrisie" }
+      ],
+      "fun_fact": "La statue d'Eça de Queirós à Lisbonne montre une femme nue enlacée par un voile — elle est si populaire que les étudiants la décorent régulièrement. La plaque dit « Sur la nudité forte de la vérité, le manteau diaphane de la fantaisie »."
+    },
+    {
+      "id": "cult-025",
+      "title": "Les azulejos : l'art des carreaux de faïence",
+      "level": "B2",
+      "category": "traditions",
+      "content_fr": "Les azulejos sont les carreaux de faïence peinte qui recouvrent les façades, les églises, les gares et les intérieurs au Portugal. Introduits par les Maures (le mot vient de l'arabe « az-zulayj », pierre polie), ils ont été adoptés et transformés par les Portugais en art national. Au XVIIIe siècle, les panneaux bleu et blanc à la mode néerlandaise sont devenus emblématiques. La gare de São Bento à Porto est couverte de 20 000 azulejos racontant l'histoire du Portugal. Le Musée National de l'Azulejo à Lisbonne, installé dans un ancien couvent, retrace cinq siècles de cet art. Aujourd'hui, des artistes contemporains comme Add Fuel réinventent l'azulejo avec un style street art.",
+      "content_pt": "Os azulejos são os ladrilhos de faiança pintada que cobrem fachadas, igrejas, estações e interiores em Portugal. Introduzidos pelos mouros (a palavra vem do árabe «az-zulayj», pedra polida), foram adotados e transformados pelos portugueses em arte nacional. No século XVIII, os painéis azuis e brancos à moda holandesa tornaram-se emblemáticos. A estação de São Bento no Porto está coberta de 20 000 azulejos que contam a história de Portugal. O Museu Nacional do Azulejo em Lisboa, instalado num antigo convento, percorre cinco séculos desta arte. Hoje, artistas contemporâneos como Add Fuel reinventam o azulejo com um estilo street art.",
+      "key_vocabulary": [
+        { "pt": "o azulejo", "fr": "le carreau de faïence" },
+        { "pt": "a fachada", "fr": "la façade" },
+        { "pt": "o painel", "fr": "le panneau" },
+        { "pt": "a estação", "fr": "la gare" },
+        { "pt": "a arte", "fr": "l'art" }
+      ],
+      "fun_fact": "Le vol d'azulejos anciens est un vrai problème au Portugal. Des bandes organisées arrachent des panneaux centenaires des façades pour les vendre à des collectionneurs. Une brigade spéciale de la police a été créée pour lutter contre ce fléau."
+    },
+    {
+      "id": "cult-026",
+      "title": "Le système politique portugais contemporain",
+      "level": "C1",
+      "category": "history",
+      "content_fr": "Le Portugal est une république semi-présidentielle depuis 1976. Le Président de la République (Presidente da República) est élu au suffrage universel pour 5 ans et a un rôle surtout symbolique, mais peut dissoudre l'Assemblée. Le Premier ministre (Primeiro-Ministro) dirige le gouvernement. L'Assemblée de la République (Assembleia da República) compte 230 députés. Les principaux partis sont le PS (Parti Socialiste, centre-gauche), le PSD (Parti Social-Démocrate, centre-droit — malgré son nom), le Chega (extrême droite, en forte croissance), le PCP (communistes), le BE (Bloco de Esquerda, gauche radicale) et la IL (Initiative Libérale). Le Portugal a été longtemps considéré comme un pays politiquement stable et modéré, mais la montée du Chega depuis 2019 a bouleversé le paysage politique.",
+      "content_pt": "Portugal é uma república semipresidencialista desde 1976. O Presidente da República é eleito por sufrágio universal para 5 anos e tem um papel sobretudo simbólico, mas pode dissolver a Assembleia. O Primeiro-Ministro dirige o governo. A Assembleia da República tem 230 deputados. Os principais partidos são o PS (Partido Socialista, centro-esquerda), o PSD (Partido Social-Democrata, centro-direita — apesar do nome), o Chega (extrema-direita, em forte crescimento), o PCP (comunistas), o BE (Bloco de Esquerda, esquerda radical) e a IL (Iniciativa Liberal). Portugal foi durante muito tempo considerado um país politicamente estável e moderado, mas a ascensão do Chega desde 2019 alterou o panorama político.",
+      "key_vocabulary": [
+        { "pt": "a república", "fr": "la république" },
+        { "pt": "o deputado", "fr": "le député" },
+        { "pt": "as eleições", "fr": "les élections" },
+        { "pt": "o partido", "fr": "le parti" },
+        { "pt": "o governo", "fr": "le gouvernement" }
+      ],
+      "fun_fact": "Le Président Marcelo Rebelo de Sousa est connu pour ses bains de foule et ses selfies avec les citoyens. Il est surnommé « Marcelo » par tout le pays — un niveau de proximité impensable en France."
+    },
+    {
+      "id": "cult-027",
+      "title": "La gentrification de Lisbonne et la crise du logement",
+      "level": "C1",
+      "category": "daily_life",
+      "content_fr": "Depuis 2015, Lisbonne a connu une transformation radicale due au tourisme de masse, aux visas dorés (Golden Visa), au régime fiscal des résidents non habituels (RNH) et à l'explosion d'Airbnb. Les quartiers historiques comme Alfama, Graça et Mouraria se sont vidés de leurs habitants locaux, remplacés par des locations touristiques. Les loyers ont explosé : de 400€ en 2015 à plus de 1200€ pour un T1 en 2024. Beaucoup de Lisboètes ont été poussés vers la banlieue (Amadora, Odivelas, Margem Sul). Le débat est vif : le tourisme a rénové la ville mais l'a rendue invivable pour ses habitants. Le gouvernement a fini par suspendre les Golden Visas en 2023 et limiter les Airbnb, mais les effets restent controversés.",
+      "content_pt": "Desde 2015, Lisboa conheceu uma transformação radical devido ao turismo de massa, aos vistos dourados (Golden Visa), ao regime fiscal dos residentes não habituais (RNH) e à explosão do Airbnb. Bairros históricos como Alfama, Graça e Mouraria perderam os seus habitantes locais, substituídos por alojamentos turísticos. As rendas dispararam: de 400€ em 2015 para mais de 1200€ por um T1 em 2024. Muitos lisboetas foram empurrados para a periferia (Amadora, Odivelas, Margem Sul). O debate é intenso: o turismo renovou a cidade mas tornou-a inabitável para os seus habitantes. O governo acabou por suspender os Golden Visas em 2023 e limitar o Airbnb, mas os efeitos continuam controversos.",
+      "key_vocabulary": [
+        { "pt": "a renda", "fr": "le loyer" },
+        { "pt": "o alojamento local", "fr": "la location touristique" },
+        { "pt": "o visto dourado", "fr": "le visa doré" },
+        { "pt": "a periferia", "fr": "la banlieue" },
+        { "pt": "o turismo de massa", "fr": "le tourisme de masse" }
+      ],
+      "fun_fact": "Dans certaines rues d'Alfama, 80% des appartements sont désormais des Airbnb. Les rares habitants restants se plaignent du bruit des valises à roulettes sur les pavés à 3h du matin."
+    },
+    {
+      "id": "cult-028",
+      "title": "Les retornados et la diaspora portugaise",
+      "level": "C1",
+      "category": "history",
+      "content_fr": "Après la Révolution des Œillets et la décolonisation (1974-1975), environ 500 000 à 800 000 Portugais d'Afrique (retornados) sont revenus au Portugal en quelques mois, fuyant l'Angola, le Mozambique et d'autres anciennes colonies. Cette arrivée massive dans un pays de 9 millions d'habitants a été un choc démographique et social immense, mais le Portugal les a intégrés sans violence. La diaspora portugaise est l'une des plus importantes au monde : environ 5 millions de Portugais et descendants vivent à l'étranger (France, Brésil, Suisse, Luxembourg, Canada, USA, Afrique du Sud). L'émigration, d'abord économique sous Salazar, continue aujourd'hui avec les jeunes diplômés partant vers l'Europe du Nord.",
+      "content_pt": "Após a Revolução dos Cravos e a descolonização (1974-1975), cerca de 500 000 a 800 000 portugueses de África (retornados) regressaram a Portugal em poucos meses, fugindo de Angola, Moçambique e outras antigas colónias. Esta chegada massiva a um país de 9 milhões de habitantes foi um choque demográfico e social imenso, mas Portugal integrou-os sem violência. A diáspora portuguesa é uma das maiores do mundo: cerca de 5 milhões de portugueses e descendentes vivem no estrangeiro (França, Brasil, Suíça, Luxemburgo, Canadá, EUA, África do Sul). A emigração, primeiro económica sob Salazar, continua hoje com jovens licenciados que partem para o norte da Europa.",
+      "key_vocabulary": [
+        { "pt": "os retornados", "fr": "les rapatriés des colonies" },
+        { "pt": "a diáspora", "fr": "la diaspora" },
+        { "pt": "a descolonização", "fr": "la décolonisation" },
+        { "pt": "a emigração", "fr": "l'émigration" },
+        { "pt": "o estrangeiro", "fr": "l'étranger" }
+      ],
+      "fun_fact": "Le Luxembourg a une si grande communauté portugaise (16% de la population) que le portugais y est la deuxième langue la plus parlée. Il y a même des journaux et des radios en portugais au Luxembourg."
+    },
+    {
+      "id": "cult-029",
+      "title": "L'architecture manuéline",
+      "level": "C1",
+      "category": "traditions",
+      "content_fr": "Le style manuélin (estilo manuelino) est un style architectural unique au Portugal, développé sous le règne de Manuel Ier (1495-1521), à l'apogée des Découvertes. Il mêle le gothique tardif à des éléments maritimes et naturalistes : cordes torsadées sculptées dans la pierre, sphères armillaires, croix de l'Ordre du Christ, algues, coquillages et ancres. Les chefs-d'œuvre manuélins sont le Mosteiro dos Jerónimos et la Torre de Belém à Lisbonne, le Convento de Cristo à Tomar (dont la célèbre fenêtre de la salle capitulaire) et le Mosteiro da Batalha. La fenêtre du Convento de Cristo est si ornée qu'elle est considérée comme le sommet de l'art manuélin. Ce style n'existe nulle part ailleurs au monde.",
+      "content_pt": "O estilo manuelino é um estilo arquitetónico único de Portugal, desenvolvido durante o reinado de D. Manuel I (1495-1521), no auge dos Descobrimentos. Mistura o gótico tardio com elementos marítimos e naturalistas: cordas torcidas esculpidas em pedra, esferas armilares, cruzes da Ordem de Cristo, algas, conchas e âncoras. As obras-primas manuelinas são o Mosteiro dos Jerónimos e a Torre de Belém em Lisboa, o Convento de Cristo em Tomar (com a célebre janela da sala do capítulo) e o Mosteiro da Batalha. A janela do Convento de Cristo é tão ornamentada que é considerada o auge da arte manuelina. Este estilo não existe em mais nenhum lugar do mundo.",
+      "key_vocabulary": [
+        { "pt": "o estilo manuelino", "fr": "le style manuélin" },
+        { "pt": "a esfera armilar", "fr": "la sphère armillaire" },
+        { "pt": "o mosteiro", "fr": "le monastère" },
+        { "pt": "a escultura", "fr": "la sculpture" },
+        { "pt": "o reinado", "fr": "le règne" }
+      ],
+      "fun_fact": "La sphère armillaire, symbole du style manuélin, figure encore aujourd'hui sur le drapeau portugais. C'était un instrument de navigation essentiel pour les navigateurs portugais."
+    },
+    {
+      "id": "cult-030",
+      "title": "Les médias portugais : presse, TV et podcasts",
+      "level": "C1",
+      "category": "daily_life",
+      "content_fr": "Le paysage médiatique portugais est dominé par quelques groupes. En presse, les principaux quotidiens sont le Público (qualité, centre-gauche), le Diário de Notícias (historique, généraliste), le Jornal de Notícias (populaire, Porto) et le Expresso (hebdomadaire de référence). La télévision reste le média dominant : RTP (publique), SIC et TVI (privées). Les telenovelas portugaises (et brésiliennes doublées) ont une audience énorme. En radio, la TSF est la radio d'information de référence, et la Antena 3 cible les jeunes. Le podcasting est en plein essor : « Bom Dia Bic Laranja » (actualité), « P24 » (du Público) et « Boa Cama, Boa Mesa » (gastronomie) sont parmi les plus écoutés. Pour progresser en portugais, écouter la TSF ou le podcast P24 quotidiennement est excellent.",
+      "content_pt": "A paisagem mediática portuguesa é dominada por alguns grupos. Na imprensa, os principais diários são o Público (qualidade, centro-esquerda), o Diário de Notícias (histórico, generalista), o Jornal de Notícias (popular, Porto) e o Expresso (semanário de referência). A televisão continua a ser o meio dominante: RTP (pública), SIC e TVI (privadas). As telenovelas portuguesas (e brasileiras dobradas) têm uma audiência enorme. Na rádio, a TSF é a rádio de informação de referência e a Antena 3 dirige-se aos jovens. O podcasting está em pleno crescimento: «Bom Dia Bic Laranja» (atualidade), «P24» (do Público) e «Boa Cama, Boa Mesa» (gastronomia) são dos mais ouvidos. Para progredir em português, ouvir a TSF ou o podcast P24 diariamente é excelente.",
+      "key_vocabulary": [
+        { "pt": "o jornal", "fr": "le journal" },
+        { "pt": "a imprensa", "fr": "la presse" },
+        { "pt": "as notícias", "fr": "les nouvelles" },
+        { "pt": "a televisão", "fr": "la télévision" },
+        { "pt": "a rádio", "fr": "la radio" }
+      ],
+      "fun_fact": "Les telenovelas brésiliennes diffusées au Portugal sont doublées en portugais européen — ce qui crée parfois des situations cocasses, car les expressions brésiliennes traduites littéralement en européen sonnent très bizarrement."
+    },
+    {
+      "id": "cult-031",
+      "title": "Relations avec les anciennes colonies et la lusophonie",
+      "level": "C1",
+      "category": "history",
+      "content_fr": "Le Portugal entretient des relations complexes avec ses anciennes colonies. La CPLP (Comunidade dos Países de Língua Portuguesa) regroupe 9 pays lusophones : Portugal, Brésil, Angola, Mozambique, Cap-Vert, Guinée-Bissau, São Tomé-et-Príncipe, Timor-Est et Guinée équatoriale. Le portugais est la 6e langue la plus parlée au monde (260 millions de locuteurs). Les relations avec le Brésil sont teintées d'un complexe d'infériorité/supériorité : le Portugal est l'ancien colonisateur mais le Brésil est devenu bien plus grand et puissant. Avec l'Angola, les liens économiques sont forts (pétrole, construction). Le débat sur le passé colonial (esclavage, exploitation) émerge lentement au Portugal, pays longtemps dans le déni grâce au mythe du « colonialisme doux » (luso-tropicalisme de Gilberto Freyre).",
+      "content_pt": "Portugal mantém relações complexas com as suas antigas colónias. A CPLP (Comunidade dos Países de Língua Portuguesa) reúne 9 países lusófonos: Portugal, Brasil, Angola, Moçambique, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe, Timor-Leste e Guiné Equatorial. O português é a 6.ª língua mais falada no mundo (260 milhões de falantes). As relações com o Brasil são marcadas por um complexo de inferioridade/superioridade: Portugal é o antigo colonizador, mas o Brasil tornou-se muito maior e mais poderoso. Com Angola, os laços económicos são fortes (petróleo, construção). O debate sobre o passado colonial (escravatura, exploração) emerge lentamente em Portugal, país durante muito tempo em negação graças ao mito do «colonialismo suave» (luso-tropicalismo de Gilberto Freyre).",
+      "key_vocabulary": [
+        { "pt": "a lusofonia", "fr": "la lusophonie" },
+        { "pt": "a colónia", "fr": "la colonie" },
+        { "pt": "a escravatura", "fr": "l'esclavage" },
+        { "pt": "a independência", "fr": "l'indépendance" },
+        { "pt": "a língua materna", "fr": "la langue maternelle" }
+      ],
+      "fun_fact": "L'Accord orthographique de 1990, censé unifier l'orthographe entre le Portugal et le Brésil, reste très controversé au Portugal. Beaucoup de Portugais refusent de l'appliquer et continuent à écrire « à l'ancienne »."
+    },
+    {
+      "id": "cult-032",
+      "title": "Tension tradition et modernité : l'exode rural",
+      "level": "C1",
+      "category": "daily_life",
+      "content_fr": "Le Portugal connaît un contraste saisissant entre un littoral dynamique et modernisé et un intérieur qui se vide. L'exode rural a dépeuplé l'Alentejo, le Trás-os-Montes et la Beira Interior. Des villages entiers sont abandonnés (aldeias abandonadas). La population portugaise vieillit rapidement : c'est l'un des pays les plus âgés d'Europe avec un taux de natalité très bas (1,4 enfant par femme). Parallèlement, Lisbonne et Porto se sont mondialisées, avec une scène culturelle vibrante, des restaurants étoilés et une vie nocturne intense. Ce dualisme crée des tensions : les jeunes quittent l'intérieur faute de travail et de services, tandis que le tourisme rural (turismo rural) et les nomades numériques tentent timidement de repeupler certaines zones. Le programme « Regressar » tente d'attirer les émigrants de retour avec des aides fiscales.",
+      "content_pt": "Portugal conhece um contraste impressionante entre um litoral dinâmico e modernizado e um interior que se esvazia. O êxodo rural despovoou o Alentejo, Trás-os-Montes e a Beira Interior. Aldeias inteiras estão abandonadas. A população portuguesa envelhece rapidamente: é um dos países mais envelhecidos da Europa com uma taxa de natalidade muito baixa (1,4 filhos por mulher). Paralelamente, Lisboa e Porto globalizaram-se, com uma cena cultural vibrante, restaurantes com estrela e uma vida noturna intensa. Este dualismo cria tensões: os jovens deixam o interior por falta de trabalho e serviços, enquanto o turismo rural e os nómadas digitais tentam timidamente repovoar certas zonas. O programa «Regressar» tenta atrair emigrantes de volta com ajudas fiscais.",
+      "key_vocabulary": [
+        { "pt": "o êxodo rural", "fr": "l'exode rural" },
+        { "pt": "o envelhecimento", "fr": "le vieillissement" },
+        { "pt": "a aldeia abandonada", "fr": "le village abandonné" },
+        { "pt": "o interior", "fr": "l'intérieur du pays" },
+        { "pt": "o litoral", "fr": "le littoral" }
+      ],
+      "fun_fact": "En 2017, les feux de forêt catastrophiques de Pedrógão Grande ont tué 66 personnes et mis en lumière le problème de l'abandon de l'intérieur : des forêts mal entretenues faute d'habitants pour les gérer."
+    }
+  ]
+}

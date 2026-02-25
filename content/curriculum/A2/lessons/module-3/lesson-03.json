@@ -1,0 +1,83 @@
+{
+  "id": "a2-m3-l03",
+  "title": "Chez le médecin",
+  "type": "conversation",
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Prendre un rendez-vous médical en portugais",
+    "Décrire ses symptômes au médecin",
+    "Comprendre les instructions et prescriptions du médecin"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La consultation médicale",
+      "content": "<p>Savoir communiquer chez le médecin (<strong>o médico</strong>) est vital quand on vit au Portugal. Le système de santé portugais comprend le <strong>centro de saúde</strong> (centre de santé / médecin généraliste) et les <strong>hospitais</strong> (hôpitaux). Les urgences se disent <em>urgências</em>.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Vocabulaire de la consultation",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td><strong>a consulta</strong></td><td>la consultation</td></tr><tr><td><strong>o/a médico/a</strong></td><td>le/la médecin</td></tr><tr><td><strong>a receita (médica)</strong></td><td>l'ordonnance</td></tr><tr><td><strong>o exame</strong></td><td>l'examen</td></tr><tr><td><strong>o sintoma</strong></td><td>le symptôme</td></tr><tr><td><strong>a febre</strong></td><td>la fièvre</td></tr><tr><td><strong>a gripe</strong></td><td>la grippe</td></tr><tr><td><strong>a constipação</strong></td><td>le rhume (faux ami !)</td></tr><tr><td><strong>a análise (de sangue)</strong></td><td>l'analyse (de sang)</td></tr><tr><td><strong>a tensão arterial</strong></td><td>la tension artérielle</td></tr></tbody></table><p><strong>Rappel important</strong> : <em>constipação</em> = <strong>rhume</strong> en portugais européen, PAS constipation !</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Dialogue modèle chez le médecin",
+      "content": "<blockquote><p><strong>Médica</strong>: Bom dia! O que é que se passa?<br/><strong>Paciente</strong>: Bom dia, doutora. Não me sinto bem. Dói-me muito a garganta e tenho febre desde ontem.<br/><strong>Médica</strong>: Tem mais algum sintoma? Tosse, dores de cabeça?<br/><strong>Paciente</strong>: Sim, também tenho tosse e o nariz entupido.<br/><strong>Médica</strong>: Há quanto tempo tem estes sintomas?<br/><strong>Paciente</strong>: Há dois dias.<br/><strong>Médica</strong>: Vou ver a sua garganta. Abra a boca, por favor... Está inflamada. Tem uma constipação forte. Vou passar uma receita.<br/><strong>Paciente</strong>: É grave, doutora?<br/><strong>Médica</strong>: Não, não é grave. Tome o medicamento três vezes ao dia durante cinco dias. Descanse e beba muita água.<br/><strong>Paciente</strong>: Obrigado, doutora.</p></blockquote>"
+    },
+    {
+      "type": "practice",
+      "title": "Phrases utiles chez le médecin",
+      "content": "<p><strong>Pour décrire vos symptômes :</strong></p><ul><li><em>Não me sinto bem.</em> (Je ne me sens pas bien.)</li><li><em>Dói-me aqui.</em> [en montrant] (J'ai mal ici.)</li><li><em>Tenho febre / tosse / dores.</em> (J'ai de la fièvre / toux / douleurs.)</li><li><em>Há três dias que estou assim.</em> (Cela fait trois jours que je suis comme ça.)</li></ul><p><strong>Pour poser des questions :</strong></p><ul><li><em>É grave?</em> (C'est grave ?)</li><li><em>Preciso de fazer exames?</em> (J'ai besoin de faire des examens ?)</li><li><em>Posso tomar alguma coisa para a dor?</em> (Puis-je prendre quelque chose pour la douleur ?)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Simuler une consultation",
+      "content": "<p>Imaginez que vous allez chez le médecin avec ces symptômes : maux de tête, fièvre, fatigue. Préparez un mini-dialogue où vous :</p><ol><li>Saluez le médecin</li><li>Décrivez vos symptômes</li><li>Précisez depuis quand</li><li>Posez une question</li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment le médecin demande-t-il 'Qu'est-ce qui se passe ?' ?",
+      "correctAnswer": "O que é que se passa?",
+      "distractors": ["O que faz?", "Qual é o problema?", "Como está doente?"],
+      "explanation": "'O que é que se passa?' est la question standard du médecin pour demander ce qui ne va pas."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Há quanto ________ tem estes sintomas?",
+      "correctAnswer": "tempo",
+      "explanation": "'Há quanto tempo?' = Depuis combien de temps ? Question essentielle pour le médecin."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'ai un rhume, j'ai mal à la gorge.'",
+      "correctAnswer": "Tenho uma constipação, dói-me a garganta.",
+      "explanation": "'Constipação' = rhume en PT-PT (faux ami !). 'Dói-me a garganta' = j'ai mal à la gorge."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'a receita médica' ?",
+      "correctAnswer": "L'ordonnance",
+      "distractors": ["La recette de cuisine", "Le reçu médical", "Le remède"],
+      "explanation": "'Receita médica' = ordonnance. 'Receita' seul peut aussi signifier 'recette (de cuisine)'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tome o medicamento três vezes ao ________ durante cinco dias.",
+      "correctAnswer": "dia",
+      "explanation": "'Três vezes ao dia' = trois fois par jour. C'est une instruction courante sur les ordonnances."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "a consulta", "phonetic": "/kõˈsuɫtɐ/", "french": "la consultation"},
+    {"portuguese": "a receita", "phonetic": "/ʁɨˈsɐjtɐ/", "french": "l'ordonnance"},
+    {"portuguese": "o exame", "phonetic": "/iˈzɐmɨ/", "french": "l'examen"},
+    {"portuguese": "o sintoma", "phonetic": "/sĩˈtomɐ/", "french": "le symptôme"},
+    {"portuguese": "a gripe", "phonetic": "/ˈɡɾipɨ/", "french": "la grippe"},
+    {"portuguese": "a constipação", "phonetic": "/kõʃtipɐˈsɐ̃w/", "french": "le rhume"},
+    {"portuguese": "a análise de sangue", "phonetic": "/ɐˈnalizɨ dɨ ˈsɐ̃ɡɨ/", "french": "l'analyse de sang"},
+    {"portuguese": "o centro de saúde", "phonetic": "/ˈsɐ̃tɾu dɨ sɐˈudɨ/", "french": "le centre de santé"},
+    {"portuguese": "as urgências", "phonetic": "/uɾˈʒɐ̃sjɐʃ/", "french": "les urgences"}
+  ]
+}

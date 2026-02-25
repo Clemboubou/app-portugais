@@ -1,0 +1,84 @@
+{
+  "id": "a2-m4-l01",
+  "title": "Les transports a Lisbonne",
+  "type": "cultural",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Connaitre les principaux moyens de transport a Lisbonne",
+    "Utiliser le vocabulaire des transports en portugais europeen",
+    "Comprendre le systeme de transport lisboete (Viva Viagem, metro, electrico)"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Se deplacer a Lisbonne",
+      "content": "<p>Lisbonne dispose d'un reseau de transports en commun varie et efficace. Du celebre <strong>electrico 28</strong> au <strong>metro</strong> moderne, en passant par les <strong>autocarros</strong> (bus), les <strong>comboios</strong> (trains) et les <strong>ferries</strong> sur le Tage, decouvrons comment les Lisboetes se deplacent au quotidien.</p><p><strong>Attention</strong> : en portugais europeen, on dit <em>autocarro</em> (pas 'onibus') et <em>comboio</em> (pas 'trem').</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les moyens de transport",
+      "content": "<p>Voici les principaux transports a Lisbonne :</p><table><thead><tr><th>Portugais</th><th>Francais</th><th>Details</th></tr></thead><tbody><tr><td><strong>o electrico</strong></td><td>le tramway</td><td>Le 28E est le plus celebre, traversant l'Alfama</td></tr><tr><td><strong>o metro</strong></td><td>le metro</td><td>4 lignes : Azul, Amarela, Verde, Vermelha</td></tr><tr><td><strong>o autocarro</strong></td><td>le bus</td><td>Reseau Carris, couvre toute la ville</td></tr><tr><td><strong>o comboio</strong></td><td>le train</td><td>CP (Comboios de Portugal), gare de Santa Apolonia</td></tr><tr><td><strong>o barco / o cacilheiro</strong></td><td>le bateau / le ferry</td><td>Traverse le Tage vers Almada / Cacilhas</td></tr><tr><td><strong>o elevador</strong></td><td>l'ascenseur / funiculaire</td><td>Elevador da Gloria, da Bica, de Santa Justa</td></tr><tr><td><strong>o taxi</strong></td><td>le taxi</td><td>Taxis beiges ou noirs et verts</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Le titre de transport : Viva Viagem",
+      "content": "<p>Le <strong>cartao Viva Viagem</strong> est la carte de transport rechargeable de Lisbonne. Elle fonctionne sur tout le reseau Carris et Metro :</p><ul><li><em>Quero carregar o meu cartao Viva Viagem.</em> (Je veux recharger ma carte Viva Viagem.)</li><li><em>Quanto custa um bilhete simples?</em> (Combien coute un billet simple ?)</li><li><em>Onde posso comprar um passe mensal?</em> (Ou puis-je acheter un abonnement mensuel ?)</li><li><em>O passe Navegante custa quarenta euros por mes.</em> (Le passe Navegante coute quarante euros par mois.)</li></ul><p><strong>Note culturelle</strong> : Le <em>Navegante</em> est l'abonnement mensuel illimite pour toute la zone metropolitaine de Lisbonne.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Phrases utiles dans les transports",
+      "content": "<p>Pratiquez ces phrases courantes :</p><ul><li><em>Qual e a proxima paragem?</em> (Quel est le prochain arret ?)</li><li><em>Este autocarro vai para o Rossio?</em> (Ce bus va au Rossio ?)</li><li><em>A que horas parte o comboio para o Porto?</em> (A quelle heure part le train pour Porto ?)</li><li><em>Onde e a estacao de metro mais proxima?</em> (Ou est la station de metro la plus proche ?)</li><li><em>Tenho de fazer transbordo?</em> (Dois-je faire une correspondance ?)</li><li><em>Com licenca, posso passar?</em> (Pardon, puis-je passer ?)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Planifier un trajet",
+      "content": "<p>Vous etes a l'hotel dans le quartier de Baixa et voulez aller au Castelo de Sao Jorge. Decrivez votre trajet en utilisant les transports lisboetes :</p><p>Exemple : <em>Vou apanhar o electrico 28 na Praca do Comercio. A paragem do castelo e a terceira. A viagem demora cerca de dez minutos.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'bus' en portugais europeen ?",
+      "correctAnswer": "autocarro",
+      "distractors": ["onibus", "autobus", "camiao"],
+      "explanation": "En portugais europeen, on dit 'autocarro'. 'Onibus' est la forme bresilienne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A que horas parte o ________ para o Porto?",
+      "correctAnswer": "comboio",
+      "explanation": "'Comboio' signifie 'train' en portugais europeen (pas 'trem' qui est bresilien)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Ou est la station de metro la plus proche ?'",
+      "correctAnswer": "Onde e a estacao de metro mais proxima?",
+      "explanation": "'Estacao de metro' = station de metro. 'Mais proxima' = la plus proche."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le celebre tramway de Lisbonne qui traverse l'Alfama ?",
+      "correctAnswer": "Electrico 28",
+      "distractors": ["Metro Azul", "Elevador da Gloria", "Autocarro 100"],
+      "explanation": "L'Electrico 28 (tramway 28) est le plus celebre de Lisbonne, traversant les quartiers historiques dont l'Alfama."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quero carregar o meu ________ Viva Viagem.",
+      "correctAnswer": "cartao",
+      "explanation": "'Cartao' signifie 'carte'. Le cartao Viva Viagem est la carte rechargeable des transports de Lisbonne."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "o electrico", "phonetic": "/iˈlɛtɾiku/", "french": "le tramway"},
+    {"portuguese": "o metro", "phonetic": "/ˈmɛtɾu/", "french": "le metro"},
+    {"portuguese": "o autocarro", "phonetic": "/ˌawtukˈkaʁu/", "french": "le bus"},
+    {"portuguese": "o comboio", "phonetic": "/kõˈboju/", "french": "le train"},
+    {"portuguese": "a paragem", "phonetic": "/pɐˈɾaʒɐ̃j̃/", "french": "l'arret"},
+    {"portuguese": "a estacao", "phonetic": "/ɨʃtɐˈsɐ̃w̃/", "french": "la gare / station"},
+    {"portuguese": "o bilhete", "phonetic": "/biˈʎɛtɨ/", "french": "le billet"},
+    {"portuguese": "o cartao", "phonetic": "/kɐɾˈtɐ̃w̃/", "french": "la carte"},
+    {"portuguese": "o transbordo", "phonetic": "/tɾɐ̃ʒˈboɾdu/", "french": "la correspondance"},
+    {"portuguese": "apanhar", "phonetic": "/ɐpɐˈɲaɾ/", "french": "prendre (un transport)"}
+  ]
+}

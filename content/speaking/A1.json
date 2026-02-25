@@ -1,0 +1,162 @@
+[
+  {
+    "id": "s-a1-01",
+    "title": "Au café",
+    "level": "A1",
+    "description": "Commander une boisson au café",
+    "objectives": [
+      "Utiliser les verbes want et takeaux formes polies",
+      "Connaître le vocabulaire des boissons et aliments",
+      "Répondre à des questions simples"
+    ],
+    "scenario": "Vous êtes au café. Un serveur vous demande ce que vous désirez. Commandez une boisson et un gâteau. Demandez le prix.",
+    "conversation_starters": [
+      "Boa tarde! O que deseja?",
+      "Olá! Bem-vindo ao nosso café. Que vai ser?"
+    ],
+    "vocabulary": [
+      { "pt": "café", "fr": "café" },
+      { "pt": "chá", "fr": "thé" },
+      { "pt": "bolo", "fr": "gâteau" },
+      { "pt": "água", "fr": "eau" },
+      { "pt": "suco", "fr": "jus" },
+      { "pt": "com açúcar", "fr": "avec du sucre" },
+      { "pt": "sem açúcar", "fr": "sans sucre" },
+      { "pt": "quanto custa", "fr": "combien ça coûte" }
+    ],
+    "key_phrases": [
+      "Queria um café, por favor.",
+      "Um bolo de chocolate, se faz favor.",
+      "Quanto custa o café com leite?",
+      "Traz-me a conta, por favor."
+    ]
+  },
+  {
+    "id": "s-a1-02",
+    "title": "À l'hôtel",
+    "level": "A1",
+    "description": "Réserver une chambre ou demander des informations",
+    "objectives": [
+      "Demander une chambre avec spécificités",
+      "Comprendre les réponses sur les tarifs et disponibilités",
+      "Utiliser des formes polies pour les demandes"
+    ],
+    "scenario": "Vous arrivez à un hôtel à Lisbonne. Vous demandez une chambre pour deux personnes avec douche. Vous demandez le prix.",
+    "conversation_starters": [
+      "Boa noite. Bem-vindo ao Hotel Portugal. Como posso ajudar?",
+      "Olá! Procura um quarto?"
+    ],
+    "vocabulary": [
+      { "pt": "quarto", "fr": "chambre" },
+      { "pt": "cama", "fr": "lit" },
+      { "pt": "casa de banho", "fr": "salle de bain" },
+      { "pt": "duche", "fr": "douche" },
+      { "pt": "preço", "fr": "prix" },
+      { "pt": "por noite", "fr": "par nuit" },
+      { "pt": "hóspede", "fr": "client" },
+      { "pt": "janela", "fr": "fenêtre" }
+    ],
+    "key_phrases": [
+      "Gostava de um quarto para duas pessoas.",
+      "Com duche e janela, por favor.",
+      "Qual é o preço por noite?",
+      "Está bem. Fico com este quarto."
+    ]
+  },
+  {
+    "id": "s-a1-03",
+    "title": "Faire les courses",
+    "level": "A1",
+    "description": "Acheter des fruits, légumes et produits à l'épicerie",
+    "objectives": [
+      "Utiliser le vocabulaire des aliments",
+      "Demander les quantités",
+      "Comprendre les prix"
+    ],
+    "scenario": "Vous allez au marché. Vous demandez des pommes, des bananes et du pain. Vous demandez le prix total.",
+    "conversation_starters": [
+      "Olá! Que deseja?",
+      "Bom dia! Bem-vindo ao mercado. O que é que quer?"
+    ],
+    "vocabulary": [
+      { "pt": "maçã", "fr": "pomme" },
+      { "pt": "banana", "fr": "banane" },
+      { "pt": "pão", "fr": "pain" },
+      { "pt": "leite", "fr": "lait" },
+      { "pt": "queijo", "fr": "fromage" },
+      { "pt": "quilo", "fr": "kilo" },
+      { "pt": "metro", "fr": "mètre" },
+      { "pt": "quanto", "fr": "combien" }
+    ],
+    "key_phrases": [
+      "Queria uma dúzia de maçãs.",
+      "Quanto é um quilo de bananas?",
+      "Um pão integral, por favor.",
+      "Qual é o total?"
+    ]
+  },
+  {
+    "id": "s-a1-04",
+    "title": "Demander son chemin",
+    "level": "A1",
+    "description": "Demander des directions à quelqu'un",
+    "objectives": [
+      "Comprendre les directions (à gauche, à droite, tout droit)",
+      "Poser des questions de localisation",
+      "Remercier et prendre congé"
+    ],
+    "scenario": "Vous cherchez la gare. Vous demandez à quelqu'un comment y aller.",
+    "conversation_starters": [
+      "Desculpe, como é que se vai para a estação?",
+      "Por favor, onde é a estação?"
+    ],
+    "vocabulary": [
+      { "pt": "estação", "fr": "gare" },
+      { "pt": "museu", "fr": "musée" },
+      { "pt": "rua", "fr": "rue" },
+      { "pt": "à esquerda", "fr": "à gauche" },
+      { "pt": "à direita", "fr": "à droite" },
+      { "pt": "em frente", "fr": "en face" },
+      { "pt": "perto", "fr": "près" },
+      { "pt": "longe", "fr": "loin" }
+    ],
+    "key_phrases": [
+      "Desculpe, como é que se vai para a estação?",
+      "Fica perto ou longe?",
+      "Obrigado pela ajuda!",
+      "Muito obrigado. Até logo."
+    ]
+  },
+  {
+    "id": "s-a1-05",
+    "title": "Se présenter",
+    "level": "A1",
+    "description": "Parler de soi et de sa vie",
+    "objectives": [
+      "Utiliser les verbes être et avoir",
+      "Parler de nationalité et profession",
+      "Poser des questions personnelles simples"
+    ],
+    "scenario": "Vous rencontrez quelqu'un. Vous vous présentez, dites votre nationalité et votre profession.",
+    "conversation_starters": [
+      "Olá! Qual é o seu nome?",
+      "Bem-vindo! De onde é?"
+    ],
+    "vocabulary": [
+      { "pt": "nome", "fr": "nom" },
+      { "pt": "nacionalidade", "fr": "nationalité" },
+      { "pt": "profissão", "fr": "profession" },
+      { "pt": "idade", "fr": "âge" },
+      { "pt": "morar", "fr": "habiter" },
+      { "pt": "trabalhar", "fr": "travailler" },
+      { "pt": "estudar", "fr": "étudier" },
+      { "pt": "gostar", "fr": "aimer" }
+    ],
+    "key_phrases": [
+      "Chamo-me Marie. Sou francesa.",
+      "Tenho trinta anos e sou professora.",
+      "Moro em Lisboa.",
+      "Gosto de música e de cinema."
+    ]
+  }
+]

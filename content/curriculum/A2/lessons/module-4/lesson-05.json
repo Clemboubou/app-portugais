@@ -1,0 +1,84 @@
+{
+  "id": "a2-m4-l05",
+  "title": "Les prepositions de lieu",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Maitriser les prepositions de lieu en portugais europeen",
+    "Comprendre les contractions preposition + article (em+o=no, em+a=na, etc.)",
+    "Decrire la position d'objets et de personnes dans l'espace"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Situer dans l'espace",
+      "content": "<p>Les prepositions de lieu permettent de decrire ou se trouvent les choses. En portugais, la preposition <strong>em</strong> se contracte obligatoirement avec les articles definis et indefinis, ce qui est une particularite importante a maitriser.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les contractions de EM",
+      "content": "<p>La preposition <strong>em</strong> (dans, en, a) se contracte avec les articles :</p><table><thead><tr><th>Preposition + Article</th><th>Contraction</th><th>Exemple</th><th>Francais</th></tr></thead><tbody><tr><td>em + o</td><td><strong>no</strong></td><td><em>no banco</em></td><td>a la banque</td></tr><tr><td>em + a</td><td><strong>na</strong></td><td><em>na escola</em></td><td>a l'ecole</td></tr><tr><td>em + os</td><td><strong>nos</strong></td><td><em>nos correios</em></td><td>a la poste</td></tr><tr><td>em + as</td><td><strong>nas</strong></td><td><em>nas lojas</em></td><td>dans les magasins</td></tr><tr><td>em + um</td><td><strong>num</strong></td><td><em>num cafe</em></td><td>dans un cafe</td></tr><tr><td>em + uma</td><td><strong>numa</strong></td><td><em>numa rua</em></td><td>dans une rue</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les locutions prepositives",
+      "content": "<p>Les locutions prepositives de lieu :</p><table><thead><tr><th>Portugais</th><th>Francais</th><th>Exemple</th></tr></thead><tbody><tr><td><strong>ao lado de</strong></td><td>a cote de</td><td><em>O banco fica ao lado da farmacia.</em></td></tr><tr><td><strong>em frente de</strong></td><td>en face de</td><td><em>A paragem e em frente do museu.</em></td></tr><tr><td><strong>atras de</strong></td><td>derriere</td><td><em>O jardim fica atras da igreja.</em></td></tr><tr><td><strong>entre</strong></td><td>entre</td><td><em>O cafe fica entre o banco e a farmacia.</em></td></tr><tr><td><strong>perto de</strong></td><td>pres de</td><td><em>Moro perto da universidade.</em></td></tr><tr><td><strong>longe de</strong></td><td>loin de</td><td><em>O aeroporto fica longe do centro.</em></td></tr><tr><td><strong>dentro de</strong></td><td>a l'interieur de</td><td><em>A chave esta dentro da gaveta.</em></td></tr><tr><td><strong>fora de</strong></td><td>a l'exterieur de</td><td><em>O gato esta fora de casa.</em></td></tr><tr><td><strong>em cima de</strong></td><td>sur / au-dessus de</td><td><em>O livro esta em cima da mesa.</em></td></tr><tr><td><strong>debaixo de</strong></td><td>sous / en dessous de</td><td><em>O gato esta debaixo da cadeira.</em></td></tr></tbody></table><p><strong>Note</strong> : <em>de + o = do</em>, <em>de + a = da</em>, <em>de + os = dos</em>, <em>de + as = das</em>.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Decrire un quartier",
+      "content": "<p>Utilisez les prepositions pour decrire ce quartier :</p><ul><li><em>A farmacia fica <strong>ao lado do</strong> supermercado.</em> (La pharmacie est a cote du supermarche.)</li><li><em>O restaurante fica <strong>em frente da</strong> praca.</em> (Le restaurant est en face de la place.)</li><li><em>A escola fica <strong>entre</strong> o parque e a biblioteca.</em> (L'ecole est entre le parc et la bibliotheque.)</li><li><em>O hospital fica <strong>perto da</strong> estacao de metro.</em> (L'hopital est pres de la station de metro.)</li><li><em>O aeroporto fica <strong>longe do</strong> centro da cidade.</em> (L'aeroport est loin du centre-ville.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Decrire votre espace",
+      "content": "<p>Decrivez votre chambre ou votre bureau en utilisant au moins 5 prepositions de lieu differentes :</p><p>Exemple : <em>O computador esta em cima da secretaria. A secretaria fica ao lado da janela. Debaixo da secretaria ha uma caixa. Os livros estao na estante, atras da cadeira. A porta fica em frente da secretaria.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la contraction de 'em + o' ?",
+      "correctAnswer": "no",
+      "distractors": ["na", "nos", "num"],
+      "explanation": "'em + o' se contracte en 'no'. Ex : no banco = a la banque / dans le banco."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O restaurante fica ________ da praca.",
+      "correctAnswer": "em frente",
+      "explanation": "'Em frente de' = en face de. Avec contraction : 'em frente da praca' (en face de la place)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Le chat est sous la chaise.'",
+      "correctAnswer": "O gato esta debaixo da cadeira.",
+      "explanation": "'Debaixo de' = sous. 'De + a = da'. 'O gato esta debaixo da cadeira.'"
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'ao lado de' ?",
+      "correctAnswer": "A cote de",
+      "distractors": ["En face de", "Derriere", "Loin de"],
+      "explanation": "'Ao lado de' = a cote de. Ex : 'O banco fica ao lado da farmacia.'"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Moro ________ da universidade.",
+      "correctAnswer": "perto",
+      "explanation": "'Perto de' = pres de. 'Moro perto da universidade' = J'habite pres de l'universite."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "ao lado de", "phonetic": "/aw ˈladu dɨ/", "french": "a cote de"},
+    {"portuguese": "em frente de", "phonetic": "/ɐ̃j̃ ˈfɾẽtɨ dɨ/", "french": "en face de"},
+    {"portuguese": "atras de", "phonetic": "/ɐˈtɾaʃ dɨ/", "french": "derriere"},
+    {"portuguese": "entre", "phonetic": "/ˈẽtɾɨ/", "french": "entre"},
+    {"portuguese": "perto de", "phonetic": "/ˈpɛɾtu dɨ/", "french": "pres de"},
+    {"portuguese": "longe de", "phonetic": "/ˈlõʒɨ dɨ/", "french": "loin de"},
+    {"portuguese": "em cima de", "phonetic": "/ɐ̃j̃ ˈsimɐ dɨ/", "french": "sur / au-dessus de"},
+    {"portuguese": "debaixo de", "phonetic": "/dɨˈbajʃu dɨ/", "french": "sous / en dessous de"},
+    {"portuguese": "dentro de", "phonetic": "/ˈdẽtɾu dɨ/", "french": "a l'interieur de"},
+    {"portuguese": "fora de", "phonetic": "/ˈfɔɾɐ dɨ/", "french": "a l'exterieur de"}
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "a1-m3-l04",
+  "title": "Le verbe ESTAR et les routines quotidiennes",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Conjuguer le verbe estar au présent de l'indicatif pour les cinq personnes principales",
+    "Distinguer les emplois de ser et estar dans des contextes simples",
+    "Décrire sa routine quotidienne avec un vocabulaire de base"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Deux verbes pour « être »",
+      "content": "Le portugais européen, comme l'espagnol, possède deux verbes distincts qui correspondent au verbe français « être » : ser et estar. Cette leçon se concentre sur estar, qui exprime principalement les états temporaires, les localisations et les situations en cours. Maîtriser la différence entre ser et estar est l'une des clés essentielles du portugais."
+    },
+    {
+      "type": "discovery",
+      "title": "Conjugaison de ESTAR au présent",
+      "content": "Voici la conjugaison complète d'estar au présent de l'indicatif :\n\n| Pronom     | Forme    | Traduction          |\n|------------|----------|---------------------|\n| eu         | estou    | je suis             |\n| tu         | estás    | tu es               |\n| ele/ela    | está     | il/elle est         |\n| nós        | estamos  | nous sommes         |\n| eles/elas  | estão    | ils/elles sont      |\n\nRemarque importante : en portugais européen, la forme « vocês » (vous) utilise le même verbe que eles/elas → estão. La forme « vós » (vous, formel/littéraire) → estais est très rare dans la langue moderne."
+    },
+    {
+      "type": "explanation",
+      "title": "Quand utiliser ESTAR ?",
+      "content": "On utilise estar dans plusieurs situations clés :\n\n1. Les états temporaires et les émotions :\n   • Estou cansado. (Je suis fatigué. — état passager)\n   • A Maria está doente. (Maria est malade.)\n   • Estamos contentes. (Nous sommes contents.)\n\n2. La localisation d'une personne ou d'un objet :\n   • Estou em Lisboa. (Je suis à Lisbonne.)\n   • O livro está na mesa. (Le livre est sur la table.)\n\n3. Les actions en cours (estar + a + infinitif) :\n   • Estou a trabalhar. (Je suis en train de travailler.)\n   • Estás a comer? (Tu es en train de manger ?)\n\nOn utilise SER pour les caractéristiques permanentes, l'identité, l'origine et les heures."
+    },
+    {
+      "type": "explanation",
+      "title": "SER vs ESTAR — distinction rapide",
+      "content": "Comparez ces exemples pour bien saisir la différence :\n\n• Ela é portuguesa. (Elle est portugaise. — nationalité, permanent → SER)\n• Ela está em Portugal. (Elle est au Portugal. — localisation, temporaire → ESTAR)\n\n• O café é bom. (Le café est bon. — qualité intrinsèque → SER)\n• O café está frio. (Le café est froid. — état temporaire → ESTAR)\n\n• Sou professor. (Je suis professeur. — profession → SER)\n• Estou no trabalho. (Je suis au travail. — localisation → ESTAR)\n\nAstuce : posez-vous la question « est-ce que cela peut changer ? ». Si oui → estar. Si non → ser."
+    },
+    {
+      "type": "discovery",
+      "title": "La routine quotidienne — vocabulaire essentiel",
+      "content": "Voici les verbes de la vie quotidienne à connaître :\n\n• acordar — se réveiller\n  Ex. : Acordo às sete horas. (Je me réveille à sept heures.)\n\n• levantar-se — se lever\n  Ex. : Levanto-me às sete e meia. (Je me lève à sept heures et demie.)\n\n• tomar o pequeno-almoço — prendre le petit-déjeuner\n  Ex. : Tomo o pequeno-almoço em casa. (Je prends le petit-déjeuner à la maison.)\n\n• almoçar — déjeuner\n  Ex. : Almoço ao meio-dia. (Je déjeune à midi.)\n\n• jantar — dîner\n  Ex. : Jantamos às oito horas. (Nous dînons à huit heures.)\n\n• deitar-se — se coucher\n  Ex. : Deito-me à meia-noite. (Je me couche à minuit.)\n\nRemarque : au Portugal, « o pequeno-almoço » (littéralement « le petit déjeuner ») est l'expression standard. Le mot brésilien « café da manhã » n'est pas utilisé."
+    },
+    {
+      "type": "production",
+      "title": "Décrivez votre journée",
+      "content": "Construisez des phrases pour décrire votre routine :\n\n1. Acordo às ___ horas.\n2. Tomo o pequeno-almoço às ___.\n3. Almoço às ___.\n4. Janto às ___.\n5. Deito-me às ___.\n\nEssayez aussi d'utiliser estar :\n• Estou em casa de manhã. (Je suis à la maison le matin.)\n• Estou no trabalho de tarde. (Je suis au travail l'après-midi.)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme correcte d'ESTAR pour « nós » au présent ?",
+      "correctAnswer": "estamos",
+      "distractors": ["estão", "estás", "estou"],
+      "explanation": "La conjugaison d'estar pour nós est estamos. C'est une forme régulière pour les verbes en -ar : nous = -amos. Estão correspond à eles/elas, estás à tu, estou à eu."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Laquelle de ces phrases utilise correctement ESTAR ?",
+      "correctAnswer": "O Pedro está cansado.",
+      "distractors": [
+        "O Pedro está português.",
+        "O Pedro está médico.",
+        "O Pedro está alto."
+      ],
+      "explanation": "Estar cansado est correct car la fatigue est un état temporaire. La nationalité (português), la profession (médico) et les caractéristiques physiques permanentes (alto) utilisent ser."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez : « Eu ___ a tomar o pequeno-almoço. » (Je suis en train de prendre le petit-déjeuner.)",
+      "correctAnswer": "estou",
+      "distractors": ["sou", "estás", "está"],
+      "explanation": "Pour exprimer une action en cours en portugais européen, on utilise estar + a + infinitif. Avec eu, estar se conjugue en estou. Sou est la forme de ser pour eu, qui ne s'utilise pas pour les actions en cours."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Nous dînons à huit heures. »",
+      "correctAnswer": "Jantamos às oito horas.",
+      "distractors": [
+        "Jantamos a oito horas.",
+        "Nós jantar às oito horas.",
+        "Jantam às oito horas."
+      ],
+      "explanation": "Jantar (dîner) conjugué pour nós donne jantamos. Pour les heures, on utilise às (em + as) devant les heures plurielles. Às oito horas = à huit heures."
+    },
+    {
+      "type": "error_detection",
+      "prompt": "Trouvez l'erreur dans la phrase : « Ela é doente hoje. »",
+      "correctAnswer": "Il faut utiliser ESTAR et non SER : « Ela está doente hoje. »",
+      "distractors": [
+        "Il faut dire « Ela é doente amanhã. »",
+        "Il faut dire « Ela são doente hoje. »",
+        "La phrase est correcte."
+      ],
+      "explanation": "La maladie est un état temporaire. On utilise donc estar et non ser. Ela está doente hoje = Elle est malade aujourd'hui. Ser serait utilisé pour des caractéristiques permanentes comme la nationalité ou la personnalité."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "estou",
+      "phonetic": "/ɨʃˈto/",
+      "french": "je suis (estar)"
+    },
+    {
+      "portuguese": "estás",
+      "phonetic": "/ɨʃˈtaʃ/",
+      "french": "tu es (estar)"
+    },
+    {
+      "portuguese": "está",
+      "phonetic": "/ɨʃˈta/",
+      "french": "il/elle est (estar)"
+    },
+    {
+      "portuguese": "estamos",
+      "phonetic": "/ɨʃˈtɐmuʃ/",
+      "french": "nous sommes (estar)"
+    },
+    {
+      "portuguese": "estão",
+      "phonetic": "/ɨʃˈtɐ̃w/",
+      "french": "ils/elles sont (estar)"
+    },
+    {
+      "portuguese": "acordar",
+      "phonetic": "/ɐkuɾˈdaɾ/",
+      "french": "se réveiller"
+    },
+    {
+      "portuguese": "levantar-se",
+      "phonetic": "/lɨvɐ̃ˈtaɾsɨ/",
+      "french": "se lever"
+    },
+    {
+      "portuguese": "o pequeno-almoço",
+      "phonetic": "/u pɨˈkenu alˈmosu/",
+      "french": "le petit-déjeuner"
+    },
+    {
+      "portuguese": "almoçar",
+      "phonetic": "/almuˈsaɾ/",
+      "french": "déjeuner"
+    },
+    {
+      "portuguese": "jantar",
+      "phonetic": "/ʒɐ̃ˈtaɾ/",
+      "french": "dîner"
+    },
+    {
+      "portuguese": "deitar-se",
+      "phonetic": "/dɐjˈtaɾsɨ/",
+      "french": "se coucher"
+    }
+  ]
+}

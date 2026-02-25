@@ -1,0 +1,83 @@
+{
+  "id": "b1-m4-l01",
+  "title": "Problèmes de société",
+  "type": "vocabulary",
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Connaître le vocabulaire des problèmes sociaux en portugais européen",
+    "Parler des enjeux de société au Portugal et en Europe",
+    "Utiliser ce vocabulaire dans des phrases complexes"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les défis de la société portugaise",
+      "content": "<p>Le Portugal, comme d'autres pays européens, fait face à des défis sociaux importants. Pour en parler à un niveau B1, il faut maîtriser le vocabulaire lié au <strong>chômage</strong>, à la <strong>pollution</strong>, à la <strong>pauvreté</strong> et à l'<strong>immigration</strong>. Ce vocabulaire vous permettra de participer à des discussions sur l'actualité.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Problèmes sociaux — vocabulaire clé",
+      "content": "<p>Voici les termes essentiels :</p><ul><li><em>o desemprego</em> — le chômage</li><li><em>a poluição</em> — la pollution</li><li><em>a pobreza</em> — la pauvreté</li><li><em>a imigração</em> — l'immigration</li><li><em>a desigualdade</em> — l'inégalité</li><li><em>a criminalidade</em> — la criminalité</li><li><em>o custo de vida</em> — le coût de la vie</li><li><em>a habitação</em> — le logement</li></ul><p>Exemple : <em>O desemprego jovem é um problema grave em Portugal.</em> (Le chômage des jeunes est un problème grave au Portugal.)</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Parler des causes et conséquences",
+      "content": "<p>Pour discuter des problèmes sociaux, utilisez ces structures :</p><ul><li><em>...é causado por...</em> (est causé par)</li><li><em>...deve-se a...</em> (est dû à)</li><li><em>...tem como consequência...</em> (a pour conséquence)</li><li><em>...leva a...</em> (mène à)</li></ul><p>Exemple : <em>A poluição deve-se ao excesso de tráfego nas grandes cidades.</em> (La pollution est due à l'excès de trafic dans les grandes villes.)</p><p>Exemple : <em>A pobreza leva a problemas de saúde.</em> (La pauvreté mène à des problèmes de santé.)</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Exprimer son inquiétude",
+      "content": "<p>Pour exprimer votre préoccupation face à un problème :</p><ul><li><em>Preocupa-me que...</em> (Ça m'inquiète que... + subjonctif)</li><li><em>É preocupante que...</em> (Il est préoccupant que...)</li><li><em>Estou preocupado/a com...</em> (Je suis préoccupé/e par...)</li><li><em>É urgente resolver...</em> (Il est urgent de résoudre...)</li></ul><p>Exemple : <em>Estou preocupado com o custo de vida em Lisboa.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Débat sur les problèmes sociaux",
+      "content": "<p>Répondez à ces questions en utilisant le vocabulaire appris :</p><ol><li><em>Qual é o maior problema social em Portugal, na sua opinião?</em></li><li><em>O que pode ser feito para reduzir o desemprego?</em></li><li><em>A imigração é positiva ou negativa para a sociedade?</em></li></ol><p>Utilisez les structures de cause/conséquence et d'opinion.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'le chômage' en portugais européen ?",
+      "correctAnswer": "o desemprego",
+      "distractors": ["o desempenho", "o emprego", "a despesa"],
+      "explanation": "'O desemprego' signifie le chômage. Ne confondez pas avec 'o desempenho' (la performance) ou 'o emprego' (l'emploi)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ________ é um problema grave nas grandes cidades por causa do tráfego.",
+      "correctAnswer": "poluição",
+      "explanation": "'A poluição' = la pollution. C'est un nom féminin en portugais."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'La pauvreté mène à des problèmes de santé.'",
+      "correctAnswer": "A pobreza leva a problemas de saúde.",
+      "explanation": "'Levar a' = mener à. 'Saúde' = santé. Notez l'accent sur le 'u' de 'saúde'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle structure exprime une conséquence ?",
+      "correctAnswer": "tem como consequência",
+      "distractors": ["deve-se a", "é causado por", "preocupa-me que"],
+      "explanation": "'Tem como consequência' = a pour conséquence. 'Deve-se a' et 'é causado por' expriment la cause."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Estou ________ com o custo de vida em Lisboa.",
+      "correctAnswer": "preocupado",
+      "explanation": "'Estar preocupado/a com' = être préoccupé/e par. L'adjectif s'accorde avec le sujet."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "desemprego", "phonetic": "/dɨzẽˈpɾeɡu/", "french": "chômage"},
+    {"portuguese": "poluição", "phonetic": "/poluiˈsɐ̃w/", "french": "pollution"},
+    {"portuguese": "pobreza", "phonetic": "/puˈbɾezɐ/", "french": "pauvreté"},
+    {"portuguese": "imigração", "phonetic": "/imiɡɾɐˈsɐ̃w/", "french": "immigration"},
+    {"portuguese": "desigualdade", "phonetic": "/dɨziɡwɐlˈdadɨ/", "french": "inégalité"},
+    {"portuguese": "criminalidade", "phonetic": "/kɾiminɐliˈdadɨ/", "french": "criminalité"},
+    {"portuguese": "custo de vida", "phonetic": "/ˈkuʃtu dɨ ˈvidɐ/", "french": "coût de la vie"},
+    {"portuguese": "habitação", "phonetic": "/ɐbitɐˈsɐ̃w/", "french": "logement"},
+    {"portuguese": "preocupante", "phonetic": "/pɾiokuˈpɐ̃tɨ/", "french": "préoccupant"}
+  ]
+}

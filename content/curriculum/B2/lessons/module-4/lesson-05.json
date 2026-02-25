@@ -1,0 +1,84 @@
+{
+  "id": "b2-m4-l05",
+  "title": "Exprimer une critique",
+  "type": "speaking",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Formuler une critique argumentée sur une œuvre artistique",
+    "Utiliser le vocabulaire de l'appréciation et de la critique en portugais",
+    "Nuancer son jugement avec des expressions de modalité"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Donner son avis sur l'art",
+      "content": "<p>Savoir exprimer une <strong>critique argumentée</strong> est essentiel au niveau B2. Qu'il s'agisse d'un film, d'un livre, d'une exposition ou d'un concert, vous devez pouvoir formuler un <strong>jugement nuancé</strong> en expliquant vos raisons.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Modèle de critique orale",
+      "content": "<p>Écoutez ce modèle de critique :</p><blockquote><em>Recentemente, fui ver a exposição de Paula Rego no Museu de Arte Contemporânea. <strong>Devo dizer que</strong> fiquei bastante impressionado. As obras são <strong>simultaneamente</strong> perturbadoras e fascinantes. <strong>O que mais me tocou</strong> foram os quadros sobre a condição feminina — são <strong>de uma intensidade</strong> extraordinária. <strong>No entanto</strong>, achei que a organização da exposição <strong>poderia ter sido</strong> melhor. Algumas salas estavam demasiado cheias. <strong>Apesar disso</strong>, recomendo vivamente esta exposição a quem se interessa por arte portuguesa.</em></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structures pour critiquer",
+      "content": "<p><strong>Exprimer une appréciation positive :</strong></p><ul><li><em>Fiquei impressionado/a com...</em> (J'ai été impressionné par...)</li><li><em>O que mais me tocou foi...</em> (Ce qui m'a le plus touché, c'est...)</li><li><em>É de uma beleza extraordinária.</em> (C'est d'une beauté extraordinaire.)</li><li><em>Recomendo vivamente.</em> (Je recommande vivement.)</li></ul><p><strong>Exprimer une critique négative (avec nuance) :</strong></p><ul><li><em>Achei que poderia ter sido melhor.</em> (J'ai trouvé que ça aurait pu être mieux.)</li><li><em>Fiquei um pouco dececionado/a com...</em> (J'ai été un peu déçu par...)</li><li><em>Não correspondeu às minhas expectativas.</em> (Cela n'a pas répondu à mes attentes.)</li><li><em>Faltou-lhe...</em> (Il lui manquait...)</li></ul><p><strong>Nuancer :</strong></p><ul><li><em>No entanto / Apesar disso</em> (Cependant / Malgré cela)</li><li><em>Devo reconhecer que...</em> (Je dois reconnaître que...)</li><li><em>Embora... tenha sido... ,</em> (Bien que... ait été...)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Formuler des critiques",
+      "content": "<p>Reformulez ces opinions avec des structures plus élaborées :</p><ol><li>«O filme era bom.» → <em>Devo dizer que <strong>fiquei bastante impressionado</strong> com o filme.</em></li><li>«A música era má.» → <em><strong>Fiquei um pouco dececionado</strong> com a qualidade musical.</em></li><li>«O livro era interessante mas longo.» → <em><strong>Embora</strong> o livro <strong>tenha sido</strong> interessante, achei que <strong>poderia ter sido</strong> mais conciso.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Votre critique",
+      "content": "<p>Préparez une critique orale (1-2 minutes) sur un de ces sujets :</p><ol><li>Un film que vous avez vu récemment</li><li>Un livre que vous avez lu</li><li>Un concert ou une exposition</li></ol><p>Votre critique doit contenir :</p><ul><li>Une introduction : <em>Recentemente, fui ver / li / ouvi...</em></li><li>Des points positifs avec justification</li><li>Des points négatifs nuancés</li><li>Une conclusion avec recommandation</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Ce qui m'a le plus touché' en portugais ?",
+      "correctAnswer": "O que mais me tocou",
+      "distractors": ["O que mais me tocava", "O que mais me tinha tocado", "O mais que me tocou"],
+      "explanation": "'O que mais me tocou' — structure : O que + advérbio + pronom + verbe au pretérito perfeito."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ o espetáculo tenha sido interessante, achei que faltou emoção.",
+      "correctAnswer": "Embora",
+      "explanation": "'Embora' (bien que) + conjuntivo (tenha sido). Introduit une concession avant une critique."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : J'ai été un peu déçu par l'exposition.",
+      "correctAnswer": "Fiquei um pouco dececionado com a exposição.",
+      "explanation": "'Ficar dececionado com' = être déçu par. En PT-PT, on écrit 'dececionado' (avec un seul 'p', contrairement au brésilien 'decepcionado')."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le féminin de 'impressionado' ?",
+      "correctAnswer": "impressionada",
+      "distractors": ["impressionado", "impressionanta", "impressionade"],
+      "explanation": "Les participes passés s'accordent en genre : impressionado (masc.) / impressionada (fém.)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Não ________ às minhas expectativas. (= ne pas correspondre)",
+      "correctAnswer": "correspondeu",
+      "explanation": "'Corresponder a' = correspondre à. Pretérito perfeito : correspondeu. 'Não correspondeu às minhas expectativas' = n'a pas répondu à mes attentes."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "exposição", "phonetic": "/ɨʃpuziˈsɐ̃w̃/", "french": "exposition"},
+    {"portuguese": "dececionado", "phonetic": "/dɨsɨsiuˈnadu/", "french": "déçu (PT-PT)"},
+    {"portuguese": "impressionante", "phonetic": "/ĩpɾɨsiuˈnɐ̃tɨ/", "french": "impressionnant"},
+    {"portuguese": "perturbador", "phonetic": "/pɨɾtuɾbɐˈdoɾ/", "french": "perturbant / troublant"},
+    {"portuguese": "fascinante", "phonetic": "/fɐsinɐ̃tɨ/", "french": "fascinant"},
+    {"portuguese": "expectativa", "phonetic": "/ɨʃpɛtɐˈtivɐ/", "french": "attente / expectation"},
+    {"portuguese": "recomendar", "phonetic": "/ʁɨkumẽˈdaɾ/", "french": "recommander"},
+    {"portuguese": "vivamente", "phonetic": "/vivɐˈmẽtɨ/", "french": "vivement"},
+    {"portuguese": "condição feminina", "phonetic": "/kõdiˈsɐ̃w̃ fɨmiˈninɐ/", "french": "condition féminine"},
+    {"portuguese": "quadro", "phonetic": "/ˈkwadɾu/", "french": "tableau (peinture)"}
+  ]
+}

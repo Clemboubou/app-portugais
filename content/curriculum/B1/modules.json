@@ -1,0 +1,44 @@
+[
+  {
+    "id": 10,
+    "levelCode": "B1",
+    "title": "Passé imparfait et contrastes",
+    "description": "Pretérito Imperfeito vs Perfeito Simples, habitudes passées, souvenirs d'enfance",
+    "order": 1
+  },
+  {
+    "id": 11,
+    "levelCode": "B1",
+    "title": "Travail et avenir",
+    "description": "Le marché de l'emploi en Portugal, entretien d'embauche, futur simple, conditions de travail",
+    "order": 2
+  },
+  {
+    "id": 12,
+    "levelCode": "B1",
+    "title": "Opinion et débat",
+    "description": "Exprimer son accord/désaccord, donner son opinion, subjonctif présent (introduction)",
+    "order": 3
+  },
+  {
+    "id": 13,
+    "levelCode": "B1",
+    "title": "Société et environnement",
+    "description": "Problèmes de société, écologie au Portugal, actualités régionales",
+    "order": 4
+  },
+  {
+    "id": 14,
+    "levelCode": "B1",
+    "title": "Culture et traditions",
+    "description": "Fado, gastronomie régionale, histoire abrégée du Portugal, fêtes populaires",
+    "order": 5
+  },
+  {
+    "id": 15,
+    "levelCode": "B1",
+    "title": "Médias et technologie",
+    "description": "Réseaux sociaux, presse portugaise, nouvelles technologies, vocabulaire technique",
+    "order": 6
+  }
+]

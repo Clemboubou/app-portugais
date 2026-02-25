@@ -1,0 +1,84 @@
+{
+  "id": "b2-m6-l03",
+  "title": "Le portugais en Afrique",
+  "type": "reading",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Découvrir le portugais dans les pays africains (PALOP)",
+    "Comprendre le contexte historique et linguistique du portugais en Afrique",
+    "Lire un texte sur les réalités linguistiques du Mozambique, de l'Angola et du Cap-Vert"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le portugais en Afrique : héritage et diversité",
+      "content": "<p>Le portugais est langue officielle de <strong>cinq pays africains</strong> (les PALOP). Cependant, la réalité linguistique est complexe : dans la plupart de ces pays, le portugais coexiste avec de nombreuses <strong>langues locales</strong>. L'histoire coloniale a laissé des traces profondes sur la place de la langue portugaise en Afrique.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Texte : Le portugais dans les PALOP",
+      "content": "<p>Lisez ce texte :</p><blockquote><em><strong>Moçambique</strong> é um país multilingue com mais de 40 línguas locais. O português é a língua oficial e a língua do ensino, mas apenas cerca de 50% da população o fala. Nas zonas rurais, as línguas bantas como o emakhuwa e o changana dominam o quotidiano.</em><br/><br/><em>Em <strong>Angola</strong>, o português é mais difundido, especialmente em Luanda, onde a maioria da população é lusófona. No entanto, as línguas nacionais como o kimbundu, o umbundu e o kikongo continuam vivas.</em><br/><br/><em>O caso de <strong>Cabo Verde</strong> é particular: quase toda a população fala crioulo cabo-verdiano no dia a dia, enquanto o português é reservado para contextos formais — escola, administração e comunicação escrita. É uma situação de <strong>diglossia</strong> clássica.</em></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Concepts linguistiques",
+      "content": "<p><strong>Termes à connaître :</strong></p><ul><li><em>multilingue</em> — multilingue (plusieurs langues coexistent)</li><li><em>diglossia</em> — situation où deux langues ont des fonctions sociales différentes (formel vs informel)</li><li><em>crioulo</em> — créole (langue mixte née du contact entre portugais et langues locales)</li><li><em>língua materna</em> — langue maternelle</li><li><em>língua oficial</em> — langue officielle</li><li><em>língua franca</em> — langue véhiculaire</li></ul><p><strong>Les écrivains lusophones d'Afrique :</strong></p><ul><li><strong>Mia Couto</strong> (Mozambique) — romancier, invente des néologismes poétiques</li><li><strong>Pepetela</strong> (Angola) — romancier, chroniqueur de l'histoire angolaise</li><li><strong>Germano Almeida</strong> (Cabo Verde) — romancier humoriste</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Compréhension du texte",
+      "content": "<p>Répondez en portugais :</p><ol><li><em>Quantas línguas locais existem em Moçambique?</em> → <em>Existem mais de 40 línguas locais.</em></li><li><em>Que percentagem da população moçambicana fala português?</em> → <em>Cerca de 50%.</em></li><li><em>O que é a diglossia em Cabo Verde?</em> → <em>É a situação em que o crioulo é usado no dia a dia e o português nos contextos formais.</em></li><li><em>Qual é a situação do português em Angola?</em> → <em>É mais difundido, especialmente em Luanda.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Réflexion",
+      "content": "<p>Rédigez en portugais (80-100 mots) :</p><p><em>Na sua opinião, é importante que os países africanos lusófonos preservem as suas línguas locais ao lado do português? Porquê?</em></p><p>Structures utiles : <em>Penso que é fundamental...</em>, <em>As línguas locais representam...</em>, <em>O português permite... mas...</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Combien de pays africains ont le portugais comme langue officielle ?",
+      "correctAnswer": "5",
+      "distractors": ["3", "7", "9"],
+      "explanation": "Les 5 PALOP : Angola, Moçambique, Guiné-Bissau, Cabo Verde et São Tomé e Príncipe."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Em Cabo Verde, a população fala ________ no dia a dia e português nos contextos formais.",
+      "correctAnswer": "crioulo",
+      "explanation": "Le créole cap-verdien (crioulo cabo-verdiano) est la langue du quotidien, tandis que le portugais est réservé aux contextes formels."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Le Mozambique est un pays multilingue avec plus de 40 langues.",
+      "correctAnswer": "Moçambique é um país multilingue com mais de 40 línguas.",
+      "explanation": "'Multilingue' = multilingue. 'Mais de' = plus de. 'Línguas' = langues."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel écrivain mozambicain est célèbre pour ses néologismes poétiques ?",
+      "correctAnswer": "Mia Couto",
+      "distractors": ["Pepetela", "Germano Almeida", "José Eduardo Agualusa"],
+      "explanation": "Mia Couto (Mozambique) est célèbre pour sa prose poétique et ses inventions linguistiques."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A situação em que duas línguas têm funções sociais diferentes chama-se ________.",
+      "correctAnswer": "diglossia",
+      "explanation": "La 'diglossia' (diglossia) désigne une situation où deux langues coexistent avec des fonctions différentes (formelle vs informelle)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "multilingue", "phonetic": "/mulˈtilĩɡwɨ/", "french": "multilingue"},
+    {"portuguese": "diglossia", "phonetic": "/diɡlɔˈsiɐ/", "french": "diglossie"},
+    {"portuguese": "crioulo", "phonetic": "/kɾiˈolu/", "french": "créole"},
+    {"portuguese": "língua materna", "phonetic": "/ˈlĩɡwɐ mɐˈtɛɾnɐ/", "french": "langue maternelle"},
+    {"portuguese": "língua franca", "phonetic": "/ˈlĩɡwɐ ˈfɾɐ̃kɐ/", "french": "langue véhiculaire"},
+    {"portuguese": "difundido", "phonetic": "/difũˈdidu/", "french": "répandu"},
+    {"portuguese": "quotidiano", "phonetic": "/kuotiˈdiɐnu/", "french": "quotidien"},
+    {"portuguese": "neologismo", "phonetic": "/niuluˈʒiʒmu/", "french": "néologisme"},
+    {"portuguese": "herança", "phonetic": "/ɨˈɾɐ̃sɐ/", "french": "héritage"},
+    {"portuguese": "preservar", "phonetic": "/pɾɨzɨɾˈvaɾ/", "french": "préserver"}
+  ]
+}

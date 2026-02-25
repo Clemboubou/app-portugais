@@ -1,0 +1,84 @@
+{
+  "id": "b2-m3-l03",
+  "title": "Rapporter un discours dans la presse",
+  "type": "reading",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Identifier les différentes formes de discours rapporté dans un article de presse",
+    "Comprendre les conventions journalistiques portugaises",
+    "Distinguer citations directes et reformulations indirectes"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le discours rapporté dans le journalisme portugais",
+      "content": "<p>La presse portugaise utilise abondamment le <strong>discours rapporté</strong>. Les journalistes alternent entre <strong>citations directes</strong> (entre guillemets) et <strong>reformulations indirectes</strong>. Savoir lire et comprendre ces constructions est essentiel pour accéder aux médias lusophones.</p><p>En PT-PT, les guillemets utilisés sont « » (guillemets français) ou "" (guillemets anglais).</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Un article de presse authentique (adapté)",
+      "content": "<p>Lisez cet extrait :</p><blockquote><strong>Primeiro-ministro defende reformas na educação</strong><br/><br/><em>O primeiro-ministro afirmou ontem, em conferência de imprensa, que «o sistema educativo português precisa de reformas profundas». Segundo o chefe do Governo, as mudanças serão implementadas «de forma gradual, respeitando os profissionais do ensino».</em><br/><br/><em>A oposição reagiu de imediato. O líder do principal partido da oposição declarou que as propostas eram «insuficientes» e exigiu que o Governo apresentasse um plano mais detalhado. Questionado sobre o calendário das reformas, o ministro da Educação respondeu que o plano seria apresentado «até ao final do mês».</em></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les techniques du discours rapporté journalistique",
+      "content": "<p><strong>1. Citation directe partielle :</strong></p><p><em>Afirmou que «o sistema precisa de reformas».</em> — Seule une partie de la phrase est citée mot pour mot.</p><p><strong>2. Discours indirect pur :</strong></p><p><em>Declarou que as propostas eram insuficientes.</em> — Pas de guillemets, reformulation complète.</p><p><strong>3. Según + nom :</strong></p><p><em>Segundo o ministro, as mudanças serão graduais.</em> — Attribution sans verbe introducteur direct.</p><p><strong>4. Verbes journalistiques courants :</strong></p><ul><li><em>sublinhar</em> (souligner), <em>salientar</em> (mettre en relief)</li><li><em>garantir</em> (garantir), <em>admitir</em> (admettre)</li><li><em>lamentar</em> (déplorer), <em>criticar</em> (critiquer)</li><li><em>revelar</em> (révéler), <em>acusar</em> (accuser)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Analyse de l'article",
+      "content": "<p>Répondez aux questions sur l'extrait :</p><ol><li>Combien de personnes sont citées dans l'article ? <strong>Trois : le Premier ministre, le leader de l'opposition, le ministre de l'Éducation.</strong></li><li>Quels verbes introducteurs sont utilisés ? <strong>Afirmou, declarou, exigiu, respondeu.</strong></li><li>Identifiez un exemple de citation directe partielle et un de discours indirect pur.</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Rédiger un paragraphe journalistique",
+      "content": "<p>À partir de ces déclarations directes, rédigez un court paragraphe de presse en utilisant le discours indirect :</p><ul><li>Le maire : «Vamos construir um novo hospital na cidade.»</li><li>Une habitante : «Estamos à espera há dez anos.»</li><li>Le porte-parole de l'hôpital : «O projeto será concluído em dois anos.»</li></ul><p>Utilisez au moins 3 verbes introducteurs différents et alternez citations directes partielles et discours indirect.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel verbe journalistique signifie 'mettre en relief / souligner' ?",
+      "correctAnswer": "salientar",
+      "distractors": ["lamentar", "acusar", "admitir"],
+      "explanation": "'Salientar' = mettre en relief, souligner un point. 'Lamentar' = déplorer. 'Acusar' = accuser."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O ministro ________ que o plano seria apresentado até ao final do mês.",
+      "correctAnswer": "garantiu",
+      "explanation": "'Garantir' (garantir) est un verbe introducteur courant dans la presse pour une promesse ou un engagement."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Selon le ministre, les réformes seront graduelles.",
+      "correctAnswer": "Segundo o ministro, as reformas serão graduais.",
+      "explanation": "'Segundo' + nom = selon. Structure sans verbe introducteur, très fréquente dans la presse PT."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dans la phrase « A oposição exigiu que o Governo apresentasse um plano », quel mode verbal suit 'exigiu que' ?",
+      "correctAnswer": "Imperfeito do conjuntivo",
+      "distractors": ["Indicativo", "Condicional", "Infinitivo pessoal"],
+      "explanation": "'Exigir que' exige le subjonctif. Comme le verbe introducteur est au passé, on utilise l'imperfeito do conjuntivo : apresentasse."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O líder da oposição ________ que as propostas eram insuficientes.",
+      "correctAnswer": "declarou",
+      "explanation": "'Declarar' (déclarer) est un verbe introducteur neutre-formel typique du langage journalistique."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "conferência de imprensa", "phonetic": "/kõfɨˈɾẽsiɐ dɨ ĩˈpɾẽsɐ/", "french": "conférence de presse"},
+    {"portuguese": "primeiro-ministro", "phonetic": "/pɾiˈmejɾu miˈniʃtɾu/", "french": "Premier ministre"},
+    {"portuguese": "oposição", "phonetic": "/opuziˈsɐ̃w̃/", "french": "opposition"},
+    {"portuguese": "salientar", "phonetic": "/sɐliẽˈtaɾ/", "french": "souligner / mettre en relief"},
+    {"portuguese": "garantir", "phonetic": "/ɡɐɾɐ̃ˈtiɾ/", "french": "garantir"},
+    {"portuguese": "admitir", "phonetic": "/ɐdmiˈtiɾ/", "french": "admettre"},
+    {"portuguese": "revelar", "phonetic": "/ʁɨvɨˈlaɾ/", "french": "révéler"},
+    {"portuguese": "sublinhar", "phonetic": "/subliˈɲaɾ/", "french": "souligner"},
+    {"portuguese": "porta-voz", "phonetic": "/ˈpɔɾtɐ vɔʃ/", "french": "porte-parole"},
+    {"portuguese": "segundo", "phonetic": "/sɨˈɡũdu/", "french": "selon"}
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "b2-m3-l05",
+  "title": "Résumer un débat",
+  "type": "writing",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Rapporter des arguments pour et contre dans un résumé structuré",
+    "Utiliser les verbes introducteurs et le discours indirect de manière fluide",
+    "Rédiger un compte-rendu objectif d'un débat"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'art de résumer un débat",
+      "content": "<p>Résumer un débat exige de <strong>rapporter fidèlement</strong> les positions des différents intervenants, sans prendre parti. C'est un exercice qui mobilise toutes les compétences vues dans ce module : <strong>discours indirect</strong>, <strong>verbes introducteurs variés</strong> et <strong>connecteurs d'opposition</strong>.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Modèle de résumé de débat",
+      "content": "<p>Voici un résumé-type :</p><blockquote><em>O debate sobre o teletrabalho em Portugal opôs duas visões. Por um lado, a representante dos trabalhadores <strong>defendeu que</strong> o teletrabalho deveria ser um direito, <strong>argumentando que</strong> permitia uma melhor conciliação entre vida profissional e pessoal. <strong>Acrescentou que</strong> a produtividade tinha aumentado durante a pandemia.</em><br/><br/><em>Por outro lado, o representante patronal <strong>contrapôs que</strong> o trabalho presencial era essencial para a criatividade e o espírito de equipa. <strong>Sublinhou que</strong> muitas empresas tinham registado dificuldades de comunicação. <strong>Admitiu, no entanto, que</strong> um modelo híbrido poderia ser uma solução.</em></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structures pour résumer un débat",
+      "content": "<p><strong>Présenter les positions :</strong></p><ul><li><em>Por um lado... por outro lado</em> (d'un côté... de l'autre)</li><li><em>defendeu que / argumentou que</em> (a défendu que / a argumenté que)</li><li><em>contrapôs que</em> (a objecté que)</li></ul><p><strong>Ajouter des nuances :</strong></p><ul><li><em>acrescentou que</em> (a ajouté que)</li><li><em>admitiu que</em> (a admis que)</li><li><em>reconheceu que</em> (a reconnu que)</li></ul><p><strong>Marquer l'opposition :</strong></p><ul><li><em>no entanto / contudo / todavia</em> (cependant / toutefois)</li><li><em>embora</em> + conjuntivo (bien que)</li><li><em>apesar de</em> + infinitif (malgré)</li></ul><p><strong>Conclure :</strong></p><ul><li><em>Em suma</em> (en somme), <em>Em conclusão</em> (en conclusion)</li><li><em>Os participantes concordaram que...</em> (les participants se sont accordés sur...)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Rapporter des positions opposées",
+      "content": "<p>Complétez ce résumé :</p><p><em>O debate sobre o turismo em Lisboa ________ (opor) duas posições. A associação hoteleira ________ (defender) que o turismo era essencial para a economia. ________ (acrescentar) que milhares de empregos dependiam do setor. ________ (por outro lado), os moradores ________ (criticar) que os preços das rendas tinham disparado. ________ (admitir, no entanto) que o turismo trazia benefícios culturais.</em></p><p><strong>Réponses :</strong> opôs, defendeu, Acrescentou, Por outro lado, criticaram, Admitiram, no entanto</p>"
+    },
+    {
+      "type": "production",
+      "title": "Rédiger un résumé de débat",
+      "content": "<p>Choisissez un sujet et rédigez un résumé de débat (<strong>100 à 150 mots</strong>) :</p><ol><li>Le tourisme de masse à Lisbonne : pour ou contre ?</li><li>L'enseignement obligatoire du anglais dès le primaire</li><li>La construction d'un nouvel aéroport à Montijo</li></ol><p>Votre résumé doit contenir : au moins <strong>4 verbes introducteurs différents</strong>, <strong>2 connecteurs d'opposition</strong>, et présenter <strong>les deux côtés</strong> du débat.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel verbe signifie 'objecter / s'opposer à un argument' ?",
+      "correctAnswer": "contrapor",
+      "distractors": ["acrescentar", "concordar", "admitir"],
+      "explanation": "'Contrapor' = objecter, opposer un argument. 'Acrescentar' = ajouter. 'Concordar' = être d'accord."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________, a representante dos trabalhadores defendeu o teletrabalho. ________, o patrão preferiu o trabalho presencial.",
+      "correctAnswer": "Por um lado / Por outro lado",
+      "explanation": "'Por um lado... por outro lado' = d'un côté... de l'autre côté. Structure essentielle pour présenter deux positions."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Il a admis cependant que le modèle hybride pourrait fonctionner.",
+      "correctAnswer": "Admitiu, no entanto, que o modelo híbrido poderia funcionar.",
+      "explanation": "'No entanto' = cependant. 'Poderia' = conditionnel de PODER. Virgules autour de 'no entanto' entre le verbe et la subordonnée."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'en somme' pour conclure un résumé ?",
+      "correctAnswer": "Em suma",
+      "distractors": ["Em vez disso", "Além disso", "Apesar disso"],
+      "explanation": "'Em suma' = en somme. 'Além disso' = de plus. 'Apesar disso' = malgré cela."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Os participantes ________ que era necessário encontrar um compromisso.",
+      "correctAnswer": "concordaram",
+      "explanation": "'Concordar que' = être d'accord que / s'accorder sur le fait que. Pretérito perfeito : concordaram."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "contrapor", "phonetic": "/kõtɾɐˈpoɾ/", "french": "objecter / opposer"},
+    {"portuguese": "argumentar", "phonetic": "/ɐɾɡumẽˈtaɾ/", "french": "argumenter"},
+    {"portuguese": "reconhecer", "phonetic": "/ʁɨkuɲɨˈseɾ/", "french": "reconnaître"},
+    {"portuguese": "concordar", "phonetic": "/kõkuɾˈdaɾ/", "french": "être d'accord"},
+    {"portuguese": "em suma", "phonetic": "/ẽ ˈsumɐ/", "french": "en somme"},
+    {"portuguese": "todavia", "phonetic": "/tudɐˈviɐ/", "french": "toutefois"},
+    {"portuguese": "contudo", "phonetic": "/kõˈtudu/", "french": "cependant"},
+    {"portuguese": "teletrabalho", "phonetic": "/tɛlɨtɾɐˈbaʎu/", "french": "télétravail"},
+    {"portuguese": "compromisso", "phonetic": "/kõpɾuˈmisu/", "french": "compromis"},
+    {"portuguese": "renda", "phonetic": "/ˈʁẽdɐ/", "french": "loyer"}
+  ]
+}

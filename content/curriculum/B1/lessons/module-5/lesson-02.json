@@ -1,0 +1,83 @@
+{
+  "id": "b1-m5-l02",
+  "title": "La gastronomie portugaise",
+  "type": "vocabulary",
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Connaître les plats et ingrédients emblématiques de la cuisine portugaise",
+    "Décrire des plats et des saveurs en portugais européen",
+    "Parler de ses préférences gastronomiques"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La cuisine au cœur de la culture",
+      "content": "<p>La <strong>gastronomie portugaise</strong> (<em>gastronomia portuguesa</em>) est l'une des plus riches d'Europe. Fortement marquée par la mer, les épices des anciennes colonies et les produits du terroir, elle est un élément central de la vie sociale. Connaître la cuisine portugaise, c'est comprendre le Portugal.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les plats emblématiques",
+      "content": "<p>Les plats incontournables :</p><ul><li><strong>Bacalhau</strong> (<em>o bacalhau</em>) — la morue, véritable obsession nationale. On dit qu'il existe 365 façons de la préparer, une pour chaque jour de l'année. Plats célèbres : <em>bacalhau à Brás</em>, <em>bacalhau com natas</em>, <em>bacalhau à Gomes de Sá</em></li><li><strong>Caldo verde</strong> — soupe verte à base de chou cavalier (<em>couve galega</em>), pommes de terre et chorizo (<em>chouriço</em>)</li><li><strong>Pastéis de nata</strong> — petits flans feuilletés à la crème, originaires de Belém</li><li><strong>Francesinha</strong> — sandwich garni de Porto, avec sauce piquante</li><li><strong>Sardinha assada</strong> — sardines grillées, symbole des Santos Populares</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire culinaire",
+      "content": "<p>Termes utiles pour parler de nourriture :</p><ul><li><em>salgado/a</em> — salé/e</li><li><em>doce</em> — sucré / doux</li><li><em>picante</em> — piquant</li><li><em>grelhado/a</em> — grillé/e</li><li><em>assado/a</em> — rôti/e</li><li><em>cozido/a</em> — bouilli/e, cuit/e</li><li><em>frito/a</em> — frit/e</li><li><em>tempero</em> — assaisonnement</li></ul><p>Exemple : <em>O bacalhau à Brás é feito com bacalhau desfiado, batatas fritas e ovos.</em> (Le bacalhau à Brás est fait avec de la morue effilochée, des frites et des œufs.)</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Commander et recommander",
+      "content": "<p>Au restaurant :</p><ul><li><em>Recomendo o caldo verde, é delicioso.</em> (Je recommande le caldo verde, c'est délicieux.)</li><li><em>Já provou os pastéis de nata de Belém?</em> (Avez-vous déjà goûté les pastéis de nata de Belém ?)</li><li><em>Este prato é típico da região do Minho.</em> (Ce plat est typique de la région du Minho.)</li><li><em>Prefiro peixe a carne.</em> (Je préfère le poisson à la viande.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Parler de gastronomie",
+      "content": "<p>Répondez en portugais :</p><ol><li><em>Qual é o prato português que mais gostaria de provar?</em></li><li><em>Pode descrever um prato típico do seu país?</em></li><li><em>Prefere cozinha tradicional ou moderna? Porquê?</em></li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment appelle-t-on les petits flans feuilletés à la crème ?",
+      "correctAnswer": "pastéis de nata",
+      "distractors": ["pastéis de Belém", "bolinhos de creme", "tortas de nata"],
+      "explanation": "'Pastéis de nata' est le nom générique. 'Pastéis de Belém' désigne spécifiquement ceux de la pâtisserie historique de Belém."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O ________ verde é uma sopa feita com couve galega e chouriço.",
+      "correctAnswer": "caldo",
+      "explanation": "'Caldo verde' = soupe verte. 'Caldo' signifie bouillon. C'est un plat originaire du nord du Portugal."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Je recommande les sardines grillées.'",
+      "correctAnswer": "Recomendo as sardinhas grelhadas.",
+      "explanation": "'Sardinhas grelhadas' = sardines grillées. 'Grelhar' = griller (sur un gril)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Combien de recettes de bacalhau existerait-il selon la tradition ?",
+      "correctAnswer": "365",
+      "distractors": ["100", "200", "500"],
+      "explanation": "La tradition dit qu'il existe 365 façons de préparer la morue, une pour chaque jour de l'année."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O bacalhau à Brás é feito com bacalhau desfiado, batatas ________ e ovos.",
+      "correctAnswer": "fritas",
+      "explanation": "'Batatas fritas' = pommes de terre frites. 'Frito/a' = frit/e."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "bacalhau", "phonetic": "/bɐkɐˈʎaw/", "french": "morue (salée et séchée)"},
+    {"portuguese": "pastéis de nata", "phonetic": "/pɐʃˈtɛjʃ dɨ ˈnatɐ/", "french": "petits flans à la crème"},
+    {"portuguese": "caldo verde", "phonetic": "/ˈkaldu ˈveɾdɨ/", "french": "soupe verte au chou"},
+    {"portuguese": "sardinha", "phonetic": "/sɐɾˈdiɲɐ/", "french": "sardine"},
+    {"portuguese": "chouriço", "phonetic": "/ʃoˈɾisu/", "french": "chorizo portugais"},
+    {"portuguese": "grelhado", "phonetic": "/ɡɾɨˈʎadu/", "french": "grillé"},
+    {"portuguese": "assado", "phonetic": "/ɐˈsadu/", "french": "rôti"},
+    {"portuguese": "tempero", "phonetic": "/tẽˈpeɾu/", "french": "assaisonnement"},
+    {"portuguese": "gastronomia", "phonetic": "/ɡɐʃtɾunuˈmiɐ/", "french": "gastronomie"}
+  ]
+}

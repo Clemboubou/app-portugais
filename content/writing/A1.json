@@ -1,0 +1,76 @@
+{
+  "prompts": [
+    {
+      "id": "w-a1-01",
+      "title": "Se présenter",
+      "instructions": "Présentez-vous en quelques phrases : votre nom, votre nationalité, votre âge et votre profession.",
+      "model": "Olá! Chamo-me Marie, sou francesa e tenho trinta anos. Sou professora e moro em Paris. Estou a aprender português europeu.",
+      "level": "A1",
+      "minWords": 20,
+      "maxWords": 60
+    },
+    {
+      "id": "w-a1-02",
+      "title": "Décrire sa famille",
+      "instructions": "Décrivez votre famille : combien de personnes, leur prénom, leur âge et leur relation avec vous.",
+      "model": "A minha família é pequena. Tenho um irmão que se chama Pierre e tem vinte e cinco anos. Os meus pais chamam-se Jean e Françoise. A minha mãe é médica e o meu pai é engenheiro.",
+      "level": "A1",
+      "minWords": 25,
+      "maxWords": 70
+    },
+    {
+      "id": "w-a1-03",
+      "title": "Décrire son logement",
+      "instructions": "Décrivez où vous habitez : type de logement, nombre de pièces, ville, quartier.",
+      "model": "Moro num apartamento pequeno em Lisboa, no bairro de Alfama. O apartamento tem dois quartos, uma sala, uma cozinha e uma casa de banho. Gosto muito da vista sobre o rio Tejo.",
+      "level": "A1",
+      "minWords": 25,
+      "maxWords": 70
+    },
+    {
+      "id": "w-a1-04",
+      "title": "Décrire sa journée type",
+      "instructions": "Racontez votre journée habituelle du matin au soir, en mentionnant les horaires.",
+      "model": "Levanto-me às sete horas. Tomo o pequeno-almoço às oito e começo a trabalhar às nove. Ao meio-dia, como na cantina. À tarde, trabalho até às seis horas. À noite, janto em casa e leio um pouco antes de dormir.",
+      "level": "A1",
+      "minWords": 30,
+      "maxWords": 80
+    },
+    {
+      "id": "w-a1-05",
+      "title": "Parler de ses goûts",
+      "instructions": "Exprimez ce que vous aimez et n'aimez pas : loisirs, nourriture, musique, sport...",
+      "model": "Gosto muito de música e de cinema. O meu prato preferido é a bacalhau à brás. Não gosto de desportos radicais, mas adoro nadar. Nos fins de semana, gosto de visitar museus e passear na cidade.",
+      "level": "A1",
+      "minWords": 25,
+      "maxWords": 65
+    },
+    {
+      "id": "w-a1-06",
+      "title": "Écrire une carte postale",
+      "instructions": "Écrivez une carte postale à un(e) ami(e) depuis Lisbonne. Parlez de la ville, de la météo et de vos activités.",
+      "model": "Olá Ana! Estou em Lisboa e é uma cidade maravilhosa. O tempo está ótimo, com muito sol. Hoje visitei o Mosteiro dos Jerónimos e comi pastéis de nata. A cidade é muito bonita. Saudades tuas! Marie",
+      "level": "A1",
+      "minWords": 30,
+      "maxWords": 70
+    },
+    {
+      "id": "w-a1-07",
+      "title": "Commander au restaurant",
+      "instructions": "Écrivez un dialogue court dans un restaurant portugais : salutation, commande d'entrée/plat/dessert/boisson, et demande de l'addition.",
+      "model": "Empregado: Boa tarde! O que deseja?\nCliente: Boa tarde! Quero o bacalhau com natas, por favor.\nEmpregado: E para beber?\nCliente: Uma água com gás, se faz favor.\nEmpregado: Muito bem.\nCliente: Pode trazer a conta, por favor?\nEmpregado: Claro! São vinte euros.",
+      "level": "A1",
+      "minWords": 30,
+      "maxWords": 80
+    },
+    {
+      "id": "w-a1-08",
+      "title": "Demander des informations",
+      "instructions": "Écrivez un court message pour demander des informations sur un cours de portugais : horaires, prix, lieu.",
+      "model": "Bom dia! Chamo-me Marie e sou francesa. Estou interessada nos seus cursos de português. Poderia dizer-me quais são os horários disponíveis? Qual é o preço por mês? O curso é perto do centro de Lisboa? Obrigada pela atenção. Marie",
+      "level": "A1",
+      "minWords": 30,
+      "maxWords": 75
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "b2-m1-l03",
+  "title": "Subjonctif futur",
+  "type": "grammar",
+  "estimatedMinutes": 23,
+  "objectives": [
+    "Conjuguer les verbes réguliers et irréguliers au Futuro do Conjuntivo",
+    "Comprendre que ce temps est spécifique au portugais et n'existe pas en français",
+    "Utiliser le subjonctif futur avec quando, se, assim que, enquanto, logo que"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Un temps unique au portugais !",
+      "content": "<p>Le <strong>Futuro do Conjuntivo</strong> (subjonctif futur) est une particularité du portugais — il n'existe dans aucune autre grande langue romane en usage courant ! Ce temps est <strong>extrêmement fréquent</strong> au quotidien en portugais européen.</p><p>Il exprime une action future considérée comme possible ou probable, contrairement au subjonctif imparfait qui exprime une hypothèse irréelle.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Formation du subjonctif futur",
+      "content": "<p>Comme le subjonctif imparfait, il se forme à partir du <strong>radical de la 3e personne du pluriel du Pretérito Perfeito</strong>, mais avec des terminaisons différentes :</p><table><thead><tr><th>Personne</th><th>Falar (falaram)</th><th>Comer (comeram)</th><th>Partir (partiram)</th></tr></thead><tbody><tr><td>Eu</td><td>falar</td><td>comer</td><td>partir</td></tr><tr><td>Tu</td><td>falares</td><td>comeres</td><td>partires</td></tr><tr><td>Ele/Ela/Você</td><td>falar</td><td>comer</td><td>partir</td></tr><tr><td>Nós</td><td>falarmos</td><td>comermos</td><td>partirmos</td></tr><tr><td>Eles/Elas/Vocês</td><td>falarem</td><td>comerem</td><td>partirem</td></tr></tbody></table><p><strong>Remarque :</strong> Pour les verbes réguliers, les formes coïncident avec l'infinitif personnel ! Mais pour les irréguliers, elles diffèrent.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Irréguliers au subjonctif futur",
+      "content": "<p>Les verbes irréguliers montrent la différence avec l'infinitif personnel :</p><ul><li><strong>Ser/Ir</strong> (foram) → <em>for, fores, for, formos, forem</em></li><li><strong>Ter</strong> (tiveram) → <em>tiver, tiveres, tiver, tivermos, tiverem</em></li><li><strong>Estar</strong> (estiveram) → <em>estiver, estiveres, estiver, estivermos, estiverem</em></li><li><strong>Fazer</strong> (fizeram) → <em>fizer, fizeres, fizer, fizermos, fizerem</em></li><li><strong>Poder</strong> (puderam) → <em>puder, puderes, puder, pudermos, puderem</em></li><li><strong>Saber</strong> (souberam) → <em>souber, souberes, souber, soubermos, souberem</em></li><li><strong>Querer</strong> (quiseram) → <em>quiser, quiseres, quiser, quisermos, quiserem</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Quand utiliser le subjonctif futur",
+      "content": "<p>Le subjonctif futur s'utilise après :</p><ul><li><strong>Quando</strong> (quand) : <em>Quando eu <strong>chegar</strong> a casa, ligo-te.</em> (Quand j'arriverai à la maison, je t'appelle.)</li><li><strong>Se</strong> (si — condition réelle future) : <em>Se tu <strong>quiseres</strong>, vamos ao cinema.</em> (Si tu veux, nous allons au cinéma.)</li><li><strong>Assim que / Logo que</strong> (dès que) : <em>Assim que ele <strong>souber</strong>, diz-nos.</em> (Dès qu'il saura, il nous dira.)</li><li><strong>Enquanto</strong> (tant que) : <em>Enquanto eu <strong>estiver</strong> em Portugal, falo português.</em> (Tant que je serai au Portugal, je parle portugais.)</li><li><strong>Quem</strong> (celui qui) : <em>Quem <strong>quiser</strong> vir, é bem-vindo.</em> (Celui qui voudra venir est le bienvenu.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Subjonctif futur vs imparfait : la différence clé",
+      "content": "<p>La distinction est cruciale :</p><ul><li><strong>Se eu <em>tiver</em> tempo</strong> = Si j'ai le temps (possible, futur) → subjonctif futur</li><li><strong>Se eu <em>tivesse</em> tempo</strong> = Si j'avais le temps (irréel, hypothétique) → subjonctif imparfait</li></ul><p>Autres exemples :</p><ul><li><em>Quando <strong>formos</strong> a Lisboa, visitamos o castelo.</em> (Quand nous irons à Lisbonne...)</li><li><em>Se <strong>fizeres</strong> os trabalhos de casa, podes sair.</em> (Si tu fais tes devoirs, tu peux sortir.)</li><li><em>Logo que <strong>puder</strong>, respondo à tua mensagem.</em> (Dès que je pourrai, je réponds à ton message.)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Complétez : Quando eu ________ (ir) a Lisboa, visito o Castelo de São Jorge.",
+      "correctAnswer": "for",
+      "distractors": ["fosse", "vá", "ia"],
+      "explanation": "Après 'quando' pour une action future probable, on utilise le subjonctif futur. IR → foram → for."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Se tu ________ (querer), podemos jantar juntos.",
+      "correctAnswer": "quiseres",
+      "explanation": "'Se' + subjonctif futur exprime une condition réelle au futur. QUERER → quiseram → quiseres (tu)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Dès que je saurai la réponse, je t'appelle.",
+      "correctAnswer": "Assim que eu souber a resposta, ligo-te.",
+      "explanation": "'Assim que' (dès que) + subjonctif futur. SABER → souberam → souber. 'Ligo-te' = je t'appelle (sens téléphonique en PT-PT)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle phrase exprime une condition RÉELLE au futur ?",
+      "correctAnswer": "Se eu tiver dinheiro, compro um carro.",
+      "distractors": [
+        "Se eu tivesse dinheiro, comprava um carro.",
+        "Se eu tenha dinheiro, compro um carro.",
+        "Se eu tinha dinheiro, comprava um carro."
+      ],
+      "explanation": "'Se' + subjonctif futur (tiver) exprime une condition réelle/possible. Le subjonctif imparfait (tivesse) exprime une condition irréelle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Enquanto eles ________ (estar) cá, aproveitamos para conversar.",
+      "correctAnswer": "estiverem",
+      "explanation": "'Enquanto' (tant que) + subjonctif futur pour une situation future. ESTAR → estiveram → estiverem (eles)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "quando", "phonetic": "/ˈkwɐ̃du/", "french": "quand"},
+    {"portuguese": "assim que", "phonetic": "/ɐˈsĩ kɨ/", "french": "dès que"},
+    {"portuguese": "logo que", "phonetic": "/ˈlɔɡu kɨ/", "french": "dès que"},
+    {"portuguese": "enquanto", "phonetic": "/ẽˈkwɐ̃tu/", "french": "tant que / pendant que"},
+    {"portuguese": "sempre que", "phonetic": "/ˈsẽpɾɨ kɨ/", "french": "chaque fois que"},
+    {"portuguese": "depois que", "phonetic": "/dɨˈpojʃ kɨ/", "french": "après que"},
+    {"portuguese": "a menos que", "phonetic": "/ɐ ˈmenuʃ kɨ/", "french": "à moins que"},
+    {"portuguese": "conforme", "phonetic": "/kõˈfɔɾmɨ/", "french": "selon / conformément"},
+    {"portuguese": "quem", "phonetic": "/kɐ̃j̃/", "french": "celui qui / quiconque"},
+    {"portuguese": "onde quer que", "phonetic": "/ˈõdɨ kɛɾ kɨ/", "french": "où que"}
+  ]
+}

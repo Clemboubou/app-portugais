@@ -1,0 +1,67 @@
+{
+  "id": "a2-m1-l01",
+  "title": "Le Pretérito Perfeito Simples",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Conjuguer les verbes réguliers en -AR, -ER et -IR au Pretérito Perfeito Simples",
+    "Comprendre quand utiliser ce temps pour exprimer des actions passées et terminées",
+    "Mémoriser les verbes irréguliers fondamentaux : ser, estar, ter, ir"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Parler du passé",
+      "content": "<p>Pour raconter des événements passés qui sont terminés et datés, on utilise le <strong>Pretérito Perfeito Simples</strong>. En français, il correspond souvent au passé composé ou au passé simple.</p><p>C'est le temps de base de la narration au passé en portugais européen.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Verbes réguliers",
+      "content": "<table><thead><tr><th>Personne</th><th>-AR (Falar)</th><th>-ER (Comer)</th><th>-IR (Abrir)</th></tr></thead><tbody><tr><td>Eu</td><td>falei</td><td>comi</td><td>abri</td></tr><tr><td>Tu</td><td>falaste</td><td>comeste</td><td>abriste</td></tr><tr><td>Ele/Ela/Você</td><td>falou</td><td>comeu</td><td>abriu</td></tr><tr><td>Nós</td><td>falámos</td><td>comemos</td><td>abrimos</td></tr><tr><td>Eles/Elas/Vocês</td><td>falaram</td><td>comeram</td><td>abriram</td></tr></tbody></table><p>Notez l'accent sur <em>falámos</em> (1ère pers. pl.) pour le distinguer du présent <em>falamos</em> en portugais européen.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Verbes irréguliers essentiels",
+      "content": "<p>Certains verbes très fréquents changent complètement de racine au passé :</p><ul><li><strong>Ser / Ir</strong> (identiques au passé !) : <em>fui, foste, foi, fomos, foram</em></li><li><strong>Ter</strong> : <em>tive, tiveste, teve, tivemos, tiveram</em></li><li><strong>Estar</strong> : <em>estive, estiveste, esteve, estivemos, estiveram</em></li><li><strong>Fazer</strong> : <em>fiz, fizeste, fez, fizemos, fizeram</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Quand l'utiliser ?",
+      "content": "<p>On utilise le Pretérito Perfeito Simples pour :</p><ul><li>Une action ponctuelle : <em>Ontem <strong>fui</strong> ao cinema.</em> (Hier je suis allé au cinéma.)</li><li>Une action avec une durée définie : <em><strong>Vivi</strong> em Lisboa durante dois anos.</em> (J'ai vécu à Lisbonne pendant deux ans.)</li><li>Une série d'actions : <em><strong>Levantei-me</strong>, <strong>tomei</strong> um café e <strong>saí</strong>.</em> (Je me suis levé, j'ai pris un café et je suis sorti.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Exemples en contexte",
+      "content": "<ul><li><em>Eu <strong>falei</strong> com o Pedro ontem.</em> (J'ai parlé avec Pedro hier.)</li><li><em>Tu <strong>comeste</strong> muito peixe no restaurante.</em> (Tu as mangé beaucoup de poisson au restaurant.)</li><li><em>Nós <strong>fomos</strong> de férias para o Algarve.</em> (Nous sommes allés en vacances en Algarve.)</li><li><em>Eles <strong>fizeram</strong> o trabalho de casa.</em> (Ils ont fait les devoirs.)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Ontem, eu ________ (ir) ao supermercado.",
+      "correctAnswer": "fui",
+      "explanation": "Le verbe IR (aller) au Pretérito Perfeito Simples à la première personne du singulier est 'fui'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Nous avons mangé' (verbe COMER) ?",
+      "correctAnswer": "Comemos",
+      "distractors": [
+        "Comemos-nos",
+        "Comeram",
+        "Comi"
+      ],
+      "explanation": "Pour les verbes en -ER, la terminaison à la première personne du pluriel est -emos."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "ontem",
+      "french": "hier"
+    },
+    {
+      "portuguese": "férias",
+      "french": "vacances"
+    }
+  ]
+}

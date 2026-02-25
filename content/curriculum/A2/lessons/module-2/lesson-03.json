@@ -1,0 +1,83 @@
+{
+  "id": "a2-m2-l03",
+  "title": "Décrire son logement",
+  "type": "speaking",
+  "estimatedMinutes": 14,
+  "objectives": [
+    "Décrire oralement son logement en utilisant há/tem, fica, é",
+    "Utiliser les adjectifs pour qualifier les pièces et l'espace",
+    "Employer les expressions de localisation pour situer les pièces"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Parler de chez soi",
+      "content": "<p>Que ce soit avec de nouveaux amis ou un agent immobilier, décrire son logement est une situation très courante. Dans cette leçon, vous allez apprendre à présenter votre maison ou appartement à l'oral de manière claire et naturelle.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Structures essentielles",
+      "content": "<table><thead><tr><th>Structure</th><th>Exemple</th><th>Traduction</th></tr></thead><tbody><tr><td><strong>Há / Tem</strong> (il y a)</td><td><em>Há dois quartos.</em></td><td>Il y a deux chambres.</td></tr><tr><td><strong>Fica</strong> (se trouve)</td><td><em>A cozinha fica ao lado da sala.</em></td><td>La cuisine est à côté du salon.</td></tr><tr><td><strong>É</strong> + adjectif</td><td><em>O quarto é grande.</em></td><td>La chambre est grande.</td></tr><tr><td><strong>Tem vista para</strong></td><td><em>A sala tem vista para o mar.</em></td><td>Le salon a vue sur la mer.</td></tr><tr><td><strong>Dá para</strong></td><td><em>A varanda dá para o jardim.</em></td><td>Le balcon donne sur le jardin.</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Adjectifs pour la maison",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td><strong>grande / pequeno(a)</strong></td><td>grand(e) / petit(e)</td></tr><tr><td><strong>luminoso(a) / escuro(a)</strong></td><td>lumineux(se) / sombre</td></tr><tr><td><strong>acolhedor(a)</strong></td><td>accueillant(e)</td></tr><tr><td><strong>espaçoso(a)</strong></td><td>spacieux(se)</td></tr><tr><td><strong>moderno(a) / antigo(a)</strong></td><td>moderne / ancien(ne)</td></tr><tr><td><strong>mobilado(a)</strong></td><td>meublé(e)</td></tr><tr><td><strong>arrumado(a) / desarrumado(a)</strong></td><td>rangé(e) / en désordre</td></tr></tbody></table><p><strong>Accord</strong> : L'adjectif s'accorde en genre et en nombre avec le nom. <em>A sala <strong>é</strong> luminosa.</em> / <em>O quarto <strong>é</strong> luminoso.</em></p>"
+    },
+    {
+      "type": "practice",
+      "title": "Description modèle",
+      "content": "<blockquote><em>Moro num apartamento T3 no centro de Lisboa, no quarto andar com elevador. A entrada dá para um corredor comprido. À direita, fica a sala de estar — é grande e muito luminosa porque tem duas janelas grandes. A cozinha fica ao lado da sala e tem vista para o rio Tejo. Há três quartos: o meu quarto é o maior e tem uma varanda. A casa de banho é moderna, com duche e banheira. Gosto muito da minha casa porque é acolhedora.</em></blockquote><p>Traduction : J'habite dans un appartement T3 au centre de Lisbonne, au quatrième étage avec ascenseur. L'entrée donne sur un long couloir. À droite se trouve le salon — il est grand et très lumineux car il a deux grandes fenêtres. La cuisine est à côté du salon et a vue sur le Tage. Il y a trois chambres : ma chambre est la plus grande et a un balcon. La salle de bain est moderne, avec douche et baignoire. J'aime beaucoup ma maison car elle est accueillante.</p>"
+    },
+    {
+      "type": "production",
+      "title": "À vous de décrire",
+      "content": "<p>Décrivez oralement votre logement en suivant ce plan :</p><ol><li><strong>Type et localisation</strong> : <em>Moro num/numa...</em></li><li><strong>Nombre de pièces</strong> : <em>Tem... quartos, ... casa(s) de banho...</em></li><li><strong>Description de 2-3 pièces</strong> : taille, luminosité, vue</li><li><strong>Votre avis</strong> : <em>Gosto/Não gosto porque...</em></li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Le salon donne sur le jardin' ?",
+      "correctAnswer": "A sala dá para o jardim.",
+      "distractors": ["A sala fica o jardim.", "A sala tem o jardim.", "A sala vai para o jardim."],
+      "explanation": "'Dar para' signifie 'donner sur' quand on parle de la vue ou de l'orientation d'une pièce."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O apartamento é muito ________ — tem muitas janelas.",
+      "correctAnswer": "luminoso",
+      "explanation": "'Luminoso' = lumineux. L'adjectif est au masculin car 'apartamento' est masculin."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'La cuisine est à côté du salon.'",
+      "correctAnswer": "A cozinha fica ao lado da sala.",
+      "explanation": "'Ficar ao lado de' = être à côté de. 'Da sala' = contraction de 'de + a sala'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel adjectif signifie 'meublé' ?",
+      "correctAnswer": "mobilado",
+      "distractors": ["arrumado", "moderno", "espaçoso"],
+      "explanation": "'Mobilado' = meublé (de 'mobília' = mobilier). 'Arrumado' = rangé, 'espaçoso' = spacieux."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A minha casa tem ________ para o rio.",
+      "correctAnswer": "vista",
+      "explanation": "'Ter vista para' = avoir vue sur. C'est une expression figée très utilisée dans les annonces immobilières."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "luminoso", "phonetic": "/lumiˈnozu/", "french": "lumineux"},
+    {"portuguese": "espaçoso", "phonetic": "/ɨʃpɐˈsozu/", "french": "spacieux"},
+    {"portuguese": "acolhedor", "phonetic": "/ɐkoʎɨˈdoɾ/", "french": "accueillant"},
+    {"portuguese": "mobilado", "phonetic": "/mubiˈladu/", "french": "meublé"},
+    {"portuguese": "a janela", "phonetic": "/ʒɐˈnɛlɐ/", "french": "la fenêtre"},
+    {"portuguese": "o elevador", "phonetic": "/ilɨvɐˈdoɾ/", "french": "l'ascenseur"},
+    {"portuguese": "a vista", "phonetic": "/ˈviʃtɐ/", "french": "la vue"},
+    {"portuguese": "o duche", "phonetic": "/ˈduʃɨ/", "french": "la douche"},
+    {"portuguese": "a banheira", "phonetic": "/bɐˈɲɐjɾɐ/", "french": "la baignoire"}
+  ]
+}

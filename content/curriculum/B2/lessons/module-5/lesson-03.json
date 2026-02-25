@@ -1,0 +1,84 @@
+{
+  "id": "b2-m5-l03",
+  "title": "Vocabulaire économique",
+  "type": "vocabulary",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Maîtriser le vocabulaire économique essentiel en portugais européen",
+    "Comprendre les indicateurs économiques (PIB, inflation, chômage)",
+    "Utiliser ce vocabulaire dans des phrases et contextes authentiques"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'économie en portugais",
+      "content": "<p>Pour lire la presse portugaise et participer à des conversations sur l'actualité, il est indispensable de connaître le <strong>vocabulaire économique</strong>. Ce lexique vous permettra de comprendre les articles du <em>Público</em>, de l'<em>Observador</em> ou du <em>Jornal de Negócios</em>.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les indicateurs économiques",
+      "content": "<p><strong>Indicateurs principaux :</strong></p><ul><li><em>o PIB (Produto Interno Bruto)</em> — le PIB</li><li><em>a inflação</em> — l'inflation</li><li><em>o desemprego / a taxa de desemprego</em> — le chômage / le taux de chômage</li><li><em>o défice / o déficit</em> — le déficit</li><li><em>a dívida pública</em> — la dette publique</li><li><em>o crescimento económico</em> — la croissance économique</li></ul><p><strong>En contexte :</strong></p><p><em>O PIB português cresceu 2,3% no último trimestre. A taxa de desemprego desceu para 6,5%, o valor mais baixo em quinze anos. No entanto, a inflação subiu para 3,1%.</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire économique approfondi",
+      "content": "<p><strong>Marchés et entreprises :</strong></p><ul><li><em>a empresa</em> — l'entreprise</li><li><em>o investimento</em> — l'investissement</li><li><em>a receita / as receitas</em> — le revenu / les recettes</li><li><em>a despesa</em> — la dépense</li><li><em>o orçamento (de Estado)</em> — le budget (de l'État)</li><li><em>o salário mínimo</em> — le salaire minimum</li></ul><p><strong>Verbes économiques :</strong></p><ul><li><em>crescer / aumentar</em> — croître / augmenter</li><li><em>diminuir / descer</em> — diminuer / baisser</li><li><em>investir</em> — investir</li><li><em>exportar / importar</em> — exporter / importer</li><li><em>recuperar</em> — récupérer / se remettre</li></ul><p><strong>Note :</strong> En PT-PT, on dit <em>défice</em> (pas « déficit » qui est aussi accepté). Le mot <em>orçamento</em> se prononce /oɾsɐˈmẽtu/.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Utiliser le vocabulaire en contexte",
+      "content": "<p>Complétez ces phrases :</p><ol><li><em>A taxa de ________ em Portugal é de 6,5%.</em> → <strong>desemprego</strong></li><li><em>O ________ de Estado para 2025 foi aprovado pela Assembleia.</em> → <strong>orçamento</strong></li><li><em>A ________ pública portuguesa ultrapassa os 120% do PIB.</em> → <strong>dívida</strong></li><li><em>O ________ mínimo nacional subiu para 870 euros.</em> → <strong>salário</strong></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Rédiger un bulletin économique",
+      "content": "<p>Rédigez un court bulletin économique (60-80 mots) décrivant la situation d'un pays fictif, en utilisant au moins <strong>8 termes économiques</strong> de cette leçon.</p><p>Modèle : <em>A economia do país X registou um crescimento de... O PIB aumentou... A taxa de desemprego... O investimento estrangeiro...</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'taux de chômage' en portugais ?",
+      "correctAnswer": "taxa de desemprego",
+      "distractors": ["taxa de emprego", "nível de trabalho", "índice de trabalho"],
+      "explanation": "'Taxa de desemprego' = taux de chômage. 'Desemprego' = chômage (des- + emprego)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ________ subiu para 3,1%, o que preocupa os consumidores.",
+      "correctAnswer": "inflação",
+      "explanation": "'Inflação' = inflation. Quand l'inflation augmente (sobe/sube), le pouvoir d'achat diminue."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : La croissance économique a augmenté de 2% cette année.",
+      "correctAnswer": "O crescimento económico aumentou 2% este ano.",
+      "explanation": "'Crescimento económico' = croissance économique. 'Aumentar' = augmenter. Note : en PT-PT, 'económico' (pas 'econômico')."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le terme PT-PT pour 'budget de l'État' ?",
+      "correctAnswer": "orçamento de Estado",
+      "distractors": ["presuposto de Estado", "balanço de Estado", "conta de Estado"],
+      "explanation": "'Orçamento de Estado' = budget de l'État. 'Presuposto' n'existe pas en portugais (c'est l'espagnol)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Portugal ________ mais do que importa, o que é positivo para a balança comercial.",
+      "correctAnswer": "exporta",
+      "explanation": "'Exportar' = exporter. 'Balança comercial' = balance commerciale (différence entre exportations et importations)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "inflação", "phonetic": "/ĩflɐˈsɐ̃w̃/", "french": "inflation"},
+    {"portuguese": "desemprego", "phonetic": "/dɨzẽˈpɾeɡu/", "french": "chômage"},
+    {"portuguese": "crescimento económico", "phonetic": "/kɾɨʃiˈmẽtu ɨkuˈnɔmiku/", "french": "croissance économique"},
+    {"portuguese": "défice", "phonetic": "/ˈdɛfisɨ/", "french": "déficit (PT-PT)"},
+    {"portuguese": "dívida pública", "phonetic": "/ˈdividɐ ˈpublikɐ/", "french": "dette publique"},
+    {"portuguese": "orçamento", "phonetic": "/oɾsɐˈmẽtu/", "french": "budget"},
+    {"portuguese": "salário mínimo", "phonetic": "/sɐˈlaɾiu ˈminimu/", "french": "salaire minimum"},
+    {"portuguese": "investimento", "phonetic": "/ĩvɨʃtiˈmẽtu/", "french": "investissement"},
+    {"portuguese": "exportar", "phonetic": "/ɨʃpuɾˈtaɾ/", "french": "exporter"},
+    {"portuguese": "recuperar", "phonetic": "/ʁɨkupɨˈɾaɾ/", "french": "récupérer / se remettre"}
+  ]
+}

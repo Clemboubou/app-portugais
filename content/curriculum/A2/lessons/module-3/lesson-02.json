@@ -1,0 +1,83 @@
+{
+  "id": "a2-m3-l02",
+  "title": "Exprimer une douleur",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Utiliser le verbe 'doer' pour exprimer la douleur",
+    "Employer les expressions 'dói-me', 'tenho dores de', 'sinto-me mal'",
+    "Conjuguer 'doer' au présent et au passé"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Dire où l'on a mal",
+      "content": "<p>Quand on ne se sent pas bien, il faut pouvoir l'exprimer clairement. En portugais européen, le verbe <strong>doer</strong> (faire mal) fonctionne de manière particulière : c'est la partie du corps qui est le sujet du verbe, pas la personne !</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Le verbe DOER",
+      "content": "<p>Le verbe <em>doer</em> fonctionne comme le verbe espagnol <em>doler</em> ou l'italien <em>dolere</em> :</p><table><thead><tr><th>Portugais</th><th>Littéralement</th><th>Français</th></tr></thead><tbody><tr><td><strong>Dói-me</strong> a cabeça.</td><td>Me fait mal la tête.</td><td>J'ai mal à la tête.</td></tr><tr><td><strong>Dói-te</strong> o braço?</td><td>Te fait mal le bras ?</td><td>Tu as mal au bras ?</td></tr><tr><td><strong>Dói-lhe</strong> o estômago.</td><td>Lui fait mal l'estomac.</td><td>Il/Elle a mal à l'estomac.</td></tr><tr><td><strong>Doem-me</strong> as costas.</td><td>Me font mal le dos.</td><td>J'ai mal au dos.</td></tr><tr><td><strong>Doem-me</strong> os pés.</td><td>Me font mal les pieds.</td><td>J'ai mal aux pieds.</td></tr></tbody></table><p><strong>Règle</strong> : <em>dói</em> (singulier) quand une seule chose fait mal, <em>doem</em> (pluriel) quand plusieurs choses font mal.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Autres expressions de douleur et de malaise",
+      "content": "<table><thead><tr><th>Expression</th><th>Français</th><th>Exemple</th></tr></thead><tbody><tr><td><strong>Tenho dores de...</strong></td><td>J'ai des douleurs de...</td><td><em>Tenho dores de cabeça.</em> (J'ai mal à la tête.)</td></tr><tr><td><strong>Sinto-me mal.</strong></td><td>Je me sens mal.</td><td><em>Sinto-me mal desde ontem.</em> (Je me sens mal depuis hier.)</td></tr><tr><td><strong>Tenho febre.</strong></td><td>J'ai de la fièvre.</td><td><em>Tenho 38 graus de febre.</em></td></tr><tr><td><strong>Estou constipado(a).</strong></td><td>Je suis enrhumé(e).</td><td><em>Estou constipada, tenho o nariz entupido.</em></td></tr><tr><td><strong>Tenho tosse.</strong></td><td>J'ai de la toux.</td><td><em>Tenho muita tosse à noite.</em></td></tr></tbody></table><p><strong>Faux ami capital</strong> : <em>constipado</em> en portugais signifie <strong>enrhumé</strong>, PAS constipé ! Pour dire constipé, on dit <em>com prisão de ventre</em>.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "DOER au passé",
+      "content": "<p>Au Pretérito Perfeito Simples :</p><ul><li><em><strong>Doeu</strong>-me a cabeça ontem.</em> (J'ai eu mal à la tête hier.)</li><li><em><strong>Doeram</strong>-me as costas a semana passada.</em> (J'ai eu mal au dos la semaine dernière.)</li></ul><p>Au Pretérito Imperfeito (pour une douleur continue) :</p><ul><li><em><strong>Doía</strong>-me a barriga durante toda a noite.</em> (J'avais mal au ventre pendant toute la nuit.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Décrire ses symptômes",
+      "content": "<p>Imaginez que vous êtes malade. Décrivez vos symptômes :</p><p>Exemple : <em>Não me sinto bem. Dói-me a garganta e tenho muita tosse. Também tenho dores de cabeça e um pouco de febre. Acho que estou constipado.</em></p><p>(Je ne me sens pas bien. J'ai mal à la gorge et je tousse beaucoup. J'ai aussi des maux de tête et un peu de fièvre. Je pense que je suis enrhumé.)</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'J'ai mal au dos' en portugais ?",
+      "correctAnswer": "Doem-me as costas.",
+      "distractors": ["Dói-me as costas.", "Dói-me o costa.", "Dor as costas."],
+      "explanation": "'As costas' est pluriel, donc on utilise 'doem' (pluriel de 'dói'). 'Doem-me as costas.'"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________-me a cabeça desde ontem.",
+      "correctAnswer": "Dói",
+      "explanation": "'A cabeça' est singulier, donc on utilise 'dói' (3ème personne du singulier de 'doer')."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Je me sens mal, j'ai de la fièvre.'",
+      "correctAnswer": "Sinto-me mal, tenho febre.",
+      "explanation": "'Sinto-me mal' = je me sens mal (verbe sentir-se). 'Tenho febre' = j'ai de la fièvre."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'Estou constipado' en portugais européen ?",
+      "correctAnswer": "Je suis enrhumé",
+      "distractors": ["Je suis constipé", "Je suis fatigué", "Je suis stressé"],
+      "explanation": "Faux ami ! 'Constipado' en portugais = enrhumé en français. C'est un piège classique."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tenho ________ de cabeça muito fortes.",
+      "correctAnswer": "dores",
+      "explanation": "'Ter dores de' = avoir des douleurs de. 'Dores de cabeça' = maux de tête."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "doer", "phonetic": "/duˈeɾ/", "french": "faire mal"},
+    {"portuguese": "dói-me", "phonetic": "/dɔjmɨ/", "french": "ça me fait mal"},
+    {"portuguese": "as dores", "phonetic": "/ˈdoɾɨʃ/", "french": "les douleurs"},
+    {"portuguese": "a febre", "phonetic": "/ˈfɛbɾɨ/", "french": "la fièvre"},
+    {"portuguese": "constipado", "phonetic": "/kõʃtiˈpadu/", "french": "enrhumé (faux ami !)"},
+    {"portuguese": "a tosse", "phonetic": "/ˈtosɨ/", "french": "la toux"},
+    {"portuguese": "a garganta", "phonetic": "/ɡɐɾˈɡɐ̃tɐ/", "french": "la gorge"},
+    {"portuguese": "sentir-se mal", "phonetic": "/sɐ̃ˈtiɾsɨ maɫ/", "french": "se sentir mal"},
+    {"portuguese": "o nariz entupido", "phonetic": "/nɐˈɾiʒ ɐ̃tuˈpidu/", "french": "le nez bouché"}
+  ]
+}

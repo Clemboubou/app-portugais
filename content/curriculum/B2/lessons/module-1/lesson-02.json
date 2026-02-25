@@ -1,0 +1,84 @@
+{
+  "id": "b2-m1-l02",
+  "title": "Le subjonctif imparfait",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Conjuguer les verbes réguliers et irréguliers au Pretérito Imperfeito do Conjuntivo",
+    "Comprendre la formation à partir du radical du Pretérito Perfeito",
+    "Utiliser le subjonctif imparfait dans les phrases conditionnelles avec 'se'"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le subjonctif imparfait : un mode essentiel",
+      "content": "<p>Le <strong>Pretérito Imperfeito do Conjuntivo</strong> (subjonctif imparfait) est fondamental en portugais européen. Il s'utilise pour exprimer des conditions irréelles, des souhaits passés et des situations hypothétiques.</p><p>Contrairement au français où le subjonctif imparfait est rare à l'oral, en portugais européen il est <strong>très courant</strong> dans la conversation quotidienne.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Formation du subjonctif imparfait",
+      "content": "<p>La formation est régulière et part de la <strong>3e personne du pluriel du Pretérito Perfeito</strong> (passé simple). On retire <em>-ram</em> et on ajoute les terminaisons :</p><table><thead><tr><th>Personne</th><th>Falar (falaram)</th><th>Comer (comeram)</th><th>Partir (partiram)</th></tr></thead><tbody><tr><td>Eu</td><td>falasse</td><td>comesse</td><td>partisse</td></tr><tr><td>Tu</td><td>falasses</td><td>comesses</td><td>partisses</td></tr><tr><td>Ele/Ela/Você</td><td>falasse</td><td>comesse</td><td>partisse</td></tr><tr><td>Nós</td><td>falássemos</td><td>comêssemos</td><td>partíssemos</td></tr><tr><td>Eles/Elas/Vocês</td><td>falassem</td><td>comessem</td><td>partissem</td></tr></tbody></table><p>L'accent écrit sur <em>nós</em> est obligatoire : falássemos, comêssemos, partíssemos.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les verbes irréguliers au subjonctif imparfait",
+      "content": "<p>Les irréguliers suivent la même logique (radical de la 3e pers. pl. du perfeito) :</p><ul><li><strong>Ser/Ir</strong> (foram) → <em>fosse, fosses, fosse, fôssemos, fossem</em></li><li><strong>Ter</strong> (tiveram) → <em>tivesse, tivesses, tivesse, tivéssemos, tivessem</em></li><li><strong>Estar</strong> (estiveram) → <em>estivesse, estivesses, estivesse, estivéssemos, estivessem</em></li><li><strong>Fazer</strong> (fizeram) → <em>fizesse, fizesses, fizesse, fizéssemos, fizessem</em></li><li><strong>Poder</strong> (puderam) → <em>pudesse, pudesses, pudesse, pudéssemos, pudessem</em></li><li><strong>Saber</strong> (souberam) → <em>soubesse, soubesses, soubesse, soubéssemos, soubessem</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Usages du subjonctif imparfait",
+      "content": "<p>Le subjonctif imparfait s'utilise dans plusieurs contextes :</p><ul><li><strong>Condition irréelle (présent)</strong> : <em>Se eu <strong>falasse</strong> português, viajava para Lisboa.</em> (Si je parlais portugais, je voyagerais à Lisbonne.)</li><li><strong>Souhait irréalisable</strong> : <em>Quem me dera que ele <strong>estivesse</strong> aqui.</em> (Si seulement il était ici.)</li><li><strong>Après « como se »</strong> : <em>Ele fala como se <strong>fosse</strong> português.</em> (Il parle comme s'il était portugais.)</li><li><strong>Expression de doute au passé</strong> : <em>Duvidava que eles <strong>soubessem</strong> a verdade.</em> (Je doutais qu'ils sachent la vérité.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Phrases conditionnelles au quotidien",
+      "content": "<p>Entraînez-vous avec ces structures courantes :</p><ul><li><em>Se eu <strong>pudesse</strong>, ia contigo.</em> (Si je pouvais, j'irais avec toi.)</li><li><em>Se nós <strong>tivéssemos</strong> mais tempo, visitávamos o Algarve.</em> (Si nous avions plus de temps, nous visiterions l'Algarve.)</li><li><em>Se tu <strong>fosses</strong> eu, o que fazias?</em> (Si tu étais moi, que ferais-tu ?)</li><li><em>Era bom que tu <strong>viesses</strong> à festa.</em> (Ce serait bien que tu viennes à la fête.)</li></ul><p><strong>Attention :</strong> En portugais européen parlé, la conséquence utilise souvent l'<strong>Imperfeito do Indicativo</strong> (ex. <em>ia, visitávamos, fazias</em>) plutôt que le conditionnel.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Complétez : Se eu ________ (ter) dinheiro, comprava um apartamento em Lisboa.",
+      "correctAnswer": "tivesse",
+      "distractors": ["tenha", "tinha", "tivera"],
+      "explanation": "Après 'se' dans une condition irréelle au présent, on utilise le subjonctif imparfait : 'tivesse' (du radical de 'tiveram')."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ele fala como se ________ (ser) lisboeta.",
+      "correctAnswer": "fosse",
+      "explanation": "'Como se' (comme si) exige toujours le subjonctif imparfait. Le verbe SER au subjonctif imparfait donne 'fosse'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez en portugais : Si je savais la réponse, je te la disais.",
+      "correctAnswer": "Se eu soubesse a resposta, dizia-ta.",
+      "explanation": "Condition irréelle : 'se' + subjonctif imparfait (soubesse). La conséquence en PT-PT oral utilise l'imperfeito (dizia). Le pronom combiné : te + a = ta."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme correcte de FAZER au subjonctif imparfait pour 'nós' ?",
+      "correctAnswer": "fizéssemos",
+      "distractors": ["fazêssemos", "fizessemos", "façássemos"],
+      "explanation": "Le radical vient de 'fizeram' (3e pers. pl. perfeito) → fiz- + -éssemos. L'accent sur le 'e' est obligatoire pour 'nós'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Duvidava que eles ________ (poder) chegar a tempo.",
+      "correctAnswer": "pudessem",
+      "explanation": "Expression de doute au passé : on utilise le subjonctif imparfait. PODER → puderam → pudessem."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "se", "phonetic": "/sɨ/", "french": "si (conditionnel)"},
+    {"portuguese": "como se", "phonetic": "/ˈkomu sɨ/", "french": "comme si"},
+    {"portuguese": "quem me dera", "phonetic": "/kɐ̃j̃ mɨ ˈdɛɾɐ/", "french": "si seulement / j'aimerais tant"},
+    {"portuguese": "duvidava", "phonetic": "/duviˈdavɐ/", "french": "je doutais"},
+    {"portuguese": "era bom que", "phonetic": "/ˈɛɾɐ bõ kɨ/", "french": "ce serait bien que"},
+    {"portuguese": "embora", "phonetic": "/ẽˈboɾɐ/", "french": "bien que"},
+    {"portuguese": "mesmo que", "phonetic": "/ˈmeʒmu kɨ/", "french": "même si"},
+    {"portuguese": "caso", "phonetic": "/ˈkazu/", "french": "au cas où"},
+    {"portuguese": "supondo que", "phonetic": "/suˈpõdu kɨ/", "french": "en supposant que"},
+    {"portuguese": "a não ser que", "phonetic": "/ɐ nɐ̃w̃ seɾ kɨ/", "french": "à moins que"}
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "b2-m7-l04",
+  "title": "Le subjonctif dans les relatives",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Comprendre l'emploi du subjonctif dans les propositions relatives",
+    "Distinguer indicatif et subjonctif dans les relatives (connu vs souhaité)",
+    "Utiliser correctement 'que fale' vs 'que fala'"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Indicatif ou subjonctif dans les relatives ?",
+      "content": "<p>En portugais, le choix entre <strong>indicatif</strong> et <strong>subjonctif</strong> dans une proposition relative dépend du caractère <strong>réel/identifié</strong> ou <strong>hypothétique/non identifié</strong> de l'antécédent. C'est une distinction subtile mais essentielle au niveau B2.</p><p>Comparez :</p><ul><li><em>Procuro a pessoa que <strong>fala</strong> francês.</em> (Je cherche la personne qui parle français — je sais qui c'est.)</li><li><em>Procuro uma pessoa que <strong>fale</strong> francês.</em> (Je cherche une personne qui parle français — n'importe qui.)</li></ul>"
+    },
+    {
+      "type": "discovery",
+      "title": "Exemples comparatifs",
+      "content": "<p><strong>Antécédent connu/défini → INDICATIF :</strong></p><ul><li><em>Tenho um amigo que <strong>mora</strong> em Lisboa.</em> (J'ai un ami qui habite à Lisbonne — il existe.)</li><li><em>Conheço um restaurante que <strong>serve</strong> bacalhau excelente.</em> (Je connais un restaurant qui sert...)</li></ul><p><strong>Antécédent inconnu/hypothétique → SUBJONCTIF :</strong></p><ul><li><em>Preciso de alguém que <strong>saiba</strong> programar.</em> (J'ai besoin de quelqu'un qui sache programmer — je ne l'ai pas encore trouvé.)</li><li><em>Quero um apartamento que <strong>tenha</strong> varanda.</em> (Je veux un appartement qui ait un balcon — je le cherche.)</li><li><em>Não conheço ninguém que <strong>fale</strong> chinês.</em> (Je ne connais personne qui parle chinois.)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les règles",
+      "content": "<p><strong>On utilise le SUBJONCTIF quand l'antécédent est :</strong></p><ol><li><strong>Indéfini / non identifié</strong> : <em>Procuro <strong>alguém</strong> que fale...</em></li><li><strong>Inexistant</strong> : <em>Não há <strong>ninguém</strong> que saiba...</em></li><li><strong>Hypothétique</strong> : <em>Quero <strong>um</strong> livro que seja interessante.</em></li><li>Après des superlatifs relatifs : <em>É o melhor filme que eu <strong>tenha</strong> visto.</em></li></ol><p><strong>On utilise l'INDICATIF quand l'antécédent est :</strong></p><ol><li><strong>Défini / identifié</strong> : <em>Conheço <strong>a</strong> pessoa que fala...</em></li><li><strong>Existant / réel</strong> : <em>Tenho <strong>um</strong> amigo que mora...</em> (il existe vraiment)</li></ol><p><strong>Indices clés :</strong></p><ul><li>Article défini (<em>o/a</em>) → souvent indicatif</li><li>Article indéfini (<em>um/uma</em>) + recherche → souvent subjonctif</li><li><em>Alguém, ninguém, qualquer</em> → subjonctif</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Indicatif ou subjonctif ?",
+      "content": "<p>Complétez avec la forme correcte :</p><ol><li><em>Preciso de um professor que ________ (ensinar) português europeu.</em> → <strong>ensine</strong> (subjonctif — je cherche, pas encore trouvé)</li><li><em>Conheço um professor que ________ (ensinar) português europeu.</em> → <strong>ensina</strong> (indicatif — je le connais)</li><li><em>Não há nenhum hotel que ________ (ter) quartos disponíveis.</em> → <strong>tenha</strong> (subjonctif — inexistant)</li><li><em>Quero um carro que ________ (ser) económico.</em> → <strong>seja</strong> (subjonctif — recherche)</li><li><em>Comprei o carro que ________ (ser) mais barato.</em> → <strong>era</strong> (indicatif — identifié)</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Créer des phrases relatives",
+      "content": "<p>Rédigez 8 phrases (4 avec indicatif, 4 avec subjonctif) en utilisant ces contextes :</p><ul><li>Chercher un emploi / Avoir un emploi</li><li>Chercher un logement / Avoir un logement</li><li>Chercher un livre / Avoir un livre</li><li>Ne connaître personne / Connaître quelqu'un</li></ul><p>Exemple : <em>Procuro um emprego que <strong>me permita</strong> trabalhar de casa.</em> vs <em>Tenho um emprego que <strong>me permite</strong> trabalhar de casa.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Dans « Procuro alguém que fale francês », pourquoi utilise-t-on le subjonctif ?",
+      "correctAnswer": "Parce que la personne recherchée n'est pas encore identifiée",
+      "distractors": ["Parce que c'est une question", "Parce que 'procurar' exige toujours le subjonctif", "Parce que c'est au passé"],
+      "explanation": "Le subjonctif s'utilise quand l'antécédent est indéfini/non identifié. 'Alguém que fale' = n'importe qui qui parle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quero um apartamento que ________ (ter) dois quartos e varanda.",
+      "correctAnswer": "tenha",
+      "explanation": "Subjonctif présent de TER (tenha) car l'appartement est hypothétique — on le cherche, on ne l'a pas encore trouvé."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Je ne connais personne qui sache parler portugais.",
+      "correctAnswer": "Não conheço ninguém que saiba falar português.",
+      "explanation": "'Ninguém que' + conjuntivo (saiba). L'antécédent est inexistant (personne ne correspond), d'où le subjonctif."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle phrase est correcte ?",
+      "correctAnswer": "Tenho um amigo que mora em Lisboa. (indicatif)",
+      "distractors": ["Tenho um amigo que more em Lisboa.", "Tenho um amigo que morar em Lisboa.", "Tenho um amigo que morasse em Lisboa."],
+      "explanation": "L'ami existe réellement, l'antécédent est identifié → indicatif (mora). Le subjonctif serait incorrect ici."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "É o melhor livro que eu ________ (ler) este ano.",
+      "correctAnswer": "tenha lido",
+      "explanation": "Après un superlatif relatif ('o melhor... que'), on utilise le subjonctif : 'tenha lido' (pretérito perfeito composto do conjuntivo)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "oração relativa", "phonetic": "/oɾɐˈsɐ̃w̃ ʁɨlɐˈtivɐ/", "french": "proposition relative"},
+    {"portuguese": "antecedente", "phonetic": "/ɐ̃tɨsɨˈdẽtɨ/", "french": "antécédent"},
+    {"portuguese": "definido", "phonetic": "/dɨfiˈnidu/", "french": "défini"},
+    {"portuguese": "indefinido", "phonetic": "/ĩdɨfiˈnidu/", "french": "indéfini"},
+    {"portuguese": "hipotético", "phonetic": "/ipuˈtɛtiku/", "french": "hypothétique"},
+    {"portuguese": "procurar", "phonetic": "/pɾukuˈɾaɾ/", "french": "chercher"},
+    {"portuguese": "alguém", "phonetic": "/alˈɡẽj̃/", "french": "quelqu'un"},
+    {"portuguese": "ninguém", "phonetic": "/nĩˈɡẽj̃/", "french": "personne"},
+    {"portuguese": "qualquer", "phonetic": "/kwɐɫˈkɛɾ/", "french": "n'importe quel"},
+    {"portuguese": "varanda", "phonetic": "/vɐˈɾɐ̃dɐ/", "french": "balcon / terrasse"}
+  ]
+}

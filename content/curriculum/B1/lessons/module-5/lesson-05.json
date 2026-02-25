@@ -1,0 +1,83 @@
+{
+  "id": "b1-m5-l05",
+  "title": "Parler de culture",
+  "type": "speaking",
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Recommander un livre, un film ou un lieu culturel en portugais européen",
+    "Donner son avis sur une œuvre culturelle",
+    "Utiliser les structures de recommandation et d'évaluation"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Partager ses goûts culturels",
+      "content": "<p>Pouvoir <strong>recommander</strong> un film, un livre, un spectacle ou donner son <strong>avis culturel</strong> est une compétence B1 essentielle. Cela permet de participer à des conversations sur la culture et de créer des liens avec des Portugais.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Structures de recommandation",
+      "content": "<p>Pour recommander quelque chose :</p><ul><li><em>Recomendo vivamente...</em> (Je recommande vivement...)</li><li><em>Vale muito a pena ver/ler/visitar...</em> (Ça vaut vraiment la peine de voir/lire/visiter...)</li><li><em>Se gosta de..., vai adorar...</em> (Si vous aimez..., vous allez adorer...)</li><li><em>Tem de experimentar...</em> (Vous devez essayer...)</li><li><em>Não pode perder...</em> (Vous ne pouvez pas manquer...)</li></ul><p>Exemple : <em>Recomendo vivamente o filme « Capitães de Abril ». Vale muito a pena ver.</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Donner son avis culturel",
+      "content": "<p>Pour exprimer votre opinion sur une œuvre :</p><ul><li><em>Achei fantástico/aborrecido/comovente.</em> (J'ai trouvé ça fantastique/ennuyeux/émouvant.)</li><li><em>O que mais me impressionou foi...</em> (Ce qui m'a le plus impressionné, c'est...)</li><li><em>A história é sobre...</em> (L'histoire parle de...)</li><li><em>O autor/realizador conseguiu...</em> (L'auteur/réalisateur a réussi à...)</li><li><em>Não gostei tanto porque...</em> (Je n'ai pas tant aimé parce que...)</li></ul><p><strong>Note PE</strong> : En portugais européen, on dit <em>realizador</em> pour « réalisateur » (pas <em>diretor</em> comme au Brésil).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Culture portugaise à recommander",
+      "content": "<p>Œuvres et lieux portugais à connaître :</p><ul><li><strong>Cinéma</strong> : <em>Capitães de Abril</em> (Maria de Medeiros), <em>Tabu</em> (Miguel Gomes)</li><li><strong>Littérature</strong> : José Saramago (<em>Memorial do Convento</em>), Fernando Pessoa (<em>Livro do Desassossego</em>)</li><li><strong>Musées</strong> : Museu Nacional do Azulejo, MAAT (Museu de Arte, Arquitetura e Tecnologia)</li><li><strong>Spectacles</strong> : fado à Alfama, ballet au Teatro Nacional de São Carlos</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Recommandez !",
+      "content": "<p>Pratiquez à l'oral :</p><ol><li>Recommandez un film ou une série à un ami portugais. Expliquez pourquoi.</li><li>Décrivez un musée ou un lieu culturel que vous avez visité.</li><li>Donnez votre avis sur un livre que vous avez lu récemment.</li></ol><p>Utilisez au moins 3 structures de recommandation ou d'opinion.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Ça vaut la peine de voir' en portugais ?",
+      "correctAnswer": "Vale a pena ver",
+      "distractors": ["Custa a pena ver", "Tem valor ver", "Merece a vista"],
+      "explanation": "'Vale a pena' = ça vaut la peine. On peut ajouter 'muito' pour intensifier : 'Vale muito a pena ver'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ vivamente este restaurante, a comida é excelente.",
+      "correctAnswer": "Recomendo",
+      "explanation": "'Recomendar' = recommander. 'Recomendo vivamente' = je recommande vivement."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'ai trouvé le film très émouvant.'",
+      "correctAnswer": "Achei o filme muito comovente.",
+      "explanation": "'Achar' au passé = achei. 'Comovente' = émouvant. Structure : achei + complément + adjectif."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'réalisateur' en portugais européen ?",
+      "correctAnswer": "realizador",
+      "distractors": ["diretor", "produtor", "encenador"],
+      "explanation": "En portugais européen, 'realizador' désigne le réalisateur de cinéma. 'Diretor' est la forme brésilienne. 'Encenador' est le metteur en scène de théâtre."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O que mais me ________ foi a atuação dos atores.",
+      "correctAnswer": "impressionou",
+      "explanation": "'Impressionar' = impressionner. 'O que mais me impressionou' = ce qui m'a le plus impressionné."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "recomendar", "phonetic": "/ʁɨkumẽˈdaɾ/", "french": "recommander"},
+    {"portuguese": "vale a pena", "phonetic": "/ˈvalɨ ɐ ˈpenɐ/", "french": "ça vaut la peine"},
+    {"portuguese": "comovente", "phonetic": "/kumuˈvẽtɨ/", "french": "émouvant"},
+    {"portuguese": "realizador", "phonetic": "/ʁiɐlizɐˈdoɾ/", "french": "réalisateur (PE)"},
+    {"portuguese": "impressionante", "phonetic": "/ĩpɾɨsiuˈnɐ̃tɨ/", "french": "impressionnant"},
+    {"portuguese": "obra", "phonetic": "/ˈɔbɾɐ/", "french": "œuvre"},
+    {"portuguese": "espetáculo", "phonetic": "/ɨʃpɨˈtakulu/", "french": "spectacle"},
+    {"portuguese": "aborrecido", "phonetic": "/ɐbuʁɨˈsidu/", "french": "ennuyeux"},
+    {"portuguese": "exposição", "phonetic": "/ɨʃpuziˈsɐ̃w/", "french": "exposition"}
+  ]
+}

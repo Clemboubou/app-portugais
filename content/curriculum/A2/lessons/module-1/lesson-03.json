@@ -1,0 +1,84 @@
+{
+  "id": "a2-m1-l03",
+  "title": "Raconter une journée passée",
+  "type": "writing",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Utiliser les connecteurs temporels pour structurer un récit au passé",
+    "Rédiger un court texte décrivant une journée passée",
+    "Employer correctement les marqueurs : ontem, depois, a seguir, por fim, primeiro"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Structurer un récit",
+      "content": "<p>Pour raconter une journée ou un événement passé, il ne suffit pas de conjuguer les verbes au passé : il faut aussi <strong>organiser</strong> son récit avec des connecteurs temporels.</p><p>Ces petits mots permettent à votre interlocuteur de suivre la chronologie de votre histoire.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les connecteurs temporels",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th><th>Usage</th></tr></thead><tbody><tr><td><strong>primeiro</strong></td><td>d'abord</td><td>début du récit</td></tr><tr><td><strong>depois</strong></td><td>ensuite, après</td><td>enchaînement</td></tr><tr><td><strong>a seguir</strong></td><td>juste après</td><td>enchaînement immédiat</td></tr><tr><td><strong>mais tarde</strong></td><td>plus tard</td><td>saut dans le temps</td></tr><tr><td><strong>por fim</strong></td><td>enfin, finalement</td><td>conclusion du récit</td></tr><tr><td><strong>ontem</strong></td><td>hier</td><td>situer dans le temps</td></tr><tr><td><strong>de manhã</strong></td><td>le matin</td><td>moment de la journée</td></tr><tr><td><strong>à tarde</strong></td><td>l'après-midi</td><td>moment de la journée</td></tr><tr><td><strong>à noite</strong></td><td>le soir</td><td>moment de la journée</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Un récit modèle",
+      "content": "<p>Voici un exemple de journée racontée au passé :</p><blockquote><em><strong>Ontem</strong>, <strong>primeiro</strong> levantei-me às sete horas. <strong>Depois</strong> tomei o pequeno-almoço com a minha família. <strong>A seguir</strong>, fui para o trabalho de autocarro. <strong>À tarde</strong>, tive uma reunião importante. <strong>Mais tarde</strong>, fui ao ginásio. <strong>Por fim</strong>, jantei em casa e vi um filme.</em></blockquote><p>Traduction : Hier, d'abord je me suis levé à sept heures. Ensuite j'ai pris le petit-déjeuner avec ma famille. Juste après, je suis allé au travail en bus. L'après-midi, j'ai eu une réunion importante. Plus tard, je suis allé à la salle de sport. Enfin, j'ai dîné chez moi et j'ai vu un film.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Remettre en ordre",
+      "content": "<p>Remettez ces phrases dans l'ordre logique :</p><ul><li>a) <em>Por fim, voltei para casa.</em></li><li>b) <em>Primeiro, saí de casa cedo.</em></li><li>c) <em>Depois, fui ao supermercado.</em></li><li>d) <em>A seguir, encontrei-me com um amigo num café.</em></li></ul><p><strong>Ordre correct</strong> : b → c → d → a</p>"
+    },
+    {
+      "type": "production",
+      "title": "Écrivez votre journée",
+      "content": "<p>À votre tour ! Écrivez un court texte (5-6 phrases) pour raconter une journée passée. Utilisez :</p><ul><li>Au moins <strong>4 connecteurs temporels</strong> différents</li><li>Les verbes au <strong>Pretérito Perfeito Simples</strong></li><li>Des <strong>moments de la journée</strong> (de manhã, à tarde, à noite)</li></ul><p><strong>Modèle</strong> : <em>Ontem de manhã, primeiro... Depois... A seguir... Por fim...</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel connecteur utilise-t-on pour conclure un récit ?",
+      "correctAnswer": "por fim",
+      "distractors": ["primeiro", "depois", "a seguir"],
+      "explanation": "'Por fim' signifie 'enfin/finalement' et sert à conclure un récit ou une série d'événements."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________, levantei-me e tomei o pequeno-almoço.",
+      "correctAnswer": "Primeiro",
+      "explanation": "'Primeiro' (d'abord) s'utilise au début d'un récit pour introduire la première action."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Ensuite, je suis allé au travail en bus.'",
+      "correctAnswer": "Depois, fui para o trabalho de autocarro.",
+      "explanation": "'Depois' = ensuite. En portugais européen, on dit 'autocarro' (pas 'ônibus' qui est brésilien)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'l'après-midi' pour situer un événement dans la journée ?",
+      "correctAnswer": "à tarde",
+      "distractors": ["de tarde", "na tarde", "pela tarde"],
+      "explanation": "On dit 'à tarde' pour l'après-midi, 'de manhã' pour le matin et 'à noite' pour le soir."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________, fui ao ginásio e treinei durante uma hora.",
+      "correctAnswer": "A seguir",
+      "explanation": "'A seguir' signifie 'juste après' et introduit l'action qui suit immédiatement la précédente."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "primeiro", "phonetic": "/pɾimɐjɾu/", "french": "d'abord"},
+    {"portuguese": "depois", "phonetic": "/dɨpojʃ/", "french": "ensuite, après"},
+    {"portuguese": "a seguir", "phonetic": "/ɐ sɨɡiɾ/", "french": "juste après"},
+    {"portuguese": "mais tarde", "phonetic": "/majʃ taɾdɨ/", "french": "plus tard"},
+    {"portuguese": "por fim", "phonetic": "/puɾ fĩ/", "french": "enfin, finalement"},
+    {"portuguese": "ontem", "phonetic": "/õtɐ̃j/", "french": "hier"},
+    {"portuguese": "de manhã", "phonetic": "/dɨ mɐɲɐ̃/", "french": "le matin"},
+    {"portuguese": "à tarde", "phonetic": "/a taɾdɨ/", "french": "l'après-midi"},
+    {"portuguese": "à noite", "phonetic": "/a nojtɨ/", "french": "le soir"},
+    {"portuguese": "levantei-me", "phonetic": "/lɨvɐ̃tɐjmɨ/", "french": "je me suis levé(e)"}
+  ]
+}

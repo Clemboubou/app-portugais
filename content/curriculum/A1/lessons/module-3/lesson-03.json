@@ -1,0 +1,143 @@
+{
+  "id": "a1-m3-l03",
+  "title": "Dire l'heure",
+  "type": "vocabulary",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Demander et donner l'heure en portugais européen",
+    "Exprimer les heures pleines, les demies, les quarts et les minutes manquantes",
+    "Distinguer « é » (singulier) et « são » (pluriel) pour indiquer l'heure"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Comment demander l'heure",
+      "content": "Pour demander l'heure en portugais européen, on utilise la question :\n\n« Que horas são? » — Quelle heure est-il ?\n\nLittéralement : « Quelles heures sont-elles ? » Le verbe ser se conjugue au pluriel (são) car on parle généralement de plusieurs heures. L'exception est une heure du matin ou de l'après-midi, où l'on dit « É uma hora. »"
+    },
+    {
+      "type": "explanation",
+      "title": "É vs São — la règle fondamentale",
+      "content": "La règle pour indiquer l'heure :\n\n• É uma hora. — Il est une heure. (singulier : é)\n• São duas horas. — Il est deux heures. (pluriel : são)\n• São três horas. — Il est trois heures.\n• São dez horas. — Il est dix heures.\n• São meio-dia. — Il est midi.\n• É meia-noite. — Il est minuit.\n\nRésumé : on utilise é uniquement pour « uma hora », « meio-dia » et « meia-noite ». Pour toutes les autres heures, on utilise são."
+    },
+    {
+      "type": "explanation",
+      "title": "Exprimer les fractions d'heure",
+      "content": "Pour les demies et les quarts :\n\n• São duas e meia. — Il est deux heures et demie.\n  (e meia = et demie)\n\n• São três e um quarto. — Il est trois heures et quart.\n  (e um quarto = et un quart)\n\n• São quatro e três quartos. — Il est quatre heures trois quarts.\n  (ou : São cinco menos um quarto. — Il est cinq heures moins le quart.)\n\nPour les minutes :\n• São duas e vinte. — Il est deux heures vingt.\n• São três e dez. — Il est trois heures dix."
+    },
+    {
+      "type": "explanation",
+      "title": "Faltam... para as... — Les minutes manquantes",
+      "content": "Pour exprimer « moins » (les minutes avant l'heure), le portugais européen utilise une structure particulière :\n\n« Faltam [X minutos] para as [heure]. »\nLittéralement : « Il manque X minutes pour [l'heure]. »\n\n• Faltam dez para as cinco. — Il est cinq heures moins dix.\n• Faltam um quarto para as oito. — Il est huit heures moins le quart.\n• Falta um minuto para a meia-noite. — Il est minuit moins une minute.\n\nRemarque : on dit « faltam » (pluriel) pour plusieurs minutes et « falta » (singulier) pour une minute. Avant uma hora ou meia-noite, la préposition devient « para a »."
+    },
+    {
+      "type": "production",
+      "title": "Dites ces heures en portugais",
+      "content": "Entraînez-vous à dire ces heures à voix haute :\n\n1. 1h00 → É uma hora.\n2. 3h30 → São três e meia.\n3. 7h15 → São sete e um quarto.\n4. 4h50 → Faltam dez para as cinco.\n5. 12h00 → É meio-dia.\n6. 11h45 → Faltam um quarto para o meio-dia.\n\nAstuce : au Portugal, on utilise couramment l'horloge sur 24h dans les contextes formels (transports, programmes TV), mais à l'oral on dit généralement les heures de 1 à 12."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on « Il est deux heures et demie » en portugais européen ?",
+      "correctAnswer": "São duas e meia.",
+      "distractors": [
+        "É duas e meia.",
+        "São duas e um quarto.",
+        "São duas horas e demie."
+      ],
+      "explanation": "Pour deux heures et demie, on utilise são (pluriel) car ce n'est pas une heure. E meia signifie « et demie ». É (singulier) ne s'utilise qu'avec uma hora, meio-dia et meia-noite."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Il est cinq heures moins dix. »",
+      "correctAnswer": "Faltam dez para as cinco.",
+      "distractors": [
+        "São cinco menos dez.",
+        "Faltam dez para cinco.",
+        "São quatro e cinquenta."
+      ],
+      "explanation": "Le portugais européen utilise la structure « Faltam [minutes] para as [heure] » pour exprimer les minutes avant l'heure. São cinco menos dez n'est pas idiomatique en portugais européen."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la question correcte pour demander l'heure en portugais ?",
+      "correctAnswer": "Que horas são?",
+      "distractors": [
+        "Que hora é?",
+        "Quais são as horas?",
+        "Como são as horas?"
+      ],
+      "explanation": "La formule standard est « Que horas são? ». On peut aussi dire « Que horas são, por favor? » pour être poli. La forme « Que hora é? » au singulier n'est pas idiomatique."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez : « ___ uma hora. » (Il est une heure.)",
+      "correctAnswer": "É",
+      "distractors": ["São", "Está", "Faltam"],
+      "explanation": "Pour une heure, on utilise é (singulier) et non são (pluriel). C'est la seule heure chiffrée avec é ; les autres heures utilisent são."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on « Il est sept heures et quart » ?",
+      "correctAnswer": "São sete e um quarto.",
+      "distractors": [
+        "São sete e meia.",
+        "São sete e quatro.",
+        "É sete e um quarto."
+      ],
+      "explanation": "E um quarto signifie « et un quart ». E meia signifie « et demie ». On utilise são (pluriel) car il s'agit de sept heures, et non de uma hora."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "Que horas são?",
+      "phonetic": "/kɨ ˈɔɾɐʃ ˈsɐ̃w/",
+      "french": "Quelle heure est-il ?"
+    },
+    {
+      "portuguese": "É uma hora.",
+      "phonetic": "/ˈɛ ˈumɐ ˈɔɾɐ/",
+      "french": "Il est une heure."
+    },
+    {
+      "portuguese": "São duas horas.",
+      "phonetic": "/ˈsɐ̃w ˈduɐʒ ˈɔɾɐʃ/",
+      "french": "Il est deux heures."
+    },
+    {
+      "portuguese": "e meia",
+      "phonetic": "/i ˈmɐjɐ/",
+      "french": "et demie"
+    },
+    {
+      "portuguese": "e um quarto",
+      "phonetic": "/i ũ ˈkwaɾtu/",
+      "french": "et quart"
+    },
+    {
+      "portuguese": "Faltam dez para as cinco.",
+      "phonetic": "/ˈfaltɐ̃j ˈdɛʃ ˈpaɾɐ ɐʃ ˈsĩku/",
+      "french": "Il est cinq heures moins dix."
+    },
+    {
+      "portuguese": "meio-dia",
+      "phonetic": "/ˈmɐju ˈdiɐ/",
+      "french": "midi"
+    },
+    {
+      "portuguese": "meia-noite",
+      "phonetic": "/ˈmɐjɐ ˈnojtɨ/",
+      "french": "minuit"
+    },
+    {
+      "portuguese": "de manhã",
+      "phonetic": "/dɨ mɐˈɲɐ̃/",
+      "french": "du matin"
+    },
+    {
+      "portuguese": "da tarde",
+      "phonetic": "/dɐ ˈtaɾdɨ/",
+      "french": "de l'après-midi"
+    }
+  ]
+}

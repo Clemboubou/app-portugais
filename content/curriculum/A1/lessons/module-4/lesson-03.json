@@ -1,0 +1,135 @@
+{
+  "id": "a1-m4-l03",
+  "title": "Les prix et l'argent",
+  "type": "vocabulary",
+  "estimatedMinutes": 10,
+  "objectives": [
+    "Nommer et reconnaître les termes liés à l'argent et aux prix en portugais européen",
+    "Demander et donner un prix en euros et centimes",
+    "Utiliser les adjectifs caro et barato pour qualifier un prix"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'argent au Portugal",
+      "content": "Le Portugal utilise l'euro (€) depuis 2002. La monnaie se divise en euros (euros) et centimes (cêntimos). En portugais européen, on prononce « euro » /ˈɛwɾu/ — sans le « e » final sonore comme en brésilien. Dans cette leçon, vous allez apprendre à parler de prix, à demander combien quelque chose coûte, et à maîtriser le vocabulaire autour du paiement."
+    },
+    {
+      "type": "discovery",
+      "title": "Le vocabulaire de l'argent et des prix",
+      "content": "Vocabulaire essentiel :\n\nLA MONNAIE :\n• o euro — l'euro (pluriel : os euros)\n• o cêntimo — le centime (pluriel : os cêntimos)\n• o dinheiro — l'argent (au sens général)\n• o troco — la monnaie rendue, le rendu de monnaie\n• o cartão — la carte (bancaire)\n\nLES PRIX :\n• Quanto custa? — Combien ça coûte ?\n• Custa X euros. — Ça coûte X euros.\n• caro / cara — cher / chère\n• barato / barata — pas cher / bon marché\n\nLE PAIEMENT :\n• pagar — payer\n• Posso pagar com cartão? — Puis-je payer par carte ?\n• Tem troco? — Avez-vous la monnaie ?\n• a nota — le billet (de banque)\n• a moeda — la pièce (de monnaie)"
+    },
+    {
+      "type": "explanation",
+      "title": "Exprimer un prix en portugais européen",
+      "content": "Pour donner un prix, utilisez la structure :\n\n• Custa + [montant] + euros/cêntimos.\n  Ex. : Custa dois euros. (Ça coûte deux euros.)\n  Ex. : Custa um euro e cinquenta cêntimos. (Ça coûte un euro cinquante.)\n\nFormules naturelles que vous entendrez :\n• Custa um e cinquenta. (1,50 €) — on sous-entend euros/cêntimos\n• São três euros. (C'est trois euros.) — avec le verbe ser au pluriel\n• É um euro. (C'est un euro.) — avec le verbe ser au singulier\n\nAttention : l'accord de l'adjectif :\n• Este café é caro. (Ce café est cher.) → masc.\n• Esta roupa é cara. (Ces vêtements sont chers.) → fém.\n• Este livro é barato. (Ce livre est bon marché.) → masc.\n• Esta maçã é barata. (Cette pomme est bon marché.) → fém."
+    },
+    {
+      "type": "practice",
+      "title": "Lire et dire les prix",
+      "content": "Entraînez-vous à lire ces prix à voix haute en portugais :\n\n0,50 € → cinquenta cêntimos\n1,00 € → um euro\n1,20 € → um euro e vinte cêntimos (ou : um e vinte)\n2,50 € → dois euros e cinquenta cêntimos (ou : dois e cinquenta)\n5,00 € → cinco euros\n10,75 € → dez euros e setenta e cinco cêntimos\n\nPour demander le prix d'un article :\n• Quanto custa este queijo? (Combien coûte ce fromage ?)\n• Quanto custam estes ovos? (Combien coûtent ces œufs ?) — pluriel : custam"
+    },
+    {
+      "type": "production",
+      "title": "À vous de jouer",
+      "content": "Répondez en portugais :\n1. Comment demandez-vous si vous pouvez payer par carte ?\n2. Comment dites-vous que quelque chose coûte 3 euros ?\n3. Comment demandez-vous si le vendeur a de la monnaie ?\n4. Comment dit-on que c'est bon marché ?\n\nRéponses : 1. Posso pagar com cartão? | 2. Custa três euros. / São três euros. | 3. Tem troco? | 4. É barato/barata."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Que signifie « o troco » en français ?",
+      "correctAnswer": "la monnaie rendue",
+      "distractors": ["la carte bancaire", "le billet de banque", "le prix"],
+      "explanation": "O troco est la monnaie que l'on rend après un paiement. Par exemple : Tem troco para vinte euros? (Avez-vous la monnaie pour vingt euros ?)"
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Combien coûte le menu du jour ? »",
+      "correctAnswer": "Quanto custa o menu do dia?",
+      "distractors": [
+        "Quanto é o menu do dia?",
+        "Custa quanto o menu dia?",
+        "Quanto custam o menu do dia?"
+      ],
+      "explanation": "Quanto custa? est la formule standard pour demander le prix. Le verbe custa s'accorde avec le sujet singulier o menu do dia. Quanto é? est aussi possible mais moins courant dans ce contexte."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez : « Posso pagar com ___ ? » (Puis-je payer par carte ?)",
+      "correctAnswer": "cartão",
+      "distractors": ["dinheiro", "troco", "nota"],
+      "explanation": "Pagar com cartão signifie payer par carte bancaire. Pagar com dinheiro signifie payer en espèces. Ces deux expressions sont très utiles dans les commerces et restaurants."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on « C'est cher » en portugais européen (pour qualifier un objet féminin, ex. : a camisola) ?",
+      "correctAnswer": "É cara.",
+      "distractors": ["É caro.", "É barata.", "É caro cara."],
+      "explanation": "L'adjectif caro s'accorde en genre avec le nom qu'il qualifie. Camisola (pull) est féminin, donc on dit é cara. Si l'objet était masculin (ex. o casaco — le manteau), on dirait é caro."
+    },
+    {
+      "type": "error_detection",
+      "prompt": "Trouvez l'erreur dans cette phrase : « Custa dois euro e cinquenta cêntimos. »",
+      "correctAnswer": "Il faut dire « dois euros » (avec un s) car deux est un pluriel.",
+      "distractors": [
+        "Le verbe custa est incorrect, il faut são.",
+        "Cinquenta cêntimos est incorrect, il faut cinquenta cêntimo.",
+        "La phrase est correcte, il n'y a pas d'erreur."
+      ],
+      "explanation": "En portugais, euro prend un s au pluriel : dois euros, três euros. Au singulier, on dit um euro. De même : um cêntimo, dois cêntimos."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "o euro",
+      "phonetic": "/u ˈɛwɾu/",
+      "french": "l'euro"
+    },
+    {
+      "portuguese": "o cêntimo",
+      "phonetic": "/u ˈsẽtimu/",
+      "french": "le centime"
+    },
+    {
+      "portuguese": "quanto custa?",
+      "phonetic": "/ˈkwɐ̃tu ˈkuʃtɐ/",
+      "french": "combien ça coûte ?"
+    },
+    {
+      "portuguese": "custa X euros",
+      "phonetic": "/ˈkuʃtɐ ... ˈɛwɾuʃ/",
+      "french": "ça coûte X euros"
+    },
+    {
+      "portuguese": "caro / cara",
+      "phonetic": "/ˈkaɾu/ /ˈkaɾɐ/",
+      "french": "cher / chère"
+    },
+    {
+      "portuguese": "barato / barata",
+      "phonetic": "/bɐˈɾatu/ /bɐˈɾatɐ/",
+      "french": "bon marché"
+    },
+    {
+      "portuguese": "o dinheiro",
+      "phonetic": "/u diˈɲɐjɾu/",
+      "french": "l'argent"
+    },
+    {
+      "portuguese": "o troco",
+      "phonetic": "/u ˈtɾoku/",
+      "french": "la monnaie rendue"
+    },
+    {
+      "portuguese": "pagar",
+      "phonetic": "/pɐˈɡaɾ/",
+      "french": "payer"
+    },
+    {
+      "portuguese": "o cartão",
+      "phonetic": "/u kɐɾˈtɐ̃w̃/",
+      "french": "la carte bancaire"
+    }
+  ]
+}

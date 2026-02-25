@@ -1,0 +1,84 @@
+{
+  "id": "b2-m3-l01",
+  "title": "Rapporter des paroles",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Maîtriser les verbes introducteurs du discours rapporté (disse que, perguntou se)",
+    "Appliquer la concordance temporelle en portugais européen",
+    "Transformer un discours direct en discours indirect"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Du discours direct au discours indirect",
+      "content": "<p>Le <strong>discours rapporté</strong> (discurso indireto) permet de raconter ce que quelqu'un a dit sans le citer mot pour mot. En portugais européen, comme en français, il implique des <strong>transformations de temps</strong>, de <strong>pronoms</strong> et de <strong>marqueurs temporels</strong>.</p><p>Exemple : <em>O João disse: «Estou cansado.»</em> → <em>O João disse <strong>que estava</strong> cansado.</em></p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Verbes introducteurs courants",
+      "content": "<p>Voici les verbes les plus utilisés pour rapporter des paroles :</p><ul><li><em><strong>dizer que</strong></em> — dire que : <em>Ela disse que ia sair.</em></li><li><em><strong>afirmar que</strong></em> — affirmer que : <em>O ministro afirmou que a situação estava controlada.</em></li><li><em><strong>perguntar se</strong></em> — demander si : <em>Perguntou-me se eu queria café.</em></li><li><em><strong>responder que</strong></em> — répondre que : <em>Respondi que sim.</em></li><li><em><strong>explicar que</strong></em> — expliquer que : <em>Explicou que o comboio tinha atrasado.</em></li><li><em><strong>contar que</strong></em> — raconter que : <em>Contou-nos que tinha vivido em Paris.</em></li><li><em><strong>pedir para</strong></em> — demander de : <em>Pediu-me para fechar a porta.</em></li><li><em><strong>ordenar que</strong></em> — ordonner que : <em>Ordenou que saíssemos imediatamente.</em></li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "La concordance temporelle",
+      "content": "<p>Quand le verbe introducteur est au <strong>passé</strong>, les temps changent :</p><table><tr><th>Discours direct</th><th>Discours indirect</th></tr><tr><td>Presente: <em>Estou bem.</em></td><td>Imperfeito: <em>Disse que <strong>estava</strong> bem.</em></td></tr><tr><td>Pretérito perfeito: <em>Fui a Lisboa.</em></td><td>Mais-que-perfeito: <em>Disse que <strong>tinha ido</strong> a Lisboa.</em></td></tr><tr><td>Futuro: <em>Irei amanhã.</em></td><td>Condicional: <em>Disse que <strong>iria</strong> no dia seguinte.</em></td></tr><tr><td>Imperativo: <em>Fecha a porta!</em></td><td>Imperfeito do conjuntivo: <em>Pediu que <strong>fechasse</strong> a porta.</em></td></tr></table><p><strong>Exception :</strong> si le verbe introducteur est au <strong>présent</strong>, il n'y a pas de changement de temps : <em>Diz que <strong>está</strong> bem.</em></p>"
+    },
+    {
+      "type": "practice",
+      "title": "Transformations guidées",
+      "content": "<p>Transformez en discours indirect :</p><ol><li><em>A Maria disse: «Tenho fome.»</em> → <em>A Maria disse que <strong>tinha</strong> fome.</em></li><li><em>O Pedro perguntou: «Queres vir comigo?»</em> → <em>O Pedro perguntou se eu <strong>queria</strong> ir com ele.</em></li><li><em>A professora ordenou: «Abram os livros!»</em> → <em>A professora ordenou que <strong>abrissem</strong> os livros.</em></li><li><em>O médico disse: «Já tomei a decisão.»</em> → <em>O médico disse que já <strong>tinha tomado</strong> a decisão.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "À vous de rapporter",
+      "content": "<p>Transformez ces phrases en discours indirect :</p><ol><li><em>O presidente afirmou: «O país vai crescer.»</em></li><li><em>A minha mãe perguntou: «Já almoçaste?»</em></li><li><em>O chefe pediu: «Enviem o relatório hoje.»</em></li></ol><p>Rédigez aussi 3 phrases originales en utilisant des verbes introducteurs différents.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment rapporte-t-on « Estou doente » avec le verbe au passé ?",
+      "correctAnswer": "Disse que estava doente.",
+      "distractors": ["Disse que está doente.", "Disse que esteve doente.", "Disse que estaria doente."],
+      "explanation": "Presente → Imperfeito dans le discours indirect au passé : estou → estava."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O professor perguntou-nos se ________ (compreender) a lição.",
+      "correctAnswer": "tínhamos compreendido",
+      "explanation": "Question rapportée au passé : Pretérito perfeito (compreenderam) → Mais-que-perfeito composto (tínhamos compreendido)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Elle m'a demandé de fermer la fenêtre.",
+      "correctAnswer": "Ela pediu-me para fechar a janela.",
+      "explanation": "PEDIR + pronom indirect + PARA + infinitif. En PT-PT, le pronom se place après le verbe avec un tiret (pediu-me)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel verbe introducteur utilise-t-on pour rapporter un ordre ?",
+      "correctAnswer": "ordenar que + conjuntivo",
+      "distractors": ["dizer que + indicativo", "perguntar se + indicativo", "contar que + indicativo"],
+      "explanation": "ORDENAR QUE exige le subjonctif (conjuntivo) car c'est un ordre : Ordenou que saíssemos."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ele disse que ________ (ir) a Lisboa no dia seguinte.",
+      "correctAnswer": "iria",
+      "explanation": "Futuro (irei) → Condicional (iria) dans le discours indirect au passé. 'Amanhã' devient 'no dia seguinte'."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "discurso indireto", "phonetic": "/diʃˈkuɾsu ĩdiˈɾɛtu/", "french": "discours indirect"},
+    {"portuguese": "concordância temporal", "phonetic": "/kõkuɾˈdɐ̃siɐ tẽpuˈɾal/", "french": "concordance des temps"},
+    {"portuguese": "afirmar", "phonetic": "/ɐfiɾˈmaɾ/", "french": "affirmer"},
+    {"portuguese": "perguntar", "phonetic": "/pɨɾɡũˈtaɾ/", "french": "demander"},
+    {"portuguese": "ordenar", "phonetic": "/oɾdɨˈnaɾ/", "french": "ordonner"},
+    {"portuguese": "contar", "phonetic": "/kõˈtaɾ/", "french": "raconter"},
+    {"portuguese": "responder", "phonetic": "/ʁɨʃpõˈdeɾ/", "french": "répondre"},
+    {"portuguese": "explicar", "phonetic": "/ɨʃpliˈkaɾ/", "french": "expliquer"},
+    {"portuguese": "pedir para", "phonetic": "/pɨˈdiɾ ˈpaɾɐ/", "french": "demander de"},
+    {"portuguese": "no dia seguinte", "phonetic": "/nu ˈdiɐ sɨˈɡĩtɨ/", "french": "le lendemain"}
+  ]
+}

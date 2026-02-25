@@ -1,0 +1,227 @@
+[
+  {
+    "id": "b1_001",
+    "title": "Subjonctif présent",
+    "description": "Expression de la volonté, du doute, du souhait",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Quero que ele venha amanhã.",
+        "french": "Je veux qu'il vienne demain.",
+        "explanation": "Après 'quero que' on utilise le subjonctif"
+      },
+      {
+        "portuguese": "Duvido que ele saiba a resposta.",
+        "french": "Je doute qu'il sache la réponse.",
+        "explanation": "Après 'duvido que' on utilise le subjonctif"
+      }
+    ]
+  },
+  {
+    "id": "b1_002",
+    "title": "Conditionnel simple",
+    "description": "Expression d'une hypothèse ou d'une action soumise à condition",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Se tivesse dinheiro, compraria uma casa.",
+        "french": "Si j'avais de l'argent, j'achèterais une maison.",
+        "explanation": "Conditionnel pour exprimer une condition irréelle"
+      },
+      {
+        "portuguese": "Eu gostaria de ir a Lisboa.",
+        "french": "J'aimerais aller à Lisbonne.",
+        "explanation": "Conditionnel du verbe 'gostar'"
+      }
+    ]
+  },
+  {
+    "id": "b1_003",
+    "title": "Plus-que-parfait (Pretérito Mais-que-Perfeito)",
+    "description": "Action passée antérieure à une autre action passée",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Quando cheguei, ele tinha saído.",
+        "french": "Quand je suis arrivé, il était parti.",
+        "explanation": "L'action 'sair' s'est passée avant 'chegar'"
+      }
+    ]
+  },
+  {
+    "id": "b1_004",
+    "title": "Gérondif vs Infinitif",
+    "description": "Utilisation correcte du gérondif et infinitif en portugais",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Depois de comer, fomos passear.",
+        "french": "Après avoir mangé, nous sommes allés faire une promenade.",
+        "explanation": "Après 'depois de' on utilise le gérondif"
+      },
+      {
+        "portuguese": "Tenho que estudar mais.",
+        "french": "Je dois étudier plus.",
+        "explanation": "Après 'tenho que' on utilise l'infinitif"
+      }
+    ]
+  },
+  {
+    "id": "b1_005",
+    "title": "Accord du participe passé",
+    "description": "Accord du participe passé avec l'auxiliaire 'ter' et 'haver'",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Ele tem comido bem.",
+        "french": "Il a bien mangé.",
+        "explanation": "Participe passé reste invariable avec 'ter'"
+      }
+    ]
+  },
+  {
+    "id": "b1_006",
+    "title": "Impératif indirect",
+    "description": "Expressions indirectes pour donner des ordres (moins agressif)",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Você poderia abrir a janela?",
+        "french": "Pourriez-vous ouvrir la fenêtre?",
+        "explanation": "Formule plus polie qu'un impératif direct"
+      }
+    ]
+  },
+  {
+    "id": "b1_007",
+    "title": "Concordance des temps",
+    "description": "Concordance entre le verbe principal et les verbes subordonnés",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Ele disse que virá amanhã.",
+        "french": "Il a dit qu'il viendra demain.",
+        "explanation": "Futur dans la subordonnée bien que le verbe principal soit au passé"
+      }
+    ]
+  },
+  {
+    "id": "b1_008",
+    "title": "Pronoms objets indirects",
+    "description": "Pronoms me, te, lhe, nos, vos, lhes avec complément indirect",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Ele lhe deu um presente.",
+        "french": "Il lui a donné un cadeau.",
+        "explanation": "'lhe' = à lui / à elle"
+      },
+      {
+        "portuguese": "Eles nos enviaram uma carta.",
+        "french": "Ils nous ont envoyé une lettre.",
+        "explanation": "'nos' = à nous"
+      }
+    ]
+  },
+  {
+    "id": "b1_009",
+    "title": "Pronoms toniques",
+    "description": "Utilisation des pronoms accentués (mim, ti, si, etc.)",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Para mim, isto é muito importante.",
+        "french": "Pour moi, c'est très important.",
+        "explanation": "Après préposition on utilise le pronom tonique 'mim'"
+      }
+    ]
+  },
+  {
+    "id": "b1_010",
+    "title": "Adjectifs et pronoms démonstratifs",
+    "description": "Distinction entre este, esse, aquele et dérivés",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Este livro é meu, esse é seu, aquele é dele.",
+        "french": "Ce livre-ci est à moi, celui-là est à toi, celui-là au loin est à lui.",
+        "explanation": "este (proche), esse (moyen), aquele (loin)"
+      }
+    ]
+  },
+  {
+    "id": "b1_011",
+    "title": "Adjectifs possessifs renforcés",
+    "description": "Possessifs toniques : meu/minha, teu/tua, seu/sua, nosso/nossa",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Um amigo meu chegou ontem.",
+        "french": "Un ami à moi est arrivé hier.",
+        "explanation": "Forme renforcée après le nom"
+      }
+    ]
+  },
+  {
+    "id": "b1_012",
+    "title": "Verbes pronominaux",
+    "description": "Verbes réfléchis et réciproques (levantar-se, encontrar-se)",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Ele se levantou cedo.",
+        "french": "Il s'est levé tôt.",
+        "explanation": "Verbe réfléchi avec 'se'"
+      },
+      {
+        "portuguese": "Eles se encontraram na rua.",
+        "french": "Ils se sont rencontrés dans la rue.",
+        "explanation": "Verbe réciproque"
+      }
+    ]
+  },
+  {
+    "id": "b1_013",
+    "title": "Prépositions complexes",
+    "description": "Prépositions composées (apesar de, diante de, em vez de)",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Apesar do cansaço, ele continuou trabalhando.",
+        "french": "Malgré la fatigue, il a continué à travailler.",
+        "explanation": "'apesar de' = malgré"
+      },
+      {
+        "portuguese": "Em vez de estudar, ele brincava.",
+        "french": "Au lieu d'étudier, il jouait.",
+        "explanation": "'em vez de' = au lieu de"
+      }
+    ]
+  },
+  {
+    "id": "b1_014",
+    "title": "Connecteurs logiques avancés",
+    "description": "Cependant, d'ailleurs, par ailleurs, en outre",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Ele é inteligente; contudo, não estuda.",
+        "french": "Il est intelligent; cependant, il n'étudie pas.",
+        "explanation": "'contudo' = cependant / toutefois"
+      }
+    ]
+  },
+  {
+    "id": "b1_015",
+    "title": "Discours rapporté",
+    "description": "Passage du discours direct au discours indirect",
+    "level": "B1",
+    "examples": [
+      {
+        "portuguese": "Ele disse: 'Vou amanhã.' -> Ele disse que iria no dia seguinte.",
+        "french": "Il a dit : 'J'irai demain.' -> Il a dit qu'il irait le jour suivant.",
+        "explanation": "Changements de temps et de pronoms au discours indirect"
+      }
+    ]
+  }
+]

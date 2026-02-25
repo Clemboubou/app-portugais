@@ -1,0 +1,93 @@
+{
+  "id": "a1-m2-l03",
+  "title": "Les couleurs",
+  "type": "vocabulary",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Apprendre le vocabulaire des couleurs principales en portugais européen",
+    "Maîtriser l'accord en genre et en nombre des adjectifs de couleur",
+    "Identifier les couleurs invariables et les exceptions"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les couleurs : adjectifs qui s'accordent",
+      "content": "En portugais, les couleurs sont des adjectifs et, comme en français, la plupart s'accordent en genre (masculin/féminin) et en nombre (singulier/pluriel) avec le nom qu'elles qualifient. Certaines couleurs sont cependant invariables. Cette leçon vous présente les couleurs essentielles et leurs règles d'accord."
+    },
+    {
+      "type": "discovery",
+      "title": "Les couleurs variables : formes masculin/féminin",
+      "content": "Ces couleurs s'accordent en genre. La forme féminine se forme généralement en remplaçant le -o final par -a :\n\n• vermelho / vermelha → rouge\n  Um carro vermelho. / Uma rosa vermelha.\n\n• amarelo / amarela → jaune\n  Um limão amarelo. / Uma flor amarela.\n\n• branco / branca → blanc / blanche\n  Um prato branco. / Uma parede branca.\n\n• preto / preta → noir / noire\n  Um gato preto. / Uma saia preta.\n\n• castanho / castanha → marron / châtain\n  Um sofá castanho. / Uma mala castanha.\n\n• cinzento / cinzenta → gris / grise\n  Um céu cinzento. / Uma pedra cinzenta.\n\n• roxo / roxa → violet / violette\n  Um tapete roxo. / Uma camisa roxa."
+    },
+    {
+      "type": "discovery",
+      "title": "Les couleurs invariables",
+      "content": "Certaines couleurs ne changent pas de forme, quel que soit le genre ou le nombre du nom :\n\n• azul → bleu / bleue (masc. et fém. identiques)\n  Um céu azul. / Uma porta azul.\n\n• verde → vert / verte\n  Um parque verde. / Uma planta verde.\n\n• cor-de-rosa → rose (littéralement : couleur de rose)\n  Um vestido cor-de-rosa. / Uma mochila cor-de-rosa.\n\n• laranja → orange\n  Um sumo laranja. / Uma t-shirt laranja.\n\nNote : cor-de-rosa et laranja sont considérées comme des noms employés comme adjectifs de couleur, ce qui explique leur invariabilité. Cette distinction est importante pour éviter des erreurs d'accord."
+    },
+    {
+      "type": "explanation",
+      "title": "Le pluriel des couleurs",
+      "content": "Pour former le pluriel des adjectifs de couleur :\n\n• Couleurs terminées en -o / -a → ajoutez -s :\n  vermelho → vermelhos / vermelha → vermelhas\n  preto → pretos / preta → pretas\n\n• Couleurs terminées en -l (azul, cinzento est déjà traité) → remplacez -l par -is :\n  azul → azuis (pluriel)\n  Exemplo : Os olhos azuis. → Les yeux bleus.\n\n• Couleurs terminées en -e (verde) → ajoutez -s :\n  verde → verdes\n  Exemplo : As folhas verdes. → Les feuilles vertes.\n\n• Couleurs invariables (cor-de-rosa, laranja) → ne changent pas au pluriel :\n  Os vestidos cor-de-rosa. / As t-shirts laranja.\n\nRésumé pratique :\nMasculin singulier → masculin pluriel : vermelho → vermelhos\nFéminin singulier → féminin pluriel : vermelha → vermelhas"
+    },
+    {
+      "type": "practice",
+      "title": "Prononciation des couleurs",
+      "content": "Repères de prononciation en portugais européen :\n\n• vermelho → /vɨɾˈmeʎu/ — le -lh- se prononce comme le 'll' espagnol ou le 'lh' catalan : son mouillé /ʎ/\n• azul → /ɐˈzul/ — le 'a' initial est réduit /ɐ/\n• verde → /ˈveɾdɨ/ — le 'e' final est très réduit /ɨ/\n• amarelo → /ɐmɐˈɾɛlu/ — accent sur la pénultième syllabe\n• branco → /ˈbɾɐ̃ku/ — 'an' nasal\n• preto → /ˈpɾetu/ — 'e' bref\n• castanho → /kɐʃˈtɐɲu/ — le -nh- se prononce /ɲ/ comme le 'gn' français (agneau)\n• cor-de-rosa → /koɾ dɨ ˈʁɔzɐ/ — trois mots liés par des tirets\n• laranja → /lɐˈɾɐ̃ʒɐ/ — le 'j' final se prononce /ʒ/ comme le 'j' français\n• cinzento → /sĩˈzẽtu/ — deux nasales\n• roxo → /ˈʁoʃu/ — le 'x' se prononce /ʃ/ comme 'ch' français"
+    },
+    {
+      "type": "production",
+      "title": "Décrivez votre environnement",
+      "content": "Utilisez les couleurs pour décrire les objets autour de vous :\n\n• A minha mochila é ___. → Mon sac à dos est ___.\n• O meu telemóvel é ___. → Mon téléphone portable est ___.\n• As paredes são ___. → Les murs sont ___.\n• Estou a usar uma camisa ___. → Je porte une chemise ___.\n\nNote de vocabulaire : En portugais européen, on dit telemóvel pour 'téléphone portable' (et non celular comme au Brésil)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme féminine de 'castanho' ?",
+      "correctAnswer": "castanha",
+      "distractors": ["castanhe", "castanhoa", "castanhos"],
+      "explanation": "Les adjectifs en -o forment leur féminin en remplaçant le -o final par -a. Castanho → castanha. Castanhos est le pluriel masculin."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Laquelle de ces couleurs est invariable (ne change pas selon le genre) ?",
+      "correctAnswer": "laranja",
+      "distractors": ["vermelho", "cinzento", "roxo"],
+      "explanation": "Laranja est invariable car c'est un nom utilisé comme adjectif de couleur. Vermelho, cinzento et roxo sont des adjectifs variables qui ont une forme masculine et une forme féminine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez avec la bonne forme de la couleur : 'Os céus ___ de Lisboa são famosos.' (bleu — azul au pluriel)",
+      "correctAnswer": "azuis",
+      "distractors": ["azul", "azules", "azuís"],
+      "explanation": "Azul forme son pluriel en -is : azuis. Cette règle s'applique à tous les adjectifs terminés en -l. Azules est une forme espagnole, non portugaise."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez : 'La porte verte et le mur blanc.' (porta = porte, parede = mur — les deux sont féminins)",
+      "correctAnswer": "A porta verde e a parede branca.",
+      "distractors": ["A porta verde e a parede branco.", "A porta verda e a parede branca.", "A porta verde e a parede blanc."],
+      "explanation": "Porta et parede sont féminins. Verde est invariable → reste verde. Branco est variable → forme féminine branca. Les articles définis féminins sont a (singulier)."
+    },
+    {
+      "type": "error_detection",
+      "prompt": "Trouvez l'erreur : 'Tenho dois gatos pretos e uma cadela pretoa.'",
+      "correctAnswer": "Il faut dire 'preta' et non 'pretoa'.",
+      "distractors": ["L'erreur est 'pretos', il faut 'preto'.", "L'erreur est 'dois', il faut 'duas'.", "Il n'y a pas d'erreur."],
+      "explanation": "Le féminin de preto est preta, pas pretoa. Les adjectifs en -o forment simplement leur féminin en remplaçant -o par -a, sans ajouter de lettres supplémentaires."
+    }
+  ],
+  "vocabulary": [
+    { "portuguese": "vermelho / vermelha", "phonetic": "/vɨɾˈmeʎu/ / /vɨɾˈmeʎɐ/", "french": "rouge" },
+    { "portuguese": "azul", "phonetic": "/ɐˈzul/", "french": "bleu / bleue (invariable)" },
+    { "portuguese": "verde", "phonetic": "/ˈveɾdɨ/", "french": "vert / verte (invariable)" },
+    { "portuguese": "amarelo / amarela", "phonetic": "/ɐmɐˈɾɛlu/ / /ɐmɐˈɾɛlɐ/", "french": "jaune" },
+    { "portuguese": "branco / branca", "phonetic": "/ˈbɾɐ̃ku/ / /ˈbɾɐ̃kɐ/", "french": "blanc / blanche" },
+    { "portuguese": "preto / preta", "phonetic": "/ˈpɾetu/ / /ˈpɾetɐ/", "french": "noir / noire" },
+    { "portuguese": "castanho / castanha", "phonetic": "/kɐʃˈtɐɲu/ / /kɐʃˈtɐɲɐ/", "french": "marron / châtain" },
+    { "portuguese": "cor-de-rosa", "phonetic": "/koɾ dɨ ˈʁɔzɐ/", "french": "rose (invariable)" },
+    { "portuguese": "laranja", "phonetic": "/lɐˈɾɐ̃ʒɐ/", "french": "orange (invariable)" },
+    { "portuguese": "cinzento / cinzenta", "phonetic": "/sĩˈzẽtu/ / /sĩˈzẽtɐ/", "french": "gris / grise" },
+    { "portuguese": "roxo / roxa", "phonetic": "/ˈʁoʃu/ / /ˈʁoʃɐ/", "french": "violet / violette" }
+  ]
+}

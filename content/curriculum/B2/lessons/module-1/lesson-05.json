@@ -1,0 +1,88 @@
+{
+  "id": "b2-m1-l05",
+  "title": "Nuances de sens avec le subjonctif",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Maîtriser les conjonctions subordonnées qui exigent le subjonctif",
+    "Distinguer embora, ainda que, a menos que, desde que, antes que",
+    "Construire des phrases complexes avec nuances concessives, conditionnelles et temporelles"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les conjonctions du subjonctif",
+      "content": "<p>Certaines conjonctions <strong>exigent toujours le subjonctif</strong> en portugais européen. Elles permettent d'exprimer des nuances essentielles : concession, condition, but, temps antérieur.</p><p>Les maîtriser est indispensable au niveau B2 pour construire un discours riche et nuancé.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les conjonctions concessives",
+      "content": "<p>Les concessives expriment une opposition ou une concession :</p><ul><li><strong>Embora</strong> (bien que) : <em>Embora <strong>esteja</strong> cansado, vou trabalhar.</em> (Bien que je sois fatigué, je vais travailler.)</li><li><strong>Ainda que</strong> (même si / quand bien même) : <em>Ainda que <strong>chova</strong>, vamos à praia.</em> (Même s'il pleut, nous allons à la plage.)</li><li><strong>Mesmo que</strong> (même si) : <em>Mesmo que ele <strong>peça</strong> desculpa, não o perdoo.</em> (Même s'il demande pardon, je ne lui pardonne pas.)</li><li><strong>Apesar de que</strong> (malgré le fait que) : <em>Apesar de que <strong>seja</strong> difícil, vou tentar.</em> (Malgré le fait que ce soit difficile, je vais essayer.)</li></ul><p><strong>Note :</strong> <em>Apesar de</em> + infinitif est plus courant à l'oral : <em>Apesar de <strong>estar</strong> cansado...</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Conjonctions conditionnelles et restrictives",
+      "content": "<p>Conditions et restrictions avec le subjonctif :</p><ul><li><strong>A menos que / A não ser que</strong> (à moins que) : <em>Vou à festa, a menos que <strong>chova</strong>.</em> (Je vais à la fête, à moins qu'il pleuve.)</li><li><strong>Desde que</strong> (pourvu que / à condition que) : <em>Podes sair, desde que <strong>faças</strong> os deveres.</em> (Tu peux sortir, pourvu que tu fasses tes devoirs.)</li><li><strong>Contanto que</strong> (pourvu que) : <em>Ajudo-te, contanto que <strong>sejas</strong> honesto.</em> (Je t'aide, pourvu que tu sois honnête.)</li><li><strong>Sem que</strong> (sans que) : <em>Saiu sem que ninguém o <strong>visse</strong>.</em> (Il est sorti sans que personne ne le voie.)</li></ul><p><strong>Attention :</strong> <em>Desde que</em> a deux sens ! Avec le subjonctif = « pourvu que ». Avec l'indicatif = « depuis que » (temporel).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Conjonctions de but et de temps",
+      "content": "<p><strong>But :</strong></p><ul><li><strong>Para que / A fim de que</strong> (pour que / afin que) : <em>Explico devagar para que <strong>compreendam</strong>.</em> (J'explique lentement pour qu'ils comprennent.)</li></ul><p><strong>Temps (antériorité) :</strong></p><ul><li><strong>Antes que</strong> (avant que) : <em>Vamos embora antes que <strong>anoiteça</strong>.</em> (Partons avant qu'il fasse nuit.)</li><li><strong>Até que</strong> (jusqu'à ce que) : <em>Espero até que ele <strong>chegue</strong>.</em> (J'attends jusqu'à ce qu'il arrive.)</li></ul><p><strong>Récapitulatif des « temps » :</strong></p><ul><li><em>Antes que</em> → toujours subjonctif</li><li><em>Depois que</em> → indicatif (le fait est réel) ou subjonctif futur (futur)</li><li><em>Até que</em> → toujours subjonctif</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Construire des phrases complexes",
+      "content": "<p>Combinez plusieurs conjonctions dans vos productions :</p><ul><li><em>Embora <strong>esteja</strong> frio, vou correr, a menos que <strong>chova</strong> muito.</em> (Bien qu'il fasse froid, je vais courir, à moins qu'il pleuve beaucoup.)</li><li><em>Desde que <strong>tenhas</strong> o bilhete, podes entrar, ainda que <strong>chegues</strong> atrasado.</em> (Pourvu que tu aies le billet, tu peux entrer, même si tu arrives en retard.)</li><li><em>Vou explicar outra vez para que <strong>percebam</strong>, antes que <strong>façam</strong> o teste.</em> (Je vais expliquer encore pour qu'ils comprennent, avant qu'ils fassent le test.)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Complétez : Embora ________ (estar) sol, está frio.",
+      "correctAnswer": "esteja",
+      "distractors": ["está", "estivesse", "estiver"],
+      "explanation": "'Embora' (bien que) exige toujours le subjonctif présent pour un fait actuel. ESTAR au présent du subjonctif = esteja."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Podes ir ao cinema, desde que ________ (acabar) os trabalhos de casa.",
+      "correctAnswer": "acabes",
+      "explanation": "'Desde que' (pourvu que) + subjonctif présent. ACABAR au subjonctif présent (tu) = acabes."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Partons avant qu'il pleuve.",
+      "correctAnswer": "Vamos embora antes que chova.",
+      "explanation": "'Antes que' (avant que) exige le subjonctif. CHOVER au présent du subjonctif = chova. 'Vamos embora' = partons."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le double sens de 'desde que' ?",
+      "correctAnswer": "Pourvu que (+ subjonctif) ou Depuis que (+ indicatif)",
+      "distractors": [
+        "Avant que (+ subjonctif) ou Après que (+ indicatif)",
+        "À moins que (+ subjonctif) ou Parce que (+ indicatif)",
+        "Bien que (+ subjonctif) ou Puisque (+ indicatif)"
+      ],
+      "explanation": "'Desde que' + subjonctif = pourvu que / à condition que. 'Desde que' + indicatif = depuis que (temporel)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Saiu sem que ninguém ________ (notar).",
+      "correctAnswer": "notasse",
+      "explanation": "'Sem que' (sans que) + subjonctif. Au passé, on utilise le subjonctif imparfait : NOTAR → notasse."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "embora", "phonetic": "/ẽˈboɾɐ/", "french": "bien que"},
+    {"portuguese": "ainda que", "phonetic": "/ɐˈĩdɐ kɨ/", "french": "même si / quand bien même"},
+    {"portuguese": "a menos que", "phonetic": "/ɐ ˈmenuʃ kɨ/", "french": "à moins que"},
+    {"portuguese": "desde que", "phonetic": "/ˈdeʒdɨ kɨ/", "french": "pourvu que / depuis que"},
+    {"portuguese": "contanto que", "phonetic": "/kõˈtɐ̃tu kɨ/", "french": "pourvu que"},
+    {"portuguese": "sem que", "phonetic": "/sɐ̃j̃ kɨ/", "french": "sans que"},
+    {"portuguese": "para que", "phonetic": "/ˈpaɾɐ kɨ/", "french": "pour que / afin que"},
+    {"portuguese": "antes que", "phonetic": "/ˈɐ̃tɨʃ kɨ/", "french": "avant que"},
+    {"portuguese": "até que", "phonetic": "/ɐˈtɛ kɨ/", "french": "jusqu'à ce que"},
+    {"portuguese": "anoitecer", "phonetic": "/ɐnojˈtɨseɾ/", "french": "faire nuit / tomber la nuit"}
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "mistakes": [
+    {
+      "id": "err-001",
+      "level": "A1",
+      "category": "false_friends",
+      "wrong": "Este bolo é exquisito!",
+      "correct": "Este bolo é delicioso! (exquisito = estranho, bizarro)",
+      "explanation_fr": "En portugais, 'exquisito' signifie 'bizarre, étrange', pas 'délicieux' comme en français. Pour dire 'exquis', utilisez 'delicioso' ou 'requintado'.",
+      "tip": "exquisito = eXtrêmement bizarre (le X pour se rappeler que c'est négatif)",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-002",
+      "level": "A1",
+      "category": "false_friends",
+      "wrong": "Podes puxar a porta? (en pensant 'pousser')",
+      "correct": "Podes empurrar a porta? (puxar = tirer)",
+      "explanation_fr": "'Puxar' ressemble à 'pousser' mais signifie exactement le contraire : 'tirer'. Pour 'pousser', dites 'empurrar'.",
+      "tip": "Sur les portes au Portugal, 'PUXE' = tirez ! C'est le piège classique du premier jour.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-003",
+      "level": "A1",
+      "category": "false_friends",
+      "wrong": "Estou constipado. (en pensant 'être constipé')",
+      "correct": "Estou constipado. = J'ai un rhume. Constipé = com prisão de ventre.",
+      "explanation_fr": "'Constipado' en portugais signifie 'enrhumé'. Pour 'constipé' (intestinal), on dit 'com prisão de ventre'.",
+      "tip": "Constipado = le nez Constipé. Pensez au nez qui coule, pas au ventre.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-004",
+      "level": "A2",
+      "category": "false_friends",
+      "wrong": "Ela está embaraçada. (en pensant 'enceinte')",
+      "correct": "Ela está grávida. (embaraçada = gênée, embarrassée)",
+      "explanation_fr": "'Embaraçada' signifie 'embarrassée, gênée' en portugais. Pour 'enceinte', on dit 'grávida'.",
+      "tip": "Embaraçada = embarrassée (même sens qu'en anglais 'embarrassed'). Grávida = enceinte.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-005",
+      "level": "A2",
+      "category": "false_friends",
+      "wrong": "O presunto está na prisão. (en pensant 'présumé')",
+      "correct": "O presumível culpado... (presunto = jambon cru)",
+      "explanation_fr": "'Presunto' en portugais désigne le jambon cru (type serrano). 'Présumé' se dit 'presumível' ou 'suposto'.",
+      "tip": "Presunto = jambon preSUNTo. Pensez au jambon suspendu pour sécher.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-006",
+      "level": "A1",
+      "category": "false_friends",
+      "wrong": "Quero pasta para o jantar. (en pensant 'pâtes')",
+      "correct": "Quero massa para o jantar. (pasta = dossier, classeur, pâte dentifrice)",
+      "explanation_fr": "'Pasta' en portugais signifie 'dossier/classeur' ou 'pâte' (dentifrice). Les pâtes alimentaires se disent 'massa'.",
+      "tip": "Pasta = dossier. Massa = pâtes (comme 'masse' de pâte à pain).",
+      "frequency": "common"
+    },
+    {
+      "id": "err-007",
+      "level": "B1",
+      "category": "false_friends",
+      "wrong": "Paguei uma propina ao polícia. (en pensant 'pot-de-vin')",
+      "correct": "Paguei um suborno ao polícia. (propina = frais de scolarité)",
+      "explanation_fr": "'Propina' en portugais signifie 'frais de scolarité/inscription'. Un pot-de-vin se dit 'suborno'.",
+      "tip": "Propina = ce qu'on paie pour les ProPres études. Suborno = pot-de-vin (SUBversif).",
+      "frequency": "common"
+    },
+    {
+      "id": "err-008",
+      "level": "A1",
+      "category": "false_friends",
+      "wrong": "A rua é muito larga. (en pensant 'large' en français)",
+      "correct": "Larga est correct ici ! Mais 'largo' comme nom = place publique, pas 'large'.",
+      "explanation_fr": "'Largo/a' comme adjectif signifie bien 'large'. Mais le nom 'largo' désigne une place publique (ex: Largo do Chiado). Ne pas confondre.",
+      "tip": "Largo (adj) = large ✓. Largo (nom) = petite place publique à Lisbonne.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-009",
+      "level": "A2",
+      "category": "false_friends",
+      "wrong": "Trabalho no escritório. (correct, mais attention au faux ami)",
+      "correct": "Escritório = bureau (lieu de travail). L'écriture = a escrita.",
+      "explanation_fr": "'Escritório' ressemble à 'écriture' mais signifie 'bureau' (lieu de travail). 'Écriture' se dit 'escrita'.",
+      "tip": "Escritório = là où on éCRIT au bureau. Escrita = l'écriture elle-même.",
+      "frequency": "occasional"
+    },
+    {
+      "id": "err-010",
+      "level": "A1",
+      "category": "false_friends",
+      "wrong": "Vou colar o papel. (en pensant que ça veut dire 'coller')",
+      "correct": "Colar = coller ✓ MAIS aussi = tricher (aux examens) ! Contexte crucial.",
+      "explanation_fr": "'Colar' signifie bien 'coller' mais au Portugal, il signifie aussi 'tricher' (aux examens). Un 'colar' (nom) est aussi un collier.",
+      "tip": "Colar = coller/tricher/collier. Trois sens ! Au Portugal, 'colar no exame' = tricher.",
+      "frequency": "occasional"
+    },
+    {
+      "id": "err-011",
+      "level": "A1",
+      "category": "pt_br_interference",
+      "wrong": "Estou fazendo o jantar.",
+      "correct": "Estou a fazer o jantar.",
+      "explanation_fr": "En portugais européen, on utilise 'estar a + infinitif' pour le présent continu, JAMAIS le gérondif (-ando/-endo) comme au Brésil.",
+      "tip": "PT-PT = estar A + infinitif. PT-BR = estar + gérondif. C'est LA différence n°1.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-012",
+      "level": "A1",
+      "category": "pt_br_interference",
+      "wrong": "Meu irmão é professor.",
+      "correct": "O meu irmão é professor.",
+      "explanation_fr": "En portugais européen, le possessif est TOUJOURS précédé de l'article défini : 'o meu', 'a minha', 'os meus', etc. Au Brésil, l'article est souvent omis.",
+      "tip": "PT-PT : article + possessif TOUJOURS. O meu, a minha, os meus, as minhas.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-013",
+      "level": "A2",
+      "category": "pt_br_interference",
+      "wrong": "Me dá o livro, por favor.",
+      "correct": "Dá-me o livro, por favor. / Dê-me o livro, por favor.",
+      "explanation_fr": "En portugais européen, le pronom se place APRÈS le verbe (ênclise) dans les phrases affirmatives. Le placer avant (próclise) est brésilien.",
+      "tip": "PT-PT affirmatif : verbe-pronom (dá-me, diz-me, chamo-me). Le pronom vient après !",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-014",
+      "level": "A1",
+      "category": "pt_br_interference",
+      "wrong": "Vou pegar o trem.",
+      "correct": "Vou apanhar o comboio.",
+      "explanation_fr": "'Trem' est brésilien. En portugais européen, le train se dit 'comboio'. 'Pegar' se remplace souvent par 'apanhar'.",
+      "tip": "Comboio = train (comme un convoi). Trem n'existe pas en PT-PT.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-015",
+      "level": "A1",
+      "category": "pt_br_interference",
+      "wrong": "Vou de ônibus.",
+      "correct": "Vou de autocarro.",
+      "explanation_fr": "'Ônibus' est brésilien. En portugais européen, le bus se dit 'autocarro'.",
+      "tip": "Autocarro = bus au Portugal. Ônibus = bus au Brésil uniquement.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-016",
+      "level": "A1",
+      "category": "pt_br_interference",
+      "wrong": "Qual é o teu celular?",
+      "correct": "Qual é o teu telemóvel?",
+      "explanation_fr": "'Celular' est brésilien. En portugais européen, le téléphone portable se dit 'telemóvel'.",
+      "tip": "Telemóvel = téléphone au Portugal (télé + móvel). Celular = Brésil.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-017",
+      "level": "A1",
+      "category": "pt_br_interference",
+      "wrong": "O que tem no café da manhã?",
+      "correct": "O que há ao pequeno-almoço?",
+      "explanation_fr": "'Café da manhã' est brésilien. En portugais européen, le petit-déjeuner se dit 'pequeno-almoço'.",
+      "tip": "Pequeno-almoço = petit-déjeuner au Portugal (petit repas). Café da manhã = Brésil.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-018",
+      "level": "A1",
+      "category": "pt_br_interference",
+      "wrong": "Onde é o banheiro?",
+      "correct": "Onde é a casa de banho?",
+      "explanation_fr": "'Banheiro' est brésilien. En portugais européen, les toilettes/la salle de bain se disent 'casa de banho'.",
+      "tip": "Casa de banho = salle de bain/toilettes au Portugal. Banheiro = Brésil.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-019",
+      "level": "A2",
+      "category": "pt_br_interference",
+      "wrong": "Que legal!",
+      "correct": "Que fixe! / Que porreiro!",
+      "explanation_fr": "'Legal' pour dire 'cool/super' est brésilien. En portugais européen, on dit 'fixe' ou 'porreiro' (plus familier).",
+      "tip": "Fixe = cool au Portugal. Porreiro = encore plus familier. Legal = Brésil.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-020",
+      "level": "B1",
+      "category": "pt_br_interference",
+      "wrong": "Preciso falar com ele.",
+      "correct": "Preciso de falar com ele. / Preciso de lhe falar.",
+      "explanation_fr": "En portugais européen, 'precisar' se construit avec 'de' : 'precisar de + infinitif'. Au Brésil, le 'de' est souvent omis.",
+      "tip": "PT-PT : precisar DE (toujours avec de). PT-BR : precisar (sans de).",
+      "frequency": "common"
+    },
+    {
+      "id": "err-021",
+      "level": "A1",
+      "category": "grammar",
+      "wrong": "Lisboa é bonita. Ela é em Portugal.",
+      "correct": "Lisboa é bonita. Fica em Portugal.",
+      "explanation_fr": "Pour la localisation géographique permanente, on utilise 'ficar' en portugais, pas 'ser' ni 'estar'. 'Ficar' = se trouver.",
+      "tip": "Localisation permanente = FICAR (Lisboa fica em Portugal). Ser = identité. Estar = état temporaire.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-022",
+      "level": "A1",
+      "category": "grammar",
+      "wrong": "Eu sou cansado.",
+      "correct": "Eu estou cansado.",
+      "explanation_fr": "La fatigue est un état temporaire, donc on utilise 'estar', pas 'ser'. 'Ser cansado' signifierait 'être une personne fatigante'.",
+      "tip": "Temporaire = ESTAR. Permanent/identité = SER. Fatigué = temporaire → estou cansado.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-023",
+      "level": "A1",
+      "category": "grammar",
+      "wrong": "Ela é doente.",
+      "correct": "Ela está doente.",
+      "explanation_fr": "Être malade est un état temporaire → 'estar'. 'Ser doente' impliquerait une maladie chronique ou un trait de caractère.",
+      "tip": "Malade temporairement = estar doente. Malade chronique = ser doente.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-024",
+      "level": "A2",
+      "category": "grammar",
+      "wrong": "Trabalho por aprender português.",
+      "correct": "Trabalho para aprender português.",
+      "explanation_fr": "'Para' exprime le but/la finalité (= pour + infinitif). 'Por' exprime la cause/la raison. Ici, c'est un but → para.",
+      "tip": "PARA = but (pour faire). POR = cause (à cause de). Para = futur. Por = passé.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-025",
+      "level": "A2",
+      "category": "grammar",
+      "wrong": "Obrigado por a ajuda.",
+      "correct": "Obrigado pela ajuda.",
+      "explanation_fr": "Les prépositions 'por' et 'em' se contractent obligatoirement avec les articles : por+a = pela, por+o = pelo, em+a = na, em+o = no.",
+      "tip": "por+o=pelo, por+a=pela, em+o=no, em+a=na, de+o=do, de+a=da. Contractions obligatoires !",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-026",
+      "level": "A2",
+      "category": "grammar",
+      "wrong": "Ontem eu comi e bebi muito. Estava muito bom. (confusion des temps)",
+      "correct": "Ontem eu comi e bebi muito. Esteve/Foi muito bom.",
+      "explanation_fr": "Pour un événement ponctuel passé, utilisez le pretérito perfeito (esteve/foi). L'imperfeito (estava) décrit un état prolongé ou une habitude.",
+      "tip": "Action ponctuelle passée = perfeito (comi, bebi, foi). Description/habitude = imperfeito (comia, bebia, era).",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-027",
+      "level": "B1",
+      "category": "grammar",
+      "wrong": "Quando eu era criança, um dia eu caía da bicicleta.",
+      "correct": "Quando eu era criança, um dia caí da bicicleta.",
+      "explanation_fr": "Un événement unique dans le passé = pretérito perfeito (caí). L'imperfeito (caía) impliquerait une action répétée ou habituelle.",
+      "tip": "Unique/ponctuel = perfeito. Répété/habituel/description = imperfeito.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-028",
+      "level": "B1",
+      "category": "grammar",
+      "wrong": "Espero que ele vem amanhã.",
+      "correct": "Espero que ele venha amanhã.",
+      "explanation_fr": "Après 'esperar que', 'querer que', 'duvidar que', etc., le subjonctif (conjuntivo) est obligatoire en portugais.",
+      "tip": "Après QUE + souhait/doute/émotion → TOUJOURS subjonctif. Espero que venha, quero que faça.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-029",
+      "level": "B1",
+      "category": "grammar",
+      "wrong": "É importante que tu fazes exercício.",
+      "correct": "É importante que tu faças exercício.",
+      "explanation_fr": "Après les expressions impersonnelles (é importante que, é necessário que, é possível que), le subjonctif est obligatoire.",
+      "tip": "É + adjectif + que → subjonctif. É importante que faças, é possível que venha.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-030",
+      "level": "B1",
+      "category": "grammar",
+      "wrong": "Embora ele é simpático, não gosto dele.",
+      "correct": "Embora ele seja simpático, não gosto dele.",
+      "explanation_fr": "Après 'embora' (bien que), le subjonctif est toujours obligatoire. C'est une des conjonctions qui déclenchent systématiquement le subjonctif.",
+      "tip": "Embora/Ainda que/Mesmo que + subjonctif TOUJOURS. Embora seja, embora tenha.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-031",
+      "level": "A1",
+      "category": "grammar",
+      "wrong": "O problema é grande. Os problemas são grandes.",
+      "correct": "O problema é grande. Os problemas são grandes. ✓ (mais attention : problema est masculin !)",
+      "explanation_fr": "Beaucoup de mots en -a sont masculins en portugais : o problema, o sistema, o programa, o tema, o cinema. Ne pas les traiter comme féminins.",
+      "tip": "Mots grecs en -ema/-ama sont masculins : o problema, o sistema, o programa, o tema.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-032",
+      "level": "A1",
+      "category": "grammar",
+      "wrong": "A água é fresco.",
+      "correct": "A água é fresca.",
+      "explanation_fr": "L'adjectif doit s'accorder en genre et nombre avec le nom. 'Água' est féminin → fresca.",
+      "tip": "Toujours vérifier le genre du nom. Água, mão, flor = féminins malgré les apparences.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-033",
+      "level": "A2",
+      "category": "grammar",
+      "wrong": "Eu gosto português.",
+      "correct": "Eu gosto de português.",
+      "explanation_fr": "'Gostar' se construit TOUJOURS avec 'de' en portugais : gostar de algo. C'est une erreur très fréquente chez les francophones.",
+      "tip": "Gostar DE (toujours). Precisar DE. Lembrar-se DE. Ces verbes veulent leur DE !",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-034",
+      "level": "A2",
+      "category": "grammar",
+      "wrong": "Eu preciso estudar mais.",
+      "correct": "Eu preciso de estudar mais.",
+      "explanation_fr": "En portugais européen, 'precisar' exige la préposition 'de' avant l'infinitif ou le nom.",
+      "tip": "PT-PT : precisar DE + infinitif/nom. Toujours avec DE.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-035",
+      "level": "B1",
+      "category": "grammar",
+      "wrong": "Vou dar-lhe o livro a ela. → Vou lhe dar o livro.",
+      "correct": "Vou dar-lhe o livro.",
+      "explanation_fr": "En portugais européen, dans les phrases affirmatives avec un verbe principal, le pronom se place après le verbe (ênclise). Mais après un auxiliaire comme 'ir', il se rattache à l'infinitif : vou dar-lhe.",
+      "tip": "Auxiliaire + infinitif : le pronom va après l'infinitif. Vou dar-lhe, posso ajudá-lo.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-036",
+      "level": "A1",
+      "category": "pronunciation",
+      "wrong": "Prononciation de 'e' atone comme [e] ouvert",
+      "correct": "Le 'e' atone se prononce [ɨ] (quasi muet) en PT-PT",
+      "explanation_fr": "En portugais européen, les voyelles atones sont très réduites. Le 'e' non accentué devient presque muet [ɨ], contrairement au français où toutes les voyelles sont clairement prononcées.",
+      "tip": "Le portugais 'mange' ses voyelles atones. 'Telefone' sonne comme 'tlefon'. C'est normal !",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-037",
+      "level": "A1",
+      "category": "pronunciation",
+      "wrong": "Prononcer le 'o' final comme [o]",
+      "correct": "Le 'o' final atone se prononce [u] en PT-PT",
+      "explanation_fr": "En portugais européen, le 'o' en position finale ou atone se prononce [u]. 'Porto' se dit [portu], 'gato' se dit [gatu].",
+      "tip": "Tout 'o' final = [u]. Porto = [Portu], gato = [gatu], bonito = [bunitu].",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-038",
+      "level": "A1",
+      "category": "pronunciation",
+      "wrong": "Prononcer le 'l' final comme en français",
+      "correct": "Le 'l' final se vélarise [ɫ] (son 'w' sombre) en PT-PT",
+      "explanation_fr": "En portugais européen, le 'l' en fin de syllabe se vélarise, produisant un son proche de [w] mais plus sombre. 'Portugal' se dit [purtugaɫ].",
+      "tip": "Le L final portugais est 'épais', presque comme un W sombre. Pas le L clair du français.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-039",
+      "level": "A1",
+      "category": "pronunciation",
+      "wrong": "Ne pas nasaliser les voyelles nasales (ã, õ, -ão, -ões)",
+      "correct": "Les voyelles nasales doivent être fortement nasalisées",
+      "explanation_fr": "Le portugais a des voyelles nasales encore plus marquées que le français. Les diphtongues nasales comme -ão [ɐ̃w̃] et -ões [õj̃ʃ] sont typiquement portugaises.",
+      "tip": "Exagérez la nasalisation au début. Pão, mão, coração : le son nasal doit vibrer dans le nez.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-040",
+      "level": "A1",
+      "category": "pronunciation",
+      "wrong": "Prononcer 'ch' comme en français [ʃ]",
+      "correct": "'ch' se prononce bien [ʃ] en PT-PT ✓, mais 'lh' = [ʎ] et 'nh' = [ɲ]",
+      "explanation_fr": "'ch' = [ʃ] (comme en français). 'lh' = [ʎ] (comme le 'gli' italien, pas 'l+y'). 'nh' = [ɲ] (comme le 'gn' français dans 'vigne').",
+      "tip": "ch = ch français ✓. lh = gn mouillé (filho). nh = gn français (vinho = vi-gno).",
+      "frequency": "common"
+    },
+    {
+      "id": "err-041",
+      "level": "A2",
+      "category": "pronunciation",
+      "wrong": "Mettre l'accent tonique sur la dernière syllabe systématiquement",
+      "correct": "L'accent tonique est généralement sur l'avant-dernière syllabe (sauf mots en -r, -l, -z, -i, -u)",
+      "explanation_fr": "En portugais, la règle par défaut est l'accent sur l'avant-dernière syllabe. Les exceptions (dernière syllabe) concernent les mots terminés par -r, -l, -z, -i, -u, ou portant un accent écrit.",
+      "tip": "Pas d'accent écrit + finit par voyelle/s/m → avant-dernière syllabe. LisBOa, portuGUÊS.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-042",
+      "level": "A1",
+      "category": "pronunciation",
+      "wrong": "Prononcer le 's' final comme [s]",
+      "correct": "Le 's' final (et avant consonne) se prononce [ʃ] en PT-PT lisboète",
+      "explanation_fr": "À Lisbonne, le 's' en fin de mot ou devant une consonne se prononce [ʃ] (comme 'ch'). 'Estas casas' sonne comme [eʃtɐʃ kazɐʃ].",
+      "tip": "Le S final lisboète = CH français. 'Três' = [treʃ]. C'est l'accent caractéristique de Lisbonne.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-043",
+      "level": "A2",
+      "category": "pronunciation",
+      "wrong": "Prononcer 'x' toujours de la même façon",
+      "correct": "Le 'x' a 4 prononciations possibles : [ʃ], [ks], [z], [s]",
+      "explanation_fr": "'x' peut se prononcer [ʃ] (xarope), [ks] (táxi), [z] (exame), ou [s] (próximo). Il faut apprendre au cas par cas.",
+      "tip": "X en début de mot = [ʃ]. X dans 'ex+voyelle' = [z]. X dans 'ex+consonne' = [ʃ]. Autres = mémoriser.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-044",
+      "level": "B1",
+      "category": "pronunciation",
+      "wrong": "Ne pas réduire le 'a' atone",
+      "correct": "Le 'a' atone se prononce [ɐ] (son neutre, réduit) en PT-PT",
+      "explanation_fr": "En portugais européen, le 'a' non accentué se réduit à [ɐ], un son plus fermé. 'Casa' se prononce [kazɐ] et non [kaza] avec un 'a' ouvert.",
+      "tip": "Le 'a' atone portugais est comme le 'e' de 'le' en français. Casa = [kazɐ], pas [kaza].",
+      "frequency": "common"
+    },
+    {
+      "id": "err-045",
+      "level": "A2",
+      "category": "pronunciation",
+      "wrong": "Prononcer 'r' initial et 'rr' comme le R français",
+      "correct": "Le 'r' initial et 'rr' se prononcent [ʁ] (uvulaire, similaire au R français) ✓ mais le 'r' simple intervocalique = [ɾ] (roulé court)",
+      "explanation_fr": "Le R fort (initial, double) est similaire au français. Mais le 'r' simple entre voyelles est un battement court [ɾ] (comme un D rapide). 'Caro' ≠ 'carro'.",
+      "tip": "R fort (rr, R initial) = comme en français. R simple entre voyelles = petit battement de langue. Caro ≠ carro.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-046",
+      "level": "A2",
+      "category": "register",
+      "wrong": "Utiliser 'tu' avec tout le monde",
+      "correct": "Utiliser 'você' ou 'o senhor/a senhora' selon le contexte",
+      "explanation_fr": "Au Portugal, 'tu' est réservé aux proches (famille, amis). Avec les inconnus, aînés ou en contexte formel, utilisez 'o senhor/a senhora' ou la 3e personne. 'Você' est intermédiaire et peut être perçu comme impoli dans certains contextes.",
+      "tip": "Amis/famille = tu. Inconnu du même âge = você. Plus âgé/formel = o senhor/a senhora.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-047",
+      "level": "A2",
+      "category": "register",
+      "wrong": "Dire juste 'Quero um café.' au bar",
+      "correct": "Queria um café, por favor. / Podia trazer-me um café, se faz favor?",
+      "explanation_fr": "En portugais européen, utiliser le conditionnel (queria, podia) est beaucoup plus poli que l'indicatif (quero). Les Portugais sont très attentifs à la politesse.",
+      "tip": "Au restaurant/magasin, utilisez TOUJOURS 'queria' (je voudrais) au lieu de 'quero' (je veux).",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-048",
+      "level": "B1",
+      "category": "register",
+      "wrong": "Oublier 'com licença', 'desculpe', 'se faz favor'",
+      "correct": "Utiliser systématiquement les formules de politesse",
+      "explanation_fr": "Les Portugais utilisent beaucoup de formules de politesse : 'com licença' (pardon/excusez-moi pour passer), 'desculpe' (excusez-moi), 'se faz favor' (s'il vous plaît). Les omettre est perçu comme grossier.",
+      "tip": "Se faz favor (SVP), com licença (pardon physique), desculpe (excusez-moi), obrigado/a (merci) = indispensables.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-049",
+      "level": "B1",
+      "category": "register",
+      "wrong": "Utiliser 'você' au Portugal comme au Brésil",
+      "correct": "Éviter 'você' quand possible, préférer le nom ou le titre",
+      "explanation_fr": "Au Portugal, 'você' peut être perçu comme impoli dans certains contextes. Préférez utiliser le nom de la personne, son titre (doutor, engenheiro) ou 'o senhor'. Au Brésil, 'você' est universel et neutre.",
+      "tip": "Au Portugal : tu (intime) → nom/titre (normal) → o senhor (formel). Você = zone grise, à éviter en cas de doute.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-050",
+      "level": "A1",
+      "category": "register",
+      "wrong": "Dire 'obrigado' quand on est une femme",
+      "correct": "Obrigada (si locutrice féminine). Obrigado (si locuteur masculin).",
+      "explanation_fr": "'Obrigado' s'accorde avec le genre du locuteur, pas de l'interlocuteur. Une femme dit 'obrigada', un homme dit 'obrigado'. C'est un adjectif (= 'je suis obligé(e)').",
+      "tip": "Vous êtes un homme → obrigado. Vous êtes une femme → obrigada. Toujours selon VOUS, pas l'autre.",
+      "frequency": "very_common"
+    },
+    {
+      "id": "err-051",
+      "level": "A2",
+      "category": "vocabulary",
+      "wrong": "Dire 'eu penso que...' pour 'je pense que'",
+      "correct": "Eu acho que... (langage courant). Penso que... est correct mais plus formel.",
+      "explanation_fr": "En portugais courant, 'achar' est beaucoup plus utilisé que 'pensar' pour exprimer une opinion. 'Pensar' existe mais est plus réfléchi/formel.",
+      "tip": "Opinion courante = acho que. Réflexion profonde = penso que. Achar = verbe opinion n°1.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-052",
+      "level": "B1",
+      "category": "vocabulary",
+      "wrong": "Confondre 'ficar' dans ses multiples sens",
+      "correct": "Ficar = rester, se trouver, devenir, garder, convenir...",
+      "explanation_fr": "'Ficar' est un des verbes les plus polyvalents du portugais : ficar em casa (rester), ficar em Lisboa (se trouver), ficar triste (devenir), fica combinado (c'est convenu). Il faut connaître tous ses sens.",
+      "tip": "Ficar = le couteau suisse du portugais. Rester/se trouver/devenir/convenir. Le contexte dicte le sens.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-053",
+      "level": "B2",
+      "category": "grammar",
+      "wrong": "Ne pas utiliser l'infinitif personnel (inflexionné)",
+      "correct": "É importante fazermos isto. / Antes de saírem...",
+      "explanation_fr": "L'infinitif personnel (infinitivo pessoal) est une spécificité du portugais. Il permet d'ajouter des terminaisons personnelles à l'infinitif : fazer → fazermos (nous), fazerem (ils). Obligatoire quand le sujet de l'infinitif diffère de celui du verbe principal.",
+      "tip": "Infinitif personnel : -es (tu), -mos (nós), -em (eles). Unique au portugais ! Utilisez-le après prépositions avec sujet différent.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-054",
+      "level": "B2",
+      "category": "grammar",
+      "wrong": "Confondre le futuro do conjuntivo avec le presente do conjuntivo",
+      "correct": "Quando eu tiver tempo... (futur du subjonctif) vs. Espero que eu tenha tempo (présent du subjonctif)",
+      "explanation_fr": "Le portugais possède un futur du subjonctif (inexistant en français). Il s'utilise après 'quando', 'se', 'assim que', 'enquanto' pour des actions futures. Ne pas le confondre avec le présent du subjonctif.",
+      "tip": "Quando/Se + futur → futur du subjonctif. Quando eu for, se eu tiver, quando puder.",
+      "frequency": "common"
+    },
+    {
+      "id": "err-055",
+      "level": "B1",
+      "category": "grammar",
+      "wrong": "Não sei nenhuma coisa. (double négation incorrecte)",
+      "correct": "Não sei nada. / Não tenho nenhum livro.",
+      "explanation_fr": "En portugais, la double négation est obligatoire : não + nada, não + ninguém, não + nenhum. Mais 'nenhuma coisa' est lourd — préférez 'nada'.",
+      "tip": "Não + mot négatif = obligatoire. Não sei nada, não vi ninguém, não há nenhum.",
+      "frequency": "common"
+    }
+  ]
+}

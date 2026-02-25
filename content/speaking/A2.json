@@ -1,0 +1,168 @@
+[
+  {
+    "id": "s-a2-01",
+    "title": "À la gare",
+    "level": "A2",
+    "description": "Acheter un billet de train et demander des informations",
+    "objectives": [
+      "Demander les horaires de train",
+      "Acheter un billet (aller-retour ou simple)",
+      "Comprendre les informations sur les quais et retards"
+    ],
+    "scenario": "Vous allez à la gare de Lisbonne. Vous voulez un billet pour le Porto pour demain. Demandez l'horaire et le prix.",
+    "conversation_starters": [
+      "Boa tarde. Bem-vindo à estação. Como posso ajudar?",
+      "Olá! O que deseja?"
+    ],
+    "vocabulary": [
+      { "pt": "bilhete", "fr": "billet" },
+      { "pt": "comboio", "fr": "train" },
+      { "pt": "horário", "fr": "horaire" },
+      { "pt": "partida", "fr": "départ" },
+      { "pt": "chegada", "fr": "arrivée" },
+      { "pt": "ida e volta", "fr": "aller-retour" },
+      { "pt": "plataforma", "fr": "quai" },
+      { "pt": "atraso", "fr": "retard" }
+    ],
+    "key_phrases": [
+      "Gostava de um bilhete para o Porto.",
+      "Para amanhã, se faz favor.",
+      "Qual é a próxima partida?",
+      "Quanto custa a ida e volta?",
+      "Em que plataforma é?"
+    ]
+  },
+  {
+    "id": "s-a2-02",
+    "title": "Chez le médecin",
+    "level": "A2",
+    "description": "Décrire les symptômes et obtenir des conseils médicaux",
+    "objectives": [
+      "Utiliser le vocabulaire médical basique",
+      "Décrire la douleur et les symptômes",
+      "Comprendre les conseils médicaux"
+    ],
+    "scenario": "Vous n'êtes pas bien. Vous allez chez le médecin. Vous avez mal à la tête et de la fièvre. Décrivez les symptômes.",
+    "conversation_starters": [
+      "Boa tarde. Qual é o problema?",
+      "Olá! O que é que o traz aqui?"
+    ],
+    "vocabulary": [
+      { "pt": "dor", "fr": "douleur" },
+      { "pt": "febre", "fr": "fièvre" },
+      { "pt": "tosse", "fr": "toux" },
+      { "pt": "constipação", "fr": "rhume" },
+      { "pt": "dor de cabeça", "fr": "mal de tête" },
+      { "pt": "desconfortável", "fr": "mal à l'aise" },
+      { "pt": "medicamento", "fr": "médicament" },
+      { "pt": "receita", "fr": "ordonnance" }
+    ],
+    "key_phrases": [
+      "Tenho mal de cabeça e febre.",
+      "Há quanto tempo é que tem estes sintomas?",
+      "Desde ontem, doutor.",
+      "Preciso de uma receita?",
+      "Quanto custa a consulta?"
+    ]
+  },
+  {
+    "id": "s-a2-03",
+    "title": "À la banque",
+    "level": "A2",
+    "description": "Ouvrir un compte ou faire une transaction bancaire",
+    "objectives": [
+      "Demander à ouvrir un compte",
+      "Comprendre les conditions bancaires",
+      "Faire un transfert d'argent"
+    ],
+    "scenario": "Vous voulez ouvrir un compte bancaire. Vous posez des questions sur les frais, l'accès en ligne et les cartes.",
+    "conversation_starters": [
+      "Bom dia. Bem-vindo ao Banco Portugal. Como posso ajudar?",
+      "Olá! Qual é a sua necessidade?"
+    ],
+    "vocabulary": [
+      { "pt": "conta", "fr": "compte" },
+      { "pt": "depósito", "fr": "dépôt" },
+      { "pt": "levantamento", "fr": "retrait" },
+      { "pt": "transferência", "fr": "virement" },
+      { "pt": "cartão", "fr": "carte" },
+      { "pt": "PIN", "fr": "code" },
+      { "pt": "comissão", "fr": "frais" },
+      { "pt": "juros", "fr": "intérêts" }
+    ],
+    "key_phrases": [
+      "Gostava de abrir uma conta bancária.",
+      "Quais são as comissões?",
+      "Há acesso online?",
+      "Posso fazer um cartão de débito?",
+      "Qual é o saldo mínimo?"
+    ]
+  },
+  {
+    "id": "s-a2-04",
+    "title": "Visite touristique",
+    "level": "A2",
+    "description": "Demander des informations touristiques et visiter un lieu",
+    "objectives": [
+      "Demander des informations sur les attractions",
+      "Comprendre les horaires d'ouverture",
+      "Demander les tarifs d'entrée"
+    ],
+    "scenario": "Vous visitez le Mosteiro dos Jerónimos. Vous demandez les horaires, le prix d'entrée et les points d'intérêt.",
+    "conversation_starters": [
+      "Bem-vindo ao Mosteiro dos Jerónimos!",
+      "Olá! É a primeira vez que nos visita?"
+    ],
+    "vocabulary": [
+      { "pt": "mosteiro", "fr": "monastère" },
+      { "pt": "Igreja", "fr": "église" },
+      { "pt": "torre", "fr": "tour" },
+      { "pt": "entrada", "fr": "entrée" },
+      { "pt": "horário", "fr": "horaires" },
+      { "pt": "bilhete", "fr": "billet" },
+      { "pt": "visita guiada", "fr": "visite guidée" },
+      { "pt": "fotografia", "fr": "photographie" }
+    ],
+    "key_phrases": [
+      "Qual é o horário de funcionamento?",
+      "Quanto é o bilhete de entrada?",
+      "Há visitas guiadas?",
+      "É permitido tirar fotografias?",
+      "Quanto tempo demora a visita?"
+    ]
+  },
+  {
+    "id": "s-a2-05",
+    "title": "Réserver un logement",
+    "level": "A2",
+    "description": "Réserver une chambre ou un appartement par téléphone",
+    "objectives": [
+      "Donner les dates de séjour",
+      "Spécifier le type de logement",
+      "Confirmer la réservation et les conditions"
+    ],
+    "scenario": "Vous appelez un hôtel à Sintra pour réserver une chambre pour 2 personnes du 15 au 20 juin.",
+    "conversation_starters": [
+      "Bom dia. Hotel Sintra ao telefone.",
+      "Olá! Bem-vindo ao nosso hotel."
+    ],
+    "vocabulary": [
+      { "pt": "reserva", "fr": "réservation" },
+      { "pt": "data", "fr": "date" },
+      { "pt": "check-in", "fr": "arrivée" },
+      { "pt": "check-out", "fr": "départ" },
+      { "pt": "noites", "fr": "nuits" },
+      { "pt": "casal", "fr": "double" },
+      { "pt": "solteiro", "fr": "simple" },
+      { "pt": "adiantamento", "fr": "acompte" }
+    ],
+    "key_phrases": [
+      "Gostava de reservar um quarto.",
+      "Para duas pessoas, do 15 ao 20 de junho.",
+      "Com cama de casal, por favor.",
+      "Há piscina no hotel?",
+      "Quanto é a diária?",
+      "Como é que faço o pagamento?"
+    ]
+  }
+]

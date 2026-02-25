@@ -1,0 +1,94 @@
+{
+  "prompts": [
+    {
+      "id": "w-c1-01",
+      "title": "Essai argumentatif : Votre conviction majeure",
+      "instructions": "Rédigez un essai (300-400 mots) défendant une conviction qui vous est chère. Structurez avec introduction, trois arguments distincts avec preuves, et conclusion qui anticipe contrearguments.",
+      "model": "Conviction : A educação é o direito humano mais fundamental. Primeiro, educação liberta da pobreza. Estatisticamente, cada ano de educação aumenta rendimento futuro em 10%. Uma criança educada não está condenada à reprodução de pobreza geracional. Segundo, educação nutre pensamento crítico. Cidadãos educados resistem a propaganda, manipulação. Democracias necessitam eleitores informados, não rebanhos. Terceiro, educação é ponte intercultural. Pessoas educadas compreendem perspectivas diferentes, reduzindo conflito. Alguns argumentam que educação mercantiliza-se, tornando-se ferramenta de reprodução social. Verdade. Mas ausência de educação também o é, apenas piora. O antídoto é educação pública robusta, não abandono. Conclusão : Direito à educação não é privilégio, é fundação de dignidade humana.",
+      "level": "C1",
+      "minWords": 250,
+      "maxWords": 400
+    },
+    {
+      "id": "w-c1-02",
+      "title": "Analyse comparative : Deux philosophies",
+      "instructions": "Analysez deux pensadores filosóficos e seus impactos. Examine diferenças, contradições, e relevância contemporânea. Utilize linguagem academica.",
+      "model": "Comparação : Maquiavel vs Rawls. Maquiavel privilegia poder e interesse estatal. Moralidade é instrumentalizada. Rawls privilegia justiça e equidade. Moralidade é fundacional. Para Maquiavel, 'o príncipe' deve enganar para manter poder. Para Rawls, instituições devem ser justas por construção. Incompatibilidade aparente. Porém, ambos reconhecem que política não é geometria, é negociação. Maquiavel oferece descrição realista do poder (por isso ainda nos assusta). Rawls oferece ideal normativo (por isso inspirador). Relevância contemporânea? Populistas contemporâneos usam lógica maquiaveliana: autoridade, ação executiva, desprezo por instituições. Liberais lutam pela lógica rawlsiana: instituições, direitos, equidade. Síntese possível? Talvez. Realpolitik maquiaveliano temperado por imperativo ético rawlsiano.",
+      "level": "C1",
+      "minWords": 280,
+      "maxWords": 420
+    },
+    {
+      "id": "w-c1-03",
+      "title": "Critique : Article ou livre recent",
+      "instructions": "Critiquez um livro ou artigo recente de sua escolha. Identifique pontos fortes, limitações, e implicações para seu campo de interesse.",
+      "model": "Crítica : 'The Ministry for the Future' de Kim Stanley Robinson. Ponto forte : Narrativa multivocal oferece perspectivas globais pluralizadas sobre mudança climática. Robinson evita 'saviour complex' ocidental. Limitação : Optimismo final sobre solução tecnológica é ingénuo. Geoengenharia é Pandora's box. Ação política radical é minimizada em favor de inovação. Implicação : O livro é mais fantasia reconfortante que prognóstico plausível. Útil para despertar consciência, menos para clarificar caminhos viáveis. Conclusão : Ficção especulativa é instrumento pedagógico, não guia política.",
+      "level": "C1",
+      "minWords": 260,
+      "maxWords": 380
+    },
+    {
+      "id": "w-c1-04",
+      "title": "Proposta : Reforma política ou social",
+      "instructions": "Proponha uma reforma estrutural. Justifique com evidência, antecipe objeções, especifique implementação.",
+      "model": "Proposta : Semana de trabalho de 4 dias. Justificação : Produtividade não correlaciona com horas trabalhadas. Burnout reduz criatividade. Enquanto isto, desemprego tecnológico cresce. Redistribuir trabalho através de redução de horas é mais equitável que desemprego massivo. Evidência : Testes piloto (Islândia, Japão) mostram produtividade mantida, bem-estar aumentado. Objeção : 'Salários cairão'. Resposta : Não necessariamente. Eficiência aumentada, menos custos de saúde, menos absentismo. Objeção : 'Competição global exige mais horas'. Resposta : Países que implementam terão vantagem. Implementação : Fase gradual (5 dias → 4,5 → 4). Suporte fiscal para pequenas empresas. Monitoramento de impacto. Conclusão : Reforma viável que redistribui benefício de automação.",
+      "level": "C1",
+      "minWords": 280,
+      "maxWords": 420
+    },
+    {
+      "id": "w-c1-05",
+      "title": "Ensayo personal : Paradoxo ou contradição vivida",
+      "instructions": "Explore um paradoxo que você vive : desejo conflitante, crença contraditória, identidade fragmentada. Seja honesto e aprofundado.",
+      "model": "Paradoxo : Desejo de igualdade, privilégio de educação. Cresci argumentando que privilégio é injusto. Porém, meu próprio privilégio educacional permite esta crítica. Sem educação, seria reproduzindo desigualdade, não interrogando-a. Contraditório. Tento oferecer conhecimento para outros, mas isto também pode ser paternalismo. 'Deixa eu ensinar você a pensar criticamente' é ainda posição de poder. Não há saída limpa. Talvez a honestidade resida em admitir complicidade enquanto age para minimiza-la. Educação não é pura; nunca é. Mas é ferramenta mais potente disponível para mudança. Vivo isto sabendo que não resolve a contradição, apenas a torna visível.",
+      "level": "C1",
+      "minWords": 270,
+      "maxWords": 400
+    },
+    {
+      "id": "w-c1-06",
+      "title": "Relatório acadêmico : Síntese de pesquisa",
+      "instructions": "Escreva um breve relatório (250-350 palavras) sintetizando achados de uma pesquisa ou fenômeno de seu interesse.",
+      "model": "Relatório : Impacto da meditação na neuroplasticidade. Contextualização : Meditação é prática ancestral, ciência recente. Achados : Estudos mostram aumento de densidade cinzenta no córtex pré-frontal (emoção, atenção) e redução na amígdala (medo). Prática de 8 semanas produz mudanças mensuráveis. Implicação : Meditação não é placebo, é intervenção neurobiológica. Limitação : Tamanho de amostra frequentemente pequeno. Viés de publicação (estudos positivos mais publicados). Mecanismo exato ainda obscuro. Recomendação : Integrar meditação em programas de saúde mental como complemento (não substituto) de medicação. Conclusão : Promessa genuína, mas necessita mais rigor metodológico.",
+      "level": "C1",
+      "minWords": 240,
+      "maxWords": 360
+    },
+    {
+      "id": "w-c1-07",
+      "title": "Correspondência profissional : Reclamação estruturada",
+      "instructions": "Redija uma carta formal expressando desacordo ou reclamação. Mantenha tom respeitoso mas firme, estruture claramente problema-ação solicitada.",
+      "model": "Carta formal : Prezado [Diretor], Refiro-me à política de teletrabalho implementada em novembro. Embora reconheça intenção de promover flexibilidade, a implementação atual cria problemas : 1) Falta de infraestrutura técnica deixa colaboradores incapazes de completar tarefas; 2) Expectativas de resposta 24/7 eliminam benefício de separação trabalho-vida; 3) Colaboradores com filhos são desfavorecidos por falta de apoio com cuidado. Solução solicitada : Revisão da política considerando: investimento em infraestrutura, definição clara de horários de 'não resposta', suporte com cuidado infantil. Disponível para discussão. Respeitosamente, [Nome]",
+      "level": "C1",
+      "minWords": 200,
+      "maxWords": 300
+    },
+    {
+      "id": "w-c1-08",
+      "title": "Meditação : Escrita reflexiva sobre experiência",
+      "instructions": "Escreva reflexão sobre experiência pessoal que alterou sua perspectiva. Integre observação sensorial, emoção, e insight conceptual.",
+      "model": "Meditação : Encontro com morte. Meu avó morreu quando eu tinha 15 anos. Não era esperado. Primeira morte próxima. Lembro-me de sua ausência mais que sua presença. A casa estava vazia de forma que nenhum móvel novo poderia preencher. Isto me ensinou : presença é tudo. Aquilo que tememos perder, deve ser valorizado agora. Desde então, ligo para meus pais regularmente. Passo tempo não-produtivo com amigos. Não tenho medo de 'perda de tempo' porque compreendi que tempo com gente é o tempo bem gasto. Morte é professora severa, mas honesta.",
+      "level": "C1",
+      "minWords": 220,
+      "maxWords": 350
+    },
+    {
+      "id": "w-c1-09",
+      "title": "Discurso : Apresentação para público",
+      "instructions": "Escreva um discurso (250-400 palavras) que você poderia pronunciar para um grupo sobre tema de importância social.",
+      "model": "Discurso : 'Coragem de ser imperfeito'. Camaradas, vivemos em era de curadoria. Redes sociais mostram-nos versões otimizadas de vidas. Ninguém publica fracassos. Isto cria expectativa irreal de perfeição. E perfeição é morte da criatividade. Porque criatividade requer risco, experimentação, e experimentação significa fracasso frequente. Os artistas, cientistas, empreendedores mais inovadores não eram perfeitos. Eram imperfeitos, corajosos, e seguiram. Convido-vos a coragem de ser imperfeito. A lançar ideias não refinadas. A admitir quando erramos. A aprender publicamente. Isto não é fraqueza. É força. É humanidade. Obrigado.",
+      "level": "C1",
+      "minWords": 250,
+      "maxWords": 400
+    },
+    {
+      "id": "w-c1-10",
+      "title": "Síntese imaginativa : Ficção especulativa",
+      "instructions": "Escreva cena curta (200-300 palavras) de um futuro possível baseado em tendência contemporânea.",
+      "model": "Ficção especulativa (2050) : 'Último Encontro Humano'. Marte, base lunar abandonada. Dois humanos, únicas pessoas aqui, comunicam via holograma. Nunca se tocaram. A tecnologia permitiu colonização, mas isolou. Ela pergunta : 'Lembra como era abraço?' Ele : 'Não. Tenho arquivos, mas arquivo não é lembrança.' Ela estava em Terra quando foi à Marte. 30 anos passaram. Todos morreram. Agora, 20 bilhões de humanos existem em corpos sintéticos, consciências digitais. Ninguém reproduz biologicamente. Ninguém morre. Ele disse : 'Talvez tenhamos conquistado morte, mas perdemos vida'. Ela concordou em silêncio. Hologramas desconectaram.",
+      "level": "C1",
+      "minWords": 200,
+      "maxWords": 320
+    }
+  ]
+}

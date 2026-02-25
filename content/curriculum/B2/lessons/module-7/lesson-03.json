@@ -1,0 +1,84 @@
+{
+  "id": "b2-m7-l03",
+  "title": "Présentation formelle",
+  "type": "speaking",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Structurer une présentation orale formelle en portugais",
+    "Utiliser les expressions de transition (en premier lieu, pour conclure)",
+    "Pratiquer l'expression orale soutenue"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Faire une présentation en portugais",
+      "content": "<p>Faire une <strong>présentation formelle</strong> (apresentação formal) en portugais est une compétence attendue au niveau B2. Que ce soit pour un exposé académique, une réunion professionnelle ou un oral d'examen, il faut savoir <strong>introduire</strong>, <strong>développer</strong> et <strong>conclure</strong> de manière structurée.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Modèle de présentation",
+      "content": "<p>Écoutez ce modèle :</p><blockquote><em>«Bom dia a todos. O tema da minha apresentação é o impacto das energias renováveis em Portugal.</em><br/><br/><em><strong>Em primeiro lugar</strong>, gostaria de apresentar o contexto atual. Portugal é um dos líderes europeus em energias renováveis, com mais de 60% da eletricidade produzida a partir de fontes limpas.</em><br/><br/><em><strong>Em segundo lugar</strong>, vou abordar os desafios. Apesar dos progressos, a dependência do gás natural para a indústria continua a ser um problema.</em><br/><br/><em><strong>Por último</strong>, gostaria de propor algumas soluções, nomeadamente o investimento em hidrogénio verde.</em><br/><br/><em><strong>Para concluir</strong>, Portugal tem todas as condições para se tornar um líder mundial em energias limpas. Obrigado pela vossa atenção. Estou disponível para responder a perguntas.»</em></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Expressions pour chaque phase",
+      "content": "<p><strong>Ouverture :</strong></p><ul><li><em>Bom dia / Boa tarde a todos.</em></li><li><em>O tema da minha apresentação é...</em></li><li><em>Hoje, vou falar sobre...</em></li><li><em>A minha apresentação está dividida em três partes.</em></li></ul><p><strong>Développement :</strong></p><ul><li><em>Em primeiro lugar... / Primeiramente...</em></li><li><em>Em segundo lugar... / Seguidamente...</em></li><li><em>Por último... / Finalmente...</em></li><li><em>Gostaria de salientar que...</em> (Je voudrais souligner que...)</li><li><em>Passemos agora ao segundo ponto.</em> (Passons au deuxième point.)</li></ul><p><strong>Conclusion :</strong></p><ul><li><em>Para concluir... / Em conclusão...</em></li><li><em>Em suma, podemos afirmar que...</em></li><li><em>Obrigado/a pela vossa atenção.</em></li><li><em>Estou disponível para responder a perguntas.</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Compléter une présentation",
+      "content": "<p>Complétez les transitions :</p><ol><li><em>________ a todos. Hoje, vou falar sobre a importância da leitura.</em> → <strong>Bom dia</strong></li><li><em>________, gostaria de apresentar alguns dados estatísticos.</em> → <strong>Em primeiro lugar</strong></li><li><em>________ ao segundo ponto: os benefícios cognitivos.</em> → <strong>Passemos agora</strong></li><li><em>________, a leitura é fundamental para o desenvolvimento pessoal.</em> → <strong>Para concluir</strong></li><li><em>________ pela vossa atenção.</em> → <strong>Obrigado</strong></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Votre présentation",
+      "content": "<p>Préparez le plan d'une présentation de 3-4 minutes sur un de ces sujets :</p><ol><li><em>As vantagens de aprender uma língua estrangeira</em></li><li><em>O turismo sustentável em Portugal</em></li><li><em>A importância da preservação do património cultural</em></li></ol><p>Rédigez : ouverture (2-3 phrases) + 3 points de développement (2-3 phrases chacun) + conclusion (2-3 phrases). Utilisez les expressions de transition étudiées.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dire 'Passons maintenant au deuxième point' en portugais ?",
+      "correctAnswer": "Passemos agora ao segundo ponto.",
+      "distractors": ["Vamos ao ponto dois.", "Agora o segundo.", "Depois disso, ponto dois."],
+      "explanation": "'Passemos agora ao segundo ponto' — subjonctif exhortatif (nós) de PASSAR, registre formel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A minha apresentação está ________ em três partes.",
+      "correctAnswer": "dividida",
+      "explanation": "'Estar dividida em' = être divisée en. Participe passé accordé au féminin car 'apresentação' est féminin."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Je voudrais souligner que le Portugal est un leader en énergies renouvelables.",
+      "correctAnswer": "Gostaria de salientar que Portugal é um líder em energias renováveis.",
+      "explanation": "'Gostaria de' = je voudrais (conditionnel poli). 'Salientar' = souligner / mettre en relief."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment terminer poliment une présentation en portugais ?",
+      "correctAnswer": "Obrigado/a pela vossa atenção. Estou disponível para perguntas.",
+      "distractors": ["É tudo. Tchau.", "Acabou. Podem ir.", "Terminei. Vamos embora."],
+      "explanation": "La formule de clôture formelle est : remercier l'audience + se rendre disponible pour les questions."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________, podemos afirmar que a educação é a chave do progresso. (= en somme)",
+      "correctAnswer": "Em suma",
+      "explanation": "'Em suma' = en somme. Connecteur de conclusion synthétique, registre formel."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "apresentação", "phonetic": "/ɐpɾɨzẽtɐˈsɐ̃w̃/", "french": "présentation"},
+    {"portuguese": "em primeiro lugar", "phonetic": "/ẽ pɾiˈmejɾu luˈɡaɾ/", "french": "en premier lieu"},
+    {"portuguese": "em segundo lugar", "phonetic": "/ẽ sɨˈɡũdu luˈɡaɾ/", "french": "en second lieu"},
+    {"portuguese": "por último", "phonetic": "/puɾ ˈuɫtimu/", "french": "en dernier lieu"},
+    {"portuguese": "para concluir", "phonetic": "/ˈpaɾɐ kõkluˈiɾ/", "french": "pour conclure"},
+    {"portuguese": "passemos a", "phonetic": "/pɐˈsemuʃ ɐ/", "french": "passons à"},
+    {"portuguese": "salientar", "phonetic": "/sɐliẽˈtaɾ/", "french": "souligner / mettre en relief"},
+    {"portuguese": "disponível", "phonetic": "/diʃpuˈnivɛl/", "french": "disponible"},
+    {"portuguese": "património", "phonetic": "/pɐtɾiˈmɔniu/", "french": "patrimoine"},
+    {"portuguese": "sustentável", "phonetic": "/suʃtẽˈtavɛl/", "french": "durable / soutenable"}
+  ]
+}

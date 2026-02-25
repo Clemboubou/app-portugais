@@ -1,0 +1,282 @@
+[
+  {
+    "id": "c1_reading_001",
+    "title": "Essai philosophique : L'éthique de l'oubli",
+    "level": "C1",
+    "text": "Oubliar é uma capacidade tão importante quanto lembrar, contudo raramente a valorizamos. Em nossa era de armazenamento infinito, onde cada transação deixa rastros digitais, o esquecimento tornou-se um direito reivindicado pelos europeus sob a égide do 'direito ao esquecimento'. Paradoxalmente, enquanto tecnologicamente capacitados para reter tudo, psicologicamente enfraquecemos sem espaço para deixar ir. Nietzsche sugeriu que a história excessiva sufoca a criatividade. Se recordamos cada erro, cada fracasso, cada vexame, tornamo-nos prisioneiros do passado. O esquecimento saudável permite reinvenção. Um criminoso reabilitado deveria ter oportunidade de começar de novo, não perseguido eternamente por um passado registado digitalmente. Mas também há perigo. Esquecimento coletivo leva a repetição histórica. Holocaustos repetem-se quando as sociedades esquecem. O equilíbrio é delicado : capacidade pessoal de esquecer para cura psicológica, mas memória coletiva para sabedoria histórica. A tecnologia desafiou este equilíbrio. Agora, personalidades públicas não podem errar sem perpetuação digital. Ativistas climáticos são perseguidos por tweets de adolescência. A tecnologia tomou decisões sobre o que deve ser lembrado, removendo agência humana no processamento do esquecimento.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é a tese principal do ensaio sobre o esquecimento?",
+        "options": ["Devemos esquecer tudo", "Esquecer é importante para a saúde psicológica e reinvenção pessoal", "Nunca devemos esquecer nada", "O esquecimento é mal"],
+        "correctAnswer": "Esquecer é importante para a saúde psicológica e reinvenção pessoal"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "O ensaio concorda que a memória digital é apenas positiva.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "Qual é o paradoxo mencionado sobre o esquecimento coletivo?",
+        "options": ["Não há paradoxo", "Enquanto necessário para cura psicológica, pode levar a repetição histórica", "O esquecimento coletivo é sempre bom", "É irrelevante"],
+        "correctAnswer": "Enquanto necessário para cura psicológica, pode levar a repetição histórica"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_002",
+    "title": "Analyse critique : Littérature et politique",
+    "level": "C1",
+    "text": "A literatura é frequentemente considerada refúgio apolítico, espaço de imaginação livre das constrições políticas. Mas esta ilusão mascara a natureza profundamente política de toda escrita. Escolher o que contar é político. Contar a história de um lixeiro é político. Ignorar a história de uma mulher migrante é político. Salman Rushdie foi perseguido porque sua ficção foi considerada ameaça. Não porque narrou factos literalmente falsos, mas porque desafiou narrativas sagradas do poder. George Orwell argumentou que 'toda literatura é propaganda'. Alguns resistem a isto, argumentando que grandes obras transcendem política. Mas transcender política é privilégio. Um escritor marginalizados não pode transcender, pois está constantemente definido pelo seu marginalia. A verdade incômoda é que literatura não pode ser apolítica enquanto sociedades forem hierárquicas. Uma vez que hierarquias desapareçam (se alguma vez desaparecerem), talvez literatura seja meramente estética. Até lá, toda palavra é escolha política. Silenciar é político. Falar é político. O escritor consciente reconhece isto e age responsavelmente.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é o argumento central sobre literatura e política?",
+        "options": ["Literatura é completamente apolítica", "Toda literatura é profundamente política em suas escolhas", "Política arruina literatura", "Orwell estava errado"],
+        "correctAnswer": "Toda literatura é profundamente política em suas escolhas"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "O texto concorda que grandes obras transcendem política universalmente.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "Por que Rushdie foi perseguido segundo o texto?",
+        "options": ["Por narrar factos falsos", "Por desafiar narrativas sagradas do poder", "Por escrever mal", "Por nenhuma razão"],
+        "correctAnswer": "Por desafiar narrativas sagradas do poder"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_003",
+    "title": "Recherche scientifique : Microbiome et santé",
+    "level": "C1",
+    "text": "A descoberta do microbioma humano revolucionou nossa compreensão da saúde. Não somos organismos únicos, mas ecossistemas. Triliões de bactérias, vírus e fungos coexistem em nossos corpos, particularmente no intestino. Longe de serem invasores nocivos, estes microorganismos são essenciais. Sintetizam vitaminas, treinam nosso sistema imunológico, afetam até nosso humor através do eixo intestino-cérebro. Depressão correlaciona com desequilíbrio do microbioma. Obesidade também. Autismo, potencialmente. A indústria farmacêutica, que lucrou por décadas atacando bactérias indiscriminadamente, agora oferece probióticos caros. Mas a realidade é mais sutil. Nem todas as bactérias são iguais. O contexto importa. Antibióticos são necessários em infecção, mas uso excessivo destrói o microbioma benéfico, criando resistência. A medicina do futuro será ecológica, não destrutiva. Manipulação fina do microbioma através de dieta, prebióticos específicos, transplante de microbioma (sim, isto existe) pode revolucionar tratamento de doença mental, metabólica e neurológica. Mas isto requer humildade: reconhecer que somos menos mestres de nosso corpo que pensávamos.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "O que o texto revela sobre a relação entre microbioma e saúde?",
+        "options": ["Bactérias são sempre ruins", "O microbioma é essencial e afeta múltiplos aspectos da saúde", "O microbioma não importa", "Devemos destruir todas as bactérias"],
+        "correctAnswer": "O microbioma é essencial e afeta múltiplos aspectos da saúde"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "O texto condena completamente os antibióticos.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "Qual é a abordagem futura sugerida pela medicina?",
+        "options": ["Mais antibióticos", "Destruição completa do microbioma", "Manipulação ecológica e fina do microbioma", "Nenhuma mudança"],
+        "correctAnswer": "Manipulação ecológica e fina do microbioma"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_004",
+    "title": "Opinião : Memória cultural e patrimônio",
+    "level": "C1",
+    "text": "Preservar patrimônio é questão política e ética. Quando o Estado Islâmico destruiu o Buda de Bamiyan, a comunidade internacional lamentou. Mas enquanto chorava as esculturas afegãs, ignorava a destruição sistemática de patrimônio palestino, arquivos removidos, casas demolidas, memória apagada. Somos seletivos no que consideramos digno de preservação. Patrimônio branco, europeu, antigo? Sagrado. Patrimônio negro, indígena, recente? Descartável. Os que têm poder decidem o que é memória. Museus europeus retêm artefatos coloniais como troféus, recusando-se a devolver. Argumentam que está 'mais seguro' connosco. Humilhação elegante. Devolução de patrimônio é ato de justiça reparadora. Significa reconhecer: conquistamos, roubámos, colonizámos. Agora, restituímos. Isto não apaga o passado, mas é ato de reconhecimento. Igualmente, patrimônio recente (arte contemporânea, registros orais, narrativas indígenas) deve ser valorizado. Memória não é apenas o que é antigo, mas também o que é vivo, presente, testemunhando injustiça contínua.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é a crítica principal do texto sobre preservação de patrimônio?",
+        "options": ["Não há crítica", "Que é seletiva, privilegiando patrimônio europeu branco", "Que preservamos demais", "Que nunca preservamos nada"],
+        "correctAnswer": "Que é seletiva, privilegiando patrimônio europeu branco"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "O texto concorda com a retenção europeia de artefatos coloniais.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "Como o texto define memória?",
+        "options": ["Apenas o que é antigo", "Só artefatos físicos", "O que é antigo e também o que é vivo e presente", "Irrelevante"],
+        "correctAnswer": "O que é antigo e também o que é vivo e presente"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_005",
+    "title": "Narration : Autofiction et identité",
+    "level": "C1",
+    "text": "A autofição é gênero que desconstrói fronteira entre autobiografia e ficção. O narrador é o autor, mas não é. Eventos ocorreram, mas são ficcionalizados. Motivações reais são reimaginadas. A qual se pode confiar? Ninguém. É o ponto. Michel Butor argumentou que toda narrativa em primeira pessoa é autofição porque o 'eu' que narra nunca é idêntico ao 'eu' que viveu o evento. Há lacuna temporal, e nesta lacuna reside invenção. Marguerite Duras levou isto ao extremo, retocando a mesma história em múltiplas narrativas, cada uma 'verdadeira' mas contraditória. Isto é perturbador para leitores acostumados a verdade estável. Mas também libertador. Se toda narrativa é parcialmente ficcionalizada, então toda identidade é narrativa, logo construção. Não somos essências fixas, mas histórias que contamos sobre nós mesmos. Mudar história muda identidade. Esta iluminação tem implicação terapêutica. Pessoas com trauma podem re-narrativizar a experiência, não negando os eventos, mas reinterpretando significado. Autofição não é mentira, é reconhecimento de que verdade é sempre perspectiva.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "O que é autofição segundo o texto?",
+        "options": ["Pura ficção", "Gênero que desconstrói fronteira entre autobiografia e ficção", "Pura autobiografia", "Um tipo de poesia"],
+        "correctAnswer": "Gênero que desconstrói fronteira entre autobiografia e ficção"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "O texto considera autofição como mentira deliberada.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "Qual é a implicação terapêutica mencionada?",
+        "options": ["Nenhuma", "Que re-narrativizar experiências pode alterar identidade e significado", "Que não podemos mudar", "Que terapia é inútil"],
+        "correctAnswer": "Que re-narrativizar experiências pode alterar identidade e significado"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_006",
+    "title": "Análise : Democracia digital e participação",
+    "level": "C1",
+    "text": "A democracia digital promete devolver poder às pessoas. Em vez de representantes distantes, cidadãos votam diretamente em questões. Suíça implementa democracia semi-direta há séculos. Agora, plataformas digitais oferecem democracia participativa em escala. Mas há armadilhas. Primeiro, acesso digital desigual. Quem participa em votações online? Geralmente, elite educada e conectada. Idosos, pobres, marginalizados? Ausentes. Segundo, sofisticação de questões. Cidades complexas não se resumem a 'sim' e 'não'. Nuance desaparece. Algoritmos então curatizam o que você vê, criando câmaras de eco. Você vota, mas na realidade que o algoritmo construiu. Terceiro, captura corporativa. Empresas podem mobilizar seguidores para votar seus interesses. Democracia participativa torna-se teatro corporativo. Nem tudo é negativo. Participação genuína, bem desenhada, com educação cívica robusta, pode fortalecer democracia. Mas requere investimento e vigilância. Não é automático que tecnologia = liberdade. Requer design democrático deliberado.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é o principal risco da democracia digital mencionado?",
+        "options": ["Não há riscos", "Acesso desigual e captura corporativa", "Democracia melhora sempre", "Tecnologia resolve tudo"],
+        "correctAnswer": "Acesso desigual e captura corporativa"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "O texto acredita que democracia digital é intrinsecamente libertadora.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "O que seria necessário para democracia digital funcionar bem?",
+        "options": ["Nada", "Design democrático deliberado e educação cívica robusta", "Apenas tecnologia", "Controle governamental total"],
+        "correctAnswer": "Design democrático deliberado e educação cívica robusta"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_007",
+    "title": "Crítica literária : Estilo e ideologia",
+    "level": "C1",
+    "text": "Estilo não é meramente decoração. É ideologia cristalizada em palavras. Um escritor que prefere frases longas e subordinadas expressa visão de mundo diferente daquele que escreve frases curtas, simples, declarativas. Hemingway escolheu simplicidade para sugerir verdade sem adorno. Proust escolheu complexidade para sugerir profundidade psicológica da experiência. Ambos estilos são políticos: um libertário, desconfiado de autoridade institucional; outro aristocrático, pressupondo inteligência e tempo do leitor. Ayn Rand escrevia em estilo grandiloquente, elevado, para valorizar o homem 'superior'. Isso não é coincidência estilística, é escolha ideológica. Autores conscientes reconhecem que estilo é ato político. Alguns, deliberadamente, subvertem expectativas genéricas. Escritoras negras, indígenas, queers utilizam estilo para descolonizar linguagem, para reclama-la de autoridades que tentaram controlar significado. Misturar dialetos, incluir termos não-traduzidos, fragmentar narrativa: tudo isto é resistência estilística. Críticos que dizem 'o livro seria melhor se fosse mais claro' frequentemente significam 'se fosse mais próximo da norma branca, masculina, heterossexual'. Estilo marginalizado é frequentemente desvalorizado como 'difícil' ou 'experimental'.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é a tese sobre estilo mencionada?",
+        "options": ["Estilo é decoração neutra", "Estilo é ideologia cristalizada", "Estilo não importa", "Estilo é apenas técnica"],
+        "correctAnswer": "Estilo é ideologia cristalizada"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "O texto considera escolhas estilísticas como politicamente neutrais.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "Como escritoras marginalizadas usam estilo?",
+        "options": ["Para imitar o padrão", "Para descolonizar linguagem e reclamar significado", "Para agradar críticos", "Para simplificar"],
+        "correctAnswer": "Para descolonizar linguagem e reclamar significado"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_008",
+    "title": "Reportagem : Economia de presença e tempo",
+    "level": "C1",
+    "text": "Presença tornou-se mercadoria. Aquilo que seus avós consideravam bem comum—estar com alguém sem distrações—agora é luxo. Espaços sem tecnologia, 'digital detox', retiros silenciosos? Custam centenas de euros por dia. Enquanto isto, trabalho de alta demanda (consultoria, advocacia, medicina) exige hiperconexão perpétua. Você é pago por estar 'disponível', não por trabalhar. Isto cria classe de precários tecnologicamente escravos. Médicos respondendo a mensagens às 23h. Advogados em férias, ainda 'plugados'. A promessa tecnológica era libertar do trabalho. Realizou o oposto: trabalho colonizou cada momento. E os ricos? Eles contratam gestores de tempo que criam bolhas de presença real. Assistentes filtram comunicações. Casas sem wifi em horas específicas. Estes castelos digitais de privilégio. Entretanto, trabalhadores pobres? Sem pausa. Gig economy (Uber, Deliveroo) oferece 'flexibilidade', mas significa nenhuma segurança, nenhum direito, estar permanentemente ao chamado. A futura desigualdade não será de riqueza material, mas de tempo, presença, atenção. Quem pode comprar presença real? Quem é forçado a vender tempo fragmentado?",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Como o texto caracteriza presença em tempos contemporâneos?",
+        "options": ["Como bem comum", "Como mercadoria de luxo", "Como direito universal", "Como irrelevante"],
+        "correctAnswer": "Como mercadoria de luxo"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "A tecnologia cumpriu a promessa de libertar do trabalho segundo o texto.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "Qual é a nova forma de desigualdade mencionada?",
+        "options": ["Educação", "Presença, tempo e atenção", "Localização geográfica", "Idioma"],
+        "correctAnswer": "Presença, tempo e atenção"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_009",
+    "title": "Ensaio : Esperança contra otimismo",
+    "level": "C1",
+    "text": "Otimismo é fraco. É ilusão, refúgio de quem não quer ver realidade. Esperança é forte. É visão de futura diferente enraizada em ação presente. Distinguir entre ambos é crucial, especialmente em tempos de crise. Alarmismo climático pode levar a desespero, paralisia. Mas otimismo ingénuo—'a tecnologia resolverá'—leva a inação igualmente destrutiva. O caminho do meio é esperança: reconhecimento de que o futuro não é determinado, que ação coletiva pode alterar trajetória, mas isto requer esforço. Hope is not hope-fulness, wrote Rebecca Solnit. É compromisso com possibilidade. Gramsci, na prisão fascista, distinguiu entre 'pessimismo da inteligência' e 'otimismo da vontade'. Significava: ver claramente a realidade difícil (pessimismo intelectual), mas agir como se mudança fosse possível (otimismo voluntário). Esta é esperança autêntica. Requer estoicismo paradoxal: esperança sem garantia, ação sem certeza de sucesso. Muitos ativistas climáticos vivem isto diariamente. Sabem que pode ser tarde demais. Mas agem como se não fosse. Esta é sabedoria adulta, não infantilidade otimista.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Como o texto distingue entre otimismo e esperança?",
+        "options": ["São idênticos", "Otimismo é ilusão; esperança é ação enraizada em reconhecimento realista", "Não há diferença", "Ambos são ruins"],
+        "correctAnswer": "Otimismo é ilusão; esperança é ação enraizada em reconhecimento realista"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "Gramsci defendia otimismo puro e completo.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "O que é 'pessimismo da inteligência, otimismo da vontade'?",
+        "options": ["Contradição insuperável", "Ver realidade claramente mas agir como se mudança fosse possível", "Rendição total", "Ignorância"],
+        "correctAnswer": "Ver realidade claramente mas agir como se mudança fosse possível"
+      }
+    ]
+  },
+  {
+    "id": "c1_reading_010",
+    "title": "Filosofia : Morte e significado",
+    "level": "C1",
+    "text": "A morte é tabu nas sociedades ocidentais. Escondemos os mortos, medicalizamos o moribundo, evitamos conversas sobre finitude. Mas tradições outras—mexicana, indígena, hindu—integram morte na vida. Dia de Finados não é morbidez, é celebração de continuidade entre vivos e mortos. Isto oferece significado que sanitização ocidental anula. Quando negamos morte, negamos significado também. Porque significado emerge da finitude. Se vivêssemos eternamente, nada importaria. Tudo é postergável. É morte que torna urgente escolher, agir, amar. Heidegger chamou isto de 'ser-para-a-morte': nossa essência definida não por vida, mas por consciência de morte. Isto soa sombrio, mas é libertador. Se você morre em cem anos (ou menos), suas escolhas importam agora. Procrastinação é luxo não permitido. Sociedades que abraçam morte—não com desespero, mas com aceitação—frequentemente vivem mais significativamente. Japão, com sua filosofia zen de transitoriedade (mono no aware), produz arte e literatura de profunda beleza porque reconhece que beleza é transitória. Occidente? Luta contra morte, perdendo significado no processo. Talvez saúde mental contemporânea requeira reconciliação com finitude.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Como o texto caracteriza a atitude ocidental face à morte?",
+        "options": ["Saudável e equilibrada", "Tabu, medicalizada, evitada", "Muito aberta", "Bem integrada"],
+        "correctAnswer": "Tabu, medicalizada, evitada"
+      },
+      {
+        "id": "q2",
+        "type": "true_false",
+        "question": "O texto sugere que consciência de morte diminui significado.",
+        "correctAnswer": false
+      },
+      {
+        "id": "q3",
+        "type": "mcq",
+        "question": "O que é 'ser-para-a-morte' segundo Heidegger conforme o texto?",
+        "options": ["Depressão", "Essência definida por consciência de morte", "Morbidez", "Irrelevante"],
+        "correctAnswer": "Essência definida por consciência de morte"
+      }
+    ]
+  }
+]

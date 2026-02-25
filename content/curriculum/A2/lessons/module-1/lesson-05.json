@@ -1,0 +1,82 @@
+{
+  "id": "a2-m1-l05",
+  "title": "Qu'est-ce que tu as fait hier ?",
+  "type": "conversation",
+  "estimatedMinutes": 14,
+  "objectives": [
+    "Poser des questions au passé en portugais européen",
+    "Répondre à des questions sur ses activités passées",
+    "Mener une conversation simple sur le passé récent"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Parler du passé dans une conversation",
+      "content": "<p>Dans la vie quotidienne, on parle souvent de ce qu'on a fait récemment. Savoir poser des questions au passé et y répondre est une compétence essentielle pour converser en portugais.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Questions courantes au passé",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td><strong>O que fizeste ontem?</strong></td><td>Qu'est-ce que tu as fait hier ?</td></tr><tr><td><strong>Onde foste no fim de semana?</strong></td><td>Où es-tu allé(e) ce week-end ?</td></tr><tr><td><strong>Com quem estiveste?</strong></td><td>Avec qui étais-tu ?</td></tr><tr><td><strong>A que horas chegaste?</strong></td><td>À quelle heure es-tu arrivé(e) ?</td></tr><tr><td><strong>Gostaste?</strong></td><td>Tu as aimé ?</td></tr><tr><td><strong>Como foi?</strong></td><td>Comment c'était ?</td></tr><tr><td><strong>O que comeste?</strong></td><td>Qu'est-ce que tu as mangé ?</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Réponses types",
+      "content": "<p>Pour répondre, on utilise le Pretérito Perfeito Simples :</p><ul><li><em>— O que fizeste ontem?</em><br/>— <strong>Fui</strong> ao cinema com o Pedro. <strong>Vimos</strong> um filme de ação.</li><li><em>— Onde foste no fim de semana?</em><br/>— <strong>Fui</strong> a Sintra. <strong>Visitei</strong> o Palácio da Pena.</li><li><em>— Gostaste?</em><br/>— Sim, <strong>gostei</strong> muito! <strong>Foi</strong> fantástico.</li><li><em>— Como foi?</em><br/>— <strong>Foi</strong> ótimo / muito bom / mais ou menos / cansativo.</li></ul><p><strong>Note culturelle</strong> : En portugais européen, on utilise le <em>tu</em> entre amis et personnes du même âge. Avec des personnes plus âgées ou dans un contexte formel, on utilise <em>você</em> ou le nom/titre (ex. : <em>O senhor foi...?</em>).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Dialogue modèle",
+      "content": "<p>Lisez ce dialogue entre deux amis :</p><blockquote><p><strong>Ana</strong>: Olá, Miguel! O que fizeste ontem?<br/><strong>Miguel</strong>: Olá! Fui jantar fora com a Sofia.<br/><strong>Ana</strong>: Ah, que bom! Onde foram?<br/><strong>Miguel</strong>: Fomos a um restaurante novo na Baixa. Comi arroz de marisco.<br/><strong>Ana</strong>: E gostaste?<br/><strong>Miguel</strong>: Sim, gostei muito! A comida esteve excelente. E tu, o que fizeste?<br/><strong>Ana</strong>: Fiquei em casa. Vi um documentário sobre o Alentejo e li um livro.<br/><strong>Miguel</strong>: Que calmo! Foi bom?<br/><strong>Ana</strong>: Foi, sim. Precisava de descansar.</p></blockquote>"
+    },
+    {
+      "type": "production",
+      "title": "Pratiquez la conversation",
+      "content": "<p>Imaginez que quelqu'un vous demande <em>O que fizeste no fim de semana?</em>. Préparez une réponse avec :</p><ul><li>Au moins <strong>3 activités</strong> au passé</li><li>Un <strong>connecteur temporel</strong> (primeiro, depois, por fim)</li><li>Une <strong>appréciation</strong> (gostei muito, foi ótimo, foi cansativo)</li></ul><p>Exemple : <em>No sábado, primeiro fui ao mercado. Depois, almocei com os meus pais. À tarde, fiz uma caminhada. Foi muito agradável!</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment demander 'Qu'est-ce que tu as fait hier ?' en portugais ?",
+      "correctAnswer": "O que fizeste ontem?",
+      "distractors": ["O que fazes ontem?", "O que fizeram ontem?", "O que fez ontem?"],
+      "explanation": "'O que fizeste' utilise FAZER au Pretérito Perfeito, 2ème personne (tu). 'Fez' serait pour 'você' (formel)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "— Onde ________ no fim de semana? — Fui a Cascais.",
+      "correctAnswer": "foste",
+      "explanation": "La question porte sur 'tu', donc on utilise 'foste' (IR au passé, 2ème personne du singulier)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Comment c'était ?'",
+      "correctAnswer": "Como foi?",
+      "explanation": "'Como foi?' est la question standard pour demander comment quelque chose s'est passé."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la bonne réponse à 'Gostaste do filme?' si vous avez beaucoup aimé ?",
+      "correctAnswer": "Sim, gostei muito!",
+      "distractors": ["Sim, gosto muito!", "Sim, gostava muito!", "Sim, gostei bem!"],
+      "explanation": "'Gostei' est le passé de 'gostar'. 'Gosto' serait au présent. On dit 'gostei muito' (pas 'gostei bem')."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A comida ________ (estar) excelente ontem.",
+      "correctAnswer": "esteve",
+      "explanation": "ESTAR au Pretérito Perfeito, 3ème personne du singulier : esteve. On utilise 'estar' pour un état temporaire."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "o que fizeste?", "phonetic": "/u kɨ fiˈzɛʃtɨ/", "french": "qu'est-ce que tu as fait ?"},
+    {"portuguese": "onde foste?", "phonetic": "/õdɨ foʃtɨ/", "french": "où es-tu allé(e) ?"},
+    {"portuguese": "gostaste?", "phonetic": "/ɡuʃˈtaʃtɨ/", "french": "tu as aimé ?"},
+    {"portuguese": "como foi?", "phonetic": "/komu foj/", "french": "comment c'était ?"},
+    {"portuguese": "fiquei em casa", "phonetic": "/fiˈkɐj ɐ̃ kazɐ/", "french": "je suis resté(e) à la maison"},
+    {"portuguese": "jantar fora", "phonetic": "/ʒɐ̃taɾ fɔɾɐ/", "french": "dîner dehors"},
+    {"portuguese": "arroz de marisco", "phonetic": "/ɐˈʁoʃ dɨ mɐˈɾiʃku/", "french": "riz aux fruits de mer"},
+    {"portuguese": "descansar", "phonetic": "/dɨʃkɐ̃ˈsaɾ/", "french": "se reposer"}
+  ]
+}

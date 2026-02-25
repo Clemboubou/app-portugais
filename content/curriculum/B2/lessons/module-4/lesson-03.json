@@ -1,0 +1,84 @@
+{
+  "id": "b2-m4-l03",
+  "title": "Le cinéma portugais",
+  "type": "cultural",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Découvrir les grands réalisateurs du cinéma portugais",
+    "Connaître Manoel de Oliveira et le novo cinema português",
+    "Acquérir le vocabulaire du cinéma en portugais européen"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le cinéma portugais : une tradition d'auteur",
+      "content": "<p>Le cinéma portugais est un <strong>cinéma d'auteur</strong> reconnu internationalement. Contrairement à Hollywood ou à Bollywood, il privilégie la <strong>réflexion</strong>, le <strong>rythme lent</strong> et l'<strong>esthétique visuelle</strong>. Plusieurs réalisateurs portugais ont été primés dans les plus grands festivals (Cannes, Venise, Berlin).</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les grands noms du cinéma portugais",
+      "content": "<p><strong>Manoel de Oliveira</strong> (1908-2015) — le doyen du cinéma mondial. Il a réalisé des films pendant <strong>plus de 80 ans</strong>, un record absolu. Œuvres clés : <em>Amor de Perdição</em>, <em>Vale Abraão</em>, <em>O Estranho Caso de Angélica</em>.</p><p><strong>Le Novo Cinema Português</strong> (années 1960-70) — mouvement de renouveau influencé par la Nouvelle Vague française. Réalisateurs : <em>Paulo Rocha</em> (<em>Os Verdes Anos</em>), <em>Fernando Lopes</em>, <em>António Reis</em>.</p><p><strong>Cinéma contemporain :</strong></p><ul><li><strong>Pedro Costa</strong> — films sur les quartiers marginalisés de Lisbonne (<em>Ossos</em>, <em>Vitalina Varela</em>)</li><li><strong>Miguel Gomes</strong> — <em>Tabu</em> (2012), <em>As Mil e Uma Noites</em></li><li><strong>Leonor Teles</strong> — jeune réalisatrice primée, documentaires</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire du cinéma",
+      "content": "<p><strong>Termes essentiels :</strong></p><ul><li><em>um filme / um longa-metragem</em> — un film / un long-métrage</li><li><em>uma curta-metragem</em> — un court-métrage</li><li><em>o realizador</em> — le réalisateur (PT-PT, pas « diretor » comme au Brésil)</li><li><em>o ator / a atriz</em> — l'acteur / l'actrice</li><li><em>o argumento</em> — le scénario (PT-PT, pas « roteiro »)</li><li><em>a rodagem</em> — le tournage (PT-PT, pas « filmagem »)</li><li><em>o elenco</em> — le casting / la distribution</li><li><em>a banda sonora</em> — la bande-son</li><li><em>legendas</em> — les sous-titres</li><li><em>estrear</em> — sortir en salles / être en première</li></ul><p><strong>Note PT-PT :</strong> En portugais européen, on dit <em>realizador</em> et <em>argumento</em>, pas <em>diretor</em> et <em>roteiro</em> (formes brésiliennes).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Parler de cinéma",
+      "content": "<p>Complétez avec le vocabulaire approprié (PT-PT) :</p><ol><li><em>Manoel de Oliveira foi o ________ mais velho do mundo.</em> → <strong>realizador</strong></li><li><em>O filme vai ________ na próxima sexta-feira.</em> → <strong>estrear</strong></li><li><em>Prefiro ver filmes com ________ em vez de dobragem.</em> → <strong>legendas</strong></li><li><em>O ________ do filme foi escrito por um escritor famoso.</em> → <strong>argumento</strong></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Donner son avis sur un film",
+      "content": "<p>Décrivez en portugais un film que vous avez aimé (8-10 phrases). Utilisez :</p><ul><li><em>O filme conta a história de...</em> (Le film raconte l'histoire de...)</li><li><em>Foi realizado por...</em> (Il a été réalisé par...)</li><li><em>O que mais me impressionou foi...</em> (Ce qui m'a le plus impressionné, c'est...)</li><li><em>Recomendo este filme porque...</em> (Je recommande ce film parce que...)</li><li><em>A interpretação de... foi excelente.</em> (L'interprétation de... était excellente.)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'réalisateur' en portugais européen ?",
+      "correctAnswer": "realizador",
+      "distractors": ["diretor", "produtor", "cineasta"],
+      "explanation": "En PT-PT, on dit 'realizador'. 'Diretor' est la forme brésilienne. 'Produtor' = producteur. 'Cineasta' = cinéaste (plus général)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Manoel de Oliveira realizou filmes durante mais de ________ anos.",
+      "correctAnswer": "oitenta",
+      "explanation": "Manoel de Oliveira (1908-2015) a réalisé des films pendant plus de 80 ans, un record mondial."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Je préfère regarder des films avec des sous-titres.",
+      "correctAnswer": "Prefiro ver filmes com legendas.",
+      "explanation": "'Legendas' = sous-titres en PT-PT. 'Dobragem' = doublage. Les Portugais regardent généralement les films en VO sous-titrée."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'scénario' en portugais européen ?",
+      "correctAnswer": "argumento",
+      "distractors": ["roteiro", "cenário", "guião"],
+      "explanation": "En PT-PT, 'argumento' est le terme standard pour scénario. 'Roteiro' est brésilien. 'Guião' est aussi utilisé en PT-PT."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O Novo Cinema Português surgiu nos anos 1960, influenciado pela ________ Vaga francesa.",
+      "correctAnswer": "Nova",
+      "explanation": "Le Novo Cinema Português a été influencé par la Nouvelle Vague (Nouvelle Vague = Nova Vaga en portugais) française."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "realizador", "phonetic": "/ʁɨɐlizɐˈdoɾ/", "french": "réalisateur (PT-PT)"},
+    {"portuguese": "argumento", "phonetic": "/ɐɾɡuˈmẽtu/", "french": "scénario (PT-PT)"},
+    {"portuguese": "rodagem", "phonetic": "/ʁuˈdaʒẽj̃/", "french": "tournage (PT-PT)"},
+    {"portuguese": "elenco", "phonetic": "/ɨˈlẽku/", "french": "distribution / casting"},
+    {"portuguese": "banda sonora", "phonetic": "/ˈbɐ̃dɐ suˈnɔɾɐ/", "french": "bande-son"},
+    {"portuguese": "legendas", "phonetic": "/lɨˈʒẽdɐʃ/", "french": "sous-titres"},
+    {"portuguese": "estrear", "phonetic": "/ɨʃtɾiˈaɾ/", "french": "sortir en salles / première"},
+    {"portuguese": "curta-metragem", "phonetic": "/ˈkuɾtɐ mɨˈtɾaʒẽj̃/", "french": "court-métrage"},
+    {"portuguese": "longa-metragem", "phonetic": "/ˈlõɡɐ mɨˈtɾaʒẽj̃/", "french": "long-métrage"},
+    {"portuguese": "dobragem", "phonetic": "/duˈbɾaʒẽj̃/", "french": "doublage (PT-PT)"}
+  ]
+}

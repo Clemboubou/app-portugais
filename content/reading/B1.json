@@ -1,0 +1,192 @@
+[
+  {
+    "id": "b1_reading_001",
+    "title": "A história de Maria",
+    "level": "B1",
+    "text": "Maria nasceu numa pequena aldeia do interior de Portugal. Quando era criança, sonhava em ser professora. Aos 18 anos, mudou-se para Lisboa para estudar educação. Depois de terminar o curso, começou a trabalhar numa escola primária. Ao longo dos anos, tornou-se uma das professoras mais respeitadas da escola. Mas há cinco anos, Maria deixou de ser professora para abrir um pequeno negócio de consultoria educacional. Hoje em dia, trabalha com escolas e famílias ajudando a melhorar o sistema de educação. Maria diz que a sua vida é gratificante porque conseguiu concretizar o seu sonho de uma forma diferente.",
+    "questions": [
+      {
+        "question": "Onde nasceu Maria?",
+        "options": ["Lisboa", "Porto", "Numa pequena aldeia", "Covilhã"],
+        "correctAnswer": "Numa pequena aldeia"
+      },
+      {
+        "question": "O que é que Maria fez depois de terminar o curso?",
+        "options": ["Abriu um negócio", "Começou a viajar", "Começou a trabalhar como professora", "Estudou mais"],
+        "correctAnswer": "Começou a trabalhar como professora"
+      },
+      {
+        "question": "Porque é que Maria deixou de ser professora?",
+        "options": ["Não gostava", "Para abrir um negócio", "Por motivos de saúde", "Para estudar mais"],
+        "correctAnswer": "Para abrir um negócio"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_002",
+    "title": "O turismo em Portugal",
+    "level": "B1",
+    "text": "O turismo é uma das principais fontes de rendimento de Portugal. Todos os anos, milhões de turistas visitam o país para desfrutar das suas belas paisagens, cidades históricas e gastronomia deliciosa. Lisboa e o Porto são as cidades mais visitadas. A Região de Sintra, com os seus palácios românticos e florestas misteriosas, atrai muitos turistas. O Algarve é conhecido pelas suas praias douradas e clima agradável. Também existe um crescente interesse nos destinos de interior, como a Serra da Estrela e a Covilhã. O governo português tem investido em melhorar a infraestrutura turística para acomodar este crescimento. No entanto, alguns activistas ambientais manifestam preocupações sobre o impacto do turismo em massa na natureza e nas comunidades locais.",
+    "questions": [
+      {
+        "question": "Qual é a importância do turismo em Portugal?",
+        "options": ["Educação", "Fonte de rendimento", "Alimentação", "Transporte"],
+        "correctAnswer": "Fonte de rendimento"
+      },
+      {
+        "question": "Qual é a região mais conhecida pelas praias?",
+        "options": ["Sintra", "Algarve", "Covilhã", "Serra da Estrela"],
+        "correctAnswer": "Algarve"
+      },
+      {
+        "question": "Qual é a preocupação dos activistas ambientais?",
+        "options": ["Falta de turistas", "Impacto na natureza e comunidades", "Preços altos", "Falta de informação"],
+        "correctAnswer": "Impacto na natureza e comunidades"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_003",
+    "title": "A tecnologia no quotidiano",
+    "level": "B1",
+    "text": "A tecnologia transformou completamente a forma como vivemos. Há alguns anos, as pessoas utilizavam apenas telemóveis simples para fazer chamadas. Hoje em dia, os smartphones permitem-nos aceder à internet, comunicar com qualquer pessoa no mundo, trabalhar remotamente e até fazer compras online. Os computadores portáteis e tablets tornaram o trabalho e a aprendizagem mais flexíveis. A inteligência artificial está presente em muitos aspectos das nossas vidas, desde a recomendação de conteúdos nas redes sociais até aos assistentes virtuais nas nossas casas. Embora a tecnologia ofereça muitas vantagens, também levanta questões sobre privacidade e dependência tecnológica. É importante utilizar a tecnologia de forma consciente e equilibrada.",
+    "questions": [
+      {
+        "question": "Como eram os telemóveis há alguns anos?",
+        "options": ["Muito avançados", "Simples, apenas para chamadas", "Não existiam", "Muito caros"],
+        "correctAnswer": "Simples, apenas para chamadas"
+      },
+      {
+        "question": "O que permite os smartphones fazer?",
+        "options": ["Apenas fazer chamadas", "Aceder à internet, comunicar, trabalhar, comprar online", "Apenas jogar", "Apenas tirar fotografias"],
+        "correctAnswer": "Aceder à internet, comunicar, trabalhar, comprar online"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_004",
+    "title": "Sustentabilidade ambiental",
+    "level": "B1",
+    "text": "A sustentabilidade ambiental é um tema cada vez mais importante. O aquecimento global, a poluição e a perda de biodiversidade são desafios graves que enfrentamos. Muitos países, incluindo Portugal, têm adoptado políticas para reduzir as emissões de carbono. A utilização de energias renováveis, como a solar e a eólica, está a crescer. As empresas estão a investir em práticas ecologicamente responsáveis. Os indivíduos também podem contribuir através de pequenas ações: reciclagem, redução do consumo de plástico, utilização de transportes públicos. A educação ambiental é essencial para criar uma mudança de mentalidade. Se não agirmos agora, as consequências para as futuras gerações serão graves.",
+    "questions": [
+      {
+        "question": "Qual é um dos desafios ambientais mencionados?",
+        "options": ["Falta de água", "Aquecimento global", "Falta de alimentos", "Desemprego"],
+        "correctAnswer": "Aquecimento global"
+      },
+      {
+        "question": "Que tipos de energia renovável são mencionados?",
+        "options": ["Petróleo e gás", "Solar e eólica", "Carvão", "Nuclear"],
+        "correctAnswer": "Solar e eólica"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_005",
+    "title": "Educação e futuro",
+    "level": "B1",
+    "text": "A educação é a chave para um futuro melhor. Nos últimos anos, o sistema educativo português tem passado por reformas significativas. A inclusão digital nas escolas é agora uma prioridade. Os alunos aprendem não apenas conteúdos académicos mas também competências como trabalho em equipa, criatividade e pensamento crítico. O ensino à distância, que ganhou importância durante a pandemia, veio para ficar. Os professores agora utilizam plataformas digitais para complementar o ensino presencial. A educação superior também se adapta com cursos online e hibridos. No entanto, ainda existem desafios: a desigualdade no acesso à tecnologia, a falta de professores em algumas áreas e o stress nos alunos. É crucial que a sociedade invista mais em educação para preparar as gerações futuras.",
+    "questions": [
+      {
+        "question": "Qual é a importância da educação?",
+        "options": ["Apenas aprender factos", "A chave para um futuro melhor", "Ganhar dinheiro", "Fazer amigos"],
+        "correctAnswer": "A chave para um futuro melhor"
+      },
+      {
+        "question": "Que competências os alunos aprendem agora?",
+        "options": ["Apenas matemática", "Trabalho em equipa, criatividade, pensamento crítico", "Apenas português", "Apenas desporto"],
+        "correctAnswer": "Trabalho em equipa, criatividade, pensamento crítico"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_006",
+    "title": "Costumes e tradições",
+    "level": "B1",
+    "text": "Cada cultura tem os seus próprios costumes e tradições que refletem a sua história e valores. Em Portugal, algumas tradições são muito antigas. O Fado, uma forma de música melancólica e emotiva, é considerado Património Imaterial da Humanidade. As festas de santos populares, como a de Santo António em Lisboa, são celebradas com entusiasmo. A tradição de comer sardinas assadas na noite de Santo António é uma tradição muito popular. O Carnaval é outra festa importante onde as pessoas se disfarçam e desfilam pelas ruas. Embora algumas tradições tenham enfraquecido, muitas continuam vivas e são transmitidas de geração em geração. Preservar estas tradições é importante para manter a identidade cultural de uma nação.",
+    "questions": [
+      {
+        "question": "O que é o Fado?",
+        "options": ["Um prato típico", "Uma forma de música melancólica", "Uma dança", "Um jogo"],
+        "correctAnswer": "Uma forma de música melancólica"
+      },
+      {
+        "question": "Qual é a festa de Santo António?",
+        "options": ["Natal", "Páscoa", "Festa em Lisboa com sardinas", "Réveillon"],
+        "correctAnswer": "Festa em Lisboa com sardinas"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_007",
+    "title": "Saúde mental e bem-estar",
+    "level": "B1",
+    "text": "A saúde mental é tão importante quanto a saúde física. Nos últimos anos, tem havido uma maior consciência sobre a importância da saúde mental. O stress, a ansiedade e a depressão são problemas comuns na sociedade moderna. Muitas pessoas não pedem ajuda porque têm medo do estigma social. É importante quebrar este tabu e procurar apoio profissional quando necessário. Existem várias formas de melhorar a saúde mental: exercício físico, meditação, sono adequado e manutenção de relacionamentos saudáveis. O apoio de família e amigos é crucial. As escolas e organizações estão a implementar programas de bem-estar mental. Felizmente, a atitude da sociedade está a mudar e cada vez mais pessoas estão a falar abertamente sobre saúde mental.",
+    "questions": [
+      {
+        "question": "Por que é que muitas pessoas não pedem ajuda?",
+        "options": ["Falta de dinheiro", "Medo do estigma social", "Falta de tempo", "Falta de confiança"],
+        "correctAnswer": "Medo do estigma social"
+      },
+      {
+        "question": "Qual é uma forma de melhorar a saúde mental?",
+        "options": ["Trabalhar mais", "Exercício físico", "Ficar isolado", "Comer muito"],
+        "correctAnswer": "Exercício físico"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_008",
+    "title": "Viagens e aventura",
+    "level": "B1",
+    "text": "Viajar é uma das experiências mais enriquecedoras da vida. Conhecer novos lugares, pessoas e culturas alarga a nossa perspectiva do mundo. Alguns viajam para relaxar em praias exóticas, outros para explorar cidades históricas, e ainda há quem prefira aventuras radicais como escalada ou paraquedismo. A pandemia reduziu significativamente as viagens internacionais, mas agora as pessoas estão a voltar a viajar. Muitos estão a preferir viagens mais sustentáveis, como cicloturismo e turismo de natureza. As redes sociais têm influenciado bastante o destino que as pessoas escolhem, com alguns locais a ficarem sobre-turísticos. É importante viajar de forma responsável, respeitando as comunidades locais e o ambiente. Quer se viaje sozinho ou com família, as experiências de viagem deixam memórias indeléveis.",
+    "questions": [
+      {
+        "question": "Qual é um dos benefícios de viajar?",
+        "options": ["Gastar dinheiro", "Ficar cansado", "Alarga a perspectiva do mundo", "Perder tempo"],
+        "correctAnswer": "Alarga a perspectiva do mundo"
+      },
+      {
+        "question": "Que tipo de viagem é considerado sustentável?",
+        "options": ["Viagem de avião", "Cicloturismo", "Viagem de carro", "Viagem de barco de cruzeiro"],
+        "correctAnswer": "Cicloturismo"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_009",
+    "title": "Arte e criatividade",
+    "level": "B1",
+    "text": "A arte é a expressão da criatividade humana. Através da arte, as pessoas comunicam emoções, ideias e perspectivas sobre o mundo. Portugal tem uma rica tradição artística. Alguns dos artistas mais famosos são Nuno Gonçalves, que pintou o Painel de São Vicente, e Paula Rego, uma pintora contemporânea renomada. A arte não se limita apenas à pintura. A escultura, a música, a dança, a literatura e o cinema são todas formas de arte. No século XXI, a arte digital ganhou importância. Jovens artistas exploram novas tecnologias para criar obras inovadoras. Os museus e galerias continuam a ser importantes espaços para apreciar arte. A criatividade é uma competência cada vez mais valorizada nas empresas, pois ajuda na inovação e resolução de problemas.",
+    "questions": [
+      {
+        "question": "O que é a arte?",
+        "options": ["Apenas pintura", "Apenas escultura", "Expressão da criatividade humana", "Apenas música"],
+        "correctAnswer": "Expressão da criatividade humana"
+      },
+      {
+        "question": "Qual é um dos artistas portugueses famosos?",
+        "options": ["Pablo Picasso", "Paula Rego", "Van Gogh", "Leonardo da Vinci"],
+        "correctAnswer": "Paula Rego"
+      }
+    ]
+  },
+  {
+    "id": "b1_reading_010",
+    "title": "Alimentação saudável",
+    "level": "B1",
+    "text": "Uma boa alimentação é fundamental para a saúde. A dieta mediterrânica, que é muito popular em Portugal, é considerada uma das mais saudáveis do mundo. Esta dieta inclui azeite, frutas, vegetais, peixe, legumes e quantidade moderada de vinho tinto. O azeite portugués de qualidade é famoso internacionalmente. A sardinha, que é muito consumida em Portugal, é rica em ómega-3 e muito nutritiva. Infelizmente, muitas crianças consomem demasiados alimentos processados e açúcar, o que leva a problemas de saúde como obesidade. As escolas estão a implementar educação nutricional. Alguns restaurantes estão a oferecer opções mais saudáveis. Apesar destes esforços, ainda há muito a fazer para promover hábitos alimentares mais saudáveis.",
+    "questions": [
+      {
+        "question": "O que é a dieta mediterrânica?",
+        "options": ["Carne vermelha", "Azeite, frutas, vegetais, peixe e legumes", "Apenas pão branco", "Apenas doces"],
+        "correctAnswer": "Azeite, frutas, vegetais, peixe e legumes"
+      },
+      {
+        "question": "Qual é um peixe nutritivo popular em Portugal?",
+        "options": ["Salmão", "Sardinha", "Atum", "Truta"],
+        "correctAnswer": "Sardinha"
+      }
+    ]
+  }
+]

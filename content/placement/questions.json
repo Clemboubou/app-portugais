@@ -1,0 +1,57 @@
+{
+  "questions": [
+    { "id": "p-a1-01", "level": "A1", "type": "mcq", "question": "Comment dit-on 'bonjour' en portugais ?", "options": ["Olá", "Adeus", "Obrigado", "Por favor"], "answer": "Olá" },
+    { "id": "p-a1-02", "level": "A1", "type": "mcq", "question": "Quel article correspond à 'le livre' ?", "options": ["a livro", "o livro", "as livros", "os livra"], "answer": "o livro" },
+    { "id": "p-a1-03", "level": "A1", "type": "mcq", "question": "Comment dit-on 'je suis français' en portugais ?", "options": ["Eu estou francês", "Eu sou francês", "Eu tenho francês", "Eu falo francês"], "answer": "Eu sou francês" },
+    { "id": "p-a1-04", "level": "A1", "type": "mcq", "question": "Quelle est la bonne conjugaison de 'falar' pour 'tu' ?", "options": ["falo", "fala", "falas", "falamos"], "answer": "falas" },
+    { "id": "p-a1-05", "level": "A1", "type": "fill_blank", "question": "Eu ___ de Lisboa. (être — origine)", "answer": "sou" },
+    { "id": "p-a1-06", "level": "A1", "type": "fill_blank", "question": "Ela ___ vinte anos. (avoir — âge)", "answer": "tem" },
+    { "id": "p-a1-07", "level": "A1", "type": "mcq", "question": "Comment demande-t-on 'combien ça coûte ?' en portugais ?", "options": ["Onde fica?", "Quanto custa?", "Como está?", "O que é isso?"], "answer": "Quanto custa?" },
+    { "id": "p-a1-08", "level": "A1", "type": "mcq", "question": "Quelle est la contraction de 'em + o' ?", "options": ["ema", "no", "na", "do"], "answer": "no" },
+    { "id": "p-a1-09", "level": "A1", "type": "translation", "question": "Traduisez : 'Je n'ai pas faim.'", "answer": "Não tenho fome." },
+    { "id": "p-a1-10", "level": "A1", "type": "translation", "question": "Traduisez : 'Où est la gare ?'", "answer": "Onde fica a estação?" },
+
+    { "id": "p-a2-01", "level": "A2", "type": "mcq", "question": "Quel est le prétérit de 'ir' (aller) pour 'eu' ?", "options": ["fui", "foi", "fomos", "vou"], "answer": "fui" },
+    { "id": "p-a2-02", "level": "A2", "type": "mcq", "question": "Comment dit-on 'je suis en train de lire' en EP ?", "options": ["Estou lendo", "Estou a ler", "Eu ler", "Leio agora"], "answer": "Estou a ler" },
+    { "id": "p-a2-03", "level": "A2", "type": "mcq", "question": "Quel est le pluriel de 'canção' ?", "options": ["canções", "cançonas", "cançãos", "cancionas"], "answer": "canções" },
+    { "id": "p-a2-04", "level": "A2", "type": "mcq", "question": "Complétez : 'Fui ___ cinema ontem.' (au cinéma)", "options": ["ao", "à", "do", "da"], "answer": "ao" },
+    { "id": "p-a2-05", "level": "A2", "type": "fill_blank", "question": "Ontem eu ___ (comer) peixe ao almoço.", "answer": "comi" },
+    { "id": "p-a2-06", "level": "A2", "type": "fill_blank", "question": "Nós ___ (ir) ao mercado de manhã.", "answer": "fomos" },
+    { "id": "p-a2-07", "level": "A2", "type": "mcq", "question": "Que signifie 'há' dans 'Há três anos'?", "options": ["il y a", "maintenant", "dans", "depuis toujours"], "answer": "il y a" },
+    { "id": "p-a2-08", "level": "A2", "type": "mcq", "question": "Comment exprimer une obligation : 'Je dois partir.' ?", "options": ["Quero partir", "Posso partir", "Tenho de partir", "Devo estar"], "answer": "Tenho de partir" },
+    { "id": "p-a2-09", "level": "A2", "type": "translation", "question": "Traduisez : 'Il fait beau aujourd'hui.'", "answer": "Está bom tempo hoje." },
+    { "id": "p-a2-10", "level": "A2", "type": "translation", "question": "Traduisez : 'Je voudrais réserver une chambre.'", "answer": "Queria reservar um quarto." },
+
+    { "id": "p-b1-01", "level": "B1", "type": "mcq", "question": "Quel temps verbal exprime une action future conditionnelle ?", "options": ["Presente", "Futuro simples", "Condicional", "Pretérito imperfeito"], "answer": "Condicional" },
+    { "id": "p-b1-02", "level": "B1", "type": "mcq", "question": "Complétez : 'Se eu ___ tempo, viajaria.' (avoir au subjonctif)", "options": ["tiver", "tenha", "tivesse", "tinha"], "answer": "tivesse" },
+    { "id": "p-b1-03", "level": "B1", "type": "mcq", "question": "Que signifie le verbe 'aperceber-se' ?", "options": ["apercevoir", "se rendre compte", "s'approcher", "appuyer"], "answer": "se rendre compte" },
+    { "id": "p-b1-04", "level": "B1", "type": "mcq", "question": "Quel est l'équivalent de 'même si' ?", "options": ["mesmo que", "para que", "desde que", "caso"], "answer": "mesmo que" },
+    { "id": "p-b1-05", "level": "B1", "type": "fill_blank", "question": "Espero que ele ___ (vir) amanhã. (subjonctif présent)", "answer": "venha" },
+    { "id": "p-b1-06", "level": "B1", "type": "fill_blank", "question": "Se tivesse dinheiro, ___ (comprar) uma casa. (conditionnel)", "answer": "compraria" },
+    { "id": "p-b1-07", "level": "B1", "type": "mcq", "question": "Comment dit-on 'cependant / toutefois' ?", "options": ["portanto", "contudo", "aliás", "ademais"], "answer": "contudo" },
+    { "id": "p-b1-08", "level": "B1", "type": "mcq", "question": "Quel pronom réfléchi correspond à 'vous (formel)' ?", "options": ["se", "te", "vos", "nos"], "answer": "se" },
+    { "id": "p-b1-09", "level": "B1", "type": "translation", "question": "Traduisez : 'Bien qu'il fasse froid, je vais sortir.'", "answer": "Embora faça frio, vou sair." },
+    { "id": "p-b1-10", "level": "B1", "type": "translation", "question": "Traduisez : 'Je n'avais jamais visité ce musée.'", "answer": "Nunca tinha visitado este museu." },
+
+    { "id": "p-b2-01", "level": "B2", "type": "mcq", "question": "Quelle forme verbale utilise-t-on après 'para que' ?", "options": ["Indicativo presente", "Conjuntivo presente", "Infinitivo pessoal", "Futuro"], "answer": "Conjuntivo presente" },
+    { "id": "p-b2-02", "level": "B2", "type": "mcq", "question": "Que signifie 'outrossim' dans un texte formel ?", "options": ["d'abord", "de même / également", "finalement", "cependant"], "answer": "de même / également" },
+    { "id": "p-b2-03", "level": "B2", "type": "mcq", "question": "Quelle est la valeur du 'futuro do conjuntivo' dans 'Quando chegar...' ?", "options": ["passé hypothétique", "condition future", "obligation", "doute présent"], "answer": "condition future" },
+    { "id": "p-b2-04", "level": "B2", "type": "mcq", "question": "Choisissez la construction correcte avec l'infinitif personnel :", "options": [
+      "É importante nós estudarmos.",
+      "É importante nós estudar.",
+      "É importante estudando.",
+      "É importante que nós estudou."
+    ], "answer": "É importante nós estudarmos." },
+    { "id": "p-b2-05", "level": "B2", "type": "fill_blank", "question": "Quando ___ (ter) mais experiência, procurarei outro emprego. (futuro conj.)", "answer": "tiver" },
+    { "id": "p-b2-06", "level": "B2", "type": "fill_blank", "question": "É fundamental que todos os cidadãos ___ (votar) nas eleições.", "answer": "votem" },
+    { "id": "p-b2-07", "level": "B2", "type": "mcq", "question": "Que signifie l'expression 'dar-se bem com alguém' ?", "options": [
+      "se battre avec quelqu'un",
+      "s'entendre bien avec quelqu'un",
+      "se passer de quelqu'un",
+      "se tromper de quelqu'un"
+    ], "answer": "s'entendre bien avec quelqu'un" },
+    { "id": "p-b2-08", "level": "B2", "type": "mcq", "question": "Dans quel registre utilise-t-on 'V. Exa.' ?", "options": ["familier", "courant", "très formel / officiel", "argotique"], "answer": "très formel / officiel" },
+    { "id": "p-b2-09", "level": "B2", "type": "translation", "question": "Traduisez : 'À moins que tu ne changes d'avis, je partirai demain.'", "answer": "A menos que mudes de ideias, partirei amanhã." },
+    { "id": "p-b2-10", "level": "B2", "type": "translation", "question": "Traduisez : 'Il aurait fallu qu'il prévienne avant.'", "answer": "Deveria ter avisado antes." }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "b1-m2-l02",
+  "title": "L'entretien d'embauche",
+  "type": "conversation",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Comprendre et participer à un entretien d'embauche en portugais",
+    "Parler de ses qualités, expérience et formation",
+    "Utiliser le registre formel approprié"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'entretien professionnel",
+      "content": "<p>L'entretien d'embauche (<em>entrevista de emprego</em>) est une situation formelle où le vouvoiement et les formules de politesse sont essentiels. En portugais européen, on utilise <em>o senhor / a senhora</em> ou la 3ème personne.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Questions classiques d'entretien",
+      "content": "<p>Questions du recruteur :</p><ul><li><em>Fale-me um pouco de si.</em> (Parlez-moi un peu de vous.)</li><li><em>Qual é a sua formação?</em> (Quelle est votre formation ?)</li><li><em>Tem experiência nesta área?</em> (Avez-vous de l'expérience dans ce domaine ?)</li><li><em>Quais são os seus pontos fortes?</em> (Quels sont vos points forts ?)</li><li><em>Porque é que quer trabalhar connosco?</em> (Pourquoi voulez-vous travailler avec nous ?)</li><li><em>Qual é a sua disponibilidade?</em> (Quelle est votre disponibilité ?)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Répondre avec assurance",
+      "content": "<p>Structures pour les réponses :</p><ul><li><em>Sou licenciado/a em...</em> (J'ai une licence en...)</li><li><em>Tenho ... anos de experiência em...</em> (J'ai ... ans d'expérience en...)</li><li><em>Considero-me uma pessoa...</em> (Je me considère une personne...)</li><li><em>Os meus pontos fortes são...</em> (Mes points forts sont...)</li></ul><p>Qualités utiles : <em>responsável</em> (responsable), <em>organizado/a</em> (organisé/e), <em>pontual</em> (ponctuel/le), <em>trabalhador(a)</em> (travailleur/-euse), <em>dinâmico/a</em> (dynamique).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Dialogue d'entretien",
+      "content": "<p><strong>Recruteur :</strong> <em>Bom dia. Sente-se, por favor. Fale-me um pouco de si.</em><br/><strong>Candidat :</strong> <em>Bom dia. Sou a Marta Silva. Sou licenciada em Gestão e tenho três anos de experiência em marketing.</em><br/><strong>Recruteur :</strong> <em>E porque é que quer mudar de empresa?</em><br/><strong>Candidat :</strong> <em>Quero novos desafios. A vossa empresa tem uma excelente reputação e gostaria de contribuir para o vosso crescimento.</em><br/><strong>Recruteur :</strong> <em>Quais são os seus pontos fortes?</em><br/><strong>Candidat :</strong> <em>Considero-me organizada e criativa. Trabalho bem em equipa e cumpro sempre os prazos.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Préparez votre entretien",
+      "content": "<p>Entraînez-vous à répondre à ces questions :</p><ol><li><em>Fale-me um pouco de si.</em></li><li><em>Qual é a sua experiência profissional?</em></li><li><em>Quais são os seus pontos fortes e fracos?</em></li><li><em>Onde se vê daqui a cinco anos?</em> (Où vous voyez-vous dans cinq ans ?)</li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Parlez-moi un peu de vous' en portugais européen formel ?",
+      "correctAnswer": "Fale-me um pouco de si.",
+      "distractors": ["Fale-me um pouco de você.", "Fala-me um pouco de ti.", "Diga-me sobre você."],
+      "explanation": "En PT-EU formel, on utilise 'si' (pas 'você') et l'impératif formel 'fale' (3ème personne)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sou ________ em Engenharia Informática.",
+      "correctAnswer": "licenciado",
+      "explanation": "'Sou licenciado/a em...' signifie 'J'ai une licence en...'. C'est la façon courante de parler de son diplôme."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'ai cinq ans d'expérience dans ce domaine.'",
+      "correctAnswer": "Tenho cinco anos de experiência nesta área.",
+      "explanation": "'Nesta área' = dans ce domaine. 'Experiência' prend un accent sur le 'e'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel mot signifie 'formation' (académique) ?",
+      "correctAnswer": "formação",
+      "distractors": ["formatura", "educação", "estudo"],
+      "explanation": "'A formação' est le terme standard pour la formation académique et professionnelle."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ -me uma pessoa responsável e trabalhadora.",
+      "correctAnswer": "Considero",
+      "explanation": "'Considero-me' (je me considère) est une formule élégante pour parler de ses qualités."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "entrevista de emprego", "phonetic": "/ẽtɾɨˈviʃtɐ dɨ ẽˈpɾeɡu/", "french": "entretien d'embauche"},
+    {"portuguese": "formação", "phonetic": "/fuɾmɐˈsɐ̃w/", "french": "formation"},
+    {"portuguese": "experiência", "phonetic": "/ɐjʃpɨˈɾjẽsjɐ/", "french": "expérience"},
+    {"portuguese": "qualidade", "phonetic": "/kwɐliˈdadɨ/", "french": "qualité"},
+    {"portuguese": "ponto forte", "phonetic": "/ˈpõtu ˈfɔɾtɨ/", "french": "point fort"},
+    {"portuguese": "licenciado", "phonetic": "/lisẽsiˈadu/", "french": "diplômé (licence)"},
+    {"portuguese": "desafio", "phonetic": "/dɨzɐˈfiu/", "french": "défi"},
+    {"portuguese": "disponibilidade", "phonetic": "/diʃpunibiliˈdadɨ/", "french": "disponibilité"},
+    {"portuguese": "equipa", "phonetic": "/ɨˈkipɐ/", "french": "équipe"}
+  ]
+}

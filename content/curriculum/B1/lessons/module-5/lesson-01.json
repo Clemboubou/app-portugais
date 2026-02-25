@@ -1,0 +1,84 @@
+{
+  "id": "b1-m5-l01",
+  "title": "Le fado et la saudade",
+  "type": "cultural",
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Découvrir l'histoire et les caractéristiques du fado",
+    "Comprendre le concept de saudade",
+    "Connaître les artistes majeurs du fado portugais"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'âme musicale du Portugal",
+      "content": "<p>Le <strong>fado</strong> est bien plus qu'un genre musical : c'est l'expression de l'<strong>âme portugaise</strong> (<em>alma portuguesa</em>). Inscrit au Patrimoine culturel immatériel de l'UNESCO depuis 2011, le fado est intimement lié au concept unique de <strong>saudade</strong>, un sentiment de nostalgie et de mélancolie propre à la culture lusophone.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Qu'est-ce que le fado ?",
+      "content": "<p>Le fado est né dans les quartiers populaires de Lisbonne au XIXe siècle, notamment à <strong>Alfama</strong>, <strong>Mouraria</strong> et <strong>Madragoa</strong>. Il se caractérise par :</p><ul><li>Une voix solo (<em>fadista</em>) accompagnée de la <strong>guitarra portuguesa</strong> (guitare portugaise à 12 cordes) et de la <strong>viola</strong> (guitare classique)</li><li>Des thèmes récurrents : l'amour perdu, la nostalgie, la mer, le destin (<em>o destino</em>)</li><li>Un sentiment profond appelé <em>saudade</em></li></ul><p>Il existe aussi le <strong>fado de Coimbra</strong>, chanté par des hommes, traditionnellement des étudiants de l'université.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "La saudade — un mot intraduisible",
+      "content": "<p><em>A saudade</em> est considérée comme l'un des mots les plus difficiles à traduire. Ce n'est pas simplement de la nostalgie. C'est :</p><ul><li>Le manque de quelqu'un ou quelque chose d'absent</li><li>Un mélange de mélancolie douce et de bonheur passé</li><li>La conscience que ce qui nous manque peut ne jamais revenir</li></ul><p>Expressions courantes :</p><ul><li><em>Tenho saudades tuas.</em> (Tu me manques. — littéralement « J'ai des saudades de toi »)</li><li><em>Tenho saudades de Portugal.</em> (Le Portugal me manque.)</li><li><em>Que saudades!</em> (Comme ça me manque !)</li></ul><p>En portugais européen, on dit <em>Tenho saudades <strong>tuas</strong></em> (avec le possessif), et non <em>de ti</em> comme au Brésil.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Les grands noms du fado",
+      "content": "<p>Les artistes incontournables :</p><ul><li><strong>Amália Rodrigues</strong> (1920-1999) : la « Reine du fado » (<em>Rainha do Fado</em>), qui a fait connaître le fado dans le monde entier</li><li><strong>Carlos do Carmo</strong> (1939-2021) : voix masculine emblématique, fils de fadiste</li><li><strong>Mariza</strong> (née en 1973) : figure de la nouvelle génération, originaire de Mouraria</li><li><strong>Ana Moura</strong> : mélange de fado traditionnel et de sonorités modernes</li><li><strong>Carminho</strong> : voix pure du fado contemporain</li></ul><p>Pour écouter du fado traditionnel, visitez les <em>casas de fado</em> à Alfama ou Bairro Alto.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Parler du fado",
+      "content": "<p>Répondez en portugais :</p><ol><li><em>Já ouviu fado alguma vez? O que achou?</em> (Avez-vous déjà écouté du fado ? Qu'en avez-vous pensé ?)</li><li><em>Consegue explicar o que é a saudade?</em> (Pouvez-vous expliquer ce qu'est la saudade ?)</li><li><em>Existe algum género musical semelhante no seu país?</em> (Existe-t-il un genre musical similaire dans votre pays ?)</li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Dans quel quartier de Lisbonne le fado est-il né ?",
+      "correctAnswer": "Alfama, Mouraria et Madragoa",
+      "distractors": ["Belém et Parque das Nações", "Chiado et Príncipe Real", "Cascais et Estoril"],
+      "explanation": "Le fado est né dans les quartiers populaires d'Alfama, Mouraria et Madragoa à Lisbonne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tenho ________ tuas. (Tu me manques.)",
+      "correctAnswer": "saudades",
+      "explanation": "'Ter saudades' + possessif est la formule portugaise européenne pour dire que quelqu'un nous manque."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Qui est surnommée la 'Rainha do Fado' ?",
+      "correctAnswer": "Amália Rodrigues",
+      "distractors": ["Mariza", "Ana Moura", "Carminho"],
+      "explanation": "Amália Rodrigues (1920-1999) est universellement reconnue comme la 'Reine du fado'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Le Portugal me manque beaucoup.'",
+      "correctAnswer": "Tenho muitas saudades de Portugal.",
+      "explanation": "'Ter saudades de' + lieu/personne. 'Muitas saudades' intensifie le sentiment."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel instrument accompagne traditionnellement le fadiste ?",
+      "correctAnswer": "La guitarra portuguesa (guitare portugaise à 12 cordes)",
+      "distractors": ["Le piano", "L'accordéon", "La harpe"],
+      "explanation": "La guitarra portuguesa, avec ses 12 cordes métalliques, est l'instrument emblématique du fado."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "fado", "phonetic": "/ˈfadu/", "french": "fado (genre musical)"},
+    {"portuguese": "saudade", "phonetic": "/sɐwˈdadɨ/", "french": "nostalgie, manque (intraduisible)"},
+    {"portuguese": "fadista", "phonetic": "/fɐˈdiʃtɐ/", "french": "chanteur/chanteuse de fado"},
+    {"portuguese": "guitarra portuguesa", "phonetic": "/ɡiˈtaʁɐ puɾtuˈɡezɐ/", "french": "guitare portugaise"},
+    {"portuguese": "destino", "phonetic": "/dɨʃˈtinu/", "french": "destin"},
+    {"portuguese": "alma", "phonetic": "/ˈalmɐ/", "french": "âme"},
+    {"portuguese": "casa de fado", "phonetic": "/ˈkazɐ dɨ ˈfadu/", "french": "maison de fado (restaurant)"},
+    {"portuguese": "canção", "phonetic": "/kɐ̃ˈsɐ̃w/", "french": "chanson"},
+    {"portuguese": "melodia", "phonetic": "/mɨluˈdiɐ/", "french": "mélodie"}
+  ]
+}

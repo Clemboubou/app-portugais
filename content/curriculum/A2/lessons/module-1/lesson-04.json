@@ -1,0 +1,84 @@
+{
+  "id": "a2-m1-l04",
+  "title": "Un week-end à Porto",
+  "type": "reading",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Comprendre un récit simple au passé en portugais européen",
+    "Identifier les verbes au Pretérito Perfeito Simples dans un texte",
+    "Répondre à des questions de compréhension écrite sur un récit"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Lire un récit au passé",
+      "content": "<p>La lecture est un excellent moyen de renforcer votre compréhension du passé. Vous allez lire le récit d'un week-end à <strong>Porto</strong>, la deuxième plus grande ville du Portugal, célèbre pour ses ponts, son vin et son centre historique classé à l'UNESCO.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Texto : Um fim de semana no Porto",
+      "content": "<blockquote><p><em>No fim de semana passado, <strong>fui</strong> ao Porto com a minha amiga Teresa. <strong>Saímos</strong> de Lisboa de comboio às oito da manhã e <strong>chegámos</strong> ao Porto às onze.</em></p><p><em>Primeiro, <strong>deixámos</strong> as malas no hotel. Depois, <strong>fomos</strong> passear pela Ribeira. <strong>Vimos</strong> a ponte D. Luís I e <strong>tirámos</strong> muitas fotografias. <strong>Almoçámos</strong> numa tasca típica — eu <strong>comi</strong> uma francesinha e a Teresa <strong>comeu</strong> bacalhau à Gomes de Sá.</em></p><p><em>À tarde, <strong>visitámos</strong> a livraria Lello e <strong>comprei</strong> dois livros. A seguir, <strong>fizemos</strong> uma prova de vinho do Porto numa cave em Vila Nova de Gaia. <strong>Foi</strong> fantástico!</em></p><p><em>No domingo, <strong>andámos</strong> de eléctrico pelo centro e <strong>fomos</strong> à Torre dos Clérigos. <strong>Subimos</strong> os 240 degraus e a vista <strong>foi</strong> incrível. Por fim, <strong>apanhámos</strong> o comboio de volta para Lisboa. <strong>Estive</strong> muito cansada, mas <strong>foi</strong> um fim de semana maravilhoso!</em></p></blockquote>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire du texte",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td>fim de semana</td><td>week-end</td></tr><tr><td>comboio</td><td>train</td></tr><tr><td>passear</td><td>se promener</td></tr><tr><td>tirar fotografias</td><td>prendre des photos</td></tr><tr><td>tasca</td><td>petit restaurant typique</td></tr><tr><td>francesinha</td><td>sandwich typique de Porto</td></tr><tr><td>livraria</td><td>librairie</td></tr><tr><td>prova de vinho</td><td>dégustation de vin</td></tr><tr><td>cave</td><td>cave (à vin)</td></tr><tr><td>eléctrico</td><td>tramway</td></tr><tr><td>degraus</td><td>marches (escalier)</td></tr><tr><td>vista</td><td>vue</td></tr></tbody></table>"
+    },
+    {
+      "type": "practice",
+      "title": "Compréhension du texte",
+      "content": "<p>Répondez à ces questions :</p><ol><li>Comment sont-elles allées de Lisbonne à Porto ? → <em>De comboio (en train).</em></li><li>Qu'a mangé la narratrice au restaurant ? → <em>Uma francesinha.</em></li><li>Qu'ont-elles fait à Vila Nova de Gaia ? → <em>Uma prova de vinho do Porto (une dégustation de vin de Porto).</em></li><li>Combien de marches a la Torre dos Clérigos ? → <em>240 degraus.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Repérer les verbes au passé",
+      "content": "<p>Dans le texte, identifiez les verbes irréguliers au Pretérito Perfeito :</p><ul><li><strong>fui</strong> (ir) — je suis allée</li><li><strong>fomos</strong> (ir) — nous sommes allées</li><li><strong>vimos</strong> (ver) — nous avons vu</li><li><strong>comi / comeu</strong> (comer) — j'ai mangé / elle a mangé</li><li><strong>fizemos</strong> (fazer) — nous avons fait</li><li><strong>foi</strong> (ser) — c'était</li><li><strong>estive</strong> (estar) — j'ai été</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment les deux amies sont-elles allées au Porto ?",
+      "correctAnswer": "De comboio",
+      "distractors": ["De autocarro", "De avião", "De carro"],
+      "explanation": "Le texte dit : 'Saímos de Lisboa de comboio'. En portugais européen, 'comboio' = train."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nós ________ (ver) a ponte D. Luís I.",
+      "correctAnswer": "vimos",
+      "explanation": "VER au Pretérito Perfeito, 1ère personne du pluriel : vimos."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Qu'est-ce qu'une 'francesinha' ?",
+      "correctAnswer": "Un sandwich typique de Porto",
+      "distractors": ["Un dessert portugais", "Une boisson de Porto", "Un type de pain"],
+      "explanation": "La francesinha est un sandwich chaud typique de Porto, avec de la viande, du fromage et une sauce piquante."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Nous avons pris le train pour rentrer à Lisbonne.'",
+      "correctAnswer": "Apanhámos o comboio de volta para Lisboa.",
+      "explanation": "'Apanhar o comboio' = prendre le train. 'De volta para' = de retour à/pour rentrer à."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A vista ________ (ser) incrível!",
+      "correctAnswer": "foi",
+      "explanation": "SER au Pretérito Perfeito, 3ème personne du singulier : foi."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "comboio", "phonetic": "/kõboju/", "french": "train"},
+    {"portuguese": "fim de semana", "phonetic": "/fĩ dɨ sɨmɐnɐ/", "french": "week-end"},
+    {"portuguese": "passear", "phonetic": "/pɐsiˈaɾ/", "french": "se promener"},
+    {"portuguese": "tasca", "phonetic": "/taʃkɐ/", "french": "petit restaurant typique"},
+    {"portuguese": "livraria", "phonetic": "/livɾɐˈɾiɐ/", "french": "librairie"},
+    {"portuguese": "prova de vinho", "phonetic": "/pɾɔvɐ dɨ viɲu/", "french": "dégustation de vin"},
+    {"portuguese": "eléctrico", "phonetic": "/iˈlɛtɾiku/", "french": "tramway"},
+    {"portuguese": "degraus", "phonetic": "/dɨɡɾawʃ/", "french": "marches (escalier)"},
+    {"portuguese": "vista", "phonetic": "/viʃtɐ/", "french": "vue"},
+    {"portuguese": "fotografias", "phonetic": "/futuɡɾɐfiɐʃ/", "french": "photographies"}
+  ]
+}

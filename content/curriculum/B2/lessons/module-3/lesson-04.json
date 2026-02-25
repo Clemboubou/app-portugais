@@ -1,0 +1,84 @@
+{
+  "id": "b2-m3-l04",
+  "title": "La voix passive",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Construire la voix passive avec SER + participe passé",
+    "Maîtriser la voix passive pronominale (passiva pronominal)",
+    "Choisir entre les deux constructions selon le contexte"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La voix passive en portugais européen",
+      "content": "<p>Le portugais européen dispose de <strong>deux constructions passives</strong> :</p><ul><li><strong>Passive analytique</strong> : <em>ser</em> + participe passé (+ <em>por</em> + agent)</li><li><strong>Passive pronominale</strong> : verbe + <em>-se</em></li></ul><p>La passive pronominale est <strong>beaucoup plus courante</strong> en PT-PT que la passive avec SER, contrairement au français.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les deux constructions en contexte",
+      "content": "<p><strong>Passive analytique (SER + participe) :</strong></p><ul><li><em>O livro <strong>foi escrito</strong> por Saramago.</em> (Le livre a été écrit par Saramago.)</li><li><em>A ponte <strong>será inaugurada</strong> pelo presidente.</em> (Le pont sera inauguré par le président.)</li><li><em>Os documentos <strong>foram assinados</strong> ontem.</em> (Les documents ont été signés hier.)</li></ul><p><strong>Passive pronominale (-SE) :</strong></p><ul><li><em><strong>Vendem-se</strong> apartamentos.</em> (On vend des appartements. / Des appartements sont vendus.)</li><li><em><strong>Fala-se</strong> português aqui.</em> (On parle portugais ici.)</li><li><em><strong>Construiu-se</strong> uma nova escola.</em> (Une nouvelle école a été construite.)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Règles et accords",
+      "content": "<p><strong>Passive analytique :</strong></p><p><em>SER</em> (conjugué) + <strong>participe passé</strong> (accord en genre et nombre avec le sujet)</p><ul><li><em>A carta <strong>foi enviada</strong>.</em> (féminin singulier)</li><li><em>Os relatórios <strong>foram enviados</strong>.</em> (masculin pluriel)</li></ul><p><strong>Passive pronominale :</strong></p><p>Verbe (3ᵉ pers.) + <em>-se</em>. Le verbe s'accorde avec le sujet :</p><ul><li><em><strong>Vende-se</strong> casa.</em> (singulier)</li><li><em><strong>Vendem-se</strong> casas.</em> (pluriel)</li></ul><p><strong>Quand utiliser quelle forme ?</strong></p><ul><li><strong>Passive avec SER</strong> : quand l'agent est mentionné (<em>por + agent</em>), dans la presse, textes formels</li><li><strong>Passive pronominale</strong> : quand l'agent est inconnu ou non pertinent, dans les annonces, panneaux, langage courant</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Transformer actif → passif",
+      "content": "<p>Transformez ces phrases actives en passives (les deux formes) :</p><ol><li><em>O arquiteto desenhou o edifício.</em><br/>→ Passive SER : <em>O edifício <strong>foi desenhado</strong> pelo arquiteto.</em><br/>→ Passive -SE : <em><strong>Desenhou-se</strong> o edifício.</em></li><li><em>Os alunos apresentaram os projetos.</em><br/>→ Passive SER : <em>Os projetos <strong>foram apresentados</strong> pelos alunos.</em><br/>→ Passive -SE : <em><strong>Apresentaram-se</strong> os projetos.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Utilisation en contexte",
+      "content": "<p>Rédigez 5 phrases en utilisant la voix passive :</p><ul><li>2 phrases avec la passive analytique (SER + participe + por)</li><li>2 phrases avec la passive pronominale (-SE)</li><li>1 phrase au passif dans un contexte journalistique</li></ul><p>Thèmes suggérés : une découverte scientifique, une inauguration, une annonce immobilière, un fait divers.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme passive de « Os bombeiros salvaram as vítimas » ?",
+      "correctAnswer": "As vítimas foram salvas pelos bombeiros.",
+      "distractors": ["As vítimas foi salvas pelos bombeiros.", "As vítimas foram salvados pelos bombeiros.", "As vítimas era salvas pelos bombeiros."],
+      "explanation": "SER au pretérito perfeito (foram) + participe accordé au féminin pluriel (salvas). 'Por + os' → 'pelos'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ apartamentos neste bairro. (vender — passive pronominale)",
+      "correctAnswer": "Vendem-se",
+      "explanation": "Passive pronominale : verbe à la 3ᵉ personne du pluriel (vendem) + -se, car 'apartamentos' est pluriel."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Le musée a été inauguré par le président.",
+      "correctAnswer": "O museu foi inaugurado pelo presidente.",
+      "explanation": "Passive analytique : SER (foi) + participe (inaugurado, masculin singulier) + por + o → pelo presidente."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle forme passive est la plus courante à l'oral en PT-PT ?",
+      "correctAnswer": "La passive pronominale (verbe + -se)",
+      "distractors": ["La passive avec SER + participe passé", "La passive avec ESTAR + participe passé", "La passive avec FICAR + participe passé"],
+      "explanation": "En PT-PT, la passive pronominale (verbe + -se) est nettement plus fréquente à l'oral que la passive avec SER."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A nova lei ________ (aprovar — passive avec SER, pretérito perfeito) pela Assembleia.",
+      "correctAnswer": "foi aprovada",
+      "explanation": "SER au pretérito perfeito (foi) + participe passé accordé au féminin singulier (aprovada), car 'a lei' est féminin."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "voz passiva", "phonetic": "/vɔʃ pɐˈsivɐ/", "french": "voix passive"},
+    {"portuguese": "passiva pronominal", "phonetic": "/pɐˈsivɐ pɾonomiˈnal/", "french": "passive pronominale"},
+    {"portuguese": "inaugurar", "phonetic": "/inawɡuˈɾaɾ/", "french": "inaugurer"},
+    {"portuguese": "aprovar", "phonetic": "/ɐpɾuˈvaɾ/", "french": "approuver / voter (une loi)"},
+    {"portuguese": "assinar", "phonetic": "/ɐsiˈnaɾ/", "french": "signer"},
+    {"portuguese": "construir", "phonetic": "/kõʃtɾuˈiɾ/", "french": "construire"},
+    {"portuguese": "Assembleia da República", "phonetic": "/ɐsẽˈblɐjɐ dɐ ʁɨˈpublikɐ/", "french": "Assemblée de la République (parlement PT)"},
+    {"portuguese": "bombeiro", "phonetic": "/bõˈbejɾu/", "french": "pompier"},
+    {"portuguese": "vítima", "phonetic": "/ˈvitimɐ/", "french": "victime"},
+    {"portuguese": "edifício", "phonetic": "/ɨdiˈfisiu/", "french": "bâtiment / édifice"}
+  ]
+}

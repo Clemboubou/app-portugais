@@ -1,0 +1,84 @@
+{
+  "id": "b1-m1-l02",
+  "title": "Perfeito vs Imperfeito",
+  "type": "grammar",
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Distinguer l'emploi du Pretérito Perfeito et du Pretérito Imperfeito",
+    "Identifier les marqueurs temporels associés à chaque temps",
+    "Construire des phrases mêlant les deux temps dans un récit"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Deux passés, deux visions",
+      "content": "<p>Le portugais européen distingue nettement deux temps du passé : le <strong>Pretérito Perfeito Simples</strong> (action ponctuelle, achevée) et le <strong>Pretérito Imperfeito</strong> (description, habitude, action en cours). Comprendre leur contraste est essentiel pour raconter au passé.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Quand utiliser chaque temps ?",
+      "content": "<p><strong>Perfeito Simples</strong> — action terminée, ponctuelle :</p><ul><li><em>Ontem <strong>comi</strong> um pastel de nata.</em> (Hier, j'ai mangé un pastel de nata.)</li><li><em>No ano passado, <strong>fui</strong> a Lisboa.</em> (L'année dernière, je suis allé à Lisbonne.)</li></ul><p><strong>Imperfeito</strong> — description, habitude, action en cours :</p><ul><li><em>Quando era criança, <strong>comia</strong> pastéis todos os dias.</em> (Quand j'étais enfant, je mangeais des pastéis tous les jours.)</li><li><em>Enquanto eu <strong>estudava</strong>, o telefone <strong>tocou</strong>.</em> (Pendant que j'étudiais, le téléphone a sonné.)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Marqueurs temporels",
+      "content": "<p><strong>Marqueurs du Perfeito :</strong></p><ul><li><em>ontem</em> (hier), <em>anteontem</em> (avant-hier)</li><li><em>na semana passada</em> (la semaine dernière)</li><li><em>no mês passado</em> (le mois dernier)</li><li><em>de repente</em> (soudain), <em>naquele momento</em> (à ce moment-là)</li></ul><p><strong>Marqueurs de l'Imperfeito :</strong></p><ul><li><em>antigamente</em> (autrefois), <em>naquela época</em> (à cette époque)</li><li><em>todos os dias</em> (tous les jours), <em>sempre</em> (toujours)</li><li><em>enquanto</em> (pendant que), <em>quando</em> (quand — contexte habituel)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Les deux temps dans un récit",
+      "content": "<p>Dans un récit, les deux temps se combinent naturellement :</p><ul><li><em><strong>Estava</strong> (imperfeito) a chover quando eu <strong>saí</strong> (perfeito) de casa.</em> (Il pleuvait quand je suis sorti de chez moi.)</li><li><em>O João <strong>dormia</strong> (imperfeito) e a Maria <strong>chegou</strong> (perfeito).</em> (João dormait et Maria est arrivée.)</li><li><em>Antigamente, <strong>íamos</strong> (imperfeito) à praia, mas nesse verão <strong>fomos</strong> (perfeito) à montanha.</em> (Autrefois, on allait à la plage, mais cet été-là on est allés à la montagne.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Racontez votre journée d'hier",
+      "content": "<p>Essayez de combiner Perfeito et Imperfeito pour raconter un moment :</p><ul><li><em>Ontem, <strong>estava</strong> em casa quando o meu amigo me <strong>telefonou</strong>.</em></li><li><em><strong>Fazia</strong> sol e nós <strong>decidimos</strong> ir ao parque.</em></li><li><em>Enquanto <strong>passeávamos</strong>, <strong>encontrámos</strong> a Ana.</em></li></ul><p>Remarque : en portugais européen, on dit <em>encontrámos</em> (avec accent) à la 1ère personne du pluriel du Perfeito.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Choisissez la forme correcte : 'Quando eu ________ pequeno, brincava muito.'",
+      "correctAnswer": "era",
+      "distractors": ["fui", "foi", "estive"],
+      "explanation": "On utilise l'Imperfeito 'era' (SER) car il s'agit d'une description d'état dans le passé (quand j'étais petit)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ontem, eu ________ (ir) ao supermercado e ________ (comprar) pão.",
+      "correctAnswer": "fui, comprei",
+      "explanation": "Actions ponctuelles terminées hier → Perfeito Simples : fui (ir), comprei (comprar)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Il pleuvait quand je suis arrivé.'",
+      "correctAnswer": "Chovia quando eu cheguei.",
+      "explanation": "'Chovia' (Imperfeito — action en cours) + 'cheguei' (Perfeito — action ponctuelle)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel marqueur temporel s'associe typiquement à l'Imperfeito ?",
+      "correctAnswer": "todos os dias",
+      "distractors": ["ontem", "de repente", "na semana passada"],
+      "explanation": "'Todos os dias' (tous les jours) indique une habitude répétée → Imperfeito."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Enquanto a mãe ________ (cozinhar), as crianças ________ (brincar) no jardim.",
+      "correctAnswer": "cozinhava, brincavam",
+      "explanation": "Deux actions simultanées en cours dans le passé → Imperfeito pour les deux."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "de repente", "phonetic": "/dɨ ʁɨˈpẽtɨ/", "french": "soudain"},
+    {"portuguese": "enquanto", "phonetic": "/ẽˈkwɐ̃tu/", "french": "pendant que"},
+    {"portuguese": "antigamente", "phonetic": "/ɐ̃tiɡɐˈmẽtɨ/", "french": "autrefois"},
+    {"portuguese": "naquela época", "phonetic": "/nɐˈkelɐ ˈɛpukɐ/", "french": "à cette époque"},
+    {"portuguese": "ontem", "phonetic": "/ˈõtɐ̃j/", "french": "hier"},
+    {"portuguese": "anteontem", "phonetic": "/ɐ̃tiˈõtɐ̃j/", "french": "avant-hier"},
+    {"portuguese": "sempre", "phonetic": "/ˈsẽpɾɨ/", "french": "toujours"},
+    {"portuguese": "naquele momento", "phonetic": "/nɐˈkelɨ muˈmẽtu/", "french": "à ce moment-là"},
+    {"portuguese": "todos os dias", "phonetic": "/ˈtoduʒ uʒ ˈdiɐʃ/", "french": "tous les jours"},
+    {"portuguese": "na semana passada", "phonetic": "/nɐ sɨˈmɐnɐ pɐˈsadɐ/", "french": "la semaine dernière"}
+  ]
+}

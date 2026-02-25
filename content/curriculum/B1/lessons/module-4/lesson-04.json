@@ -1,0 +1,82 @@
+{
+  "id": "b1-m4-l04",
+  "title": "Si j'étais...",
+  "type": "grammar",
+  "estimatedMinutes": 19,
+  "objectives": [
+    "Conjuguer le Imperfeito do Conjuntivo (subjonctif imparfait)",
+    "Construire des phrases conditionnelles avec 'se + imperfeito do conjuntivo + condicional'",
+    "Exprimer des hypothèses irréelles sur le présent"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les hypothèses irréelles",
+      "content": "<p>Pour exprimer une hypothèse irréelle sur le présent (quelque chose qui n'est pas vrai), le portugais utilise la structure <strong>se + imperfeito do conjuntivo + condicional</strong>. C'est l'équivalent du français « si + imparfait + conditionnel ». Exemple : <em>Se eu <strong>fosse</strong> rico, <strong>compraria</strong> uma casa no Algarve.</em> (Si j'étais riche, j'achèterais une maison en Algarve.)</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Formation de l'imperfeito do conjuntivo",
+      "content": "<p>Le subjonctif imparfait se forme à partir de la <strong>3e personne du pluriel du Pretérito Perfeito</strong> : on enlève <em>-ram</em> et on ajoute les terminaisons :</p><table><thead><tr><th>Personne</th><th>Falar (falaram)</th><th>Comer (comeram)</th><th>Ir/Ser (foram)</th></tr></thead><tbody><tr><td>Se eu</td><td>falasse</td><td>comesse</td><td>fosse</td></tr><tr><td>Se tu</td><td>falasses</td><td>comesses</td><td>fosses</td></tr><tr><td>Se ele/você</td><td>falasse</td><td>comesse</td><td>fosse</td></tr><tr><td>Se nós</td><td>falássemos</td><td>comêssemos</td><td>fôssemos</td></tr><tr><td>Se eles/vocês</td><td>falassem</td><td>comessem</td><td>fossem</td></tr></tbody></table><p>Terminaisons : <strong>-sse, -sses, -sse, -ssemos, -ssem</strong>.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Verbes irréguliers fréquents",
+      "content": "<p>Les verbes les plus utilisés au subjonctif imparfait :</p><ul><li><strong>Ser/Ir</strong> (foram) → <em>fosse, fosses, fosse, fôssemos, fossem</em></li><li><strong>Ter</strong> (tiveram) → <em>tivesse, tivesses, tivesse, tivéssemos, tivessem</em></li><li><strong>Poder</strong> (puderam) → <em>pudesse, pudesses, pudesse, pudéssemos, pudessem</em></li><li><strong>Fazer</strong> (fizeram) → <em>fizesse, fizesses, fizesse, fizéssemos, fizessem</em></li><li><strong>Saber</strong> (souberam) → <em>soubesse, soubesses, soubesse, soubéssemos, soubessem</em></li></ul><p>L'astuce est de toujours partir de la 3e personne du pluriel du passé simple !</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Construire des conditionnelles",
+      "content": "<p>Pratiquez la structure <strong>Se + imperfeito do conjuntivo, + condicional</strong> :</p><ul><li><em>Se eu <strong>tivesse</strong> mais tempo, <strong>estudaria</strong> mandarim.</em> (Si j'avais plus de temps, j'étudierais le mandarin.)</li><li><em>Se nós <strong>pudéssemos</strong>, <strong>viveríamos</strong> em Lisboa.</em> (Si nous pouvions, nous vivrions à Lisbonne.)</li><li><em>Se ele <strong>soubesse</strong> a verdade, <strong>ficaria</strong> surpreendido.</em> (S'il savait la vérité, il serait surpris.)</li></ul><p><strong>Attention</strong> : en portugais européen oral, on remplace souvent le conditionnel par l'imparfait : <em>Se eu tivesse mais tempo, <strong>estudava</strong> mandarim.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Et si... ?",
+      "content": "<p>Complétez ces phrases avec vos propres idées :</p><ol><li><em>Se eu fosse o Presidente de Portugal, ...</em></li><li><em>Se pudesse viver em qualquer época, ...</em></li><li><em>Se não existisse a Internet, ...</em></li></ol><p>Utilisez toujours la structure : se + subjonctif imparfait, + conditionnel.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Se eu ________ (ser) rico, compraria uma casa em Sintra.",
+      "correctAnswer": "fosse",
+      "explanation": "'Ser' au subjonctif imparfait → fosse. Formé sur 'foram' (3e pl. du passé simple) - ram + sse."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment forme-t-on le subjonctif imparfait ?",
+      "correctAnswer": "À partir de la 3e personne du pluriel du Pretérito Perfeito",
+      "distractors": ["À partir de l'infinitif", "À partir du participe passé", "À partir du présent du subjonctif"],
+      "explanation": "On prend la 3e personne du pluriel du passé simple (ex: falaram), on enlève -ram, et on ajoute -sse, -sses, etc."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Si j'avais plus de temps, j'apprendrais le portugais.'",
+      "correctAnswer": "Se eu tivesse mais tempo, aprenderia português.",
+      "explanation": "'Ter' → tiveram → tivesse. 'Aprender' au conditionnel → aprenderia."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Se nós ________ (poder), viajaríamos para os Açores.",
+      "correctAnswer": "pudéssemos",
+      "explanation": "'Poder' → puderam → pudéssemos. Attention à l'accent sur le 'e' à la 1re personne du pluriel."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle phrase est correcte ?",
+      "correctAnswer": "Se eu soubesse, diria-te.",
+      "distractors": ["Se eu sabia, diria-te.", "Se eu soubesse, disse-te.", "Se eu sabesse, diria-te."],
+      "explanation": "'Saber' → souberam → soubesse (pas 'sabesse'). La principale est au conditionnel : 'diria'."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "se", "phonetic": "/sɨ/", "french": "si (conditionnel)"},
+    {"portuguese": "fosse", "phonetic": "/ˈfɔsɨ/", "french": "fusse / fût (subj. imp. de ser/ir)"},
+    {"portuguese": "tivesse", "phonetic": "/tiˈvɛsɨ/", "french": "eusse (subj. imp. de ter)"},
+    {"portuguese": "pudesse", "phonetic": "/puˈdɛsɨ/", "french": "pusse (subj. imp. de poder)"},
+    {"portuguese": "fizesse", "phonetic": "/fiˈzɛsɨ/", "french": "fisse (subj. imp. de fazer)"},
+    {"portuguese": "soubesse", "phonetic": "/soˈbɛsɨ/", "french": "susse (subj. imp. de saber)"},
+    {"portuguese": "hipótese", "phonetic": "/iˈpɔtɨzɨ/", "french": "hypothèse"},
+    {"portuguese": "imaginemos", "phonetic": "/imɐʒiˈnɛmuʃ/", "french": "imaginons"}
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "a1-m3-l01",
+  "title": "Les jours de la semaine",
+  "type": "vocabulary",
+  "estimatedMinutes": 10,
+  "objectives": [
+    "Nommer les sept jours de la semaine en portugais européen",
+    "Utiliser les mots hoje, amanhã et ontem dans une phrase simple",
+    "Comprendre que les jours de la semaine sont basés sur le calendrier liturgique"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les jours de la semaine en portugais",
+      "content": "En portugais européen, les jours de la semaine ont une origine unique : ils sont basés sur le calendrier liturgique chrétien. Du lundi au vendredi, les jours portent le nom des foires de la semaine (feiras), tandis que samedi et dimanche ont des noms d'origine hébraïque et latine. Notez que les jours de la semaine ne prennent pas de majuscule en portugais."
+    },
+    {
+      "type": "discovery",
+      "title": "Les jours, un par un",
+      "content": "Observez les sept jours de la semaine :\n\n• Segunda-feira [lundi] — littéralement « deuxième foire »\n• Terça-feira [mardi] — « troisième foire »\n• Quarta-feira [mercredi] — « quatrième foire »\n• Quinta-feira [jeudi] — « cinquième foire »\n• Sexta-feira [vendredi] — « sixième foire »\n• Sábado [samedi] — de l'hébreu Shabbat\n• Domingo [dimanche] — du latin Dies Dominica (jour du Seigneur)\n\nEn portugais courant, on omet souvent le mot « feira » à l'oral : on dit simplement « segunda », « terça », « quarta », etc."
+    },
+    {
+      "type": "explanation",
+      "title": "Aujourd'hui, hier, demain",
+      "content": "Trois mots essentiels pour situer un jour dans le temps :\n\n• hoje — aujourd'hui\n  Ex. : Hoje é quinta-feira. (Aujourd'hui, c'est jeudi.)\n\n• amanhã — demain\n  Ex. : Amanhã é sexta-feira. (Demain, c'est vendredi.)\n\n• ontem — hier\n  Ex. : Ontem foi quarta-feira. (Hier, c'était mercredi.)\n\nRemarque : avec « ontem », le verbe ser se conjugue au passé (foi) car on parle d'un fait révolu."
+    },
+    {
+      "type": "practice",
+      "title": "Mémoriser les jours",
+      "content": "Astuce mnémotechnique : pensez à « segunda = 2e, terça = 3e, quarta = 4e, quinta = 5e, sexta = 6e ». Si vous connaissez les nombres ordinaux en portugais, les jours de la semaine deviennent logiques ! Répétez à voix haute : segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado, domingo."
+    },
+    {
+      "type": "production",
+      "title": "À vous de jouer",
+      "content": "Répondez mentalement ou à l'écrit :\n1. Comment dit-on « mercredi » en portugais ?\n2. Que signifie « amanhã é domingo » ?\n3. Quel jour vient après « quinta-feira » ?\n\nVérifiez vos réponses : 1. quarta-feira | 2. Demain c'est dimanche | 3. sexta-feira"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Que signifie « quinta-feira » en français ?",
+      "correctAnswer": "jeudi",
+      "distractors": ["mardi", "vendredi", "mercredi"],
+      "explanation": "Quinta-feira est le cinquième jour de la semaine en portugais, ce qui correspond au jeudi. « Quinta » vient du mot latin pour « cinquième »."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Aujourd'hui c'est mardi. »",
+      "correctAnswer": "Hoje é terça-feira.",
+      "distractors": [
+        "Hoje é segunda-feira.",
+        "Amanhã é terça-feira.",
+        "Hoje é quarta-feira."
+      ],
+      "explanation": "Hoje signifie « aujourd'hui » et é est la forme correcte du verbe ser au présent. Terça-feira correspond à mardi."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez la phrase : « ___ é sábado. » (Demain c'est samedi.)",
+      "correctAnswer": "Amanhã",
+      "distractors": ["Ontem", "Hoje", "Agora"],
+      "explanation": "Amanhã signifie « demain ». Ontem signifie « hier » et hoje signifie « aujourd'hui »."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez les mots dans le bon ordre : « segunda-feira / Ontem / foi »",
+      "correctAnswer": "Ontem foi segunda-feira.",
+      "distractors": [
+        "Foi ontem segunda-feira.",
+        "Segunda-feira ontem foi.",
+        "Ontem segunda-feira foi."
+      ],
+      "explanation": "Avec « ontem » (hier), le verbe ser se conjugue au passé : foi. La structure est : Ontem foi + jour de la semaine."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel jour de la semaine vient juste avant « domingo » ?",
+      "correctAnswer": "sábado",
+      "distractors": ["sexta-feira", "quinta-feira", "segunda-feira"],
+      "explanation": "La semaine se termine par sábado (samedi) puis domingo (dimanche). Sábado précède donc directement domingo."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "segunda-feira",
+      "phonetic": "/sɨˈɡũdɐ ˈfɐjɾɐ/",
+      "french": "lundi"
+    },
+    {
+      "portuguese": "terça-feira",
+      "phonetic": "/ˈtɛɾsɐ ˈfɐjɾɐ/",
+      "french": "mardi"
+    },
+    {
+      "portuguese": "quarta-feira",
+      "phonetic": "/ˈkwaɾtɐ ˈfɐjɾɐ/",
+      "french": "mercredi"
+    },
+    {
+      "portuguese": "quinta-feira",
+      "phonetic": "/ˈkĩtɐ ˈfɐjɾɐ/",
+      "french": "jeudi"
+    },
+    {
+      "portuguese": "sexta-feira",
+      "phonetic": "/ˈsɐjtɐ ˈfɐjɾɐ/",
+      "french": "vendredi"
+    },
+    {
+      "portuguese": "sábado",
+      "phonetic": "/ˈsabɐdu/",
+      "french": "samedi"
+    },
+    {
+      "portuguese": "domingo",
+      "phonetic": "/duˈmĩɡu/",
+      "french": "dimanche"
+    },
+    {
+      "portuguese": "hoje",
+      "phonetic": "/ˈɔʒɨ/",
+      "french": "aujourd'hui"
+    },
+    {
+      "portuguese": "amanhã",
+      "phonetic": "/ɐmɐˈɲɐ̃/",
+      "french": "demain"
+    },
+    {
+      "portuguese": "ontem",
+      "phonetic": "/ˈõtɐ̃j/",
+      "french": "hier"
+    }
+  ]
+}

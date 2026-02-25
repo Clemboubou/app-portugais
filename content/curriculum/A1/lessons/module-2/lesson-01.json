@@ -1,0 +1,103 @@
+{
+  "id": "a1-m2-l01",
+  "title": "Les chiffres de 0 à 20",
+  "type": "vocabulary",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Mémoriser les nombres de 0 à 20 en portugais européen",
+    "Distinguer les formes masculines et féminines de um/uma et dois/duas",
+    "Utiliser les nombres dans des contextes simples du quotidien"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les nombres, indispensables au quotidien",
+      "content": "Les nombres sont parmi les premiers mots à maîtriser dans une nouvelle langue. En portugais européen, vous en aurez besoin pour les prix dans les magasins, les numéros de téléphone, les adresses ou les horaires. Bonne nouvelle : les nombres de 0 à 20 sont tous irréguliers mais courts, et ils s'apprennent vite avec un peu de pratique."
+    },
+    {
+      "type": "discovery",
+      "title": "De zéro à dix",
+      "content": "Observez les nombres de 0 à 10 :\n\nzero (0), um / uma (1), dois / duas (2), três (3), quatro (4), cinco (5), seis (6), sete (7), oito (8), nove (9), dez (10)\n\nAttention aux accords : um et dois s'accordent en genre avec le nom qu'ils accompagnent.\n- um carro (une voiture, masculin)\n- uma casa (une maison, féminin)\n- dois copos (deux verres, masculin)\n- duas chávenas (deux tasses, féminin)\n\nTous les autres nombres de cette série sont invariables."
+    },
+    {
+      "type": "discovery",
+      "title": "De onze à vingt",
+      "content": "Voici les nombres de 11 à 20 :\n\nonze (11), doze (12), treze (13), catorze (14), quinze (15), dezasseis (16), dezassete (17), dezoito (18), dezanove (19), vinte (20)\n\nNote importante : En portugais européen (variante de Lisbonne), on dit dezasseis, dezassete, dezanove — avec un double -ss- ou la syllabe -sse-. Le portugais brésilien utilise dezesseis, dezessete, dezenove, ce qui est différent. Veillez à bien utiliser la forme européenne."
+    },
+    {
+      "type": "explanation",
+      "title": "L'accord de um/uma et dois/duas",
+      "content": "En portugais, les nombres um et dois sont les seuls de 0 à 20 à varier selon le genre du nom :\n\n• Masculin : um, dois → um homem (un homme), dois homens (deux hommes)\n• Féminin : uma, duas → uma mulher (une femme), duas mulheres (deux femmes)\n\nExemples pratiques :\n- Tenho um irmão. → J'ai un frère.\n- Tenho uma irmã. → J'ai une sœur.\n- São duas horas. → Il est deux heures.\n- Quero dois bilhetes. → Je veux deux billets.\n\nLes nombres três à vinte ne changent jamais de forme, quel que soit le genre du nom."
+    },
+    {
+      "type": "practice",
+      "title": "Prononciation des nombres",
+      "content": "Quelques repères de prononciation pour le portugais européen :\n\n• zero → /ˈzɛɾu/ — le 'e' est fermé, le 'o' final se prononce /u/\n• três → /tɾeʃ/ — le 's' final se prononce comme le 'ch' français\n• seis → /sɐjʃ/ — diphtongue nasalisée\n• sete → /ˈsɛtɨ/ — le 'e' final est très réduit, presque muet\n• nove → /ˈnɔvɨ/ — même remarque pour le 'e' final\n• quinze → /ˈkĩzɨ/ — le 'qu' se prononce /k/, le 'in' est nasal\n• dezasseis → /dɨzɐˈsɐjʃ/ — accent sur la dernière syllabe\n\nEn portugais européen, les voyelles non accentuées (surtout 'e' et 'o') sont très réduites ou amuïes. C'est une caractéristique importante qui distingue l'accent de Lisbonne."
+    },
+    {
+      "type": "production",
+      "title": "Mise en pratique",
+      "content": "Entraînez-vous à utiliser les nombres dans ces situations :\n\n1. Donnez votre numéro de téléphone chiffre par chiffre.\n   Exemple : 9-1-2-3-4-5-6-7-8 → nove, um, dois, três, quatro, cinco, seis, sete, oito\n\n2. Comptez les objets autour de vous en portugais.\n   Exemple : Há três janelas no quarto. → Il y a trois fenêtres dans la chambre.\n\n3. Répondez à : Quantos anos tens? (Quel âge as-tu ?)\n   Exemple : Tenho trinta e dois anos. (mais vous pouvez adapter !)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on '16' en portugais européen ?",
+      "correctAnswer": "dezasseis",
+      "distractors": ["dezesseis", "dezanove", "dezaoito"],
+      "explanation": "En portugais européen, 16 se dit dezasseis (avec -ssa-). La forme dezesseis est brésilienne. Dezanove correspond à 19 et dezaoito n'existe pas."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle forme est correcte pour compter deux tasses (chávenas, féminin) ?",
+      "correctAnswer": "duas chávenas",
+      "distractors": ["dois chávenas", "um chávenas", "dua chávenas"],
+      "explanation": "Chávena est un nom féminin. Il faut donc utiliser duas (forme féminine de dois). Dois est la forme masculine. Dua n'existe pas en portugais."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez : ___ horas e ___ minutos. (2 heures et 1 minute — hora est féminin, minuto est masculin)",
+      "correctAnswer": "Duas horas e um minuto",
+      "distractors": ["Dois horas e um minuto", "Duas horas e uma minuto", "Dois horas e uma minuto"],
+      "explanation": "Hora est féminin → duas. Minuto est masculin → um. L'accord de genre est essentiel avec les nombres um/uma et dois/duas."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez ces nombres dans l'ordre croissant : dezoito, quinze, treze, dezanove, dezasseis",
+      "correctAnswer": "treze, quinze, dezasseis, dezoito, dezanove",
+      "distractors": ["quinze, treze, dezasseis, dezanove, dezoito", "treze, dezasseis, quinze, dezoito, dezanove", "dezanove, dezoito, dezasseis, quinze, treze"],
+      "explanation": "L'ordre croissant est : treze (13), quinze (15), dezasseis (16), dezoito (18), dezanove (19)."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : 'J'ai deux sœurs et un frère.'",
+      "correctAnswer": "Tenho duas irmãs e um irmão.",
+      "distractors": ["Tenho dois irmãs e uma irmão.", "Tenho duas irmãs e uma irmão.", "Tenho dois irmãs e um irmão."],
+      "explanation": "Irmã (sœur) est féminin → duas. Irmão (frère) est masculin → um. Le verbe ter (avoir) à la première personne du singulier donne tenho."
+    }
+  ],
+  "vocabulary": [
+    { "portuguese": "zero", "phonetic": "/ˈzɛɾu/", "french": "zéro" },
+    { "portuguese": "um / uma", "phonetic": "/ũ/ / /ˈumɐ/", "french": "un / une" },
+    { "portuguese": "dois / duas", "phonetic": "/dojʃ/ / /ˈduɐʃ/", "french": "deux (masc. / fém.)" },
+    { "portuguese": "três", "phonetic": "/tɾeʃ/", "french": "trois" },
+    { "portuguese": "quatro", "phonetic": "/ˈkwatɾu/", "french": "quatre" },
+    { "portuguese": "cinco", "phonetic": "/ˈsĩku/", "french": "cinq" },
+    { "portuguese": "seis", "phonetic": "/sɐjʃ/", "french": "six" },
+    { "portuguese": "sete", "phonetic": "/ˈsɛtɨ/", "french": "sept" },
+    { "portuguese": "oito", "phonetic": "/ˈojtu/", "french": "huit" },
+    { "portuguese": "nove", "phonetic": "/ˈnɔvɨ/", "french": "neuf" },
+    { "portuguese": "dez", "phonetic": "/deʃ/", "french": "dix" },
+    { "portuguese": "onze", "phonetic": "/ˈõzɨ/", "french": "onze" },
+    { "portuguese": "doze", "phonetic": "/ˈdozɨ/", "french": "douze" },
+    { "portuguese": "treze", "phonetic": "/ˈtɾezɨ/", "french": "treize" },
+    { "portuguese": "catorze", "phonetic": "/kɐˈtoɾzɨ/", "french": "quatorze" },
+    { "portuguese": "quinze", "phonetic": "/ˈkĩzɨ/", "french": "quinze" },
+    { "portuguese": "dezasseis", "phonetic": "/dɨzɐˈsɐjʃ/", "french": "seize" },
+    { "portuguese": "dezassete", "phonetic": "/dɨzɐˈsɛtɨ/", "french": "dix-sept" },
+    { "portuguese": "dezoito", "phonetic": "/dɨˈzojtu/", "french": "dix-huit" },
+    { "portuguese": "dezanove", "phonetic": "/dɨzɐˈnɔvɨ/", "french": "dix-neuf" },
+    { "portuguese": "vinte", "phonetic": "/ˈvĩtɨ/", "french": "vingt" }
+  ]
+}

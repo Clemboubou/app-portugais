@@ -1,0 +1,469 @@
+{
+  "categories": [
+    {
+      "type": "films",
+      "items": [
+        {
+          "id": "media-001",
+          "title": "Capitães de Abril",
+          "creator": "Maria de Medeiros",
+          "level": "B1",
+          "description_fr": "Film sur la Révolution des Œillets du 25 avril 1974, raconté à travers les yeux de jeunes capitaines de l'armée portugaise.",
+          "why_useful": "Vocabulaire historique et politique, dialogues clairs avec accent lisboète, contexte culturel essentiel pour comprendre le Portugal moderne.",
+          "where_to_find": "DVD, plateformes VOD portugaises, parfois sur RTP Play",
+          "language_notes": "Portugais européen standard, quelques termes militaires. Sous-titres PT disponibles."
+        },
+        {
+          "id": "media-002",
+          "title": "O Pai Tirano",
+          "creator": "António Lopes Ribeiro",
+          "level": "B2",
+          "description_fr": "Comédie classique du cinéma portugais (1941) où un modeste employé se retrouve à jouer un tyran au théâtre.",
+          "why_useful": "Découverte du cinéma portugais classique, humour typiquement portugais, expressions d'époque encore utilisées.",
+          "where_to_find": "RTP Play, YouTube (domaine public)",
+          "language_notes": "Portugais d'époque, diction théâtrale très claire, excellent pour l'écoute."
+        },
+        {
+          "id": "media-003",
+          "title": "Amália",
+          "creator": "Carlos Coelho da Silva",
+          "level": "B1",
+          "description_fr": "Biopic sur la vie d'Amália Rodrigues, la reine du fado, de son enfance à Alfama à sa consécration internationale.",
+          "why_useful": "Immersion dans la culture du fado, vocabulaire émotionnel et artistique, accent lisboète authentique.",
+          "where_to_find": "DVD, plateformes VOD, festivals de cinéma lusophone",
+          "language_notes": "Portugais européen avec beaucoup de musique fado, dialogues naturels du quotidien lisboète."
+        },
+        {
+          "id": "media-004",
+          "title": "Tabu",
+          "creator": "Miguel Gomes",
+          "level": "B2",
+          "description_fr": "Film en deux parties explorant la mémoire coloniale portugaise entre Lisbonne contemporaine et l'Afrique coloniale.",
+          "why_useful": "Cinéma d'auteur primé internationalement, réflexion sur l'identité portugaise et le passé colonial.",
+          "where_to_find": "MUBI, DVD, médiathèques",
+          "language_notes": "Narration en voix off très articulée, dialogues contemporains à Lisbonne. Parties en noir et blanc."
+        },
+        {
+          "id": "media-005",
+          "title": "Vitalina Varela",
+          "creator": "Pedro Costa",
+          "level": "C1",
+          "description_fr": "Une femme cap-verdienne arrive à Lisbonne après la mort de son mari, découvrant le quartier de Fontainhas.",
+          "why_useful": "Cinéma d'auteur radical, immersion dans le portugais parlé par la communauté cap-verdienne de Lisbonne.",
+          "where_to_find": "MUBI, festivals, DVD Criterion",
+          "language_notes": "Portugais parlé avec accent cap-verdien, dialogues rares mais intenses, rythme contemplatif."
+        },
+        {
+          "id": "media-006",
+          "title": "A Gaiola Dourada",
+          "creator": "Ruben Alves",
+          "level": "A2",
+          "description_fr": "Comédie sur une famille portugaise vivant en France qui hérite d'une maison au Portugal et hésite à rentrer.",
+          "why_useful": "Très accessible, humour familier, comparaison culturelle France-Portugal, dialogues simples et quotidiens.",
+          "where_to_find": "Netflix (selon pays), DVD, VOD",
+          "language_notes": "Mélange français/portugais européen, parfait pour les francophones. Vocabulaire de la vie quotidienne."
+        },
+        {
+          "id": "media-007",
+          "title": "O Crime do Padre Amaro",
+          "creator": "Carlos Coelho da Silva",
+          "level": "B2",
+          "description_fr": "Adaptation du roman classique d'Eça de Queirós sur un jeune prêtre confronté à ses désirs dans un village rural.",
+          "why_useful": "Littérature portugaise classique adaptée, vocabulaire religieux et rural, critique sociale.",
+          "where_to_find": "DVD, RTP Play",
+          "language_notes": "Portugais européen standard et dialecte rural, registre formel ecclésiastique."
+        },
+        {
+          "id": "media-008",
+          "title": "Peregrinação",
+          "creator": "João Botelho",
+          "level": "B2",
+          "description_fr": "Adaptation animée du récit de voyage de Fernão Mendes Pinto à travers l'Asie au XVIe siècle.",
+          "why_useful": "Œuvre fondatrice de la littérature portugaise, vocabulaire des Découvertes, narration claire.",
+          "where_to_find": "Festivals, RTP Play, DVD",
+          "language_notes": "Narration en portugais européen contemporain, vocabulaire maritime et historique des Découvertes."
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "items": [
+        {
+          "id": "media-009",
+          "title": "Conta-me Como Foi",
+          "creator": "RTP",
+          "level": "B1",
+          "description_fr": "Série familiale retraçant la vie quotidienne d'une famille lisboète des années 1960 à la Révolution de 1974.",
+          "why_useful": "Vocabulaire du quotidien, histoire contemporaine du Portugal, dialogues naturels et accessibles.",
+          "where_to_find": "RTP Play (gratuit)",
+          "language_notes": "Portugais européen standard, diction claire, expressions familières de l'époque. Idéal pour progresser."
+        },
+        {
+          "id": "media-010",
+          "title": "Glória",
+          "creator": "Netflix Portugal / RTP",
+          "level": "B2",
+          "description_fr": "Thriller d'espionnage pendant la Guerre froide dans un village portugais abritant un émetteur radio international.",
+          "why_useful": "Première série portugaise Netflix, production de haute qualité, vocabulaire politique et d'espionnage.",
+          "where_to_find": "Netflix",
+          "language_notes": "Portugais européen avec quelques passages en anglais et russe. Dialogues rapides, registre soutenu."
+        },
+        {
+          "id": "media-011",
+          "title": "Sul",
+          "creator": "RTP",
+          "level": "B1",
+          "description_fr": "Série policière se déroulant en Algarve, mêlant enquêtes criminelles et secrets de famille.",
+          "why_useful": "Vocabulaire policier et juridique, paysages de l'Algarve, dialogues réalistes.",
+          "where_to_find": "RTP Play",
+          "language_notes": "Portugais européen, accent du sud parfois perceptible, rythme accessible."
+        },
+        {
+          "id": "media-012",
+          "title": "Até que a Vida nos Separe",
+          "creator": "SIC",
+          "level": "A2",
+          "description_fr": "Sitcom portugaise populaire sur les tribulations comiques de couples dans la vie quotidienne.",
+          "why_useful": "Humour portugais, expressions familières, situations de la vie courante très utiles.",
+          "where_to_find": "SIC Player, YouTube (extraits)",
+          "language_notes": "Portugais européen familier, vocabulaire du quotidien, phrases courtes et répétitives."
+        },
+        {
+          "id": "media-013",
+          "title": "Depois do Adeus",
+          "creator": "RTP",
+          "level": "B2",
+          "description_fr": "Drame historique sur le retour des Portugais d'Afrique après la décolonisation en 1975 (les retornados).",
+          "why_useful": "Période historique majeure, vocabulaire émotionnel et social, compréhension de la société portugaise.",
+          "where_to_find": "RTP Play",
+          "language_notes": "Portugais européen standard, quelques expressions africaines, registre émotionnel."
+        },
+        {
+          "id": "media-014",
+          "title": "Pôr do Sol",
+          "creator": "RTP",
+          "level": "A2",
+          "description_fr": "Parodie hilarante des telenovelas portugaises, avec tous les clichés du genre poussés à l'extrême.",
+          "why_useful": "Humour portugais contemporain, excellent pour comprendre la culture populaire, dialogues exagérés donc faciles à suivre.",
+          "where_to_find": "RTP Play (gratuit)",
+          "language_notes": "Portugais européen avec surjeu comique, diction exagérée parfaite pour les apprenants."
+        }
+      ]
+    },
+    {
+      "type": "podcasts",
+      "items": [
+        {
+          "id": "media-015",
+          "title": "P24",
+          "creator": "Público",
+          "level": "B2",
+          "description_fr": "Podcast quotidien d'actualité du journal Público, résumant les principales nouvelles du jour en 20 minutes.",
+          "why_useful": "Actualité portugaise, vocabulaire journalistique, diction professionnelle claire.",
+          "where_to_find": "Spotify, Apple Podcasts, publico.pt",
+          "language_notes": "Portugais européen formel, journalistique, excellent pour le vocabulaire de l'actualité."
+        },
+        {
+          "id": "media-016",
+          "title": "Rádio Renascença - Reportagem",
+          "creator": "Rádio Renascença",
+          "level": "B1",
+          "description_fr": "Reportages et documentaires audio de la radio Renascença sur des sujets de société portugaise.",
+          "why_useful": "Reportages bien structurés, témoignages variés, rythme accessible.",
+          "where_to_find": "Spotify, Apple Podcasts, rr.sapo.pt",
+          "language_notes": "Portugais européen standard, mélange de narration formelle et témoignages spontanés."
+        },
+        {
+          "id": "media-017",
+          "title": "TSF Notícias",
+          "creator": "TSF Rádio Notícias",
+          "level": "B2",
+          "description_fr": "Flash d'information et analyses de la principale radio d'information portugaise.",
+          "why_useful": "Bulletins courts et denses, parfaits pour entraîner la compréhension rapide.",
+          "where_to_find": "Spotify, Apple Podcasts, tsf.pt",
+          "language_notes": "Portugais européen formel, débit rapide, vocabulaire politique et économique."
+        },
+        {
+          "id": "media-018",
+          "title": "A Opinião de...",
+          "creator": "RTP / Antena 1",
+          "level": "B2",
+          "description_fr": "Chroniques d'opinion de commentateurs portugais sur l'actualité politique et sociale.",
+          "why_useful": "Argumentation structurée, vocabulaire d'opinion, registre soutenu.",
+          "where_to_find": "RTP Play, Spotify",
+          "language_notes": "Portugais européen formel, discours argumentatif, connecteurs logiques fréquents."
+        },
+        {
+          "id": "media-019",
+          "title": "Prova Oral",
+          "creator": "RTP / Antena 1 (Fernando Alvim)",
+          "level": "B1",
+          "description_fr": "Émission de divertissement où des personnalités portugaises discutent de sujets variés avec humour.",
+          "why_useful": "Conversation naturelle entre natifs, humour portugais, sujets variés et accessibles.",
+          "where_to_find": "RTP Play, Spotify, Apple Podcasts",
+          "language_notes": "Portugais européen familier, rires et interruptions, bon pour habituer l'oreille au débit naturel."
+        },
+        {
+          "id": "media-020",
+          "title": "45 Graus",
+          "creator": "José Maria Pimentel",
+          "level": "B2",
+          "description_fr": "Podcast d'entretiens approfondis sur la science, la philosophie et la société avec des intellectuels lusophones.",
+          "why_useful": "Discussions longues et structurées, vocabulaire académique, exercice d'écoute prolongée.",
+          "where_to_find": "Spotify, Apple Podcasts, 45graus.parafuso.net",
+          "language_notes": "Portugais européen cultivé, débit posé, vocabulaire riche et précis."
+        }
+      ]
+    },
+    {
+      "type": "music",
+      "items": [
+        {
+          "id": "media-021",
+          "title": "Amália Rodrigues",
+          "creator": "Amália Rodrigues",
+          "level": "B1",
+          "description_fr": "La reine du fado, voix emblématique du Portugal. Répertoire classique incontournable.",
+          "why_useful": "Immersion dans le fado traditionnel, vocabulaire poétique de la saudade, prononciation lisboète classique.",
+          "where_to_find": "Spotify, YouTube, Apple Music",
+          "language_notes": "Portugais européen poétique, diction parfaite, chansons comme 'Uma Casa Portuguesa' sont des classiques culturels."
+        },
+        {
+          "id": "media-022",
+          "title": "Mariza",
+          "creator": "Mariza",
+          "level": "B1",
+          "description_fr": "Fadiste contemporaine, ambassadrice mondiale du fado moderne avec une voix puissante.",
+          "why_useful": "Fado contemporain accessible, prononciation claire, textes émotionnels compréhensibles.",
+          "where_to_find": "Spotify, YouTube, Apple Music",
+          "language_notes": "Portugais européen chanté, diction très nette, vocabulaire émotionnel."
+        },
+        {
+          "id": "media-023",
+          "title": "Ana Moura",
+          "creator": "Ana Moura",
+          "level": "A2",
+          "description_fr": "Fadiste moderne qui mélange fado traditionnel et influences pop, très populaire au Portugal.",
+          "why_useful": "Fado accessible et moderne, textes plus simples, bonne introduction au genre.",
+          "where_to_find": "Spotify, YouTube, Apple Music",
+          "language_notes": "Portugais européen clair, mélodies entraînantes, vocabulaire du quotidien mêlé au fado."
+        },
+        {
+          "id": "media-024",
+          "title": "Madredeus",
+          "creator": "Madredeus (Teresa Salgueiro)",
+          "level": "A2",
+          "description_fr": "Groupe emblématique mêlant musique traditionnelle portugaise et sonorités contemporaines.",
+          "why_useful": "Musique douce et contemplative, paroles claires et poétiques, parfait pour l'immersion sonore.",
+          "where_to_find": "Spotify, YouTube, Apple Music",
+          "language_notes": "Portugais européen chanté lentement, diction cristalline de Teresa Salgueiro, idéal pour débutants."
+        },
+        {
+          "id": "media-025",
+          "title": "Deolinda",
+          "creator": "Deolinda",
+          "level": "A2",
+          "description_fr": "Groupe de folk portugais moderne, connu pour leurs textes humoristiques et critiques sur la société.",
+          "why_useful": "Textes drôles et du quotidien, prononciation très claire, chansons mémorables.",
+          "where_to_find": "Spotify, YouTube, Apple Music",
+          "language_notes": "Portugais européen familier, paroles narratives faciles à suivre, humour typiquement portugais."
+        },
+        {
+          "id": "media-026",
+          "title": "Salvador Sobral",
+          "creator": "Salvador Sobral",
+          "level": "B1",
+          "description_fr": "Gagnant de l'Eurovision 2017 avec 'Amar pelos dois', chanteur de jazz et pop intimiste.",
+          "why_useful": "Artiste contemporain internationalement connu, textes poétiques, passerelle vers la musique portugaise actuelle.",
+          "where_to_find": "Spotify, YouTube, Apple Music",
+          "language_notes": "Portugais européen doux et mélodique, chante aussi en anglais et espagnol, diction intimiste."
+        },
+        {
+          "id": "media-027",
+          "title": "Capitão Fausto",
+          "creator": "Capitão Fausto",
+          "level": "B2",
+          "description_fr": "Groupe de rock indé portugais, l'un des plus populaires de la scène alternative lisboète.",
+          "why_useful": "Rock portugais contemporain, paroles engagées, vocabulaire jeune et actuel.",
+          "where_to_find": "Spotify, YouTube, Apple Music",
+          "language_notes": "Portugais européen contemporain, argot lisboète, débit rapide dans certaines chansons."
+        },
+        {
+          "id": "media-028",
+          "title": "Linda Martini",
+          "creator": "Linda Martini",
+          "level": "B2",
+          "description_fr": "Groupe de rock alternatif/post-rock portugais, référence de la scène indépendante.",
+          "why_useful": "Découverte de la scène rock portugaise, textes poétiques et complexes.",
+          "where_to_find": "Spotify, YouTube, Bandcamp",
+          "language_notes": "Portugais européen dans un registre poétique/littéraire, parfois difficile à comprendre à cause du style vocal."
+        }
+      ]
+    },
+    {
+      "type": "youtube",
+      "items": [
+        {
+          "id": "media-029",
+          "title": "RTP Play",
+          "creator": "RTP (Rádio e Televisão de Portugal)",
+          "level": "B1",
+          "description_fr": "Chaîne officielle de la télévision publique portugaise avec journaux, séries, documentaires et émissions.",
+          "why_useful": "Contenu gratuit et illimité, variété de programmes, sous-titres PT souvent disponibles.",
+          "where_to_find": "YouTube (RTP), rtp.pt/play",
+          "language_notes": "Portugais européen standard, diction professionnelle des journalistes, accents variés dans les reportages."
+        },
+        {
+          "id": "media-030",
+          "title": "SIC Notícias",
+          "creator": "SIC",
+          "level": "B2",
+          "description_fr": "Chaîne d'information en continu portugaise, avec journaux télévisés et débats.",
+          "why_useful": "Actualité en temps réel, débats politiques, entraînement à la compréhension rapide.",
+          "where_to_find": "YouTube (SIC Notícias), sicnoticias.pt",
+          "language_notes": "Portugais européen formel, débit journalistique rapide, vocabulaire de l'actualité."
+        },
+        {
+          "id": "media-031",
+          "title": "Practice Portuguese",
+          "creator": "Rui et Joel",
+          "level": "A2",
+          "description_fr": "Chaîne dédiée à l'apprentissage du portugais européen, avec des leçons et des podcasts.",
+          "why_useful": "Contenu spécifiquement conçu pour apprendre le PT-PT, explications claires, progression structurée.",
+          "where_to_find": "YouTube, practiceportuguese.com",
+          "language_notes": "Portugais européen avec explications en anglais, parfait pour les faux débutants."
+        },
+        {
+          "id": "media-032",
+          "title": "Portuguese Lab",
+          "creator": "Susana Morais",
+          "level": "A1",
+          "description_fr": "Leçons structurées de portugais européen pour débutants, avec grammaire et vocabulaire.",
+          "why_useful": "Cours progressifs très bien structurés, accent mis sur la prononciation PT-PT, exercices inclus.",
+          "where_to_find": "YouTube, portugueselab.com",
+          "language_notes": "Portugais européen avec explications en anglais, diction lente et claire pour débutants."
+        },
+        {
+          "id": "media-033",
+          "title": "Talk the Streets",
+          "creator": "Talk the Streets",
+          "level": "B1",
+          "description_fr": "Micro-trottoirs dans les rues de Lisbonne et Porto, conversations spontanées avec des Portugais.",
+          "why_useful": "Portugais authentique de la rue, accents variés, sous-titres PT+EN, excellent pour l'écoute réelle.",
+          "where_to_find": "YouTube",
+          "language_notes": "Portugais européen spontané, familier, accents régionaux variés, débit naturel avec hésitations."
+        }
+      ]
+    },
+    {
+      "type": "books",
+      "items": [
+        {
+          "id": "media-034",
+          "title": "O Livro do Desassossego",
+          "creator": "Fernando Pessoa",
+          "level": "C1",
+          "description_fr": "Œuvre majeure de Pessoa, journal intime fictif de Bernardo Soares, méditation sur Lisbonne et l'existence.",
+          "why_useful": "Chef-d'œuvre absolu de la littérature portugaise, prose poétique, immersion dans l'âme de Lisbonne.",
+          "where_to_find": "Librairies, Amazon, éditions bilingues disponibles",
+          "language_notes": "Portugais européen littéraire, phrases longues et complexes, vocabulaire riche. Niveau avancé requis."
+        },
+        {
+          "id": "media-035",
+          "title": "Memorial do Convento",
+          "creator": "José Saramago",
+          "level": "C1",
+          "description_fr": "Roman historique de Saramago (prix Nobel) sur la construction du couvent de Mafra au XVIIIe siècle.",
+          "why_useful": "Style unique de Saramago (ponctuation minimale), vocabulaire historique riche, chef-d'œuvre Nobel.",
+          "where_to_find": "Librairies, Amazon, éditions bilingues",
+          "language_notes": "Portugais européen littéraire, style sans points ni virgules classiques, exigeant mais formateur."
+        },
+        {
+          "id": "media-036",
+          "title": "Os Maias",
+          "creator": "Eça de Queirós",
+          "level": "B2",
+          "description_fr": "Grand roman réaliste du XIXe siècle, portrait satirique de la haute société lisboète à travers la famille Maia.",
+          "why_useful": "Classique incontournable, portrait de Lisbonne, ironie et humour, vocabulaire soutenu mais accessible.",
+          "where_to_find": "Librairies, Amazon, Projecto Gutenberg (gratuit en ligne)",
+          "language_notes": "Portugais européen du XIXe siècle, quelques archaïsmes mais globalement compréhensible."
+        },
+        {
+          "id": "media-037",
+          "title": "O Ano da Morte de Ricardo Reis",
+          "creator": "José Saramago",
+          "level": "B2",
+          "description_fr": "L'hétéronyme de Pessoa revient à Lisbonne en 1936 dans un Portugal sous Salazar.",
+          "why_useful": "Croisement Pessoa/Saramago, description détaillée de Lisbonne, contexte historique de l'Estado Novo.",
+          "where_to_find": "Librairies, Amazon",
+          "language_notes": "Portugais européen littéraire, plus accessible que Memorial do Convento, descriptions riches de Lisbonne."
+        },
+        {
+          "id": "media-038",
+          "title": "A Sibila",
+          "creator": "Agustina Bessa-Luís",
+          "level": "B2",
+          "description_fr": "Roman sur trois générations de femmes dans le nord du Portugal, explorant le pouvoir et la tradition.",
+          "why_useful": "Grande auteure portugaise, vision du Portugal rural, prose élégante et riche.",
+          "where_to_find": "Librairies, Amazon",
+          "language_notes": "Portugais européen littéraire, vocabulaire du monde rural nortenho, phrases élaborées."
+        },
+        {
+          "id": "media-039",
+          "title": "Contos de Eça de Queirós (contes choisis)",
+          "creator": "Eça de Queirós",
+          "level": "B1",
+          "description_fr": "Recueil de nouvelles courtes d'Eça de Queirós, plus accessibles que ses grands romans.",
+          "why_useful": "Format court idéal pour progresser, ironie et humour, introduction à un auteur majeur.",
+          "where_to_find": "Librairies, Projecto Gutenberg (gratuit), éditions annotées pour apprenants",
+          "language_notes": "Portugais européen classique mais dans des textes courts, bon tremplin avant Os Maias."
+        }
+      ]
+    },
+    {
+      "type": "newspapers",
+      "items": [
+        {
+          "id": "media-040",
+          "title": "Público",
+          "creator": "Público",
+          "level": "B2",
+          "description_fr": "Quotidien de référence portugais, journal de qualité couvrant politique, culture, société et international.",
+          "why_useful": "Journalisme de qualité, articles bien écrits, version en ligne avec accès partiel gratuit.",
+          "where_to_find": "publico.pt (articles gratuits limités)",
+          "language_notes": "Portugais européen formel journalistique, vocabulaire riche et varié, style clair."
+        },
+        {
+          "id": "media-041",
+          "title": "Expresso",
+          "creator": "Expresso",
+          "level": "B2",
+          "description_fr": "Hebdomadaire de référence au Portugal, analyses approfondies et dossiers de fond.",
+          "why_useful": "Articles longs et analytiques, excellent pour développer la lecture approfondie en PT.",
+          "where_to_find": "expresso.pt",
+          "language_notes": "Portugais européen formel, registre analytique, vocabulaire économique et politique."
+        },
+        {
+          "id": "media-042",
+          "title": "Observador",
+          "creator": "Observador",
+          "level": "B1",
+          "description_fr": "Journal en ligne portugais avec actualité, opinion et culture, entièrement gratuit.",
+          "why_useful": "Accès gratuit illimité, articles de longueur variée, bonne ressource quotidienne.",
+          "where_to_find": "observador.pt (gratuit)",
+          "language_notes": "Portugais européen standard, articles souvent plus courts et accessibles que Público."
+        },
+        {
+          "id": "media-043",
+          "title": "Jornal de Notícias",
+          "creator": "JN",
+          "level": "B1",
+          "description_fr": "Quotidien populaire basé à Porto, couvrant l'actualité nationale avec un angle plus populaire.",
+          "why_useful": "Style plus accessible que Público, bonne couverture des faits divers et du sport, perspective du nord.",
+          "where_to_find": "jn.pt",
+          "language_notes": "Portugais européen standard, style journalistique accessible, vocabulaire courant."
+        }
+      ]
+    }
+  ]
+}

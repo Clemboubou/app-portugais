@@ -1,0 +1,84 @@
+{
+  "id": "a2-m5-l01",
+  "title": "Le futur avec ir + infinitif",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Conjuguer le verbe IR au present de l'indicatif",
+    "Construire le futur proche avec ir + infinitif",
+    "Exprimer des actions futures en portugais europeen"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Parler du futur",
+      "content": "<p>En portugais europeen, la maniere la plus courante d'exprimer le futur dans la langue parlee est d'utiliser le verbe <strong>ir</strong> (aller) conjugue au present suivi d'un <strong>infinitif</strong>. Cette construction est equivalente au francais 'je vais + infinitif'.</p><p>Exemple : <em>Amanha <strong>vou estudar</strong> portugues.</em> (Demain, je vais etudier le portugais.)</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Le verbe IR au present",
+      "content": "<p>Rappel de la conjugaison de <strong>ir</strong> au present :</p><table><thead><tr><th>Pronom</th><th>Conjugaison</th><th>Exemple</th><th>Francais</th></tr></thead><tbody><tr><td>eu</td><td><strong>vou</strong></td><td><em>Vou falar.</em></td><td>Je vais parler.</td></tr><tr><td>tu</td><td><strong>vais</strong></td><td><em>Vais comer?</em></td><td>Tu vas manger ?</td></tr><tr><td>ele/ela/voce</td><td><strong>vai</strong></td><td><em>Vai chover.</em></td><td>Il va pleuvoir.</td></tr><tr><td>nos</td><td><strong>vamos</strong></td><td><em>Vamos sair.</em></td><td>Nous allons sortir.</td></tr><tr><td>eles/elas/voces</td><td><strong>vao</strong></td><td><em>Vao viajar.</em></td><td>Ils vont voyager.</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structure ir + infinitif",
+      "content": "<p>La construction est simple : <strong>ir (conjugue) + verbe a l'infinitif</strong></p><ul><li><em>Eu <strong>vou trabalhar</strong> amanha.</em> (Je vais travailler demain.)</li><li><em>Tu <strong>vais gostar</strong> deste restaurante.</em> (Tu vas aimer ce restaurant.)</li><li><em>Ela <strong>vai visitar</strong> o Algarve no verao.</em> (Elle va visiter l'Algarve en ete.)</li><li><em>Nos <strong>vamos aprender</strong> muitas coisas novas.</em> (Nous allons apprendre beaucoup de choses nouvelles.)</li><li><em>Eles <strong>vao mudar</strong> de casa.</em> (Ils vont demarquer.)</li></ul><p><strong>Negation</strong> : <em>Nao <strong>vou sair</strong> hoje.</em> (Je ne vais pas sortir aujourd'hui.)</p><p><strong>Question</strong> : <em><strong>Vais fazer</strong> o que amanha?</em> (Qu'est-ce que tu vas faire demain ?)</p><p><strong>Note</strong> : Le futur simple (falarei, comerei) existe en portugais mais est surtout utilise a l'ecrit. A l'oral, <em>ir + infinitif</em> est largement prefere.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Projets pour le week-end",
+      "content": "<p>Pratiquez avec ces phrases sur les projets du week-end :</p><ul><li><em>No sabado, <strong>vou visitar</strong> o Museu dos Azulejos.</em> (Samedi, je vais visiter le Musee des Azulejos.)</li><li><em>Depois, <strong>vamos almocar</strong> num restaurante em Alfama.</em> (Apres, nous allons dejeuner dans un restaurant a Alfama.)</li><li><em>A tarde, o Pedro <strong>vai jogar</strong> futebol.</em> (L'apres-midi, Pedro va jouer au football.)</li><li><em>No domingo, <strong>vamos descansar</strong> em casa.</em> (Dimanche, nous allons nous reposer a la maison.)</li><li><em>A noite, <strong>vou ver</strong> um filme.</em> (Le soir, je vais regarder un film.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Vos projets",
+      "content": "<p>Decrivez vos projets pour la semaine prochaine. Ecrivez 5 phrases avec <em>ir + infinitif</em>, en utilisant des sujets differents (eu, nos, ele/ela) :</p><p>Exemple : <em>Na segunda-feira, vou comecar um curso novo. Na terca, a minha amiga vai chegar de Paris. Na quarta, vamos jantar fora. Na quinta, vou estudar para o exame. No fim de semana, vamos passear em Sintra.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Nous allons sortir' en portugais ?",
+      "correctAnswer": "Vamos sair",
+      "distractors": ["Vao sair", "Vou sair", "Vais sair"],
+      "explanation": "'Nos' + ir = 'vamos'. 'Vamos sair' = Nous allons sortir."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amanha eu ________ estudar portugues.",
+      "correctAnswer": "vou",
+      "explanation": "'Eu vou' + infinitif = Je vais + infinitif. 'Vou estudar' = Je vais etudier."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Elle va visiter Lisbonne en ete.'",
+      "correctAnswer": "Ela vai visitar Lisboa no verao.",
+      "explanation": "'Ela vai' + infinitif. 'No verao' = en ete. 'Visitar Lisboa' = visiter Lisbonne."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme negative de 'Vou sair' ?",
+      "correctAnswer": "Nao vou sair",
+      "distractors": ["Vou nao sair", "Nao sair vou", "Nao ir sair"],
+      "explanation": "La negation se place avant le verbe conjugue : 'Nao vou sair' = Je ne vais pas sortir."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Eles ________ viajar para o Algarve.",
+      "correctAnswer": "vao",
+      "explanation": "'Eles/elas/voces' + ir = 'vao'. 'Vao viajar' = Ils vont voyager."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "ir + infinitif", "phonetic": "/iɾ/", "french": "aller + infinitif (futur proche)"},
+    {"portuguese": "vou", "phonetic": "/vo/", "french": "je vais"},
+    {"portuguese": "vais", "phonetic": "/vajʃ/", "french": "tu vas"},
+    {"portuguese": "vai", "phonetic": "/vaj/", "french": "il/elle va"},
+    {"portuguese": "vamos", "phonetic": "/ˈvɐmuʃ/", "french": "nous allons"},
+    {"portuguese": "vao", "phonetic": "/vɐ̃w̃/", "french": "ils/elles vont"},
+    {"portuguese": "amanha", "phonetic": "/ɐmɐˈɲɐ̃/", "french": "demain"},
+    {"portuguese": "na proxima semana", "phonetic": "/nɐ ˈpɾɔsimɐ sɨˈmɐnɐ/", "french": "la semaine prochaine"},
+    {"portuguese": "no proximo mes", "phonetic": "/nu ˈpɾɔsimu meʃ/", "french": "le mois prochain"},
+    {"portuguese": "no proximo ano", "phonetic": "/nu ˈpɾɔsimu ˈɐnu/", "french": "l'annee prochaine"}
+  ]
+}

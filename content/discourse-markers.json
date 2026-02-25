@@ -1,0 +1,160 @@
+{
+  "markers": [
+    {
+      "category": "Oral Spontaneous",
+      "level": "B1",
+      "markers": [
+        {
+          "portuguese": "então",
+          "french": "alors / alors maintenant",
+          "function": "Transition, regulation du turno",
+          "example": "Então, o que aconteceu depois?",
+          "usage": "Très fréquent à l'oral. Permet de prendre la parole ou de continuer."
+        },
+        {
+          "portuguese": "pois",
+          "french": "eh bien / alors",
+          "function": "Validation, lien entre idées",
+          "example": "Pois é, exatamente.",
+          "usage": "Confirmation, accord. Très Portuguese."
+        },
+        {
+          "portuguese": "quer dizer",
+          "french": "c'est-à-dire / je veux dire",
+          "function": "Clarification, reformulation",
+          "example": "Quer dizer, não é bem assim.",
+          "usage": "Auto-correction, reformulation, atténuation"
+        },
+        {
+          "portuguese": "bem",
+          "french": "bon / eh bien",
+          "function": "Hésitation, pensée",
+          "example": "Bem, tenho que pensar nisso.",
+          "usage": "Remplisseur, gain de temps pour penser"
+        },
+        {
+          "portuguese": "pronto",
+          "french": "voilà / c'est tout",
+          "function": "Conclusion, fin de sujet",
+          "example": "Pronto, é isto.",
+          "usage": "Clôture, acceptation, fin d'un point"
+        }
+      ]
+    },
+    {
+      "category": "Addition & Structure",
+      "level": "B1",
+      "markers": [
+        {
+          "portuguese": "além disso",
+          "french": "en outre / de plus",
+          "function": "Addition d'information",
+          "example": "O livro é interessante. Além disso, é barato.",
+          "usage": "Formel et informel"
+        },
+        {
+          "portuguese": "portanto",
+          "french": "donc / par conséquent",
+          "function": "Conclusion, conséquence",
+          "example": "Choveu, portanto não fomos.",
+          "usage": "Formel, conclusion logique"
+        },
+        {
+          "portuguese": "ou seja",
+          "french": "c'est-à-dire",
+          "function": "Clarification, reformulation",
+          "example": "Chegamos tarde, ou seja, fomos multados.",
+          "usage": "Clarification, équivalence"
+        }
+      ]
+    },
+    {
+      "category": "Contrast & Opposition",
+      "level": "B1",
+      "markers": [
+        {
+          "portuguese": "mas",
+          "french": "mais",
+          "function": "Contraste simple",
+          "example": "Gosto da proposta, mas tem problemas.",
+          "usage": "Très basique"
+        },
+        {
+          "portuguese": "porém",
+          "french": "cependant",
+          "function": "Contraste plus formel",
+          "example": "A economia cresceu; porém, desigualdade aumentou.",
+          "usage": "Formel, écrit"
+        },
+        {
+          "portuguese": "por outro lado",
+          "french": "d'autre part / en revanche",
+          "function": "Présenter perspective alternative",
+          "example": "Por um lado, é benéfico. Por outro lado, há riscos.",
+          "usage": "Structurer deux perspectives"
+        }
+      ]
+    },
+    {
+      "category": "Formal Academic",
+      "level": "B2",
+      "markers": [
+        {
+          "portuguese": "com efeito",
+          "french": "en effet",
+          "function": "Affirmation, confirmation",
+          "example": "Com efeito, os dados confirmam isto.",
+          "usage": "Académique, confirmation"
+        },
+        {
+          "portuguese": "todavia",
+          "french": "néanmoins / cependant",
+          "function": "Contraste académique",
+          "example": "A teoria é promissora; todavia, testes falharam.",
+          "usage": "Très formel, académique"
+        },
+        {
+          "portuguese": "não obstante",
+          "french": "malgré tout",
+          "function": "Concession forte",
+          "example": "Não obstante os desafios, avançamos.",
+          "usage": "Formel, concession"
+        },
+        {
+          "portuguese": "outrossim",
+          "french": "de surcroît",
+          "function": "Addition formelle",
+          "example": "Outrossim, é importante notar que...",
+          "usage": "Très académique, légèrement archaïque"
+        }
+      ]
+    },
+    {
+      "category": "C1 Advanced",
+      "level": "C1",
+      "markers": [
+        {
+          "portuguese": "diga-se de passagem",
+          "french": "soit dit en passant",
+          "function": "Parenthèse, remarque secondaire",
+          "example": "Ele era, diga-se de passagem, brilhante.",
+          "usage": "Intermède, remarque pertinente mais secondaire"
+        },
+        {
+          "portuguese": "sem dúvida",
+          "french": "sans doute",
+          "function": "Affirmation de certitude",
+          "example": "Sem dúvida, esta é a melhor solução.",
+          "usage": "Affirmation, conviction"
+        },
+        {
+          "portuguese": "é certo que",
+          "french": "il est vrai que",
+          "function": "Concession,reconnaissance d'un point",
+          "example": "É certo que há riscos, mas...",
+          "usage": "Concession stratégique avant réfutation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "a2-m4-l04",
+  "title": "Reserver un hebergement",
+  "type": "conversation",
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Reserver une chambre d'hotel ou un hebergement en portugais",
+    "Poser des questions sur les services et les prix",
+    "Comprendre les informations relatives au check-in et check-out"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'hebergement au Portugal",
+      "content": "<p>Le Portugal offre de nombreux types d'hebergement : <strong>hoteis</strong> (hotels), <strong>pensoes</strong> (pensions), <strong>albergues</strong> (auberges de jeunesse) et <strong>alojamentos locais</strong> (locations touristiques). Savoir reserver et communiquer avec la reception est indispensable pour tout voyageur.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Vocabulaire de l'hebergement",
+      "content": "<p>Termes essentiels :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><strong>o hotel</strong></td><td>l'hotel</td></tr><tr><td><strong>o quarto individual</strong></td><td>la chambre simple</td></tr><tr><td><strong>o quarto duplo</strong></td><td>la chambre double</td></tr><tr><td><strong>a reserva</strong></td><td>la reservation</td></tr><tr><td><strong>a recepcao</strong></td><td>la reception</td></tr><tr><td><strong>a chave / o cartao do quarto</strong></td><td>la cle / la carte de la chambre</td></tr><tr><td><strong>o pequeno-almoco</strong></td><td>le petit-dejeuner</td></tr><tr><td><strong>a entrada (check-in)</strong></td><td>l'enregistrement</td></tr><tr><td><strong>a saida (check-out)</strong></td><td>le depart</td></tr><tr><td><strong>a diaria / o preco por noite</strong></td><td>le tarif par nuit</td></tr></tbody></table><p><strong>Note</strong> : en portugais europeen, on dit <em>pequeno-almoco</em> (pas 'cafe da manha' qui est bresilien).</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Phrases pour reserver",
+      "content": "<p>Expressions utiles pour la reservation :</p><ul><li><em>Queria reservar um quarto duplo para duas noites.</em> (Je voudrais reserver une chambre double pour deux nuits.)</li><li><em>Tem quartos disponiveis para o dia 15 de junho?</em> (Avez-vous des chambres disponibles pour le 15 juin ?)</li><li><em>Qual e o preco por noite?</em> (Quel est le prix par nuit ?)</li><li><em>O pequeno-almoco esta incluido?</em> (Le petit-dejeuner est inclus ?)</li><li><em>A que horas e o check-in / check-out?</em> (A quelle heure est le check-in / check-out ?)</li><li><em>Posso ver o quarto antes?</em> (Puis-je voir la chambre avant ?)</li><li><em>Tem Wi-Fi gratuito?</em> (Avez-vous le Wi-Fi gratuit ?)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Dialogue a la reception",
+      "content": "<p>Pratiquez ce dialogue :</p><p><strong>Hospede</strong>: <em>Boa tarde, tenho uma reserva em nome de Dupont.</em><br/><strong>Recepcionista</strong>: <em>Boa tarde. Sim, vejo aqui. Um quarto duplo para tres noites, correto?</em><br/><strong>Hospede</strong>: <em>Sim, e isso. O pequeno-almoco esta incluido?</em><br/><strong>Recepcionista</strong>: <em>Sim, o pequeno-almoco e servido das sete e meia as dez, no primeiro andar.</em><br/><strong>Hospede</strong>: <em>Otimo. A que horas e o check-out?</em><br/><strong>Recepcionista</strong>: <em>Ate as doze horas. Aqui tem o cartao do quarto. E o quarto trezentos e cinco, no terceiro andar.</em><br/><strong>Hospede</strong>: <em>Obrigado. Ha estacionamento?</em><br/><strong>Recepcionista</strong>: <em>Sim, temos garagem. Custa cinco euros por dia.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Votre reservation",
+      "content": "<p>Imaginez que vous telephonez a un hotel a Lisbonne pour reserver. Ecrivez votre partie du dialogue en incluant : le type de chambre, les dates, une question sur le petit-dejeuner et une sur le prix.</p><p>Exemple : <em>Boa tarde, queria reservar um quarto individual para o dia 20 de marco, por duas noites. O pequeno-almoco esta incluido? E qual e o preco por noite?</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'petit-dejeuner' en portugais europeen ?",
+      "correctAnswer": "Pequeno-almoco",
+      "distractors": ["Cafe da manha", "Almorco", "Dejejum"],
+      "explanation": "En portugais europeen, on dit 'pequeno-almoco'. 'Cafe da manha' est la forme bresilienne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Queria reservar um quarto ________ para duas noites.",
+      "correctAnswer": "duplo",
+      "explanation": "'Quarto duplo' = chambre double. 'Quarto individual' = chambre simple."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Le petit-dejeuner est inclus ?'",
+      "correctAnswer": "O pequeno-almoco esta incluido?",
+      "explanation": "'Incluido' = inclus. Le petit-dejeuner se dit 'pequeno-almoco' en portugais europeen."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'Tem quartos disponiveis?' ?",
+      "correctAnswer": "Avez-vous des chambres disponibles ?",
+      "distractors": ["Les chambres sont propres ?", "Combien coutent les chambres ?", "Ou sont les chambres ?"],
+      "explanation": "'Disponivel' = disponible. 'Tem quartos disponiveis?' = Avez-vous des chambres disponibles ?"
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A que horas e o ________?",
+      "correctAnswer": "check-out",
+      "explanation": "Le 'check-out' (saida) est l'heure a laquelle il faut quitter la chambre. Le terme anglais est couramment utilise au Portugal."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "o hotel", "phonetic": "/oˈtɛl/", "french": "l'hotel"},
+    {"portuguese": "o quarto", "phonetic": "/ˈkwaɾtu/", "french": "la chambre"},
+    {"portuguese": "a reserva", "phonetic": "/ʁɨˈzɛɾvɐ/", "french": "la reservation"},
+    {"portuguese": "o pequeno-almoco", "phonetic": "/pɨˈkenu alˈmosu/", "french": "le petit-dejeuner"},
+    {"portuguese": "a recepcao", "phonetic": "/ʁɨsɛˈsɐ̃w̃/", "french": "la reception"},
+    {"portuguese": "a chave", "phonetic": "/ˈʃavɨ/", "french": "la cle"},
+    {"portuguese": "disponivel", "phonetic": "/diʃpuˈnivɛl/", "french": "disponible"},
+    {"portuguese": "incluido", "phonetic": "/ĩkluˈidu/", "french": "inclus"},
+    {"portuguese": "o andar", "phonetic": "/ɐ̃ˈdaɾ/", "french": "l'etage"},
+    {"portuguese": "a diaria", "phonetic": "/diˈaɾjɐ/", "french": "le tarif par nuit"}
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "b1-m5-l04",
+  "title": "L'histoire du Portugal",
+  "type": "reading",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Lire et comprendre un texte sur les grandes périodes de l'histoire portugaise",
+    "Connaître les Descobrimentos et la Révolution des Œillets",
+    "Utiliser le vocabulaire historique en portugais européen"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Un pays à l'histoire riche",
+      "content": "<p>Le Portugal possède une histoire fascinante, marquée par les <strong>Grandes Découvertes</strong> (<em>os Descobrimentos</em>) et la <strong>Révolution des Œillets</strong> (<em>o 25 de Abril</em>). Comprendre ces événements est essentiel pour saisir l'identité portugaise contemporaine.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Texto : Grandes momentos da história de Portugal",
+      "content": "<p><em>Portugal tem uma das histórias mais ricas da Europa. No século XV, os navegadores portugueses deram início à Era dos Descobrimentos. Vasco da Gama chegou à Índia em 1498, Pedro Álvares Cabral chegou ao Brasil em 1500, e os portugueses estabeleceram feitorias por toda a Ásia e África.</em></p><p><em>O terramoto de Lisboa de 1755 destruiu grande parte da capital. O Marquês de Pombal reconstruiu a cidade com um plano urbanístico inovador — a Baixa Pombalina, que ainda hoje podemos admirar.</em></p><p><em>Em 1910, a Monarquia foi substituída pela República. Mas em 1933, António de Oliveira Salazar instaurou o Estado Novo, uma ditadura que durou mais de quarenta anos.</em></p><p><em>No dia 25 de Abril de 1974, um golpe militar pacífico pôs fim à ditadura. Os soldados colocaram cravos vermelhos nos canos das espingardas — por isso se chama a Revolução dos Cravos. Este dia é feriado nacional e o símbolo da democracia portuguesa.</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire historique",
+      "content": "<p>Mots clés du texte :</p><ul><li><em>os Descobrimentos</em> — les Grandes Découvertes</li><li><em>o navegador</em> — le navigateur</li><li><em>o terramoto</em> — le tremblement de terre (attention : en PE c'est <em>terramoto</em>, pas <em>terremoto</em> comme au Brésil)</li><li><em>a ditadura</em> — la dictature</li><li><em>o golpe militar</em> — le coup d'État militaire</li><li><em>os cravos</em> — les œillets</li><li><em>a democracia</em> — la démocratie</li><li><em>o feriado</em> — le jour férié</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Compréhension du texte",
+      "content": "<p>Répondez aux questions :</p><ol><li>En quelle année Vasco da Gama est-il arrivé en Inde ?</li><li>Qui a reconstruit Lisbonne après le tremblement de terre ?</li><li>Combien de temps a duré la dictature de l'Estado Novo ?</li><li>Pourquoi appelle-t-on cette révolution « la Révolution des Œillets » ?</li></ol><p>Réponses : 1) En 1498. 2) Le Marquis de Pombal. 3) Plus de quarante ans (1933-1974). 4) Parce que les soldats ont mis des œillets rouges dans les canons de leurs fusils.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Parler d'histoire",
+      "content": "<p>Discutez en portugais :</p><ol><li><em>Qual é o momento mais importante da história de Portugal, na sua opinião?</em></li><li><em>Pode comparar o 25 de Abril com um acontecimento histórico do seu país?</em></li><li><em>Porque é que é importante conhecer a história de um país cuja língua estamos a aprender?</em></li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quand a eu lieu la Révolution des Œillets ?",
+      "correctAnswer": "Le 25 avril 1974",
+      "distractors": ["Le 25 avril 1975", "Le 1er mai 1974", "Le 5 octobre 1910"],
+      "explanation": "Le 25 de Abril de 1974 est la date de la Révolution des Œillets, qui a mis fin à la dictature."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Os soldados colocaram ________ vermelhos nos canos das espingardas.",
+      "correctAnswer": "cravos",
+      "explanation": "'Cravos' = œillets. Les soldats ont placé des œillets rouges dans les canons de leurs fusils, donnant son nom à la révolution."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Les navigateurs portugais ont découvert la route vers l'Inde.'",
+      "correctAnswer": "Os navegadores portugueses descobriram o caminho para a Índia.",
+      "explanation": "'Navegadores' = navigateurs. 'Descobriram' = passé simple de 'descobrir' (découvrir)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'tremblement de terre' en portugais européen ?",
+      "correctAnswer": "terramoto",
+      "distractors": ["terremoto", "terreno", "terremote"],
+      "explanation": "En portugais européen, on dit 'terramoto' (pas 'terremoto' qui est la forme brésilienne)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O 25 de Abril é um ________ nacional em Portugal.",
+      "correctAnswer": "feriado",
+      "explanation": "'Feriado' = jour férié. Le 25 avril est un jour férié national au Portugal."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "Descobrimentos", "phonetic": "/dɨʃkubɾiˈmẽtuʃ/", "french": "Grandes Découvertes"},
+    {"portuguese": "navegador", "phonetic": "/nɐvɨɡɐˈdoɾ/", "french": "navigateur"},
+    {"portuguese": "terramoto", "phonetic": "/tɨʁɐˈmotu/", "french": "tremblement de terre (PE)"},
+    {"portuguese": "ditadura", "phonetic": "/ditɐˈduɾɐ/", "french": "dictature"},
+    {"portuguese": "golpe militar", "phonetic": "/ˈɡɔlpɨ miliˈtaɾ/", "french": "coup d'État militaire"},
+    {"portuguese": "cravos", "phonetic": "/ˈkɾavuʃ/", "french": "œillets"},
+    {"portuguese": "democracia", "phonetic": "/dɨmukɾɐˈsiɐ/", "french": "démocratie"},
+    {"portuguese": "feriado", "phonetic": "/fɨˈɾiadu/", "french": "jour férié"},
+    {"portuguese": "revolução", "phonetic": "/ʁɨvuluˈsɐ̃w/", "french": "révolution"}
+  ]
+}

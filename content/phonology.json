@@ -1,0 +1,256 @@
+{
+  "phonology": [
+    {
+      "id": "phon-a1-001",
+      "level": "A1",
+      "title": "Accent tonique et rythme",
+      "description": "La portugais européen est une langue à accent d'intensité marquée. Les voyelles atones subissent une réduction extrême.",
+      "content": {
+        "rule": "Syllabe tonique = augmentation de volume et de durée. Syllabes atones = réduction et centralisation.",
+        "examples": [
+          {
+            "word": "CAsa",
+            "ipa": "/ˈka.zɐ/",
+            "meaning": "maison",
+            "note": "Première syllabe forte, deuxième réduite (schwa central)"
+          },
+          {
+            "word": "MOto",
+            "ipa": "/ˈmo.tu/",
+            "meaning": "moto",
+            "note": "O tonique est /o/ fermé. O final est /u/ réduit."
+          }
+        ],
+        "practice": "Écoutez des mots portuguais et identifiez la syllabe tonique par le volume."
+      }
+    },
+    {
+      "id": "phon-a1-002",
+      "level": "A1",
+      "title": "Voyelles atones : le schwa /ə/",
+      "description": "Les voyelles atones (surtout 'e' et 'o') se centralisent et deviennent schwa /ə/, une voyelle neutre.",
+      "content": {
+        "rule": "e atone → /ə/. o atone → /ə/ ou /u/ selon contexte. a atone → /ɐ/.",
+        "examples": [
+          {
+            "word": "PEsado",
+            "ipa": "/pə.ˈza.du/",
+            "meaning": "lourd",
+            "note": "Premier e atone devient schwa"
+          },
+          {
+            "word": "COMida",
+            "ipa": "/ku.ˈmi.dɐ/",
+            "meaning": "nourriture",
+            "note": "o atone → u, i tonique /i/, a atone → /ɐ/"
+          }
+        ],
+        "practice": "Répétez des mots avec attaque auditive sur la réduction vocalique."
+      }
+    },
+    {
+      "id": "phon-a1-003",
+      "level": "A1",
+      "title": "Les consonantes 'ch', 'lh', 'nh'",
+      "description": "Trois digraphes consonantiques spécifiques au portugais représentent des sons palatialisés.",
+      "content": {
+        "rule": "ch = /ʃ/ (comme français 'j' dans je). lh = /ʎ/ (palatal latéral). nh = /ɲ/ (palatal nasal).",
+        "examples": [
+          {
+            "word": "CHave",
+            "ipa": "/ˈʃa.vɐ/",
+            "meaning": "clé",
+            "note": "ch = /ʃ/ fricative alvéolaire sourde"
+          },
+          {
+            "word": "FILHa",
+            "ipa": "/ˈfi.ʎɐ/",
+            "meaning": "fille",
+            "note": "lh = /ʎ/ (presque ly en français)"
+          },
+          {
+            "word": "CAMpaNHa",
+            "ipa": "/kɐ̃.pɐ.ˈɲɐ/",
+            "meaning": "campagne",
+            "note": "nh = /ɲ/ (comme gn français dans peigne)"
+          }
+        ],
+        "practice": "Isolez ces sons et répétez jusqu'à naturel."
+      }
+    },
+    {
+      "id": "phon-a2-001",
+      "level": "A2",
+      "title": "Le 'L' sombre final (velarization)",
+      "description": "En position finale de syllabe, le 'l' se vélarise /ɫ/, ce qui le rend très différent du français. C'est une caractéristique cruciale du PT-PT.",
+      "content": {
+        "rule": "L final → /ɫ/ (L sombre, arrière-palatal). Differ radicalement du français /l/ alvéolaire.",
+        "examples": [
+          {
+            "word": "PApeL",
+            "ipa": "/pɐ.pˈɛɫ/",
+            "meaning": "papier",
+            "note": "L final = /ɫ/, velarisé (sombre)"
+          },
+          {
+            "word": "CabeL",
+            "ipa": "/kɐ.bˈɛɫ/",
+            "meaning": "cheveu",
+            "note": "Même L velarisé final"
+          },
+          {
+            "word": "OUriL",
+            "ipa": "/ɔw.ˈriɫ/",
+            "meaning": "oreille",
+            "note": "L final impossible à prononcer comme français"
+          }
+        ],
+        "practice": "Écoutez des parlants natifs prononcer mots se terminant en '-l'. Notez la profondeur du son."
+      }
+    },
+    {
+      "id": "phon-a2-002",
+      "level": "A2",
+      "title": "La nasalisation des voyelles",
+      "description": "Les voyelles précédant 'm' ou 'n' se nasalisent, affectant la couleur du son.",
+      "content": {
+        "rule": "a + m/n → /ɐ̃/ (a nasalisé). e + m/n → /ẽ/. o + m/n → /õ/.",
+        "examples": [
+          {
+            "word": "CAMpo",
+            "ipa": "/ˈkɐ̃.pu/",
+            "meaning": "champ",
+            "note": "am → /ɐ̃/ nasalisé"
+          },
+          {
+            "word": "TeMPo",
+            "ipa": "/ˈtẽ.pu/",
+            "meaning": "temps",
+            "note": "em → /ẽ/ nasalisé"
+          },
+          {
+            "word": "QUINta",
+            "ipa": "/ˈkĩ.tɐ/",
+            "meaning": "propriété rurale",
+            "note": "in → /ĩ/ nasalisé"
+          }
+        ],
+        "practice": "Prononcez lentement en sentant l'air passant par le nez."
+      }
+    },
+    {
+      "id": "phon-b1-001",
+      "level": "B1",
+      "title": "Les fricatives : s, z, x, j",
+      "description": "Ces consonantes fricatives ont des réalisations différentes selon le contexte et la position.",
+      "content": {
+        "rule": "s initial/après voyelle = /z/ sonore. s devant consonne sourde = /ʃ/. x = /ʃ/. j = /ʒ/.",
+        "examples": [
+          {
+            "word": "SOL",
+            "ipa": "/ˈsoɫ/",
+            "meaning": "soleil",
+            "note": "s initial = /s/ sourd"
+          },
+          {
+            "word": "oSO",
+            "ipa": "/u.ˈzu/",
+            "meaning": "ours",
+            "note": "s intervocalique = /z/ sonore"
+          },
+          {
+            "word": "eSTÁ",
+            "ipa": "/ɛʃ.ˈta/",
+            "meaning": "est",
+            "note": "s avant consonante = /ʃ/ (changement à s alvéolaire)"
+          },
+          {
+            "word": "PAixão",
+            "ipa": "/pɐ.ˈʃɐ̃w̃/",
+            "meaning": "passion",
+            "note": "x = /ʃ/ fricative"
+          }
+        ],
+        "practice": "Écoutez et identifiez le changement de son selon le contexte."
+      }
+    },
+    {
+      "id": "phon-b1-002",
+      "level": "B1",
+      "title": "Les occlusives : plosion et aspiration",
+      "description": "Les consonantes occlusives portugaises ne s'aspirent pas (contrairement à l'anglais), mais ont une plosion claire.",
+      "content": {
+        "rule": "p, t, k = occlusives sans aspiration. b, d, g = occlusives sonores.",
+        "examples": [
+          {
+            "word": "PÃO",
+            "ipa": "/pɐ̃w̃/",
+            "meaning": "pain",
+            "note": "p sans aspiration (différent de l'anglais 'pan')"
+          },
+          {
+            "word": "TOPO",
+            "ipa": "/ˈto.pu/",
+            "meaning": "sommet",
+            "note": "t initial sans aspiration"
+          }
+        ],
+        "practice": "Écoutez différence entre 'pan' (anglais) avec aspiration et 'pão' (portugais) sans."
+      }
+    },
+    {
+      "id": "phon-b2-001",
+      "level": "B2",
+      "title": "Les diphthongues et triphtongues",
+      "description": "Le portugais a plusieurs combinaisons vocaliques complexes qui se prononcent comme une seule unité syllabique.",
+      "content": {
+        "rule": "ai = /ɐj/, ei = /ej/, oi = /ɔj/, ui = /wi/, au = /aw/, eu = /ew/, ou = /o/.",
+        "examples": [
+          {
+            "word": "PAI",
+            "ipa": "/pɐj/",
+            "meaning": "père",
+            "note": "ai = diphthongue /ɐj/"
+          },
+          {
+            "word": "ANAU",
+            "ipa": "/ɐ.ˈnaw/",
+            "meaning": "ananas (Br)",
+            "note": "au = diphthongue /aw/"
+          },
+          {
+            "word": "MãE",
+            "ipa": "/mɐ̃j̃/",
+            "meaning": "mère",
+            "note": "ã + e = diphthongue nasalisée /ɐ̃j̃/"
+          }
+        ],
+        "practice": "Prononcez lentement les diphthongues sans séparation des voyelles."
+      }
+    },
+    {
+      "id": "phon-c1-001",
+      "level": "C1",
+      "title": "Les phénomènes prosodiques avancés",
+      "description": "Au niveau C1, comprenez les variations prosodiques (intonation, rythme) et leur impact émotionnel/pragmatique.",
+      "content": {
+        "rule": "Intonation descendante = affirmation. Intonation montante = question / incertitude. Rythme : pt-pt est syllabe-timed (pas stress-timed comme anglais).",
+        "examples": [
+          {
+            "word": "ESTÁS BEM?",
+            "ipa": "intonation montante final",
+            "meaning": "Tu vas bien ?",
+            "note": "Montée pour indiquer question"
+          },
+          {
+            "word": "ESTOU BEM.",
+            "ipa": "intonation descendante finale",
+            "meaning": "Je vais bien.",
+            "note": "Descente pour assertivité"
+          }
+        ],
+        "practice": "Écoutez natifs et notez les courbes mélodiques selon contexte."
+      }
+    }
+  ]
+}

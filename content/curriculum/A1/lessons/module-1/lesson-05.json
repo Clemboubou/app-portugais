@@ -1,0 +1,173 @@
+{
+  "id": "a1-m1-l05",
+  "title": "Nationalités et pays",
+  "type": "vocabulary",
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Nommer les pays européens les plus courants en portugais européen",
+    "Exprimer une nationalité en accordant l'adjectif en genre et en nombre",
+    "Comprendre et appliquer la règle d'accord masculin/féminin des nationalités",
+    "Utiliser SER + nationalité dans des phrases complètes"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les nationalités en portugais",
+      "content": "<p>En portugais, les adjectifs de nationalité s'accordent en <strong>genre</strong> (masculin / féminin) et en <strong>nombre</strong> (singulier / pluriel). C'est similaire au français, mais avec quelques règles spécifiques.</p><p>Points importants :</p><ul><li>Les adjectifs de nationalité s'écrivent avec une <strong>minuscule</strong> en portugais (contrairement au français).</li><li>Les pays s'écrivent avec une <strong>majuscule</strong>, comme en français.</li><li>La plupart des adjectifs de nationalité ont deux formes : une pour le masculin et une pour le féminin.</li></ul>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les nationalités européennes essentielles",
+      "content": "<p>Voici les nationalités les plus utiles, avec leurs formes masculine et féminine :</p><table><thead><tr><th>Pays</th><th>Masc. singulier</th><th>Fém. singulier</th><th>Français</th></tr></thead><tbody><tr><td>Portugal</td><td>português [purtuˈɡeʃ]</td><td>portuguesa [purtuˈɡezɐ]</td><td>portugais / portugaise</td></tr><tr><td>França</td><td>francês [frɐ̃ˈseʃ]</td><td>francesa [frɐ̃ˈsezɐ]</td><td>français / française</td></tr><tr><td>Espanha</td><td>espanhol [ɨʃpɐˈɲɔɫ]</td><td>espanhola [ɨʃpɐˈɲolɐ]</td><td>espagnol / espagnole</td></tr><tr><td>Itália</td><td>italiano [itɐliˈɐnu]</td><td>italiana [itɐliˈɐnɐ]</td><td>italien / italienne</td></tr><tr><td>Inglaterra / Reino Unido</td><td>inglês [ĩˈɡleʃ]</td><td>inglesa [ĩˈɡlezɐ]</td><td>anglais / anglaise</td></tr><tr><td>Alemanha</td><td>alemão [ɐlɨˈmɐ̃w̃]</td><td>alemã [ɐlɨˈmɐ̃]</td><td>allemand / allemande</td></tr><tr><td>Brasil</td><td>brasileiro [brɐziˈlejru]</td><td>brasileira [brɐziˈlejrɐ]</td><td>brésilien / brésilienne</td></tr><tr><td>Suíça</td><td>suíço [ˈswisu]</td><td>suíça [ˈswisɐ]</td><td>suisse (masc.) / suisse (fém.)</td></tr><tr><td>Bélgica</td><td>belga [ˈbɛɫɡɐ]</td><td>belga [ˈbɛɫɡɐ]</td><td>belge (même forme)</td></tr><tr><td>Holanda / Países Baixos</td><td>holandês [olɐ̃ˈdeʃ]</td><td>holandesa [olɐ̃ˈdezɐ]</td><td>hollandais / hollandaise</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Règles d'accord en genre",
+      "content": "<p>Les adjectifs de nationalité suivent plusieurs modèles d'accord :</p><h3>Modèle 1 : -ês → -esa</h3><p>La plupart des nationalités en <em>-ês</em> (masculin) font <em>-esa</em> au féminin :</p><ul><li><em>português → portuguesa</em></li><li><em>francês → francesa</em></li><li><em>inglês → inglesa</em></li><li><em>holandês → holandesa</em></li></ul><p><strong>Note phonétique :</strong> Au masculin singulier, le S final se prononce [ʃ] à Lisbonne : <em>português</em> [purtuˈɡeʃ]. Au féminin, le S intervocalique se prononce [z] : <em>portuguesa</em> [purtuˈɡezɐ].</p><h3>Modèle 2 : -ão → -ã (cas particulier)</h3><p>Alemão est irrégulier : <em>alemão → alemã</em>. Le féminin perd la diphtongue <em>ão</em> pour devenir simplement <em>ã</em>.</p><h3>Modèle 3 : -o → -a</h3><p>Pour les nationalités en <em>-o</em>, on remplace simplement par <em>-a</em> :</p><ul><li><em>italiano → italiana</em></li><li><em>espanhol → espanhola</em> (cas légèrement différent : ajout de -a)</li><li><em>brasileiro → brasileira</em></li></ul><h3>Modèle 4 : forme invariable</h3><p>Quelques nationalités ont la même forme au masculin et au féminin :</p><ul><li><em>belga → belga</em> (belge)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Accord au pluriel",
+      "content": "<p>Pour le pluriel, on ajoute généralement <strong>-s</strong> à la forme du singulier :</p><table><thead><tr><th>Singulier</th><th>Pluriel</th><th>Règle</th></tr></thead><tbody><tr><td>português</td><td>portugueses</td><td>-ês → -eses</td></tr><tr><td>francesa</td><td>francesas</td><td>+ s</td></tr><tr><td>alemão</td><td>alemães</td><td>-ão → -ães (irrégulier)</td></tr><tr><td>alemã</td><td>alemãs</td><td>+ s</td></tr><tr><td>italiano</td><td>italianos</td><td>+ s</td></tr><tr><td>inglesa</td><td>inglesas</td><td>+ s</td></tr></tbody></table><p><strong>Exemples en phrase :</strong></p><ul><li><em>Somos portugueses.</em> — Nous sommes portugais (groupe masculin ou mixte).</li><li><em>Elas são francesas.</em> — Elles sont françaises.</li><li><em>Eles são alemães.</em> — Ils sont allemands.</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les pays : noms et genre grammatical",
+      "content": "<p>En portugais, les pays ont un genre grammatical (masculin ou féminin) qui détermine l'article à utiliser :</p><table><thead><tr><th>Pays (PT)</th><th>Genre</th><th>Avec article</th><th>Français</th></tr></thead><tbody><tr><td>Portugal</td><td>masc.</td><td>o Portugal</td><td>Portugal</td></tr><tr><td>França</td><td>fém.</td><td>a França</td><td>France</td></tr><tr><td>Espanha</td><td>fém.</td><td>a Espanha</td><td>Espagne</td></tr><tr><td>Itália</td><td>fém.</td><td>a Itália</td><td>Italie</td></tr><tr><td>Inglaterra</td><td>fém.</td><td>a Inglaterra</td><td>Angleterre</td></tr><tr><td>Alemanha</td><td>fém.</td><td>a Alemanha</td><td>Allemagne</td></tr><tr><td>Brasil</td><td>masc.</td><td>o Brasil</td><td>Brésil</td></tr><tr><td>Estados Unidos</td><td>masc. pl.</td><td>os Estados Unidos</td><td>États-Unis</td></tr></tbody></table><p><strong>Usage :</strong> <em>Sou de França</em> (sans article, fréquent à l'oral) ou <em>Sou da França</em> (de + a = da, plus formel). Pour un homme : <em>Sou do Portugal</em> (de + o = do).</p>"
+    },
+    {
+      "type": "production",
+      "title": "Phrases modèles avec les nationalités",
+      "content": "<p>Entraînez-vous avec ces structures :</p><ul><li><em>Sou francês.</em> — Je suis français. (dit par un homme)</li><li><em>Sou francesa.</em> — Je suis française. (dit par une femme)</li><li><em>Ele é alemão.</em> — Il est allemand.</li><li><em>Ela é alemã.</em> — Elle est allemande.</li><li><em>Somos italianos.</em> — Nous sommes italiens. (groupe masc.)</li><li><em>Elas são espanholas.</em> — Elles sont espagnoles.</li><li><em>Você é inglês ou irlandês?</em> — Êtes-vous anglais ou irlandais ?</li></ul><p><strong>Dialogue modèle :</strong></p><blockquote><p><strong>A :</strong> De onde é? <em>(D'où êtes-vous ?)</em><br><strong>B :</strong> Sou de França. Sou francesa. E você? <em>(Je suis de France. Je suis française. Et vous ?)</em><br><strong>A :</strong> Sou português, sou de Lisboa. <em>(Je suis portugais, je suis de Lisbonne.)</em></p></blockquote>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Sophie est une femme française. Comment dit-elle sa nationalité en portugais ?",
+      "correctAnswer": "Sou francesa.",
+      "distractors": [
+        "Sou francês.",
+        "Sou français.",
+        "Sou de francês."
+      ],
+      "explanation": "<em>Francesa</em> est la forme féminine de la nationalité française. La forme masculine <em>francês</em> ne peut être utilisée que par un homme. On ne dit pas <em>sou de francês</em> — pour la nationalité, on utilise directement <em>ser</em> + adjectif de nationalité sans préposition."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on « ils sont allemands » (groupe d'hommes) en portugais ?",
+      "correctAnswer": "Eles são alemães.",
+      "distractors": [
+        "Eles são alemãos.",
+        "Eles são alemão.",
+        "Eles é alemães."
+      ],
+      "explanation": "<em>Alemão</em> fait <em>alemães</em> au masculin pluriel (irrégulier : -ão → -ães). Le verbe <em>ser</em> pour <em>eles</em> est <em>são</em>. La forme <em>alemãos</em> n'existe pas en portugais européen standard."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais : « Elle est espagnole et lui est italien. »",
+      "correctAnswer": "Ela é espanhola e ele é italiano.",
+      "distractors": [
+        "Ela é espanhol e ele é italiana.",
+        "Ela és espanhola e ele é italiano.",
+        "Ela é espanhola e ele és italiano."
+      ],
+      "explanation": "<em>Espanhola</em> est la forme féminine (pour <em>ela</em>) et <em>italiano</em> est la forme masculine (pour <em>ele</em>). Le verbe <em>ser</em> pour <em>ele</em> et <em>ela</em> est toujours <em>é</em> (jamais <em>és</em>, qui est réservé à <em>tu</em>)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le pluriel correct de <em>português</em> ?",
+      "correctAnswer": "portugueses",
+      "distractors": [
+        "portugêses",
+        "portuguêses",
+        "português"
+      ],
+      "explanation": "Les adjectifs en <em>-ês</em> font leur pluriel en <em>-eses</em> : <em>português → portugueses</em>, <em>francês → franceses</em>, <em>inglês → ingleses</em>. L'accent disparaît au pluriel car la syllabe accentuée change."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on « l'Allemagne » en portugais avec son article ?",
+      "correctAnswer": "a Alemanha",
+      "distractors": [
+        "o Alemanha",
+        "a Alemagne",
+        "os Alemanhas"
+      ],
+      "explanation": "<em>Alemanha</em> est féminin en portugais, donc on utilise l'article féminin <em>a</em> : <em>a Alemanha</em>. C'est la même logique que pour <em>a França</em>, <em>a Espanha</em>, <em>a Itália</em>. Seuls quelques pays sont masculins, comme <em>o Portugal</em> et <em>o Brasil</em>."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "português / portuguesa",
+      "phonetic": "/purtuˈɡeʃ/ /purtuˈɡezɐ/",
+      "french": "portugais / portugaise"
+    },
+    {
+      "portuguese": "francês / francesa",
+      "phonetic": "/frɐ̃ˈseʃ/ /frɐ̃ˈsezɐ/",
+      "french": "français / française"
+    },
+    {
+      "portuguese": "espanhol / espanhola",
+      "phonetic": "/ɨʃpɐˈɲɔɫ/ /ɨʃpɐˈɲolɐ/",
+      "french": "espagnol / espagnole"
+    },
+    {
+      "portuguese": "italiano / italiana",
+      "phonetic": "/itɐliˈɐnu/ /itɐliˈɐnɐ/",
+      "french": "italien / italienne"
+    },
+    {
+      "portuguese": "inglês / inglesa",
+      "phonetic": "/ĩˈɡleʃ/ /ĩˈɡlezɐ/",
+      "french": "anglais / anglaise"
+    },
+    {
+      "portuguese": "alemão / alemã",
+      "phonetic": "/ɐlɨˈmɐ̃w̃/ /ɐlɨˈmɐ̃/",
+      "french": "allemand / allemande"
+    },
+    {
+      "portuguese": "Brasil",
+      "phonetic": "/brɐˈziɫ/",
+      "french": "Brésil"
+    },
+    {
+      "portuguese": "França",
+      "phonetic": "/ˈfrɐ̃sɐ/",
+      "french": "France"
+    },
+    {
+      "portuguese": "Espanha",
+      "phonetic": "/ɨʃˈpɐɲɐ/",
+      "french": "Espagne"
+    },
+    {
+      "portuguese": "Itália",
+      "phonetic": "/iˈtaliɐ/",
+      "french": "Italie"
+    },
+    {
+      "portuguese": "Alemanha",
+      "phonetic": "/ɐlɨˈmɐɲɐ/",
+      "french": "Allemagne"
+    },
+    {
+      "portuguese": "Inglaterra",
+      "phonetic": "/ĩɡlɐˈtɛrɐ/",
+      "french": "Angleterre"
+    },
+    {
+      "portuguese": "belga",
+      "phonetic": "/ˈbɛɫɡɐ/",
+      "french": "belge (masc. et fém.)"
+    },
+    {
+      "portuguese": "suíço / suíça",
+      "phonetic": "/ˈswisu/ /ˈswisɐ/",
+      "french": "suisse (masc.) / suisse (fém.)"
+    }
+  ]
+}

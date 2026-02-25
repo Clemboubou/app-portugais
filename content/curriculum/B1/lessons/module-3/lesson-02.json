@@ -1,0 +1,83 @@
+{
+  "id": "b1-m3-l02",
+  "title": "Accord et désaccord",
+  "type": "speaking",
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Exprimer son accord ou son désaccord de manière polie",
+    "Utiliser les expressions de nuance pour éviter la confrontation",
+    "Pratiquer l'intonation et les formules orales du débat"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Être d'accord ou pas",
+      "content": "<p>Savoir exprimer son accord ou son désaccord poliment est une compétence sociale essentielle. En portugais européen, il existe de nombreuses façons de le faire avec différents degrés de formalité.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Exprimer l'accord",
+      "content": "<p><strong>Accord total :</strong></p><ul><li><em>Concordo.</em> / <em>Concordo plenamente.</em> (Je suis d'accord. / Tout à fait d'accord.)</li><li><em>Tens razão.</em> / <em>Tem razão.</em> (Tu as raison. / Vous avez raison.)</li><li><em>Exatamente!</em> (Exactement !)</li><li><em>Sem dúvida.</em> (Sans aucun doute.)</li></ul><p><strong>Accord partiel :</strong></p><ul><li><em>Concordo em parte.</em> (Je suis partiellement d'accord.)</li><li><em>Tens razão, mas...</em> (Tu as raison, mais...)</li><li><em>É verdade, no entanto...</em> (C'est vrai, cependant...)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Exprimer le désaccord",
+      "content": "<p><strong>Désaccord poli :</strong></p><ul><li><em>Não estou de acordo.</em> (Je ne suis pas d'accord.)</li><li><em>Discordo.</em> (Je ne suis pas d'accord. — plus direct)</li><li><em>Não me parece.</em> (Ça ne me semble pas.)</li><li><em>Compreendo o teu ponto de vista, mas...</em> (Je comprends ton point de vue, mais...)</li></ul><p><strong>Désaccord fort :</strong></p><ul><li><em>De maneira nenhuma!</em> (En aucune façon !)</li><li><em>Não concordo nada.</em> (Je ne suis pas du tout d'accord.)</li><li><em>Isso não faz sentido.</em> (Ça n'a pas de sens.)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Dialogue de débat",
+      "content": "<p><strong>Ana :</strong> <em>Acho que os telemóveis deviam ser proibidos nas escolas.</em><br/><strong>Pedro :</strong> <em>Concordo em parte. São uma distração, mas também podem ser úteis para pesquisar.</em><br/><strong>Ana :</strong> <em>Tens razão, mas os alunos não os usam para estudar.</em><br/><strong>Pedro :</strong> <em>Não estou de acordo. Depende da escola e dos professores.</em><br/><strong>Ana :</strong> <em>Compreendo o teu ponto de vista, mas na minha opinião, os benefícios não compensam os riscos.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Débattez !",
+      "content": "<p>Pratiquez avec ces affirmations — exprimez accord ou désaccord :</p><ol><li><em>As redes sociais são perigosas para os jovens.</em></li><li><em>Aprender uma língua é melhor do que traduzir automaticamente.</em></li><li><em>Trabalhar a partir de casa é mais produtivo.</em></li></ol>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment exprimer un accord partiel ?",
+      "correctAnswer": "Concordo em parte.",
+      "distractors": ["Concordo plenamente.", "Discordo.", "De maneira nenhuma!"],
+      "explanation": "'Concordo em parte' exprime un accord partiel, suivi généralement d'un 'mas...' (mais...)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Compreendo o teu ponto de ________, mas não estou de acordo.",
+      "correctAnswer": "vista",
+      "explanation": "'Ponto de vista' = point de vue. Expression essentielle pour un désaccord poli."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Tu as raison, cependant je ne suis pas tout à fait d'accord.'",
+      "correctAnswer": "Tens razão, no entanto não estou totalmente de acordo.",
+      "explanation": "'No entanto' = cependant. 'Totalmente' = totalement, complètement."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle expression est la plus directe pour exprimer un désaccord ?",
+      "correctAnswer": "Discordo.",
+      "distractors": ["Não me parece.", "Concordo em parte.", "Compreendo, mas..."],
+      "explanation": "'Discordo' est la forme la plus directe. 'Não me parece' et 'Compreendo, mas...' sont plus nuancés."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Sem ________, a educação é fundamental.",
+      "correctAnswer": "dúvida",
+      "explanation": "'Sem dúvida' = sans aucun doute. Expression d'accord total."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "concordar", "phonetic": "/kõkuɾˈdaɾ/", "french": "être d'accord"},
+    {"portuguese": "discordar", "phonetic": "/diʃkuɾˈdaɾ/", "french": "ne pas être d'accord"},
+    {"portuguese": "razão", "phonetic": "/ʁɐˈzɐ̃w/", "french": "raison"},
+    {"portuguese": "ponto de vista", "phonetic": "/ˈpõtu dɨ ˈviʃtɐ/", "french": "point de vue"},
+    {"portuguese": "sem dúvida", "phonetic": "/sɐ̃j ˈduvidɐ/", "french": "sans aucun doute"},
+    {"portuguese": "no entanto", "phonetic": "/nu ẽˈtɐ̃tu/", "french": "cependant"},
+    {"portuguese": "de maneira nenhuma", "phonetic": "/dɨ mɐˈnɐjɾɐ nɨˈɲũmɐ/", "french": "en aucune façon"},
+    {"portuguese": "exatamente", "phonetic": "/ezɐtɐˈmẽtɨ/", "french": "exactement"},
+    {"portuguese": "plenamente", "phonetic": "/plɛnɐˈmẽtɨ/", "french": "pleinement"}
+  ]
+}

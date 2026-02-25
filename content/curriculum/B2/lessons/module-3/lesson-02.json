@@ -1,0 +1,83 @@
+{
+  "id": "b2-m3-l02",
+  "title": "Transformations dans le discours indirect",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Maîtriser les changements de temps verbaux dans le discours indirect",
+    "Transformer correctement les pronoms personnels et possessifs",
+    "Adapter les marqueurs temporels et spatiaux"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les trois niveaux de transformation",
+      "content": "<p>Passer du discours direct au discours indirect implique <strong>trois types de transformations</strong> simultanées :</p><ol><li><strong>Les temps verbaux</strong> (concordância temporal)</li><li><strong>Les pronoms</strong> (pessoais, possessivos)</li><li><strong>Les indicateurs de temps et de lieu</strong> (advérbios)</li></ol><p>C'est la combinaison de ces trois transformations qui rend le discours indirect complexe mais naturel.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Exemples de transformations complètes",
+      "content": "<p>Observez toutes les transformations :</p><p><em>A Ana disse: «<strong>Eu</strong> vou levar o <strong>meu</strong> carro <strong>amanhã</strong>.»</em></p><p>→ <em>A Ana disse que <strong>ela</strong> ia levar o carro <strong>dela</strong> <strong>no dia seguinte</strong>.</em></p><p><em>O Pedro disse-me: «<strong>Tu</strong> podes ficar na <strong>minha</strong> casa <strong>hoje</strong>.»</em></p><p>→ <em>O Pedro disse-me que <strong>eu</strong> podia ficar na casa <strong>dele</strong> <strong>naquele dia</strong>.</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Tableau des transformations",
+      "content": "<p><strong>Pronoms :</strong></p><table><tr><th>Direct</th><th>Indirect</th></tr><tr><td><em>eu</em></td><td><em>ele/ela</em> (selon le sujet)</td></tr><tr><td><em>tu</em></td><td><em>eu</em> (si on me parle) / <em>ele/ela</em></td></tr><tr><td><em>meu/minha</em></td><td><em>dele/dela</em></td></tr><tr><td><em>teu/tua</em></td><td><em>meu/minha</em> ou <em>dele/dela</em></td></tr></table><p><strong>Marqueurs temporels :</strong></p><table><tr><th>Direct</th><th>Indirect</th></tr><tr><td><em>hoje</em></td><td><em>naquele dia</em></td></tr><tr><td><em>amanhã</em></td><td><em>no dia seguinte</em></td></tr><tr><td><em>ontem</em></td><td><em>no dia anterior / na véspera</em></td></tr><tr><td><em>agora</em></td><td><em>naquele momento</em></td></tr><tr><td><em>aqui</em></td><td><em>ali / naquele lugar</em></td></tr><tr><td><em>este/esta</em></td><td><em>aquele/aquela</em></td></tr></table>"
+    },
+    {
+      "type": "practice",
+      "title": "Transformations complètes",
+      "content": "<p>Transformez en appliquant toutes les modifications :</p><ol><li><em>O João disse: «Eu comprei este livro aqui ontem.»</em> → <em>O João disse que <strong>ele</strong> tinha comprado <strong>aquele</strong> livro <strong>ali</strong> <strong>na véspera</strong>.</em></li><li><em>A Rita disse-me: «Tu podes usar o meu computador agora.»</em> → <em>A Rita disse-me que <strong>eu</strong> podia usar o computador <strong>dela</strong> <strong>naquele momento</strong>.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Exercice de transformation",
+      "content": "<p>Transformez ces phrases en discours indirect complet :</p><ol><li><em>O médico disse-me: «Tu tens de voltar aqui amanhã.»</em></li><li><em>A professora disse: «Eu vou corrigir estes testes hoje.»</em></li><li><em>Os meus pais disseram: «Nós fomos ao Porto ontem.»</em></li></ol><p>Vérifiez que vous avez transformé les temps, les pronoms ET les marqueurs temporels.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment transforme-t-on 'amanhã' dans le discours indirect au passé ?",
+      "correctAnswer": "no dia seguinte",
+      "distractors": ["naquele dia", "na véspera", "naquele momento"],
+      "explanation": "'Amanhã' (demain) → 'no dia seguinte' (le lendemain). 'Naquele dia' = ce jour-là. 'Na véspera' = la veille."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A Maria disse que ________ (ela — ter) comprado o bilhete na véspera.",
+      "correctAnswer": "tinha",
+      "explanation": "Pretérito perfeito (comprei) → mais-que-perfeito composto (tinha comprado). 'Ontem' → 'na véspera'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Pierre m'a dit qu'il pouvait venir le lendemain.",
+      "correctAnswer": "O Pedro disse-me que podia vir no dia seguinte.",
+      "explanation": "Dizer au passé + concordância temporal : pode → podia. 'Amanhã' → 'no dia seguinte'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dans le discours indirect, 'aqui' devient :",
+      "correctAnswer": "ali / naquele lugar",
+      "distractors": ["aqui mesmo", "cá", "acolá"],
+      "explanation": "'Aqui' (ici) → 'ali' ou 'naquele lugar' (là / à cet endroit-là) dans le discours indirect."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ela disse que ________ (ir) ao médico naquele dia.",
+      "correctAnswer": "ia",
+      "explanation": "Presente 'vou' → Imperfeito 'ia' dans le discours indirect au passé. 'Hoje' → 'naquele dia'."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "na véspera", "phonetic": "/nɐ ˈvɛʃpɨɾɐ/", "french": "la veille"},
+    {"portuguese": "no dia seguinte", "phonetic": "/nu ˈdiɐ sɨˈɡĩtɨ/", "french": "le lendemain"},
+    {"portuguese": "naquele dia", "phonetic": "/nɐˈkelɨ ˈdiɐ/", "french": "ce jour-là"},
+    {"portuguese": "naquele momento", "phonetic": "/nɐˈkelɨ muˈmẽtu/", "french": "à ce moment-là"},
+    {"portuguese": "naquele lugar", "phonetic": "/nɐˈkelɨ luˈɡaɾ/", "french": "à cet endroit-là"},
+    {"portuguese": "dele / dela", "phonetic": "/ˈdelɨ/ /ˈdɛlɐ/", "french": "de lui / d'elle (possessif)"},
+    {"portuguese": "segundo ele", "phonetic": "/sɨˈɡũdu ˈelɨ/", "french": "selon lui"},
+    {"portuguese": "acrescentar", "phonetic": "/ɐkɾɨʃẽˈtaɾ/", "french": "ajouter (dans un discours)"},
+    {"portuguese": "referir", "phonetic": "/ʁɨfɨˈɾiɾ/", "french": "mentionner / référer"}
+  ]
+}

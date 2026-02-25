@@ -1,0 +1,83 @@
+{
+  "id": "b1-m1-l03",
+  "title": "Raconter un souvenir d'enfance",
+  "type": "writing",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Rédiger un court texte narratif mêlant Perfeito et Imperfeito",
+    "Utiliser les expressions temporelles du passé (quando era criança, antigamente)",
+    "Structurer un récit avec une introduction, un développement et une conclusion"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Écrire sur le passé",
+      "content": "<p>Raconter un souvenir d'enfance est un excellent exercice pour maîtriser le mélange du <strong>Perfeito</strong> et de l'<strong>Imperfeito</strong>. On décrit le cadre (Imperfeito), puis on raconte les événements (Perfeito).</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Un modèle de souvenir",
+      "content": "<p>Lisez cet exemple :</p><blockquote><em>Quando eu <strong>era</strong> criança, <strong>vivia</strong> numa aldeia no Alentejo. A minha avó <strong>tinha</strong> uma casa grande com um quintal enorme. Todos os verões, eu <strong>ia</strong> para lá. Um dia, <strong>encontrei</strong> um gato abandonado e <strong>levei</strong>-o para casa. A minha avó <strong>ficou</strong> furiosa, mas depois <strong>acabou</strong> por adorar o gato.</em></blockquote><p>Traduction : Quand j'étais enfant, je vivais dans un village de l'Alentejo. Ma grand-mère avait une grande maison avec un immense jardin. Tous les étés, j'y allais. Un jour, j'ai trouvé un chat abandonné et je l'ai ramené à la maison. Ma grand-mère était furieuse, mais elle a fini par adorer le chat.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Expressions utiles",
+      "content": "<p>Pour introduire un souvenir d'enfance :</p><ul><li><em>Quando eu era criança...</em> (Quand j'étais enfant...)</li><li><em>Lembro-me de que...</em> (Je me souviens que...)</li><li><em>Antigamente...</em> (Autrefois...)</li><li><em>Naquela época...</em> (À cette époque...)</li><li><em>Costumava + infinitivo</em> (J'avais l'habitude de...)</li></ul><p>Pour introduire un événement ponctuel :</p><ul><li><em>Um dia...</em> (Un jour...)</li><li><em>Certa vez...</em> (Une certaine fois...)</li><li><em>Nessa altura...</em> (À ce moment-là...)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Construire son récit",
+      "content": "<p>Structurez votre souvenir en trois parties :</p><ol><li><strong>Le cadre</strong> (Imperfeito) — Où ? Quand ? Qui ? Comment était la situation ?<br/><em>Eu tinha dez anos e morava em Coimbra...</em></li><li><strong>L'événement</strong> (Perfeito) — Que s'est-il passé ?<br/><em>Um dia, aconteceu uma coisa incrível...</em></li><li><strong>La conclusion</strong> — Quel impact ? Quel souvenir gardez-vous ?<br/><em>Nunca me esqueci desse dia.</em> (Je n'ai jamais oublié ce jour-là.)</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "À vous d'écrire !",
+      "content": "<p>Rédigez un texte de 80 à 120 mots racontant un souvenir d'enfance. Utilisez :</p><ul><li>Au moins 3 verbes à l'<strong>Imperfeito</strong> pour le cadre</li><li>Au moins 3 verbes au <strong>Perfeito</strong> pour les événements</li><li>Au moins 2 expressions temporelles (<em>quando era criança, um dia, antigamente</em>...)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Je me souviens que...' en portugais européen ?",
+      "correctAnswer": "Lembro-me de que...",
+      "distractors": ["Eu lembro que...", "Me lembro de que...", "Recordo-me que..."],
+      "explanation": "En portugais européen, le pronom réfléchi se place après le verbe (lembro-me), suivi de 'de que'. La forme 'Me lembro' est brésilienne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quando eu era criança, ________ (costumar) brincar na rua.",
+      "correctAnswer": "costumava",
+      "explanation": "'Costumar' à l'Imperfeito (costumava) exprime une habitude passée : j'avais l'habitude de."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Un jour, j'ai trouvé un vieux livre dans le grenier.'",
+      "correctAnswer": "Um dia, encontrei um livro antigo no sótão.",
+      "explanation": "'Um dia' introduit un événement ponctuel → Perfeito : encontrei. 'Sótão' = grenier."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dans le texte modèle, pourquoi 'vivia' est-il à l'Imperfeito ?",
+      "correctAnswer": "C'est une description de la situation habituelle",
+      "distractors": ["C'est une action ponctuelle", "C'est une action terminée", "C'est un ordre"],
+      "explanation": "'Vivia' décrit où le narrateur habitait — une situation durable et habituelle → Imperfeito."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A minha avó ________ (ficar) muito contente quando lhe ________ (dar) o presente.",
+      "correctAnswer": "ficou, dei",
+      "explanation": "Deux actions ponctuelles dans le passé : ficou (ficar au Perfeito), dei (dar au Perfeito)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "lembro-me", "phonetic": "/ˈlẽbɾu mɨ/", "french": "je me souviens"},
+    {"portuguese": "costumava", "phonetic": "/kuʃtuˈmavɐ/", "french": "j'avais l'habitude de"},
+    {"portuguese": "aldeia", "phonetic": "/alˈdejɐ/", "french": "village"},
+    {"portuguese": "quintal", "phonetic": "/kĩˈtal/", "french": "jardin / cour"},
+    {"portuguese": "sótão", "phonetic": "/ˈsɔtɐ̃w/", "french": "grenier"},
+    {"portuguese": "certa vez", "phonetic": "/ˈsɛɾtɐ veʃ/", "french": "une certaine fois"},
+    {"portuguese": "nessa altura", "phonetic": "/ˈnesɐ alˈtuɾɐ/", "french": "à ce moment-là"},
+    {"portuguese": "nunca me esqueci", "phonetic": "/ˈnũkɐ mɨ ʃkɨˈsi/", "french": "je n'ai jamais oublié"},
+    {"portuguese": "aconteceu", "phonetic": "/ɐkõtɨˈsew/", "french": "il s'est passé"}
+  ]
+}

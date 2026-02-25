@@ -1,0 +1,84 @@
+{
+  "id": "a2-m4-l02",
+  "title": "Demander son chemin",
+  "type": "speaking",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Demander et comprendre des indications de direction",
+    "Utiliser les verbes de deplacement (virar, seguir, atravessar)",
+    "Se reperer dans l'espace avec les directions en portugais europeen"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "S'orienter en ville",
+      "content": "<p>Savoir demander son chemin est essentiel quand on visite le Portugal. Les Portugais sont generalement tres serviables et prets a aider un etranger perdu. Apprenons les expressions cles pour demander et comprendre des directions.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Demander son chemin",
+      "content": "<p>Expressions pour demander son chemin :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><em>Desculpe, pode ajudar-me?</em></td><td>Excusez-moi, pouvez-vous m'aider ?</td></tr><tr><td><em>Onde fica o/a...?</em></td><td>Ou se trouve le/la... ?</td></tr><tr><td><em>Como posso ir para...?</em></td><td>Comment puis-je aller a... ?</td></tr><tr><td><em>Sabe onde e o/a...?</em></td><td>Savez-vous ou est le/la... ?</td></tr><tr><td><em>E longe daqui?</em></td><td>C'est loin d'ici ?</td></tr><tr><td><em>Posso ir a pe?</em></td><td>Puis-je y aller a pied ?</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les directions",
+      "content": "<p>Vocabulaire des directions :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><strong>Vire a esquerda</strong></td><td>Tournez a gauche</td></tr><tr><td><strong>Vire a direita</strong></td><td>Tournez a droite</td></tr><tr><td><strong>Siga em frente / Va sempre em frente</strong></td><td>Allez tout droit</td></tr><tr><td><strong>Atravesse a rua / a praca</strong></td><td>Traversez la rue / la place</td></tr><tr><td><strong>E na primeira rua a esquerda</strong></td><td>C'est la premiere rue a gauche</td></tr><tr><td><strong>E na segunda rua a direita</strong></td><td>C'est la deuxieme rue a droite</td></tr><tr><td><strong>No final da rua</strong></td><td>Au bout de la rue</td></tr><tr><td><strong>Na esquina</strong></td><td>Au coin</td></tr></tbody></table>"
+    },
+    {
+      "type": "practice",
+      "title": "Dialogues de direction",
+      "content": "<p>Pratiquez ce dialogue :</p><p><strong>Turista</strong>: <em>Desculpe, sabe onde fica a estacao de metro?</em><br/><strong>Pessoa</strong>: <em>Sim, claro! Siga em frente ate ao semaforo e depois vire a esquerda. A estacao fica no final dessa rua, do lado direito.</em><br/><strong>Turista</strong>: <em>E longe?</em><br/><strong>Pessoa</strong>: <em>Nao, sao uns cinco minutos a pe.</em><br/><strong>Turista</strong>: <em>Muito obrigado!</em><br/><strong>Pessoa</strong>: <em>De nada, boa viagem!</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Donner des directions",
+      "content": "<p>Vous etes a la Praca do Comercio et un touriste vous demande comment aller a la gare de Santa Apolonia. Donnez-lui les directions en utilisant les expressions apprises :</p><p>Exemple : <em>Siga em frente pela Rua da Alfandega. No segundo cruzamento, vire a direita. A gare fica em frente, a cerca de dez minutos a pe.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Tournez a gauche' en portugais ?",
+      "correctAnswer": "Vire a esquerda",
+      "distractors": ["Vire a direita", "Siga em frente", "Atravesse a rua"],
+      "explanation": "'Virar' = tourner, 'a esquerda' = a gauche. 'Vire a esquerda' = Tournez a gauche."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ em frente ate ao semaforo.",
+      "correctAnswer": "Siga",
+      "explanation": "'Siga em frente' = Allez tout droit. 'Seguir' a l'imperatif formel (voce) = 'siga'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Ou se trouve la gare ?'",
+      "correctAnswer": "Onde fica a estacao?",
+      "explanation": "'Onde fica...?' = Ou se trouve...? 'Ficar' est utilise pour indiquer l'emplacement en portugais europeen."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'Atravesse a praca' ?",
+      "correctAnswer": "Traversez la place",
+      "distractors": ["Contournez la place", "Quittez la place", "Entrez sur la place"],
+      "explanation": "'Atravessar' = traverser. 'A praca' = la place. 'Atravesse a praca' = Traversez la place."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "E na primeira rua a ________.",
+      "correctAnswer": "direita",
+      "explanation": "'A direita' = a droite. 'A primeira rua a direita' = la premiere rue a droite."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "virar", "phonetic": "/viˈɾaɾ/", "french": "tourner"},
+    {"portuguese": "a esquerda", "phonetic": "/ɐ iʃˈkeɾdɐ/", "french": "a gauche"},
+    {"portuguese": "a direita", "phonetic": "/ɐ diˈɾɐjtɐ/", "french": "a droite"},
+    {"portuguese": "em frente", "phonetic": "/ɐ̃j̃ ˈfɾẽtɨ/", "french": "tout droit / en face"},
+    {"portuguese": "seguir", "phonetic": "/sɨˈɡiɾ/", "french": "suivre / continuer"},
+    {"portuguese": "atravessar", "phonetic": "/ɐtɾɐvɨˈsaɾ/", "french": "traverser"},
+    {"portuguese": "a esquina", "phonetic": "/ɨʃˈkinɐ/", "french": "le coin (de rue)"},
+    {"portuguese": "o semaforo", "phonetic": "/sɨˈmafuɾu/", "french": "le feu de signalisation"},
+    {"portuguese": "o cruzamento", "phonetic": "/kɾuzɐˈmẽtu/", "french": "le croisement"},
+    {"portuguese": "a pe", "phonetic": "/ɐ ˈpɛ/", "french": "a pied"}
+  ]
+}

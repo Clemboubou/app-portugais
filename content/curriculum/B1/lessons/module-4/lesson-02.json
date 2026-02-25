@@ -1,0 +1,83 @@
+{
+  "id": "b1-m4-l02",
+  "title": "L'environnement au Portugal",
+  "type": "reading",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Lire et comprendre un texte sur l'environnement au Portugal",
+    "Connaître le vocabulaire de l'énergie renouvelable et des parcs naturels",
+    "Répondre à des questions de compréhension sur un texte informatif"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le Portugal vert",
+      "content": "<p>Le Portugal est un leader européen en matière d'<strong>énergies renouvelables</strong>. Le pays dispose aussi de nombreux <strong>parcs naturels</strong> protégés. Dans cette leçon, vous allez lire un texte sur ces sujets et enrichir votre vocabulaire environnemental.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Texto : O ambiente em Portugal",
+      "content": "<p><em>Portugal é um dos países europeus que mais investiu nas energias renováveis nos últimos anos. A energia eólica e a energia solar representam uma parte significativa da produção elétrica do país. Em 2023, mais de sessenta por cento da eletricidade consumida em Portugal veio de fontes renováveis.</em></p><p><em>O país conta também com vários parques naturais protegidos. O Parque Nacional da Peneda-Gerês, no norte, é o único parque nacional do país. A Serra da Arrábida, perto de Setúbal, é conhecida pelas suas praias selvagens e pela biodiversidade. O Parque Natural da Ria Formosa, no Algarve, é um dos mais importantes ecossistemas do sul da Europa.</em></p><p><em>Apesar destes progressos, Portugal enfrenta desafios ambientais. Os incêndios florestais são um problema recorrente durante o Verão. A gestão dos resíduos e a poluição urbana continuam a ser preocupações importantes.</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Vocabulaire du texte",
+      "content": "<p>Mots clés du texte :</p><ul><li><em>energias renováveis</em> — énergies renouvelables</li><li><em>energia eólica</em> — énergie éolienne</li><li><em>energia solar</em> — énergie solaire</li><li><em>eletricidade</em> — électricité</li><li><em>parque natural</em> — parc naturel</li><li><em>biodiversidade</em> — biodiversité</li><li><em>incêndios florestais</em> — incendies de forêt</li><li><em>resíduos</em> — déchets</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Compréhension du texte",
+      "content": "<p>Répondez aux questions suivantes :</p><ol><li>Quel pourcentage de l'électricité portugaise vient de sources renouvelables ?</li><li>Quel est le seul parc national du Portugal ?</li><li>Quels sont les deux défis environnementaux mentionnés ?</li></ol><p>Réponses : 1) Plus de soixante pour cent. 2) Le Parc National de Peneda-Gerês. 3) Les incendies de forêt et la gestion des déchets / pollution urbaine.</p>"
+    },
+    {
+      "type": "production",
+      "title": "L'environnement chez vous",
+      "content": "<p>En utilisant le vocabulaire appris, décrivez la situation environnementale de votre pays :</p><ul><li><em>No meu país, as energias renováveis representam...</em></li><li><em>O maior problema ambiental é...</em></li><li><em>Para proteger o ambiente, devíamos...</em></li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Selon le texte, quel pourcentage de l'électricité portugaise vient de sources renouvelables ?",
+      "correctAnswer": "Plus de 60%",
+      "distractors": ["Plus de 40%", "Plus de 80%", "Environ 50%"],
+      "explanation": "Le texte dit : 'mais de sessenta por cento da eletricidade consumida em Portugal veio de fontes renováveis'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O Parque Nacional da Peneda-Gerês fica no ________ de Portugal.",
+      "correctAnswer": "norte",
+      "explanation": "Le texte précise : 'no norte' (dans le nord). Peneda-Gerês est situé dans le Minho, au nord du Portugal."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Les incendies de forêt sont un problème récurrent.'",
+      "correctAnswer": "Os incêndios florestais são um problema recorrente.",
+      "explanation": "'Incêndios florestais' = incendies de forêt. 'Recorrente' = récurrent, avec deux 'r' en portugais."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'énergie éolienne' en portugais ?",
+      "correctAnswer": "energia eólica",
+      "distractors": ["energia do vento", "energia elétrica", "energia nuclear"],
+      "explanation": "'Energia eólica' est le terme technique pour énergie éolienne. 'Eólica' vient d'Éole, dieu du vent."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A gestão dos ________ e a poluição urbana são preocupações importantes.",
+      "correctAnswer": "resíduos",
+      "explanation": "'Resíduos' = déchets. C'est le terme formel utilisé en portugais européen."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "energias renováveis", "phonetic": "/ɨnɨɾˈʒiɐʃ ʁɨnuˈvajʃ/", "french": "énergies renouvelables"},
+    {"portuguese": "energia eólica", "phonetic": "/ɨnɨɾˈʒiɐ eˈɔlikɐ/", "french": "énergie éolienne"},
+    {"portuguese": "energia solar", "phonetic": "/ɨnɨɾˈʒiɐ suˈlaɾ/", "french": "énergie solaire"},
+    {"portuguese": "eletricidade", "phonetic": "/ilɛtɾisiˈdadɨ/", "french": "électricité"},
+    {"portuguese": "parque natural", "phonetic": "/ˈpaɾkɨ nɐtuˈɾal/", "french": "parc naturel"},
+    {"portuguese": "biodiversidade", "phonetic": "/biodivɨɾsiˈdadɨ/", "french": "biodiversité"},
+    {"portuguese": "incêndio florestal", "phonetic": "/ĩˈsẽdiu fluɾɨʃˈtal/", "french": "incendie de forêt"},
+    {"portuguese": "resíduos", "phonetic": "/ʁɨˈziduʃ/", "french": "déchets"},
+    {"portuguese": "ambiente", "phonetic": "/ɐ̃biˈẽtɨ/", "french": "environnement"}
+  ]
+}

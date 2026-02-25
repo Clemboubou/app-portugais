@@ -1,0 +1,84 @@
+{
+  "id": "b2-m2-l01",
+  "title": "Le conditionnel composé",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Conjuguer le Condicional Composto (teria + particípio passado)",
+    "Comprendre l'usage du conditionnel composé pour les actions hypothétiques passées",
+    "Combiner le conditionnel composé avec le plus-que-parfait du subjonctif"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le conditionnel composé : des actions qui auraient pu être",
+      "content": "<p>Le <strong>Condicional Composto</strong> (conditionnel composé) exprime une action qui <strong>aurait eu lieu</strong> dans le passé si une condition avait été remplie. C'est l'équivalent du français « j'aurais parlé, j'aurais fait ».</p><p>En portugais européen, il se forme avec <strong>l'auxiliaire TER au conditionnel + participe passé</strong>.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Formation du conditionnel composé",
+      "content": "<p>L'auxiliaire TER au conditionnel :</p><table><thead><tr><th>Personne</th><th>Ter (conditionnel)</th><th>+ Participe passé</th></tr></thead><tbody><tr><td>Eu</td><td>teria</td><td>falado / comido / partido</td></tr><tr><td>Tu</td><td>terias</td><td>falado / comido / partido</td></tr><tr><td>Ele/Ela/Você</td><td>teria</td><td>falado / comido / partido</td></tr><tr><td>Nós</td><td>teríamos</td><td>falado / comido / partido</td></tr><tr><td>Eles/Elas/Vocês</td><td>teriam</td><td>falado / comido / partido</td></tr></tbody></table><p>Participes passés irréguliers courants : <em>feito</em> (fazer), <em>dito</em> (dizer), <em>visto</em> (ver), <em>escrito</em> (escrever), <em>posto</em> (pôr), <em>aberto</em> (abrir).</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Se + plus-que-parfait du subjonctif → conditionnel composé",
+      "content": "<p>La structure classique de l'hypothèse irréelle au passé :</p><p><strong>Se + Mais-que-perfeito do Conjuntivo → Condicional Composto</strong></p><ul><li><em>Se eu <strong>tivesse estudado</strong>, <strong>teria passado</strong> no exame.</em> (Si j'avais étudié, j'aurais réussi l'examen.)</li><li><em>Se nós <strong>tivéssemos saído</strong> mais cedo, <strong>teríamos apanhado</strong> o comboio.</em> (Si nous étions sortis plus tôt, nous aurions pris le train.)</li><li><em>Se ela <strong>tivesse sabido</strong>, <strong>teria vindo</strong>.</em> (Si elle avait su, elle serait venue.)</li></ul><p><strong>Attention :</strong> En portugais européen oral, on remplace souvent le conditionnel composé par le <strong>plus-que-parfait composé de l'indicatif</strong> : <em>Se tivesse estudado, <strong>tinha passado</strong>.</em></p>"
+    },
+    {
+      "type": "practice",
+      "title": "Usages au quotidien",
+      "content": "<p>Le conditionnel composé s'utilise aussi pour :</p><ul><li><strong>Un regret</strong> : <em>Eu <strong>teria gostado</strong> de ir a Lisboa.</em> (J'aurais aimé aller à Lisbonne.)</li><li><strong>Une critique polie</strong> : <em>Você <strong>teria feito</strong> melhor se tivesse perguntado.</em> (Vous auriez mieux fait si vous aviez demandé.)</li><li><strong>Une information non confirmée</strong> (presse) : <em>O ministro <strong>teria demitido</strong> o secretário.</em> (Le ministre aurait renvoyé le secrétaire.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Pratiquer les hypothèses passées",
+      "content": "<p>Construisez des phrases complètes :</p><ul><li><em>Se tu <strong>tivesses dito</strong> a verdade, eu <strong>teria compreendido</strong>.</em> (Si tu avais dit la vérité, j'aurais compris.)</li><li><em>Se eles <strong>tivessem apanhado</strong> o autocarro, <strong>teriam chegado</strong> a tempo.</em> (S'ils avaient pris l'autobus, ils seraient arrivés à temps.)</li><li><em>Eu <strong>teria ido</strong> ao concerto, se <strong>tivesse tido</strong> bilhetes.</em> (Je serais allé au concert, si j'avais eu des billets.)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Complétez : Se eu tivesse dinheiro, ________ (comprar) aquela casa.",
+      "correctAnswer": "teria comprado",
+      "distractors": ["tinha comprado", "compraria", "tivesse comprado"],
+      "explanation": "Hypothèse irréelle passée : 'Se' + plus-que-parfait du subjonctif → conditionnel composé. Teria comprado est la forme standard (tinha comprado est l'alternative orale)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Se eles tivessem estudado, ________ (passar) no exame.",
+      "correctAnswer": "teriam passado",
+      "explanation": "Condicional composto : TER au conditionnel (teriam) + participe passé (passado)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : J'aurais aimé visiter Porto.",
+      "correctAnswer": "Teria gostado de visitar o Porto.",
+      "explanation": "Conditionnel composé pour un regret : teria + gostado. En PT-PT, on dit 'o Porto' avec article."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel participe passé est irrégulier ?",
+      "correctAnswer": "feito (fazer)",
+      "distractors": ["comido (comer)", "falado (falar)", "partido (partir)"],
+      "explanation": "FAZER a un participe passé irrégulier : 'feito'. Les autres sont réguliers : -ar→-ado, -er→-ido, -ir→-ido."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Se nós ________ (ver) o filme, teríamos compreendido a referência.",
+      "correctAnswer": "tivéssemos visto",
+      "explanation": "Plus-que-parfait du subjonctif : tivéssemos (nós) + visto (participe passé irrégulier de VER)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "teria", "phonetic": "/tɨˈɾiɐ/", "french": "j'aurais / il aurait"},
+    {"portuguese": "se tivesse", "phonetic": "/sɨ tiˈvɛsɨ/", "french": "si j'avais (eu)"},
+    {"portuguese": "feito", "phonetic": "/ˈfɐjtu/", "french": "fait (participe passé)"},
+    {"portuguese": "dito", "phonetic": "/ˈditu/", "french": "dit (participe passé)"},
+    {"portuguese": "visto", "phonetic": "/ˈviʃtu/", "french": "vu (participe passé)"},
+    {"portuguese": "escrito", "phonetic": "/ɨʃˈkɾitu/", "french": "écrit (participe passé)"},
+    {"portuguese": "posto", "phonetic": "/ˈpoʃtu/", "french": "mis (participe passé de pôr)"},
+    {"portuguese": "aberto", "phonetic": "/ɐˈbɛɾtu/", "french": "ouvert (participe passé)"},
+    {"portuguese": "comboio", "phonetic": "/kõˈboju/", "french": "train (PT-PT)"},
+    {"portuguese": "autocarro", "phonetic": "/awtuˈkaʁu/", "french": "autobus (PT-PT)"}
+  ]
+}

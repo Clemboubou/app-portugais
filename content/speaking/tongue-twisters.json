@@ -1,0 +1,76 @@
+{
+  "twisters": [
+    {
+      "id": "tt-1",
+      "text": "O rato roeu a rolha da garrafa do rei da Rússia.",
+      "translation": "Le rat a rongé le bouchon de la bouteille du roi de Russie.",
+      "difficulty": 1,
+      "level": "A2",
+      "focus": "Son /ʁ/ (r guttural)",
+      "tip": "Concentrez-vous sur les 'r' initiaux et les 'rr'. En portugais européen, le 'r' initial et le 'rr' sont gutturaux."
+    },
+    {
+      "id": "tt-2",
+      "text": "Três pratos de trigo para três tigres tristes.",
+      "translation": "Trois plats de blé pour trois tigres tristes.",
+      "difficulty": 1,
+      "level": "A2",
+      "focus": "Groupes consonantiques /tɾ/ et /pɾ/",
+      "tip": "Le 'r' après consonne est toujours battu /ɾ/ (un seul coup de langue)."
+    },
+    {
+      "id": "tt-3",
+      "text": "A aranha arranha a rã. A rã arranha a aranha.",
+      "translation": "L'araignée griffe la grenouille. La grenouille griffe l'araignée.",
+      "difficulty": 2,
+      "level": "A2",
+      "focus": "Nasales /ɐ̃/ et son /ʁ/",
+      "tip": "Attention aux nasales dans 'aranha' et 'rã'. Le 'nh' se prononce /ɲ/ comme le 'gn' français."
+    },
+    {
+      "id": "tt-4",
+      "text": "O tempo perguntou ao tempo quanto tempo o tempo tem.",
+      "translation": "Le temps a demandé au temps combien de temps le temps a.",
+      "difficulty": 2,
+      "level": "B1",
+      "focus": "Voyelles nasales /ẽ/ dans 'tempo' et 'tem'",
+      "tip": "En portugais européen, le 'e' devant 'm' ou 'n' se nasalise. Le mot 'tem' rime avec 'bém'."
+    },
+    {
+      "id": "tt-5",
+      "text": "Se a liga me ligasse, eu ligava a liga. Mas a liga não me liga, eu não ligo a liga.",
+      "translation": "Si la ligue m'appelait, je rejoindrais la ligue. Mais la ligue ne m'appelle pas, je ne rejoins pas la ligue.",
+      "difficulty": 2,
+      "level": "B1",
+      "focus": "Son /l/ et conjugaisons",
+      "tip": "Pratiquez le passage rapide entre les formes du verbe 'ligar'. Le 'l' portugais est toujours clair."
+    },
+    {
+      "id": "tt-6",
+      "text": "Um ninho de mafagafos tinha sete mafagafinhos. Quem os desmafagafar bom desmafagafador será.",
+      "translation": "Un nid de mafagafos avait sept petits mafagafos. Celui qui les démafagafera sera un bon démafagafeur.",
+      "difficulty": 3,
+      "level": "B1",
+      "focus": "Articulation rapide, sons /f/ et /g/",
+      "tip": "C'est un virelangue classique ! Allez lentement d'abord, puis accélérez progressivement."
+    },
+    {
+      "id": "tt-7",
+      "text": "Num ninho de mafagafos há sete mafagafinhos. Quando a mafagafa gafa, gafam os sete mafagafinhos.",
+      "translation": "Dans un nid de mafagafos il y a sept petits mafagafos. Quand la mafagafe gaffe, les sept petits mafagafos gaffent aussi.",
+      "difficulty": 3,
+      "level": "B2",
+      "focus": "Coordination articulatoire",
+      "tip": "Variante du virelangue précédent. Travaillez la fluidité entre les syllabes."
+    },
+    {
+      "id": "tt-8",
+      "text": "O peito do pé de Pedro é preto.",
+      "translation": "Le dessus du pied de Pedro est noir.",
+      "difficulty": 1,
+      "level": "A1",
+      "focus": "Sons /p/ et /pɾ/",
+      "tip": "Simple mais efficace pour pratiquer les groupes /pe/ et /pɾe/. Le 'e' atone se réduit en portugais européen."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 5,
+    "levelCode": "A2",
+    "title": "Passé et narration",
+    "description": "Raconter des événements passés, le Pretérito Perfeito Simples, verbes irréguliers au passé",
+    "order": 1
+  },
+  {
+    "id": 6,
+    "levelCode": "A2",
+    "title": "Maison et quotidien",
+    "description": "Décrire son logement, les tâches ménagères, les meubles, la vie en colocation",
+    "order": 2
+  },
+  {
+    "id": 7,
+    "levelCode": "A2",
+    "title": "Santé et bien-être",
+    "description": "Le corps humain, exprimer une douleur, aller chez le médecin, la pharmacie",
+    "order": 3
+  },
+  {
+    "id": 8,
+    "levelCode": "A2",
+    "title": "Services et voyages",
+    "description": "À la banque, à la poste, réserver un hôtel, demander des informations touristiques",
+    "order": 4
+  },
+  {
+    "id": 9,
+    "levelCode": "A2",
+    "title": "Projets et futur",
+    "description": "Exprimer des intentions, le futur proche (ir + infinitif), parler de ses projets professionnels",
+    "order": 5
+  }
+]

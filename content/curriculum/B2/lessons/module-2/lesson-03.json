@@ -1,0 +1,92 @@
+{
+  "id": "b2-m2-l03",
+  "title": "Exprimer des regrets",
+  "type": "speaking",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Utiliser quem me dera, oxalá, se ao menos pour exprimer des regrets",
+    "Maîtriser arrepender-se de et lamentar pour formuler des regrets",
+    "Participer à une conversation en exprimant regrets et souhaits irréalisables"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La culture du regret et de la saudade",
+      "content": "<p>Le portugais européen est particulièrement riche en expressions de <strong>regret, nostalgie et souhait irréalisable</strong>. La <em>saudade</em>, ce sentiment unique de manque et de mélancolie, imprègne la langue et la culture portugaise.</p><p>Au niveau B2, savoir exprimer des regrets de manière nuancée est essentiel pour des conversations authentiques.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les expressions clés du regret",
+      "content": "<p><strong>Quem me dera</strong> (si seulement / j'aimerais tant) — très courant en PT-PT :</p><ul><li><em>Quem me dera <strong>poder</strong> viajar mais!</em> (Si seulement je pouvais voyager plus !)</li><li><em>Quem me dera que ele <strong>estivesse</strong> aqui.</em> (Si seulement il était ici.)</li><li><em>Quem me dera <strong>ter ido</strong> à festa.</em> (Si seulement j'étais allé à la fête.)</li></ul><p><strong>Oxalá</strong> (pourvu que / espérons que — du mot arabe « inshallah ») :</p><ul><li><em>Oxalá ele <strong>venha</strong> amanhã.</em> (Pourvu qu'il vienne demain.)</li><li><em>Oxalá eu <strong>tivesse</strong> mais tempo.</em> (Si seulement j'avais plus de temps.)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structures du regret au passé",
+      "content": "<p><strong>Se ao menos / Se pelo menos</strong> (si au moins) :</p><ul><li><em>Se ao menos eu <strong>tivesse sabido</strong>!</em> (Si au moins j'avais su !)</li><li><em>Se pelo menos <strong>tivéssemos tentado</strong>...</em> (Si au moins nous avions essayé...)</li></ul><p><strong>Arrepender-se de</strong> (regretter / se repentir de) :</p><ul><li><em>Arrependo-me de não <strong>ter</strong> estudado mais.</em> (Je regrette de ne pas avoir étudié davantage.)</li><li><em>Arrepende-se de <strong>ter dito</strong> aquilo.</em> (Il regrette d'avoir dit cela.)</li></ul><p><strong>Lamentar</strong> (déplorer / regretter) :</p><ul><li><em>Lamento não <strong>poder</strong> ajudar.</em> (Je regrette de ne pas pouvoir aider.)</li><li><em>Lamento que as coisas <strong>tenham corrido</strong> assim.</em> (Je déplore que les choses se soient passées ainsi.)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Regrets et saudade dans la conversation",
+      "content": "<p>Pratiquez ces dialogues :</p><ul><li>— <em>Foste ao concerto do fado ontem?</em><br/>— <em>Não, e arrependo-me. Quem me dera <strong>ter ido</strong>!</em></li><li>— <em>Gostavas de viver em Lisboa?</em><br/>— <em>Quem me dera! Se ao menos <strong>tivesse</strong> um emprego lá...</em></li><li>— <em>Como está a tua avó?</em><br/>— <em>Infelizmente está doente. Oxalá <strong>melhore</strong> depressa. Tenho muitas saudades dela.</em></li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Exprimer vos propres regrets",
+      "content": "<p>Utilisez ces modèles pour exprimer vos regrets personnels :</p><ul><li><em>Se eu <strong>pudesse</strong> voltar atrás, <strong>fazia</strong> tudo diferente.</em> (Si je pouvais revenir en arrière, je ferais tout différemment.)</li><li><em>Não devia <strong>ter</strong> dito aquilo. Arrependo-me profundamente.</em> (Je n'aurais pas dû dire cela. Je le regrette profondément.)</li><li><em>É pena que não <strong>tenhamos aproveitado</strong> a oportunidade.</em> (C'est dommage que nous n'ayons pas saisi l'occasion.)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment exprimer 'Si seulement je pouvais parler portugais couramment' ?",
+      "correctAnswer": "Quem me dera poder falar português fluentemente!",
+      "distractors": [
+        "Oxalá que eu falar português fluentemente!",
+        "Se calhar eu falo português fluentemente!",
+        "Talvez eu posso falar português fluentemente!"
+      ],
+      "explanation": "'Quem me dera' + infinitif exprime un souhait irréalisable. C'est l'expression la plus naturelle en PT-PT pour 'si seulement'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Arrependo-me de não ________ (ir) à universidade.",
+      "correctAnswer": "ter ido",
+      "explanation": "'Arrepender-se de' + infinitif composé (ter + participe passé) pour un regret sur le passé."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Si au moins nous avions essayé !",
+      "correctAnswer": "Se ao menos tivéssemos tentado!",
+      "explanation": "'Se ao menos' + plus-que-parfait du subjonctif (tivéssemos tentado) pour un regret passé."
+    },
+    {
+      "type": "mcq",
+      "prompt": "D'où vient le mot 'oxalá' ?",
+      "correctAnswer": "De l'arabe 'inshallah' (si Dieu le veut)",
+      "distractors": [
+        "Du latin 'oxa' (souhait)",
+        "Du français 'oh là là'",
+        "Du celtique 'oisal' (espoir)"
+      ],
+      "explanation": "'Oxalá' vient de l'arabe 'inshallah', héritage de la présence mauresque au Portugal (711-1249)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quem me dera que ele ________ (estar) aqui connosco.",
+      "correctAnswer": "estivesse",
+      "explanation": "'Quem me dera que' + subjonctif imparfait pour un souhait irréalisable au présent."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "quem me dera", "phonetic": "/kɐ̃j̃ mɨ ˈdɛɾɐ/", "french": "si seulement"},
+    {"portuguese": "oxalá", "phonetic": "/ɔʃɐˈla/", "french": "pourvu que / espérons que"},
+    {"portuguese": "se ao menos", "phonetic": "/sɨ aw ˈmenuʃ/", "french": "si au moins"},
+    {"portuguese": "arrepender-se de", "phonetic": "/ɐʁɨpẽˈdeɾ sɨ dɨ/", "french": "regretter / se repentir de"},
+    {"portuguese": "lamentar", "phonetic": "/lɐmẽˈtaɾ/", "french": "déplorer / regretter"},
+    {"portuguese": "saudade", "phonetic": "/sawˈdadɨ/", "french": "nostalgie / manque affectif"},
+    {"portuguese": "infelizmente", "phonetic": "/ĩfɨliʒˈmẽtɨ/", "french": "malheureusement"},
+    {"portuguese": "profundamente", "phonetic": "/pɾufũdɐˈmẽtɨ/", "french": "profondément"},
+    {"portuguese": "voltar atrás", "phonetic": "/voɫˈtaɾ ɐˈtɾaʃ/", "french": "revenir en arrière"},
+    {"portuguese": "aproveitar", "phonetic": "/ɐpɾuvɐjˈtaɾ/", "french": "profiter de / saisir"}
+  ]
+}

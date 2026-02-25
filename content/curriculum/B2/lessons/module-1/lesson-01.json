@@ -1,0 +1,67 @@
+{
+  "id": "b2-m1-l01",
+  "title": "Le Présent du Subjonctif",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Conjuguer les verbes réguliers et irréguliers au Presente do Conjuntivo",
+    "Comprendre les déclencheurs du subjonctif : désirs, doutes, émotions",
+    "Utiliser le subjonctif après certaines locutions impersonnelles"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Bienvenue au Conjuntivo",
+      "content": "<p>Le <strong>Presente do Conjuntivo</strong> est indispensable pour exprimer la subjectivité : un désir, un doute, un sentiment, une possibilité. Il correspond au subjonctif français.</p><p>Ce mode est très utilisé en portugais européen, même à l'oral.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Formation des verbes réguliers",
+      "content": "<p>Pour former le subjonctif, on intervertit souvent les voyelles thématiques des verbes -AR avec celles des verbes -ER/-IR :</p><table><thead><tr><th>Personne</th><th>-AR (Falar)</th><th>-ER (Comer)</th><th>-IR (Abrir)</th></tr></thead><tbody><tr><td>Eu</td><td>fale</td><td>coma</td><td>abra</td></tr><tr><td>Tu</td><td>fales</td><td>comas</td><td>abras</td></tr><tr><td>Ele/Ela/Você</td><td>fale</td><td>coma</td><td>abra</td></tr><tr><td>Nós</td><td>falemos</td><td>comamos</td><td>abramos</td></tr><tr><td>Eles/Elas/Vocês</td><td>falem</td><td>comam</td><td>abram</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Verbes irréguliers à mémoriser",
+      "content": "<p>Plusieurs verbes clés ont des formes spécifiques :</p><ul><li><strong>Ser</strong> : <em>seja, sejas, seja, sejamos, sejam</em></li><li><strong>Estar</strong> : <em>esteja, estejas, esteja, estejamos, estejam</em></li><li><strong>Ter</strong> : <em>tenha, tenhas, tenha, tenhamos, tenham</em></li><li><strong>Ir</strong> : <em>vá, vás, vá, vamos (ou vades), vão</em></li><li><strong>Saber</strong> : <em>saiba, saibas, saiba, saibamos, saibam</em></li><li><strong>Querer</strong> : <em>queira, queiras, queira, queiramos, queiram</em></li><li><strong>Haver</strong> : <em>haja, hajas, haja, hajamos, hajam</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Les déclencheurs classiques",
+      "content": "<p>On utilise le subjonctif après :</p><ul><li><strong>Désir/Ordre</strong> : <em>Quero que tu <strong>fales</strong> comigo.</em> (Je veux que tu me parles.)</li><li><strong>Doute/Négation</strong> : <em>Não creio que ele <strong>venha</strong>.</em> (Je ne crois pas qu'il vienne.)</li><li><strong>Émotion</strong> : <em>É uma pena que tu não <strong>possas</strong> vir.</em> (C'est dommage que tu ne puisses pas venir.)</li><li><strong>Expressions impersonnelles</strong> : <em>É preciso que <strong>estudemos</strong> mais.</em> (Il est nécessaire que nous étudiions davantage.)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Phrases usuelles au subjonctif",
+      "content": "<ul><li><em>Talvez eu <strong>vá</strong> amanhã.</em> (Peut-être que j'irai demain. - Note : Talvez exige le subjonctif en PT !)</li><li><em>Espero que tu <strong>sejas</strong> feliz.</em> (J'espère que tu seras heureux.)</li><li><em>Duvido que eles <strong>tenham</strong> tempo.</em> (Je doute qu'ils aient le temps.)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill-in-the-blank",
+      "prompt": "Espero que tudo ________ (correr) bem.",
+      "correctAnswer": "corra",
+      "explanation": "Le verbe CORRER au subjonctif à la troisième personne du singulier est 'corra' car il exprime un souhait (Espero que)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Peut-être que Pedro soit là' ?",
+      "correctAnswer": "Talvez o Pedro esteja cá",
+      "distractors": [
+        "Talvez o Pedro está cá",
+        "Talvez o Pedro seja cá",
+        "Talvez o Pedro estivesse cá"
+      ],
+      "explanation": "L'adverbe 'Talvez' déclenche obligatoirement le subjonctif. Pour la localisation (être là), on utilise le verbe ESTAR, pas SER. Donc 'esteja'."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "talvez",
+      "french": "peut-être"
+    },
+    {
+      "portuguese": "uma pena",
+      "french": "un dommage / une pitié"
+    }
+  ]
+}

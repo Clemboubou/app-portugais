@@ -1,0 +1,94 @@
+{
+  "prompts": [
+    {
+      "id": "w-b1-01",
+      "title": "Rédaction : Expérience professionnelle",
+      "instructions": "Écrivez un paragraphe sur une expérience de travail marquante : le type de travail, le contexte, les défis rencontrés et ce que vous en avez appris. Utilisez le passé composé et l'imparfait.",
+      "model": "Há dois anos, trabalhei como estagiário numa empresa de tecnologia em Lisboa. A experiência foi muito enriquecedora. No início, estava nervoso porque era a minha primeira vez, mas os meus colegas eram muito simpáticos e ajudaram-me. Trabalhava em projetos de desenvolvimento de software e aprendi muitas competências novas. Este estágio foi importante para a minha carreira porque me permitiu compreender melhor o que queria fazer no futuro.",
+      "level": "B1",
+      "minWords": 80,
+      "maxWords": 150
+    },
+    {
+      "id": "w-b1-02",
+      "title": "Rédaction : Argument pour ou contre",
+      "instructions": "Exposez votre opinion sur un sujet de société (télétravail, réseaux sociaux, technologie). Présentez au moins deux arguments pour soutenir votre point de vue.",
+      "model": "Acho que o teletrabalho é uma evolução positiva. Em primeiro lugar, permite uma melhor conciliação entre a vida profissional e pessoal, o que reduz o stress. Em segundo lugar, evita deslocações desnecessárias e é mais ecológico. No entanto, compreendo que alguns trabalhos requerem presença física. Em conclusão, o teletrabalho deveria ser uma opção flexível disponível para todos.",
+      "level": "B1",
+      "minWords": 85,
+      "maxWords": 160
+    },
+    {
+      "id": "w-b1-03",
+      "title": "Rédaction : Voyage et découvertes",
+      "instructions": "Décrivez un voyage important que vous avez fait ou aimeriez faire. Parlez des raisons, des destinations prévues et des activités envisagées. Utilisez le futur ou le conditionnel.",
+      "model": "Gostaria muito de visitar o Brasil no próximo ano. O motivo principal é conhecer a cultura brasileira e visitar a Amazónia. Começaria em Rio de Janeiro, onde visitaria o Cristo Redentor e as praias famosas. Depois iria para a região amazónica para fazer caminhadas e aprender sobre a biodiversidade. Gostava também de conhecer Salvador para experimentar a culinária local. Seria uma experiência inesquecível.",
+      "level": "B1",
+      "minWords": 80,
+      "maxWords": 155
+    },
+    {
+      "id": "w-b1-04",
+      "title": "Rédaction : Analyse d'un problème",
+      "instructions": "Identifiez un problème social ou environnemental et proposez deux ou trois solutions possibles.",
+      "model": "A poluição das cidades é um problema grave que afeta a saúde pública. Existem várias soluções possíveis. Primeira, podia-se investir em transportes públicos melhores e mais acessíveis para reduzir o uso de automóveis. Segunda, seria importante promover a energia renovável nas fábricas. Terceira, implementar zonas pedonais e ciclovias encorajaria as pessoas a não utilizar automóveis. Estas medidas combinadas poderiam diminuir significativamente os níveis de poluição.",
+      "level": "B1",
+      "minWords": 85,
+      "maxWords": 155
+    },
+    {
+      "id": "w-b1-05",
+      "title": "Rédaction : Portrait d'une personne",
+      "instructions": "Faites le portrait d'une personne que vous admirez : apparence physique, caractère, réalisations et raisons pour lesquelles vous l'admirez.",
+      "model": "A pessoa que mais admiro é a minha avó. Tem noventa e dois anos e ainda mantém uma energia incrível. Tem cabelo branco como algodão, olhos azuis brilhantes e um sorriso caloroso. É uma mulher de grande inteligência e sabedoria. Durante a sua vida, superou muitas dificuldades e criou uma família feliz. O que mais admiro nela é a sua força, resiliência e capacidade de amar incondicionalmente. A sua história de vida é uma inspiração para mim.",
+      "level": "B1",
+      "minWords": 80,
+      "maxWords": 150
+    },
+    {
+      "id": "w-b1-06",
+      "title": "Rédaction : Récit hypothétique",
+      "instructions": "Écrivez sur ce que vous feriez si vous aviez une semaine de congés ou une grande somme d'argent. Utilisez le conditionnel et décrivez vos plans en détail.",
+      "model": "Se tivesse uma semana de férias, gostava de a passar em Portugal. Primeiro, visitaria o Algarve para desfrutar das praias e do clima. Depois iria para a região do Douro para visitar os vinhedos e provar os vinhos locais. Passaria alguns dias em Covilhã para conhecer as montanhas da Serra da Estrela. À noite, jantaria em restaurantes tradicionais e conheceria pessoas locais. Seria a experiência mais relaxante e enriquecedora que podia imaginar.",
+      "level": "B1",
+      "minWords": 80,
+      "maxWords": 150
+    },
+    {
+      "id": "w-b1-07",
+      "title": "Rédaction : Lettre formelle",
+      "instructions": "Écrivez une lettre formelle à une institution ou une autorité pour exprimer une préoccupation ou une demande (par exemple : une école, un service municipal).",
+      "model": "Prezado Senhor Diretor,\nEscrevo para expressar a minha preocupação sobre o estado das ciclovias no nosso bairro. Como utilizador regular de bicicleta, verifico que muitas ciclovias estão danificadas e mal sinalizadas. Esta situação representa um risco para os ciclistas e desencoraja pessoas a usar bicicleta. Gostaria de sugerir uma inspeção urgente e reparação das ciclovias existentes. Agradeço a sua atenção.\nAtenciosamente,\nMaria Silva",
+      "level": "B1",
+      "minWords": 85,
+      "maxWords": 160
+    },
+    {
+      "id": "w-b1-08",
+      "title": "Rédaction : Analyse d'une expérience",
+      "instructions": "Décrivez une expérience d'apprentissage ou un défi personnel que vous avez relevé. Expliquez les obstacles, comment vous les avez surmontés et les leçons apprises.",
+      "model": "Aprender uma língua nova foi um grande desafio para mim. No início, sentia-me desmotivado porque os progressos eram lentos. O maior obstáculo era a pronuncia e a memorização do vocabulário. Para superar isto, decidi estudar todos os dias, mesmo que apenas durante trinta minutos. Também procurei conversas com falantes nativos. Após seis meses, notei uma melhoria significativa na minha compreensão e confiança. Aprendi que a paciência e a consistência são essenciais para alcançar objetivos.",
+      "level": "B1",
+      "minWords": 85,
+      "maxWords": 160
+    },
+    {
+      "id": "w-b1-09",
+      "title": "Rédaction : Comparaison de cultures",
+      "instructions": "Comparez deux pays ou deux cultures que vous connaissez. Mentionnez les similitudes et les différences en termes de traditions, de valeurs et de mode de vie.",
+      "model": "A cultura portuguesa e a francesa têm muitas similitudes. Ambas valorizam a família, a gastronomia e a arte. No entanto, existem diferenças notáveis. Os portugueses são geralmente mais informais e calorosos nas suas interações sociais, enquanto os franceses tendem a ser mais formais. A gastronomia portuguesa é mais simples e baseada em ingredientes locais, enquanto a culinária francesa é reconhecida pela sua complexidade e refinamento. Apesar das diferenças, ambas as culturas têm um rico património histórico e uma grande importância no contexto europeu.",
+      "level": "B1",
+      "minWords": 85,
+      "maxWords": 160
+    },
+    {
+      "id": "w-b1-10",
+      "title": "Rédaction : Réflexion personnelle",
+      "instructions": "Écrivez une réflexion sur un sujet qui vous préoccupe : les changements climatiques, la technologie, l'éducation, etc. Présentez votre perspective personnelle.",
+      "model": "A tecnologia transformou completamente a forma como vivemos. Embora os benefícios sejam evidentes, estou preocupado com alguns aspetos. A dependência de redes sociais está a afetar negativamente a saúde mental especialmente dos jovens. Além disso, a privacidade está cada vez mais comprometida. Penso que é necessário um equilíbrio entre aproveitarmos os benefícios da tecnologia e protegermos a nossa saúde e privacidade. Como sociedade, devemos educar as pessoas, principalmente as crianças, sobre o uso responsável da tecnologia.",
+      "level": "B1",
+      "minWords": 85,
+      "maxWords": 160
+    }
+  ]
+}

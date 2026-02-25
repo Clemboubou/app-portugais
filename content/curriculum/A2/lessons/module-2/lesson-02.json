@@ -1,0 +1,84 @@
+{
+  "id": "a2-m2-l02",
+  "title": "Les meubles et objets",
+  "type": "vocabulary",
+  "estimatedMinutes": 13,
+  "objectives": [
+    "Nommer les meubles et objets courants du quotidien",
+    "Associer les meubles aux pièces de la maison",
+    "Utiliser 'há' et 'tem' pour décrire le contenu d'une pièce"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Meubler sa maison en portugais",
+      "content": "<p>Après avoir appris les pièces de la maison, il est temps de les remplir ! Dans cette leçon, vous allez apprendre le vocabulaire des <strong>meubles</strong> (móveis) et des <strong>objets du quotidien</strong> (objetos do dia a dia).</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les meubles principaux",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th><th>Pièce typique</th></tr></thead><tbody><tr><td><strong>a cama</strong></td><td>le lit</td><td>quarto</td></tr><tr><td><strong>a mesa</strong></td><td>la table</td><td>cozinha / sala de jantar</td></tr><tr><td><strong>a cadeira</strong></td><td>la chaise</td><td>cozinha / escritório</td></tr><tr><td><strong>o sofá</strong></td><td>le canapé</td><td>sala</td></tr><tr><td><strong>a estante</strong></td><td>l'étagère / la bibliothèque</td><td>sala / escritório</td></tr><tr><td><strong>o fogão</strong></td><td>la cuisinière</td><td>cozinha</td></tr><tr><td><strong>o frigorífico</strong></td><td>le réfrigérateur</td><td>cozinha</td></tr><tr><td><strong>o armário</strong></td><td>l'armoire / le placard</td><td>quarto / cozinha</td></tr><tr><td><strong>a secretária</strong></td><td>le bureau (meuble)</td><td>escritório</td></tr><tr><td><strong>o espelho</strong></td><td>le miroir</td><td>casa de banho</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Objets du quotidien",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td><strong>o candeeiro</strong></td><td>la lampe</td></tr><tr><td><strong>a almofada</strong></td><td>le coussin / l'oreiller</td></tr><tr><td><strong>o tapete</strong></td><td>le tapis</td></tr><tr><td><strong>a cortina</strong></td><td>le rideau</td></tr><tr><td><strong>a televisão</strong></td><td>la télévision</td></tr><tr><td><strong>o micro-ondas</strong></td><td>le micro-ondes</td></tr><tr><td><strong>a máquina de lavar</strong></td><td>la machine à laver</td></tr></tbody></table><p><strong>Note</strong> : En portugais européen, on dit <em>frigorífico</em> (pas 'geladeira' qui est brésilien) et <em>candeeiro</em> (pas 'abajur').</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Décrire une pièce",
+      "content": "<p>Pour décrire le contenu d'une pièce :</p><ul><li><em>Na cozinha, <strong>há</strong> um fogão, um frigorífico e uma mesa com quatro cadeiras.</em></li><li><em>O quarto <strong>tem</strong> uma cama grande, um armário e dois candeeiros.</em></li><li><em>Na sala, <strong>há</strong> um sofá, uma estante com livros e uma televisão.</em></li></ul><p><strong>Rappel</strong> : <em>há</em> (il y a) et <em>tem</em> (a, possède) sont souvent interchangeables en portugais familier.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Décrivez votre pièce préférée",
+      "content": "<p>Choisissez une pièce de votre logement et décrivez-la en mentionnant au moins 5 meubles ou objets.</p><p>Exemple : <em>A minha sala tem um sofá cinzento, uma mesa de centro, uma estante grande, dois candeeiros e um tapete azul. Também há uma televisão na parede.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'le réfrigérateur' en portugais européen ?",
+      "correctAnswer": "o frigorífico",
+      "distractors": ["a geladeira", "o refrigerador", "o gelador"],
+      "explanation": "En portugais européen, on dit 'frigorífico'. 'Geladeira' est la forme brésilienne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Na sala, há um ________ grande e confortável.",
+      "correctAnswer": "sofá",
+      "explanation": "'O sofá' = le canapé. C'est le meuble principal du salon (sala)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Il y a une table et quatre chaises dans la cuisine.'",
+      "correctAnswer": "Há uma mesa e quatro cadeiras na cozinha.",
+      "explanation": "'Há' = il y a. 'Cadeiras' = chaises (pluriel de cadeira). 'Na cozinha' = dans la cuisine."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel meuble ne trouve-t-on normalement PAS dans la cuisine ?",
+      "correctAnswer": "a cama",
+      "distractors": ["o fogão", "o frigorífico", "a mesa"],
+      "explanation": "'A cama' (le lit) se trouve normalement dans le quarto (la chambre), pas dans la cuisine."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O quarto tem uma cama e um ________ para a roupa.",
+      "correctAnswer": "armário",
+      "explanation": "'O armário' = l'armoire/le placard. C'est le meuble où l'on range les vêtements (roupa)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "a cama", "phonetic": "/ˈkɐmɐ/", "french": "le lit"},
+    {"portuguese": "a mesa", "phonetic": "/ˈmezɐ/", "french": "la table"},
+    {"portuguese": "a cadeira", "phonetic": "/kɐˈdɐjɾɐ/", "french": "la chaise"},
+    {"portuguese": "o sofá", "phonetic": "/suˈfa/", "french": "le canapé"},
+    {"portuguese": "a estante", "phonetic": "/ɨʃˈtɐ̃tɨ/", "french": "l'étagère"},
+    {"portuguese": "o fogão", "phonetic": "/fuˈɡɐ̃w/", "french": "la cuisinière"},
+    {"portuguese": "o frigorífico", "phonetic": "/fɾiɡuˈɾifiku/", "french": "le réfrigérateur"},
+    {"portuguese": "o armário", "phonetic": "/aɾˈmaɾju/", "french": "l'armoire"},
+    {"portuguese": "a secretária", "phonetic": "/sɨkɾɨˈtaɾjɐ/", "french": "le bureau (meuble)"},
+    {"portuguese": "o candeeiro", "phonetic": "/kɐ̃dɨˈɐjɾu/", "french": "la lampe"}
+  ]
+}

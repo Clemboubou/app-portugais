@@ -1,0 +1,84 @@
+{
+  "id": "a2-m5-l04",
+  "title": "Les saisons au Portugal",
+  "type": "cultural",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Connaitre les quatre saisons et leur vocabulaire en portugais europeen",
+    "Decouvrir les traditions et le climat saisonnier du Portugal",
+    "Decrire les activites typiques de chaque saison"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le Portugal au fil des saisons",
+      "content": "<p>Le Portugal jouit d'un climat mediterraneen agreable avec des saisons bien marquees. Chaque saison apporte ses traditions, ses fetes et ses plaisirs. Des <strong>Santos Populares</strong> en ete aux <strong>castanhas assadas</strong> en automne, decouvrons le Portugal a travers ses saisons.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les quatre saisons",
+      "content": "<p>Les saisons en portugais :</p><table><thead><tr><th>Portugais</th><th>Francais</th><th>Mois</th></tr></thead><tbody><tr><td><strong>a primavera</strong></td><td>le printemps</td><td>marco, abril, maio</td></tr><tr><td><strong>o verao</strong></td><td>l'ete</td><td>junho, julho, agosto</td></tr><tr><td><strong>o outono</strong></td><td>l'automne</td><td>setembro, outubro, novembro</td></tr><tr><td><strong>o inverno</strong></td><td>l'hiver</td><td>dezembro, janeiro, fevereiro</td></tr></tbody></table><p><strong>Note</strong> : les noms de mois s'ecrivent en <strong>minuscule</strong> en portugais, contrairement a l'anglais.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Chaque saison au Portugal",
+      "content": "<p><strong>A primavera</strong> : Les amandiers fleurissent dans l'Algarve des fevrier. Les jardins de Lisbonne sont en fleurs. Temperatures douces (15-22C).</p><p><strong>O verao</strong> : Saison des <em>Santos Populares</em> (fetes de saints patrons) en juin : <em>Sao Joao</em> a Porto, <em>Santo Antonio</em> a Lisbonne. Plages bondees, sardines grillees. Temperatures : 25-35C.</p><p><strong>O outono</strong> : Saison des <em>castanhas assadas</em> (chataignes grillees) et des vendanges (<em>vindimas</em>). Le <em>Sao Martinho</em> (11 novembre) : on mange des chataignes et boit de l'eau-pe (<em>agua-pe</em>). Temperatures : 12-20C.</p><p><strong>O inverno</strong> : Plus doux qu'en France (8-15C a Lisbonne). Pluie frequente dans le nord. Le Natal (Noel) est tres familial. Le bacalhau est le plat roi.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Parler des saisons",
+      "content": "<p>Pratiquez ces phrases :</p><ul><li><em>Na <strong>primavera</strong>, as flores comecam a aparecer.</em> (Au printemps, les fleurs commencent a apparaitre.)</li><li><em>No <strong>verao</strong>, vamos a praia todos os fins de semana.</em> (En ete, nous allons a la plage tous les week-ends.)</li><li><em>No <strong>outono</strong>, gosto de comer castanhas assadas.</em> (En automne, j'aime manger des chataignes grillees.)</li><li><em>No <strong>inverno</strong>, chove muito no norte de Portugal.</em> (En hiver, il pleut beaucoup dans le nord du Portugal.)</li><li><em>A minha estacao preferida e o verao.</em> (Ma saison preferee est l'ete.)</li><li><em>Em que estacao preferes viajar?</em> (En quelle saison preferes-tu voyager ?)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Ma saison preferee",
+      "content": "<p>Decrivez votre saison preferee au Portugal. Parlez du climat, des activites et des traditions. Utilisez au moins 3 phrases :</p><p>Exemple : <em>A minha estacao preferida e o verao. Gosto de ir a praia no Algarve e comer sardinha assada. Em junho, ha as festas de Santo Antonio em Lisboa — e muito divertido! A temperatura e perfeita, cerca de trinta graus.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'automne' en portugais ?",
+      "correctAnswer": "outono",
+      "distractors": ["otono", "autunno", "outonho"],
+      "explanation": "'O outono' = l'automne. Attention a l'orthographe : pas d'accent, pas de 'h'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "No ________, vamos a praia e comemos sardinhas assadas.",
+      "correctAnswer": "verao",
+      "explanation": "'O verao' = l'ete. En ete, les sardines grillees sont une tradition portugaise incontournable."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Ma saison preferee est le printemps.'",
+      "correctAnswer": "A minha estacao preferida e a primavera.",
+      "explanation": "'A estacao preferida' = la saison preferee. 'A primavera' = le printemps."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle fete celebre-t-on le 11 novembre au Portugal ?",
+      "correctAnswer": "Sao Martinho",
+      "distractors": ["Santo Antonio", "Sao Joao", "Sao Pedro"],
+      "explanation": "Le 'Sao Martinho' (Saint-Martin) se fete le 11 novembre avec des chataignes grillees et de l'agua-pe."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "No outono, gosto de comer ________ assadas.",
+      "correctAnswer": "castanhas",
+      "explanation": "'As castanhas assadas' = les chataignes grillees, tradition du Sao Martinho en automne."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "a primavera", "phonetic": "/pɾimɐˈvɛɾɐ/", "french": "le printemps"},
+    {"portuguese": "o verao", "phonetic": "/vɨˈɾɐ̃w̃/", "french": "l'ete"},
+    {"portuguese": "o outono", "phonetic": "/oˈtonu/", "french": "l'automne"},
+    {"portuguese": "o inverno", "phonetic": "/ĩˈvɛɾnu/", "french": "l'hiver"},
+    {"portuguese": "a estacao", "phonetic": "/ɨʃtɐˈsɐ̃w̃/", "french": "la saison"},
+    {"portuguese": "as castanhas assadas", "phonetic": "/kɐʃˈtɐɲɐʃ ɐˈsadɐʃ/", "french": "les chataignes grillees"},
+    {"portuguese": "a sardinha", "phonetic": "/sɐɾˈdiɲɐ/", "french": "la sardine"},
+    {"portuguese": "a praia", "phonetic": "/ˈpɾajɐ/", "french": "la plage"},
+    {"portuguese": "as vindimas", "phonetic": "/vĩˈdimɐʃ/", "french": "les vendanges"},
+    {"portuguese": "o Natal", "phonetic": "/nɐˈtal/", "french": "Noel"}
+  ]
+}

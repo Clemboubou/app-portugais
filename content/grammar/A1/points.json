@@ -1,0 +1,185 @@
+[
+  {
+    "id": "g-a1-01",
+    "title": "Le genre des noms (masculin/féminin)",
+    "level": "A1",
+    "explanation": "En portugais européen, tous les noms ont un genre grammatical : masculin ou féminin. En général, les noms terminés en -o sont masculins et ceux terminés en -a sont féminins. Mais il existe des exceptions importantes.",
+    "examples": [
+      { "pt": "o livro", "fr": "le livre (masculin)" },
+      { "pt": "a mesa", "fr": "la table (féminin)" },
+      { "pt": "o dia", "fr": "le jour (masculin, exception)" },
+      { "pt": "a mão", "fr": "la main (féminin, exception)" }
+    ],
+    "tip": "Apprenez toujours le genre avec l'article : o (masculin) ou a (féminin)."
+  },
+  {
+    "id": "g-a1-02",
+    "title": "Les articles définis (o, a, os, as)",
+    "level": "A1",
+    "explanation": "Les articles définis en portugais s'accordent en genre et en nombre. Masculin singulier : o. Féminin singulier : a. Masculin pluriel : os. Féminin pluriel : as.",
+    "examples": [
+      { "pt": "o homem / os homens", "fr": "l'homme / les hommes" },
+      { "pt": "a mulher / as mulheres", "fr": "la femme / les femmes" },
+      { "pt": "o gato / os gatos", "fr": "le chat / les chats" }
+    ],
+    "tip": "Contrairement au français, l'article défini se contracte souvent avec les prépositions (de + o = do, em + a = na)."
+  },
+  {
+    "id": "g-a1-03",
+    "title": "Les articles indéfinis (um, uma, uns, umas)",
+    "level": "A1",
+    "explanation": "Les articles indéfinis s'accordent aussi en genre et en nombre. Masculin singulier : um. Féminin singulier : uma. Pluriel : uns / umas (signifient 'quelques').",
+    "examples": [
+      { "pt": "um café", "fr": "un café" },
+      { "pt": "uma casa", "fr": "une maison" },
+      { "pt": "uns livros", "fr": "quelques livres" },
+      { "pt": "umas flores", "fr": "quelques fleurs" }
+    ],
+    "tip": "Le pluriel des indéfinis (uns/umas) s'emploie pour exprimer une quantité imprécise, comme le français 'des'."
+  },
+  {
+    "id": "g-a1-04",
+    "title": "Le pluriel des noms",
+    "level": "A1",
+    "explanation": "La formation du pluriel en portugais suit plusieurs règles. Les noms terminés en voyelle prennent -s. Les noms en -ão ont trois pluriels possibles : -ões, -ãos ou -ães. Les noms en -m prennent -ns.",
+    "examples": [
+      { "pt": "gato → gatos", "fr": "chat → chats" },
+      { "pt": "canção → canções", "fr": "chanson → chansons" },
+      { "pt": "irmão → irmãos", "fr": "frère → frères" },
+      { "pt": "homem → homens", "fr": "homme → hommes" }
+    ],
+    "tip": "Les noms en -ão sont les plus délicats : mémorisez le pluriel avec chaque mot nouveau."
+  },
+  {
+    "id": "g-a1-05",
+    "title": "Le verbe SER (être — identité permanente)",
+    "level": "A1",
+    "explanation": "Le verbe 'ser' exprime une identité permanente ou essentielle : nationalité, profession, origine, matière. Conjugaison au présent : sou, és, é, somos, sois, são.",
+    "examples": [
+      { "pt": "Eu sou francês.", "fr": "Je suis français." },
+      { "pt": "Ela é professora.", "fr": "Elle est professeure." },
+      { "pt": "Lisboa é a capital.", "fr": "Lisbonne est la capitale." }
+    ],
+    "tip": "Ser vs Estar : utilisez 'ser' pour ce qui ne change pas (nationalité, profession) et 'estar' pour les états temporaires."
+  },
+  {
+    "id": "g-a1-06",
+    "title": "Le verbe ESTAR (être — état temporaire)",
+    "level": "A1",
+    "explanation": "Le verbe 'estar' exprime un état temporaire, une situation ou une localisation. Conjugaison au présent : estou, estás, está, estamos, estais, estão.",
+    "examples": [
+      { "pt": "Estou bem, obrigado.", "fr": "Je vais bien, merci." },
+      { "pt": "Ela está em Lisboa.", "fr": "Elle est à Lisbonne." },
+      { "pt": "O tempo está bom.", "fr": "Le temps est beau." }
+    ],
+    "tip": "En EP (européen), 'estar' pour la santé : 'Como está?' (formel) ou 'Como estás?' (informel)."
+  },
+  {
+    "id": "g-a1-07",
+    "title": "Les verbes réguliers en -AR (présent)",
+    "level": "A1",
+    "explanation": "Les verbes en -AR sont les plus nombreux. Au présent : -o, -as, -a, -amos, -ais, -am. Exemple : falar (parler).",
+    "examples": [
+      { "pt": "Eu falo português.", "fr": "Je parle portugais." },
+      { "pt": "Tu falas muito bem!", "fr": "Tu parles très bien !" },
+      { "pt": "Nós falamos francês.", "fr": "Nous parlons français." }
+    ],
+    "tip": "En EP, la 2ème personne du singulier (tu) est très utilisée, contrairement à d'autres variétés."
+  },
+  {
+    "id": "g-a1-08",
+    "title": "Les pronoms personnels sujets",
+    "level": "A1",
+    "explanation": "Les pronoms sujets en portugais : eu (je), tu (tu), ele/ela/você (il/elle/vous formel), nós (nous), vós/vocês (vous), eles/elas (ils/elles). En EP, 'você' est formel ; 'tu' est informel courant.",
+    "examples": [
+      { "pt": "Eu chamo-me Marie.", "fr": "Je m'appelle Marie." },
+      { "pt": "Tu és de onde?", "fr": "Tu es d'où ?" },
+      { "pt": "Vocês falam inglês?", "fr": "Vous parlez anglais ?" }
+    ],
+    "tip": "En portugais européen, les pronoms sujets sont souvent omis car les désinences verbales suffisent."
+  },
+  {
+    "id": "g-a1-09",
+    "title": "L'accord des adjectifs",
+    "level": "A1",
+    "explanation": "Les adjectifs s'accordent en genre et en nombre avec le nom qu'ils qualifient. Les adjectifs en -o/-a varient selon le genre. Ceux en -e ou en consonne restent identiques pour les deux genres.",
+    "examples": [
+      { "pt": "um livro novo / uma casa nova", "fr": "un livre neuf / une maison neuve" },
+      { "pt": "um homem interessante / uma mulher interessante", "fr": "un homme intéressant / une femme intéressante" },
+      { "pt": "os livros novos / as casas novas", "fr": "les livres neufs / les maisons neuves" }
+    ],
+    "tip": "L'adjectif se place généralement après le nom en portugais, contrairement au français."
+  },
+  {
+    "id": "g-a1-10",
+    "title": "Les prépositions de base : de, em, a",
+    "level": "A1",
+    "explanation": "Trois prépositions essentielles : 'de' (de, d'origine, appartenance), 'em' (dans, en, à), 'a' (à, pour la destination/temps). Ces prépositions se contractent avec les articles.",
+    "examples": [
+      { "pt": "Sou de Lisboa. (de + article = de Lisboa)", "fr": "Je suis de Lisbonne." },
+      { "pt": "Estou em Portugal. / no Portugal (em + o = no)", "fr": "Je suis au Portugal." },
+      { "pt": "Vou à praia. (a + a = à)", "fr": "Je vais à la plage." }
+    ],
+    "tip": "Contractions fréquentes : de+o=do, de+a=da, em+o=no, em+a=na, a+o=ao, a+a=à."
+  },
+  {
+    "id": "g-a1-11",
+    "title": "La négation avec NÃO",
+    "level": "A1",
+    "explanation": "La négation en portugais s'exprime simplement avec 'não' placé avant le verbe. Contrairement au français, pas de double négation (ne...pas).",
+    "examples": [
+      { "pt": "Não falo espanhol.", "fr": "Je ne parle pas espagnol." },
+      { "pt": "Não é aqui.", "fr": "Ce n'est pas ici." },
+      { "pt": "Não tenho fome.", "fr": "Je n'ai pas faim." }
+    ],
+    "tip": "On peut aussi mettre 'não' après le verbe pour une double négation emphatique : 'Não sei, não.' (Je ne sais vraiment pas.)"
+  },
+  {
+    "id": "g-a1-12",
+    "title": "Le verbe TER (avoir)",
+    "level": "A1",
+    "explanation": "Le verbe 'ter' (avoir) est essentiel. Conjugaison : tenho, tens, tem, temos, tendes, têm. Il sert à exprimer la possession, mais aussi certains états physiques.",
+    "examples": [
+      { "pt": "Tenho um apartamento em Lisboa.", "fr": "J'ai un appartement à Lisbonne." },
+      { "pt": "Ela tem vinte anos.", "fr": "Elle a vingt ans." },
+      { "pt": "Temos fome.", "fr": "Nous avons faim." }
+    ],
+    "tip": "L'âge se dit avec 'ter' en portugais (ter X anos), pas avec 'ser' ou 'estar'."
+  },
+  {
+    "id": "g-a1-13",
+    "title": "Le présent des verbes en -ER et -IR",
+    "level": "A1",
+    "explanation": "Verbes en -ER : comer (manger) → como, comes, come, comemos, comeis, comem. Verbes en -IR : partir (partir) → parto, partes, parte, partimos, partis, partem.",
+    "examples": [
+      { "pt": "Eu como muito peixe.", "fr": "Je mange beaucoup de poisson." },
+      { "pt": "Tu bebes vinho?", "fr": "Tu bois du vin ?" },
+      { "pt": "O comboio parte às dez.", "fr": "Le train part à dix heures." }
+    ],
+    "tip": "Notez 'comboio' (train) et 'beber' (boire) — deux mots très utiles pour voyager en Portugal !"
+  },
+  {
+    "id": "g-a1-14",
+    "title": "Les questions (intonation et mots interrogatifs)",
+    "level": "A1",
+    "explanation": "En portugais, on peut poser une question par simple intonation montante, ou avec des mots interrogatifs : o que (quoi), quem (qui), onde (où), quando (quand), como (comment), por que / porquê (pourquoi), quanto (combien).",
+    "examples": [
+      { "pt": "Fala inglês? / Você fala inglês?", "fr": "Vous parlez anglais ?" },
+      { "pt": "Onde fica a estação?", "fr": "Où est la gare ?" },
+      { "pt": "Quanto custa isto?", "fr": "Combien ça coûte ?" }
+    ],
+    "tip": "Le point d'interrogation inversé n'existe pas en portugais, contrairement à l'espagnol."
+  },
+  {
+    "id": "g-a1-15",
+    "title": "Les nombres (0-100)",
+    "level": "A1",
+    "explanation": "Les nombres de 0 à 10 : zero, um/uma, dois/duas, três, quatro, cinco, seis, sete, oito, nove, dez. De 11 à 19 : onze, doze, treze, catorze, quinze, dezasseis, dezassete, dezoito, dezanove. Dizaines : vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, cem.",
+    "examples": [
+      { "pt": "Tenho trinta e dois anos.", "fr": "J'ai trente-deux ans." },
+      { "pt": "O hotel fica no décimo quinto andar.", "fr": "L'hôtel est au quinzième étage." },
+      { "pt": "Custa cinquenta euros.", "fr": "Ça coûte cinquante euros." }
+    ],
+    "tip": "Attention : 'dois' (masculin) / 'duas' (féminin) — deux formes pour le chiffre 2 !"
+  }
+]

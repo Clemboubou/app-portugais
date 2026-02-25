@@ -1,0 +1,84 @@
+{
+  "id": "b2-m6-l02",
+  "title": "PT-PT vs PT-BR",
+  "type": "cultural",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Identifier les principales différences entre portugais européen et brésilien",
+    "Comprendre les différences lexicales, phonétiques et grammaticales",
+    "Savoir reconnaître un texte ou un locuteur PT-PT vs PT-BR"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Deux variantes, une langue",
+      "content": "<p>Le portugais européen (PT-PT) et le portugais brésilien (PT-BR) sont <strong>deux variantes d'une même langue</strong>, comme le français de France et le français du Québec. Les différences sont notables à l'oral mais n'empêchent pas l'intercompréhension. En tant qu'apprenant de PT-PT, il est important de <strong>connaître ces différences</strong> pour ne pas être dérouté par le PT-BR, omniprésent sur Internet.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Différences lexicales",
+      "content": "<p>Voici les différences de vocabulaire les plus courantes :</p><table><tr><th>Français</th><th>PT-PT</th><th>PT-BR</th></tr><tr><td>train</td><td><em><strong>comboio</strong></em></td><td><em>trem</em></td></tr><tr><td>petit-déjeuner</td><td><em><strong>pequeno-almoço</strong></em></td><td><em>café da manhã</em></td></tr><tr><td>portable (téléphone)</td><td><em><strong>telemóvel</strong></em></td><td><em>celular</em></td></tr><tr><td>bus</td><td><em><strong>autocarro</strong></em></td><td><em>ônibus</em></td></tr><tr><td>costume</td><td><em><strong>fato</strong></em></td><td><em>terno</em></td></tr><tr><td>réfrigérateur</td><td><em><strong>frigorífico</strong></em></td><td><em>geladeira</em></td></tr><tr><td>toilettes</td><td><em><strong>casa de banho</strong></em></td><td><em>banheiro</em></td></tr><tr><td>piéton</td><td><em><strong>peão</strong></em></td><td><em>pedestre</em></td></tr></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Différences phonétiques et grammaticales",
+      "content": "<p><strong>Différences phonétiques :</strong></p><ul><li><strong>Voyelles atones :</strong> en PT-PT, les voyelles non accentuées sont très réduites (presque muettes). En PT-BR, elles sont prononcées plus clairement.</li><li><strong>Le son /ʃ/ :</strong> en PT-PT, le 's' final se prononce /ʃ/ (ch). En PT-BR, il se prononce /s/. Ex : <em>português</em> → PT-PT : /puɾtuˈɡeʃ/ vs PT-BR : /poɾtuˈges/</li><li><strong>Le 'r' :</strong> en PT-PT, le 'r' initial est une uvulaire /ʁ/ (comme en français). En PT-BR, il varie selon les régions (aspiré, roulé).</li><li><strong>Le 'di/ti' :</strong> en PT-BR, 'di' se prononce /dʒi/ et 'ti' se prononce /tʃi/. En PT-PT, ils restent /di/ et /ti/.</li></ul><p><strong>Différences grammaticales :</strong></p><ul><li><strong>Place des pronoms :</strong> PT-PT = enclise (après le verbe) : <em>Dá-<strong>me</strong> o livro.</em> | PT-BR = proclise (avant) : <em><strong>Me</strong> dá o livro.</em></li><li><strong>Gérondif vs a + infinitif :</strong> PT-PT : <em>Estou <strong>a falar</strong>.</em> | PT-BR : <em>Estou <strong>falando</strong>.</em></li><li><strong>Tu vs Você :</strong> PT-PT utilise 'tu' couramment ; PT-BR utilise 'você' (sauf dans le sud).</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "PT-PT ou PT-BR ?",
+      "content": "<p>Identifiez si ces phrases sont en PT-PT ou PT-BR :</p><ol><li><em>Me dá o celular.</em> → <strong>PT-BR</strong> (proclise + celular)</li><li><em>Estou a trabalhar no escritório.</em> → <strong>PT-PT</strong> (a + infinitif)</li><li><em>Cadê o banheiro?</em> → <strong>PT-BR</strong> ('cadê' + banheiro)</li><li><em>Dá-me o telemóvel, se faz favor.</em> → <strong>PT-PT</strong> (enclise + telemóvel)</li><li><em>Peguei o ônibus para o trabalho.</em> → <strong>PT-BR</strong> (ônibus)</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Comparer les deux variantes",
+      "content": "<p>Réécrivez ces phrases PT-BR en PT-PT :</p><ol><li><em>Estou falando com ele no celular.</em></li><li><em>Me diz onde fica o banheiro.</em></li><li><em>Peguei o trem para o trabalho.</em></li></ol><p>Puis rédigez un court paragraphe (60-80 mots) expliquant les 3 différences que vous trouvez les plus marquantes.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'train' en portugais européen ?",
+      "correctAnswer": "comboio",
+      "distractors": ["trem", "metro", "carruagem"],
+      "explanation": "'Comboio' est le mot PT-PT pour train. 'Trem' est la forme brésilienne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "En PT-PT, on dit « Estou ________ trabalhar » (je suis en train de travailler).",
+      "correctAnswer": "a",
+      "explanation": "PT-PT utilise 'estar a + infinitif' (estou a trabalhar), tandis que PT-BR utilise le gérondif (estou trabalhando)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Réécrivez en PT-PT : 'Me dá o celular.' (Donne-moi le portable.)",
+      "correctAnswer": "Dá-me o telemóvel.",
+      "explanation": "PT-PT : enclise (Dá-me, pas Me dá) + telemóvel (pas celular). L'enclise est la norme en PT-PT dans les phrases affirmatives."
+    },
+    {
+      "type": "mcq",
+      "prompt": "En PT-PT, comment se prononce le 's' final dans 'português' ?",
+      "correctAnswer": "/ʃ/ (comme 'ch')",
+      "distractors": ["/s/ (comme 'ss')", "/z/ (comme 'z')", "Il ne se prononce pas"],
+      "explanation": "En PT-PT, le 's' en fin de syllabe ou de mot se prononce /ʃ/ (chuintante), c'est une caractéristique distinctive."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "En PT-PT, le mot pour 'petit-déjeuner' est ________.",
+      "correctAnswer": "pequeno-almoço",
+      "explanation": "'Pequeno-almoço' (PT-PT) vs 'café da manhã' (PT-BR). Littéralement 'petit déjeuner' (almoço = déjeuner)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "comboio", "phonetic": "/kõˈboju/", "french": "train (PT-PT)"},
+    {"portuguese": "telemóvel", "phonetic": "/tɛlɨˈmɔvɛl/", "french": "téléphone portable (PT-PT)"},
+    {"portuguese": "autocarro", "phonetic": "/awtuˈkaʁu/", "french": "bus (PT-PT)"},
+    {"portuguese": "pequeno-almoço", "phonetic": "/pɨˈkenu alˈmosu/", "french": "petit-déjeuner (PT-PT)"},
+    {"portuguese": "frigorífico", "phonetic": "/fɾiɡuˈɾifiku/", "french": "réfrigérateur (PT-PT)"},
+    {"portuguese": "casa de banho", "phonetic": "/ˈkazɐ dɨ ˈbaɲu/", "french": "toilettes / salle de bains (PT-PT)"},
+    {"portuguese": "peão", "phonetic": "/piˈɐ̃w̃/", "french": "piéton (PT-PT)"},
+    {"portuguese": "fato", "phonetic": "/ˈfatu/", "french": "costume (vêtement, PT-PT)"},
+    {"portuguese": "enclise", "phonetic": "/ẽˈklizɨ/", "french": "enclise (pronom après le verbe)"},
+    {"portuguese": "proclise", "phonetic": "/pɾɔˈklizɨ/", "french": "proclise (pronom avant le verbe)"}
+  ]
+}

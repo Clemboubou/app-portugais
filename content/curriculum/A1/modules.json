@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "levelCode": "A1",
+    "title": "Premières bases",
+    "description": "Alphabet, prononciation, salutations, se présenter, nationalités",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "levelCode": "A1",
+    "title": "Environnement immédiat",
+    "description": "Chiffres 0-100, couleurs, objets quotidiens, famille proche",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "levelCode": "A1",
+    "title": "Vie quotidienne",
+    "description": "Jours, mois, heure, routines, verbes ser/estar/ter/ir au présent",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "levelCode": "A1",
+    "title": "Achats et sorties",
+    "description": "Nourriture, restaurant, prix, commande simple, articles définis/indéfinis",
+    "order": 4
+  }
+]

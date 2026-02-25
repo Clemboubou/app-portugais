@@ -1,0 +1,140 @@
+{
+  "id": "a1-m3-l02",
+  "title": "Les mois et les saisons",
+  "type": "vocabulary",
+  "estimatedMinutes": 10,
+  "objectives": [
+    "Nommer les douze mois de l'année en portugais européen",
+    "Identifier les quatre saisons et les associer aux mois correspondants",
+    "Utiliser « em » pour exprimer un mois ou une saison"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les mois de l'année",
+      "content": "En portugais européen, les noms des mois ressemblent beaucoup à leurs équivalents français et ne prennent pas de majuscule. Ils dérivent tous du latin. C'est une excellente nouvelle pour les francophones : avec un peu d'attention, vous les reconnaîtrez facilement !"
+    },
+    {
+      "type": "discovery",
+      "title": "Les douze mois",
+      "content": "Les douze mois de l'année en portugais européen :\n\n• janeiro — janvier\n• fevereiro — février\n• março — mars\n• abril — avril\n• maio — mai\n• junho — juin\n• julho — juillet\n• agosto — août\n• setembro — septembre\n• outubro — octobre\n• novembro — novembre\n• dezembro — décembre\n\nPour dire « en janvier » ou « au mois de mars », on utilise la préposition « em » :\nEx. : O meu aniversário é em março. (Mon anniversaire est en mars.)"
+    },
+    {
+      "type": "discovery",
+      "title": "Les quatre saisons",
+      "content": "Les quatre saisons en portugais européen :\n\n• a primavera — le printemps (mars, abril, maio)\n• o verão — l'été (junho, julho, agosto)\n• o outono — l'automne (setembro, outubro, novembro)\n• o inverno — l'hiver (dezembro, janeiro, fevereiro)\n\nRemarque : au Portugal, l'été peut être très chaud, surtout à Lisbonne et dans l'Alentejo. Le verão est une saison très importante culturellement.\n\nPour dire « au printemps » ou « en hiver » : na primavera, no verão, no outono, no inverno.\n(na = em + a | no = em + o)"
+    },
+    {
+      "type": "explanation",
+      "title": "Contractions avec em",
+      "content": "La préposition em se contracte avec les articles définis :\n\n• em + o → no (masculin singulier)\n  Ex. : no verão (en été), no outono (en automne), no inverno (en hiver)\n\n• em + a → na (féminin singulier)\n  Ex. : na primavera (au printemps)\n\nPour les mois, on utilise em sans contraction car les mois n'ont pas d'article :\n  Ex. : em julho, em dezembro."
+    },
+    {
+      "type": "production",
+      "title": "Parlez de votre mois préféré",
+      "content": "Essayez de construire ces phrases à voix haute :\n\n1. O meu mês preferido é ___ . (Mon mois préféré est ___)\n2. Faço anos em ___ . (J'ai mon anniversaire en ___)\n3. Gosto muito do verão / da primavera / do outono / do inverno. (J'aime beaucoup l'été / le printemps / l'automne / l'hiver.)\n\nRemarque : « faço anos » est l'expression utilisée au Portugal pour « avoir son anniversaire »."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel mois correspond à « agosto » en français ?",
+      "correctAnswer": "août",
+      "distractors": ["juillet", "septembre", "juin"],
+      "explanation": "Agosto correspond au mois d'août. Juillet se dit julho, septembre se dit setembro et juin se dit junho en portugais européen."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle saison correspond à « o inverno » ?",
+      "correctAnswer": "l'hiver",
+      "distractors": ["l'été", "le printemps", "l'automne"],
+      "explanation": "O inverno signifie l'hiver. L'été se dit o verão, le printemps se dit a primavera et l'automne se dit o outono."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez : « O Natal é ___ dezembro. » (Noël est en décembre.)",
+      "correctAnswer": "em",
+      "distractors": ["no", "na", "de"],
+      "explanation": "Pour exprimer « en + mois », on utilise la préposition em sans article. On dit em dezembro, em janeiro, etc. Les contractions no/na s'utilisent avec les saisons qui ont un article."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Au printemps, il fait beau. »",
+      "correctAnswer": "Na primavera, faz bom tempo.",
+      "distractors": [
+        "Em primavera, faz bom tempo.",
+        "No primavera, faz bom tempo.",
+        "Na primavera, faz mau tempo."
+      ],
+      "explanation": "Na primavera = em + a primavera (au printemps). La primavera est féminin, d'où la contraction na. Faz bom tempo signifie « il fait beau »."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez dans l'ordre : « em / O meu aniversário / é / junho »",
+      "correctAnswer": "O meu aniversário é em junho.",
+      "distractors": [
+        "Em junho o meu aniversário é.",
+        "O meu aniversário em é junho.",
+        "É em junho o meu aniversário."
+      ],
+      "explanation": "La structure est : O meu aniversário (sujet) + é (verbe) + em junho (complément de temps). Em précède le mois sans article."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "janeiro",
+      "phonetic": "/ʒɐˈnɐjɾu/",
+      "french": "janvier"
+    },
+    {
+      "portuguese": "fevereiro",
+      "phonetic": "/fɨvɨˈɾɐjɾu/",
+      "french": "février"
+    },
+    {
+      "portuguese": "março",
+      "phonetic": "/ˈmaɾsu/",
+      "french": "mars"
+    },
+    {
+      "portuguese": "junho",
+      "phonetic": "/ˈʒuɲu/",
+      "french": "juin"
+    },
+    {
+      "portuguese": "julho",
+      "phonetic": "/ˈʒuʎu/",
+      "french": "juillet"
+    },
+    {
+      "portuguese": "agosto",
+      "phonetic": "/ɐˈɡoʃtu/",
+      "french": "août"
+    },
+    {
+      "portuguese": "dezembro",
+      "phonetic": "/dɨˈzẽbɾu/",
+      "french": "décembre"
+    },
+    {
+      "portuguese": "a primavera",
+      "phonetic": "/ɐ pɾimɐˈvɛɾɐ/",
+      "french": "le printemps"
+    },
+    {
+      "portuguese": "o verão",
+      "phonetic": "/u vɨˈɾɐ̃w/",
+      "french": "l'été"
+    },
+    {
+      "portuguese": "o outono",
+      "phonetic": "/u oˈtonu/",
+      "french": "l'automne"
+    },
+    {
+      "portuguese": "o inverno",
+      "phonetic": "/u ĩˈvɛɾnu/",
+      "french": "l'hiver"
+    }
+  ]
+}

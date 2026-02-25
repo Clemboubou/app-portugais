@@ -1,0 +1,84 @@
+{
+  "id": "a2-m5-l03",
+  "title": "Parler du temps qu'il fait",
+  "type": "vocabulary",
+  "estimatedMinutes": 14,
+  "objectives": [
+    "Maitriser le vocabulaire meteorologique en portugais europeen",
+    "Decrire le temps qu'il fait avec differentes structures",
+    "Comprendre un bulletin meteo simple"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Quel temps fait-il ?",
+      "content": "<p>Parler de la meteo est un sujet de conversation universel. Au Portugal, le climat varie beaucoup selon les regions : le sud (Algarve) est ensoleille, le nord (Minho) est plus pluvieux, et Lisbonne beneficie d'un climat doux. Apprenons a decrire le temps qu'il fait.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Le vocabulaire de la meteo",
+      "content": "<p>Les termes meteorologiques essentiels :</p><table><thead><tr><th>Portugais</th><th>Francais</th></tr></thead><tbody><tr><td><strong>o sol</strong></td><td>le soleil</td></tr><tr><td><strong>a chuva</strong></td><td>la pluie</td></tr><tr><td><strong>o vento</strong></td><td>le vent</td></tr><tr><td><strong>a nuvem</strong></td><td>le nuage</td></tr><tr><td><strong>a neve</strong></td><td>la neige</td></tr><tr><td><strong>o nevoeiro</strong></td><td>le brouillard</td></tr><tr><td><strong>a trovoada</strong></td><td>l'orage</td></tr><tr><td><strong>o relampago</strong></td><td>l'eclair</td></tr><tr><td><strong>o arco-iris</strong></td><td>l'arc-en-ciel</td></tr><tr><td><strong>a temperatura</strong></td><td>la temperature</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Decrire le temps",
+      "content": "<p>Structures pour parler de la meteo :</p><table><thead><tr><th>Structure</th><th>Exemple</th><th>Francais</th></tr></thead><tbody><tr><td><strong>Estar + adjectif</strong></td><td><em>Esta frio / quente / fresco.</em></td><td>Il fait froid / chaud / frais.</td></tr><tr><td><strong>Estar + nom</strong></td><td><em>Esta sol / vento / nevoeiro.</em></td><td>Il y a du soleil / vent / brouillard.</td></tr><tr><td><strong>Estar nublado</strong></td><td><em>Hoje esta nublado.</em></td><td>Aujourd'hui il fait nuageux.</td></tr><tr><td><strong>Chover</strong></td><td><em>Esta a chover.</em></td><td>Il pleut. (estar a + infinitif)</td></tr><tr><td><strong>Nevar</strong></td><td><em>Esta a nevar na Serra da Estrela.</em></td><td>Il neige dans la Serra da Estrela.</td></tr><tr><td><strong>Haver + nom</strong></td><td><em>Ha trovoada a noite.</em></td><td>Il y a un orage ce soir.</td></tr></tbody></table><p><strong>Note</strong> : en portugais europeen, on utilise <em>estar a + infinitif</em> pour les actions en cours (pas le gerundif bresilien). Donc : <em>esta a chover</em> (pas 'esta chovendo').</p>"
+    },
+    {
+      "type": "practice",
+      "title": "La meteo de la semaine",
+      "content": "<p>Pratiquez en decrivant la semaine :</p><ul><li><em>Segunda-feira: <strong>esta sol</strong>, a temperatura e de vinte e cinco graus.</em> (Lundi : il fait soleil, la temperature est de 25 degres.)</li><li><em>Terca-feira: <strong>esta nublado</strong>, mas nao chove.</em> (Mardi : il fait nuageux, mais il ne pleut pas.)</li><li><em>Quarta-feira: <strong>esta a chover</strong> e ha muito vento.</em> (Mercredi : il pleut et il y a beaucoup de vent.)</li><li><em>Quinta-feira: o ceu esta limpo e <strong>esta fresco</strong>.</em> (Jeudi : le ciel est degage et il fait frais.)</li><li><em>Sexta-feira: <strong>esta muito calor</strong>, trinta e dois graus!</em> (Vendredi : il fait tres chaud, 32 degres !)</li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Bulletin meteo",
+      "content": "<p>Redigez un mini-bulletin meteo pour Lisbonne, Porto et l'Algarve en utilisant le vocabulaire appris :</p><p>Exemple : <em>Em Lisboa, hoje esta sol com vinte e tres graus. No Porto, esta nublado e esta a chover. No Algarve, esta muito calor, trinta graus e ceu limpo.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'Il pleut' en portugais europeen ?",
+      "correctAnswer": "Esta a chover",
+      "distractors": ["Esta chovendo", "Chove muito", "Faz chuva"],
+      "explanation": "En portugais europeen, on utilise 'estar a + infinitif' : 'esta a chover'. La forme bresilienne serait 'esta chovendo'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Hoje esta muito ________, trinta e cinco graus!",
+      "correctAnswer": "calor",
+      "explanation": "'Esta calor' = il fait chaud. 'Muito calor' = tres chaud."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Aujourd'hui il fait nuageux et il y a du vent.'",
+      "correctAnswer": "Hoje esta nublado e esta vento.",
+      "explanation": "'Nublado' = nuageux, 'esta vento' = il y a du vent."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'o nevoeiro' ?",
+      "correctAnswer": "Le brouillard",
+      "distractors": ["La neige", "L'orage", "Le nuage"],
+      "explanation": "'O nevoeiro' = le brouillard. 'A neve' = la neige, 'a trovoada' = l'orage, 'a nuvem' = le nuage."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Esta a ________ na Serra da Estrela.",
+      "correctAnswer": "nevar",
+      "explanation": "'Nevar' = neiger. 'Esta a nevar' = il neige (en cours). La Serra da Estrela est le seul endroit au Portugal continental ou il neige regulierement."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "o sol", "phonetic": "/sɔl/", "french": "le soleil"},
+    {"portuguese": "a chuva", "phonetic": "/ˈʃuvɐ/", "french": "la pluie"},
+    {"portuguese": "o vento", "phonetic": "/ˈvẽtu/", "french": "le vent"},
+    {"portuguese": "nublado", "phonetic": "/nuˈbladu/", "french": "nuageux"},
+    {"portuguese": "frio", "phonetic": "/ˈfɾiu/", "french": "froid"},
+    {"portuguese": "calor", "phonetic": "/kɐˈloɾ/", "french": "chaud (nom)"},
+    {"portuguese": "o nevoeiro", "phonetic": "/nɨˈvwɐjɾu/", "french": "le brouillard"},
+    {"portuguese": "a trovoada", "phonetic": "/tɾuvuˈadɐ/", "french": "l'orage"},
+    {"portuguese": "chover", "phonetic": "/ʃuˈveɾ/", "french": "pleuvoir"},
+    {"portuguese": "a temperatura", "phonetic": "/tẽpɨɾɐˈtuɾɐ/", "french": "la temperature"}
+  ]
+}

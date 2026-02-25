@@ -1,0 +1,84 @@
+{
+  "id": "b2-m5-l05",
+  "title": "L'infinitif personnel",
+  "type": "grammar",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Comprendre l'infinitif personnel, structure unique au portugais",
+    "Conjuguer l'infinitif personnel à toutes les personnes",
+    "Utiliser l'infinitif personnel dans les contextes appropriés"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'infinitif personnel : une exclusivité du portugais !",
+      "content": "<p>L'<strong>infinitivo pessoal</strong> (infinitif personnel) est une forme verbale qui n'existe <strong>dans aucune autre langue romane</strong>. C'est l'une des caractéristiques les plus originales du portugais. Il permet de conjuguer l'infinitif selon la personne, là où les autres langues doivent utiliser le subjonctif ou une proposition subordonnée.</p><p>Exemple : <em>Para <strong>nós falarmos</strong> sobre o assunto...</em> (Pour que nous parlions du sujet...)</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "L'infinitif personnel en action",
+      "content": "<p>Comparez avec le français :</p><table><tr><th>Portugais (infinitif personnel)</th><th>Français</th></tr><tr><td><em>É importante <strong>eu estudar</strong> mais.</em></td><td>Il est important que j'étudie plus.</td></tr><tr><td><em>Para <strong>nós entendermos</strong> a lição...</em></td><td>Pour que nous comprenions la leçon...</td></tr><tr><td><em>Apesar de <strong>eles serem</strong> jovens...</em></td><td>Bien qu'ils soient jeunes...</td></tr><tr><td><em>Antes de <strong>vocês saírem</strong>...</em></td><td>Avant que vous (ne) sortiez...</td></tr></table><p>Au lieu d'une subordonnée au subjonctif, le portugais peut simplement conjuguer l'infinitif !</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Conjugaison et emplois",
+      "content": "<p><strong>Conjugaison :</strong> on ajoute des terminaisons à l'infinitif :</p><table><tr><th>Personne</th><th>FALAR</th><th>COMER</th><th>PARTIR</th></tr><tr><td>eu</td><td><em>falar</em></td><td><em>comer</em></td><td><em>partir</em></td></tr><tr><td>tu</td><td><em>falar<strong>es</strong></em></td><td><em>comer<strong>es</strong></em></td><td><em>partir<strong>es</strong></em></td></tr><tr><td>ele/ela</td><td><em>falar</em></td><td><em>comer</em></td><td><em>partir</em></td></tr><tr><td>nós</td><td><em>falar<strong>mos</strong></em></td><td><em>comer<strong>mos</strong></em></td><td><em>partir<strong>mos</strong></em></td></tr><tr><td>eles/elas</td><td><em>falar<strong>em</strong></em></td><td><em>comer<strong>em</strong></em></td><td><em>partir<strong>em</strong></em></td></tr></table><p><strong>Emplois principaux :</strong></p><ul><li>Après <em>para</em> (pour) : <em>Para eles <strong>compreenderem</strong>...</em></li><li>Après <em>antes de</em> (avant de) : <em>Antes de nós <strong>chegarmos</strong>...</em></li><li>Après <em>depois de</em> (après) : <em>Depois de eles <strong>saírem</strong>...</em></li><li>Après <em>apesar de</em> (malgré) : <em>Apesar de <strong>sermos</strong> estrangeiros...</em></li><li>Après <em>sem</em> (sans) : <em>Sem eles <strong>saberem</strong>...</em></li><li>Avec des expressions impersonnelles : <em>É necessário <strong>falarmos</strong>.</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Conjuguer l'infinitif personnel",
+      "content": "<p>Complétez avec l'infinitif personnel :</p><ol><li><em>Para nós ________ (compreender) a situação, precisamos de mais informação.</em> → <strong>compreendermos</strong></li><li><em>Antes de eles ________ (sair), deixei-lhes o recado.</em> → <strong>saírem</strong></li><li><em>É importante tu ________ (ler) este documento.</em> → <strong>leres</strong></li><li><em>Sem vocês ________ (saber), eu já tinha resolvido o problema.</em> → <strong>saberem</strong></li><li><em>Apesar de eu ________ (estar) cansado, continuei a trabalhar.</em> → <strong>estar</strong></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Utiliser l'infinitif personnel",
+      "content": "<p>Réécrivez ces phrases françaises en portugais en utilisant l'infinitif personnel :</p><ol><li>Pour que nous puissions participer, il faut s'inscrire.</li><li>Avant que vous partiez, signez ce document.</li><li>Bien qu'ils soient en retard, ils ont réussi.</li><li>Sans que nous le sachions, la décision avait été prise.</li></ol><p>Créez ensuite 3 phrases originales avec l'infinitif personnel.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la particularité unique de l'infinitif personnel ?",
+      "correctAnswer": "Il n'existe dans aucune autre langue romane",
+      "distractors": ["Il existe aussi en espagnol", "Il est identique au subjonctif", "Il ne se conjugue pas"],
+      "explanation": "L'infinitif personnel (infinitivo pessoal) est une exclusivité du portugais parmi les langues romanes."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Para nós ________ (poder) participar, é preciso inscrever-nos.",
+      "correctAnswer": "podermos",
+      "explanation": "Infinitif personnel de PODER, 1ʳᵉ personne du pluriel : poder + -mos = podermos."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez (avec l'infinitif personnel) : Avant qu'ils arrivent, prépare tout.",
+      "correctAnswer": "Antes de eles chegarem, prepara tudo.",
+      "explanation": "'Antes de' + infinitif personnel : chegarem (3ᵉ pers. pl.). En PT-PT, l'impératif de 'tu' = 'prepara'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la terminaison de l'infinitif personnel pour 'tu' ?",
+      "correctAnswer": "-es",
+      "distractors": ["-s", "-mos", "-em"],
+      "explanation": "Tu + infinitif + -es : falares, comeres, partires. C'est la seule terminaison pour 'tu'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Apesar de ________ (ser, eles) estrangeiros, falam português muito bem.",
+      "correctAnswer": "serem",
+      "explanation": "Infinitif personnel de SER, 3ᵉ personne du pluriel : ser + -em = serem. 'Apesar de' est suivi de l'infinitif personnel."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "infinitivo pessoal", "phonetic": "/ĩfiniˈtivu pɨsuˈal/", "french": "infinitif personnel"},
+    {"portuguese": "para", "phonetic": "/ˈpaɾɐ/", "french": "pour (+ infinitif personnel)"},
+    {"portuguese": "antes de", "phonetic": "/ˈɐ̃tɨʃ dɨ/", "french": "avant de"},
+    {"portuguese": "depois de", "phonetic": "/dɨˈpojʃ dɨ/", "french": "après"},
+    {"portuguese": "apesar de", "phonetic": "/ɐpɨˈzaɾ dɨ/", "french": "malgré / bien que"},
+    {"portuguese": "sem", "phonetic": "/sẽj̃/", "french": "sans"},
+    {"portuguese": "é necessário", "phonetic": "/ɛ nɨsɨˈsaɾiu/", "french": "il est nécessaire"},
+    {"portuguese": "inscrever-se", "phonetic": "/ĩʃkɾɨˈveɾ sɨ/", "french": "s'inscrire"},
+    {"portuguese": "participar", "phonetic": "/pɐɾtisiˈpaɾ/", "french": "participer"},
+    {"portuguese": "resolver", "phonetic": "/ʁɨzɔɫˈveɾ/", "french": "résoudre"}
+  ]
+}

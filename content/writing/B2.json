@@ -1,0 +1,94 @@
+{
+  "prompts": [
+    {
+      "id": "w-b2-01",
+      "title": "Essai analytique : Tech et société",
+      "instructions": "Rédigez un essai analysant l'impact de la technologie sur la société. Présentez deux perspectives opposées et donnez votre propre analyse. Utilisez le conditionnel et le subjonctif.",
+      "model": "A tecnologia transformou completamente a sociedade moderna. Existem duas perspectivas sobre este impacto. Alguns argumentam que a tecnologia melhorou vidas significativamente. Comunicação instantânea conecta pessoas globalmente. Acesso a informação é democrático. Avanços médicos salvam vidas. No entanto, outros sustentam que o preço foi alto. Isolamento social aumentou apesar da conectividade. Privacidade está comprometida. Desigualdade digital deixa milhões para trás. Na minha opinião, a tecnologia é neutra. O que importa é como a utilizamos. Se regulássemos melhor e promovêssemos literacia digital, poderíamos maximizar benefícios enquanto minimizaríamos riscos. A tecnologia deveria servir humanidade, não o contrário.",
+      "level": "B2",
+      "minWords": 120,
+      "maxWords": 200
+    },
+    {
+      "id": "w-b2-02",
+      "title": "Critique : Politique e reforma",
+      "instructions": "Critiquez une politique publique ou uma reforma social. Identifique problemas, consequências e proponha alternativas.",
+      "model": "A atual política de educação digital nas escolas portuguesas apresenta falhas significativas. O problema fundamental é o enfoque em tecnologia sem pedagogia adequada. Escolas recebem computadores mas professores não recebem formação apropriada. Resultado: recursos subutilizados e frustração docente. As consequências são graves. Desigualdade aumenta entre escolas bem-financiadas e carentes. Ainda existem crianças que não têm acesso a computador em casa. Uma alternativa mais equilibrada seria: primeiro, formação extensiva de professores em integração pedagógica de tecnologia; segundo, investimento em infraestrutura em regiões carentes; terceiro, envolvimento de pais e comunidades. Sem estas mudanças, o fosso digital apenas aumentará.",
+      "level": "B2",
+      "minWords": 120,
+      "maxWords": 200
+    },
+    {
+      "id": "w-b2-03",
+      "title": "Analyse : Économie et environnement",
+      "instructions": "Analysez la tension entre croissance économique et protection de l'environnement. Discutez si ces deux objectifs sont compatibles.",
+      "model": "A tensão entre crescimento económico e proteção ambiental é um dos dilemas centrais do século XXI. Argumentos tradicionais sugerem que são incompatíveis. Crescimento implica produção e consumo crescentes, consequentemente mais poluição. Proteção ambiental requer redução de emissões e consumo. No entanto, uma perspectiva mais nuançada é possível. A economia verde demonstra compatibilidade. Investimento em energias renováveis cria empregos. Eficiência energética reduz custos enquanto diminui impacto ambiental. Empresas focadas em sustentabilidade frequentemente têm melhor desempenho. O problema não é crescimento per se, mas o tipo de crescimento. Precisamos desvincular bem-estar de consumo material. Crescimento em educação, saúde, cultura é desejável. Consumo desenfreado de bens materiais não. A solução requer repensar indicadores. PIB não é medida adequada de progresso. Bem-estar humano e saúde planetária devem ser prioridades.",
+      "level": "B2",
+      "minWords": 130,
+      "maxWords": 210
+    },
+    {
+      "id": "w-b2-04",
+      "title": "Débat : Controverse contemporaine",
+      "instructions": "Présentez deux positions opposées sur une question controversée contemporaine (réseaux sociaux, télétravail, etc.). Engagez-vous dans un débat structuré.",
+      "model": "Posição A: Os média sociais são prejudiciais e devem ser regulados severamente. Causam depressão, especialmente em jovens. Algoritmos manipulam comportamentos. Desinformação propaga-se viralmente. Privacidade é violada sistematicamente. Regulação rigorosa, transparência de algoritmos e verificação de factos são essenciais. Posição B: Regulação excessiva suprime inovação e liberdade de expressão. Média sociais permitem vozes marginalizadas. Benefícios superam riscos para maioria. Problemas residem em uso excessivo, não na tecnologia per se. Educação e responsabilidade individual são soluções. Síntese: Ambas posições contêm verdades. Regulação sem ser excessivamente restritiva é necessária. Transparência algorítmica é compromisso razoável. Educação digital desde infância é crucial. Responsabilidade partilhada entre plataformas, utilizadores, educadores e reguladores é o caminho.",
+      "level": "B2",
+      "minWords": 130,
+      "maxWords": 210
+    },
+    {
+      "id": "w-b2-05",
+      "title": "Portrait psychologique",
+      "instructions": "Composez un portrait psychologique d'une figure historique ou contemporaine que vous admirez. Allez au-delà de l'apparence physique pour explorer motivations, contradictions, legacy.",
+      "model": "Fernando Pessoa é figura fascinante que transcende categorização simples. Poeta de génio inegável, também era homem privado e recluso. Socialmente, Pessoa era tímido, frequentemente preferindo correspondência a encontros pessoais. Psicologicamente, parecia lidar com ansiedade e sentimentos de inadequação. Paradoxalmente, criou universo literário de riqueza extraordinária. A fragmentação da sua identidade através de heterónimos pode refletir tensões internas. Pessoa questionava natureza da identidade, antecipatoriamente abordagens pós-modernas. Suas contradições — genialidade mas insegurança, inovação mas isolamento — não diminuem seu valor. Pelo contrário, humanizam-no. Legacy de Pessoa é transformativo. Redefiniu possibilidades da poesia portuguesa. Explorou temas de alienação e fragmentação que ressam com leitores modernos. Sua vida, embora aparentemente obscura, exemplifica verdade profunda: sofrimento interior pode gerar arte extraordinária.",
+      "level": "B2",
+      "minWords": 125,
+      "maxWords": 210
+    },
+    {
+      "id": "w-b2-06",
+      "title": "Rapport : Recherche et recommandations",
+      "instructions": "Écrivez un rapport court sur un sujet qui vous intéresse. Incluez contexte, findings et recommandations concrètes.",
+      "model": "RELATÓRIO: Impacto do Teletrabalho na Produtividade Corporativa. CONTEXTO: A pandemia acelerou adoção de teletrabalho. Muitos líderes questionam sustentabilidade. FINDINGS: Pesquisa indica produtividade geral mantém-se estável. Alguns sectores (tecnologia, consultoria) reportam aumento. Outros (manufatura) enfrentam desafios. Satisfação de colaboradores aumentou devido a flexibilidade. No entanto, isolamento social e dificuldade em \"desligar\" são preocupações reais. RECOMENDAÇÕES: 1) Modelo híbrido: três dias presencial, dois remoto. 2) Investir em ferramentas colaborativas robustas. 3) Implementar protocolos de bem-estar mental. 4) Treinar gestores em liderança remota. 5) Manter espaços sociais para comunidade. CONCLUSÃO: Teletrabalho não é solução universal, mas ferramenta valiosa quando bem implementada. Flexibilidade combinada com estrutura cria ambiente produtivo.",
+      "level": "B2",
+      "minWords": 130,
+      "maxWords": 210
+    },
+    {
+      "id": "w-b2-07",
+      "title": "Lettre d'opinion : Cause personnelle",
+      "instructions": "Écrivez une lettre d'opinion adressée à un journal. Défendez une cause ou une position qu vous jugez importante.",
+      "model": "Prezados Directores de Jornal, Escrevo para defender uma causa que me é cara: investimento em educação ambiental nas escolas. Preocupa-me que gerações futuras herdarão planeta degradado sem compreensão de responsabilidades. Educação ambiental não é luxo, é necessidade. Crianças que compreendem ecossistemas desenvolvem comportamentos sustentáveis. Escolas devem integrar ecologia em curriculum, não como disciplina separada, mas transversalmente. Estudar história da Revolução Industrial conectado a mudanças climáticas. Matemática aplicada a sustentabilidade. Literatura sobre natureza e ambiente. Faltam recursos financeiros? Sim. Mas custos de inação tardia são infinitamente maiores. Apelo a decisores políticos: priorizem educação ambiental. Apelo a educadores: implementem programas mesmo com recursos limitados. Apelo a comunidade: exijam mudança. O futuro depende de decisões hoje. Esperançosamente, Maria Silva",
+      "level": "B2",
+      "minWords": 125,
+      "maxWords": 210
+    },
+    {
+      "id": "w-b2-08",
+      "title": "Scénario hypothétique : Futur alternatif",
+      "instructions": "Écrivez une narration courte décrivant un futur alternatif basé sur une hypothèse. Utilisez le conditionnel et exprimez conséquences.",
+      "model": "Se tivéssemos investido massivamente em energias renováveis há 20 anos, o mundo de 2026 seria radicalmente diferente. As cidades teriam paisagens transformadas. Painéis solares cobririam edifícios. Turbinas eólicas marcariam horizontes. A poluição do ar seria mínima. Doenças respiratórias teriam diminuído significativamente. Economicamente, empregos em energia renovável superariam perdas em combustíveis fósseis. Países não dependeriam de instáveis. Conflitos por recursos energéticos seriam menos prováveis. Psicologicamente, consciência colectiva seria diferente. Ansiedade sobre mudanças climáticas seria reduzida. Comportamentos de consumo seriam mais responsáveis. Politicamente, corrupção relacionada com petróleo teria sido eliminada. Este futuro alternativo não era ficção científica. Era possível tecnicamente e economicamente viável. A razão pela qual não o alcançámos é falha política e falta de vontade colectiva. Mas talvez ainda não seja tarde para aproximar-nos deste cenário.",
+      "level": "B2",
+      "minWords": 130,
+      "maxWords": 220
+    },
+    {
+      "id": "w-b2-09",
+      "title": "Analyse comparative : Cultures et systèmes",
+      "instructions": "Comparez deux systèmes ou deux cultures en profondeur. Allez au-delà de stéréotypes. Analysez causes historiques et implications actuelles.",
+      "model": "Sistemas educativos português e finlandês refletem filosofias radicalmente diferentes. Portugal herdou tradição mediterrânea centrada em aprendizagem memorística e autoridade docente. Finlândia desenvolveu modelo focado em criatividade, autonomia e igualdade. Causas históricas explicam diferenças. Finlândia modernizou educação como parte de transformação nacional pós-guerra. Portugal estava sob censura durante décadas. Consequências são evidentes. Finlândia consistentemente classifica entre melhores internacionalmente. Portugal fica atrás. Mas análise superficial esconde nuances. Portugal está a evoluir. Escolas progressistas implementam metodologias mais criativas. Competências socio-emocionais ganham destaque. Finlândia enfrenta novos desafios. Pressão competitiva internacional está a aumentar. Imigração traz complexidades. Lições de ambas? Portugal deveria aprender: menos memorização, mais pensamento crítico. Finlândia deveria manter foco em bem-estar enquanto navega mudança social. O futuro bem-sucedido não é copiar um modelo, mas adaptar melhores práticas ao contexto local.",
+      "level": "B2",
+      "minWords": 130,
+      "maxWords": 220
+    },
+    {
+      "id": "w-b2-10",
+      "title": "Méditation personnelle : Réflexion profonde",
+      "instructions": "Écrivez une réflexion personnelle sur une question philosophique ou existentielle. Soyez authentique et explorateur.",
+      "model": "Há dias questiono-me o significado de progresso. Sociedade contemporânea define progresso linearmente: mais tecnologia, mais riqueza, mais opções. Mas será isto progresso genuíno? Historicamente, ganhos em conforto material não correspondem a ganhos em felicidade ou significado. Paradoxo do nosso tempo: temos acesso a mais conexões que nunca, mas mais isolamento. Mais informação, mais confusão. Mais opções, mais ansiedade. Talvez progresso real seja diferente. Talvez seja redescobrir simplicidade. Comunidade genuína. Trabalho significativo. Conexão com natureza. Compreensão das próprias limitações. Reconhecimento de que não podemos ter tudo. Isto soa pessimista, mas é paradoxalmente libertador. Se aceitarmos que progresso infinito é ilusório, podemos focar em o que realmente importa. Para mim, isto significa menos scroll digital, mais conversas presenciais. Menos compras impulsivas, mais experiências significativas. Menos perseguição de status, mais autenticidade. Não é regressão. É progresso redefinido. Uma volta à sabedoria ancestral numa era pós-moderna.",
+      "level": "B2",
+      "minWords": 130,
+      "maxWords": 220
+    }
+  ]
+}

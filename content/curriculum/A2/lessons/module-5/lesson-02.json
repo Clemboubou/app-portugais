@@ -1,0 +1,84 @@
+{
+  "id": "a2-m5-l02",
+  "title": "Exprimer des intentions",
+  "type": "grammar",
+  "estimatedMinutes": 14,
+  "objectives": [
+    "Utiliser differentes structures pour exprimer une intention",
+    "Distinguer les nuances entre pensar, tencionar, esperar et planear",
+    "Formuler des projets et des souhaits en portugais europeen"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Au-dela de ir + infinitif",
+      "content": "<p>En plus de <em>ir + infinitif</em>, le portugais europeen dispose de plusieurs verbes pour exprimer des intentions, des projets et des souhaits. Chacun apporte une nuance differente, du projet concret au simple espoir.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les verbes d'intention",
+      "content": "<p>Voici les principales structures :</p><table><thead><tr><th>Structure</th><th>Nuance</th><th>Exemple</th><th>Francais</th></tr></thead><tbody><tr><td><strong>pensar + infinitif</strong></td><td>intention (penser faire)</td><td><em>Penso viajar em agosto.</em></td><td>Je pense voyager en aout.</td></tr><tr><td><strong>tencionar + infinitif</strong></td><td>intention ferme (avoir l'intention)</td><td><em>Tenciono mudar de emprego.</em></td><td>J'ai l'intention de changer d'emploi.</td></tr><tr><td><strong>esperar + infinitif</strong></td><td>espoir (esperer)</td><td><em>Espero conseguir o visto.</em></td><td>J'espere obtenir le visa.</td></tr><tr><td><strong>planear + infinitif</strong></td><td>planifier (projeter)</td><td><em>Planeamos visitar Sintra.</em></td><td>Nous projetons de visiter Sintra.</td></tr><tr><td><strong>querer + infinitif</strong></td><td>vouloir</td><td><em>Quero aprender mais.</em></td><td>Je veux apprendre davantage.</td></tr><tr><td><strong>gostar de + infinitif</strong></td><td>souhait (aimer bien)</td><td><em>Gostava de ir a Madeira.</em></td><td>J'aimerais aller a Madere.</td></tr></tbody></table>"
+    },
+    {
+      "type": "explanation",
+      "title": "Conjugaison de pensar et tencionar",
+      "content": "<p><strong>Pensar</strong> (penser) au present :</p><table><thead><tr><th>Pronom</th><th>Conjugaison</th></tr></thead><tbody><tr><td>eu</td><td><strong>penso</strong></td></tr><tr><td>tu</td><td><strong>pensas</strong></td></tr><tr><td>ele/ela/voce</td><td><strong>pensa</strong></td></tr><tr><td>nos</td><td><strong>pensamos</strong></td></tr><tr><td>eles/elas/voces</td><td><strong>pensam</strong></td></tr></tbody></table><p><strong>Tencionar</strong> (avoir l'intention de) au present :</p><table><thead><tr><th>Pronom</th><th>Conjugaison</th></tr></thead><tbody><tr><td>eu</td><td><strong>tenciono</strong></td></tr><tr><td>tu</td><td><strong>tencionas</strong></td></tr><tr><td>ele/ela/voce</td><td><strong>tenciona</strong></td></tr><tr><td>nos</td><td><strong>tencionamos</strong></td></tr><tr><td>eles/elas/voces</td><td><strong>tencionam</strong></td></tr></tbody></table><p><strong>Gostava de</strong> (j'aimerais) utilise l'imparfait de <em>gostar</em> pour exprimer un souhait poli : <em>Gostava de visitar o Porto.</em></p>"
+    },
+    {
+      "type": "practice",
+      "title": "Parler de ses projets",
+      "content": "<p>Pratiquez ces dialogues :</p><p><strong>A</strong>: <em>O que pensas fazer nas ferias?</em> (Que penses-tu faire pendant les vacances ?)<br/><strong>B</strong>: <em>Penso ir ao Algarve. E tu?</em> (Je pense aller en Algarve. Et toi ?)<br/><strong>A</strong>: <em>Tenciono ficar em Lisboa. Espero visitar alguns museus.</em> (J'ai l'intention de rester a Lisbonne. J'espere visiter quelques musees.)</p><p><strong>A</strong>: <em>Planeiam alguma coisa para o fim de semana?</em> (Vous projetez quelque chose pour le week-end ?)<br/><strong>B</strong>: <em>Sim, gostava de ir a praia se o tempo estiver bom.</em> (Oui, j'aimerais aller a la plage si le temps est bon.)</p>"
+    },
+    {
+      "type": "production",
+      "title": "Mes intentions",
+      "content": "<p>Ecrivez 5 phrases sur vos projets et intentions en utilisant 5 structures differentes (pensar, tencionar, esperar, planear, gostar de) :</p><p>Exemple : <em>Penso comecar um novo hobby. Tenciono inscrever-me num curso de culinaria portuguesa. Espero melhorar o meu portugues este ano. Planeio visitar o norte de Portugal. Gostava de viver em Lisboa um dia.</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'J'ai l'intention de voyager' en portugais ?",
+      "correctAnswer": "Tenciono viajar",
+      "distractors": ["Penso viajar", "Espero viajar", "Gostava de viajar"],
+      "explanation": "'Tencionar' exprime une intention ferme. 'Tenciono viajar' = J'ai l'intention de voyager."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ visitar Sintra no proximo fim de semana.",
+      "correctAnswer": "Planeamos",
+      "explanation": "'Planear' = planifier/projeter. 'Planeamos' = nous planifions/projetons."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'espere apprendre le portugais rapidement.'",
+      "correctAnswer": "Espero aprender portugues rapidamente.",
+      "explanation": "'Esperar + infinitif' = esperer + infinitif. 'Rapidamente' = rapidement."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle structure exprime un souhait poli ?",
+      "correctAnswer": "Gostava de + infinitif",
+      "distractors": ["Penso + infinitif", "Tenciono + infinitif", "Planeio + infinitif"],
+      "explanation": "'Gostava de' (imparfait de gostar) exprime un souhait poli : 'J'aimerais...'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ ir ao cinema hoje a noite.",
+      "correctAnswer": "Penso",
+      "explanation": "'Pensar + infinitif' = penser + infinitif (intention). 'Penso ir' = Je pense aller."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "pensar", "phonetic": "/pẽˈsaɾ/", "french": "penser"},
+    {"portuguese": "tencionar", "phonetic": "/tẽsjuˈnaɾ/", "french": "avoir l'intention de"},
+    {"portuguese": "esperar", "phonetic": "/ɨʃpɨˈɾaɾ/", "french": "esperer"},
+    {"portuguese": "planear", "phonetic": "/plɐniˈaɾ/", "french": "planifier / projeter"},
+    {"portuguese": "querer", "phonetic": "/kɨˈɾeɾ/", "french": "vouloir"},
+    {"portuguese": "gostava de", "phonetic": "/ɡuʃˈtavɐ dɨ/", "french": "j'aimerais (souhait poli)"},
+    {"portuguese": "as ferias", "phonetic": "/ˈfɛɾjɐʃ/", "french": "les vacances"},
+    {"portuguese": "o projeto", "phonetic": "/pɾuˈʒɛtu/", "french": "le projet"},
+    {"portuguese": "conseguir", "phonetic": "/kõsɨˈɡiɾ/", "french": "reussir / obtenir"},
+    {"portuguese": "melhorar", "phonetic": "/mɨʎuˈɾaɾ/", "french": "ameliorer"}
+  ]
+}

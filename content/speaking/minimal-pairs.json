@@ -1,0 +1,114 @@
+{
+  "pairs": [
+    {
+      "id": "v-b-1",
+      "sound1": "/v/",
+      "sound2": "/b/",
+      "word1": "vaca",
+      "word2": "boca",
+      "translation1": "vache",
+      "translation2": "bouche",
+      "level": "A1",
+      "tip": "En portugais européen, le /v/ se prononce comme en français, avec les dents sur la lèvre inférieure. Le /b/ est bilabial."
+    },
+    {
+      "id": "v-b-2",
+      "sound1": "/v/",
+      "sound2": "/b/",
+      "word1": "vinho",
+      "word2": "binho",
+      "translation1": "vin",
+      "translation2": "(n'existe pas)",
+      "level": "A1",
+      "tip": "Le mot 'vinho' commence par /v/ labiodental. Ne confondez pas avec /b/."
+    },
+    {
+      "id": "s-z-1",
+      "sound1": "/s/",
+      "sound2": "/z/",
+      "word1": "caça",
+      "word2": "casa",
+      "translation1": "chasse",
+      "translation2": "maison",
+      "level": "A1",
+      "tip": "Le 'ç' donne toujours /s/. Le 's' entre deux voyelles se prononce /z/ en portugais européen."
+    },
+    {
+      "id": "s-z-2",
+      "sound1": "/s/",
+      "sound2": "/z/",
+      "word1": "passo",
+      "word2": "paço",
+      "translation1": "pas / je passe",
+      "translation2": "palais",
+      "level": "A2",
+      "tip": "Le double 'ss' garantit le son /s/, tandis que 'ç' est aussi /s/. Attention au 's' simple entre voyelles = /z/."
+    },
+    {
+      "id": "nasal-1",
+      "sound1": "/ɐ̃/",
+      "sound2": "/a/",
+      "word1": "lã",
+      "word2": "lá",
+      "translation1": "laine",
+      "translation2": "là-bas",
+      "level": "A1",
+      "tip": "Le til (~) indique une voyelle nasale. Faites passer l'air par le nez en même temps que par la bouche."
+    },
+    {
+      "id": "nasal-2",
+      "sound1": "/ɐ̃w̃/",
+      "sound2": "/aw/",
+      "word1": "mão",
+      "word2": "mau",
+      "translation1": "main",
+      "translation2": "mauvais",
+      "level": "A1",
+      "tip": "La diphtongue nasale 'ão' est un des sons les plus distinctifs du portugais. Le 'au' est oral."
+    },
+    {
+      "id": "ch-x-1",
+      "sound1": "/ʃ/",
+      "sound2": "/ʒ/",
+      "word1": "chá",
+      "word2": "já",
+      "translation1": "thé",
+      "translation2": "déjà",
+      "level": "A1",
+      "tip": "Le 'ch' portugais = /ʃ/ (comme 'ch' français). Le 'j' = /ʒ/ (comme le 'j' français)."
+    },
+    {
+      "id": "r-rr-1",
+      "sound1": "/ʁ/",
+      "sound2": "/ɾ/",
+      "word1": "carro",
+      "word2": "caro",
+      "translation1": "voiture",
+      "translation2": "cher",
+      "level": "A2",
+      "tip": "Le 'rr' double est guttural (comme en français). Le 'r' simple entre voyelles est battu (un seul coup de langue)."
+    },
+    {
+      "id": "e-sounds-1",
+      "sound1": "/ɨ/",
+      "sound2": "/ɛ/",
+      "word1": "se",
+      "word2": "sé",
+      "translation1": "si (réfléchi)",
+      "translation2": "cathédrale",
+      "level": "A2",
+      "tip": "Le 'e' atone en portugais européen se réduit à /ɨ/ (presque muet). Avec accent aigu, c'est /ɛ/ ouvert."
+    },
+    {
+      "id": "o-sounds-1",
+      "sound1": "/u/",
+      "sound2": "/ɔ/",
+      "word1": "poço",
+      "word2": "posso",
+      "translation1": "puits",
+      "translation2": "je peux",
+      "level": "A2",
+      "tip": "Le 'o' atone se prononce souvent /u/ en portugais européen. Le 'o' tonique peut être ouvert /ɔ/ ou fermé /o/."
+    }
+  ]
+}

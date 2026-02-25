@@ -1,0 +1,84 @@
+{
+  "id": "b2-m1-l04",
+  "title": "Exprimer le doute et l'incertitude",
+  "type": "speaking",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Maîtriser les expressions du doute et de l'incertitude en portugais européen",
+    "Utiliser correctement talvez, duvido que, é possível que, pode ser que avec le subjonctif",
+    "Moduler le degré de certitude dans une conversation"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Nuancer son discours",
+      "content": "<p>Au niveau B2, il est essentiel de savoir <strong>nuancer son discours</strong> en exprimant différents degrés de certitude. Le portugais européen dispose d'un riche éventail d'expressions, toutes liées au subjonctif.</p><p>Maîtriser ces nuances vous permettra de participer à des conversations plus sophistiquées et d'exprimer des opinions de manière plus subtile.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les expressions du doute",
+      "content": "<p>Classées du plus incertain au plus probable :</p><ul><li><strong>Duvido que</strong> + subjonctif : <em>Duvido que ele <strong>venha</strong> à festa.</em> (Je doute qu'il vienne à la fête.)</li><li><strong>Não creio que / Não acredito que</strong> + subj. : <em>Não creio que <strong>seja</strong> verdade.</em> (Je ne crois pas que ce soit vrai.)</li><li><strong>Talvez</strong> + subjonctif : <em>Talvez <strong>chova</strong> amanhã.</em> (Il pleuvra peut-être demain.)</li><li><strong>É possível que</strong> + subjonctif : <em>É possível que eles <strong>cheguem</strong> atrasados.</em> (Il est possible qu'ils arrivent en retard.)</li><li><strong>Pode ser que</strong> + subjonctif : <em>Pode ser que eu <strong>mude</strong> de ideias.</em> (Il se peut que je change d'avis.)</li><li><strong>É provável que</strong> + subjonctif : <em>É provável que <strong>haja</strong> greve.</em> (Il est probable qu'il y ait grève.)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Certitude vs incertitude : indicatif ou subjonctif ?",
+      "content": "<p>La règle fondamentale :</p><ul><li><strong>Certitude → Indicatif</strong> : <em>Tenho a certeza de que ele <strong>vem</strong>.</em> (Je suis certain qu'il vient.)</li><li><strong>Doute → Subjonctif</strong> : <em>Duvido que ele <strong>venha</strong>.</em> (Je doute qu'il vienne.)</li></ul><p><strong>Attention aux pièges :</strong></p><ul><li><em>Acho que</em> (je pense que) + <strong>indicatif</strong> : <em>Acho que ele <strong>tem</strong> razão.</em></li><li><em>Não acho que</em> (je ne pense pas que) + <strong>subjonctif</strong> : <em>Não acho que ele <strong>tenha</strong> razão.</em></li></ul><p>La négation transforme la certitude en doute et déclenche le subjonctif !</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Modaliser avec des adverbes et des verbes",
+      "content": "<p>En plus des locutions, utilisez des verbes modaux et adverbes :</p><ul><li><strong>Parece-me que</strong> + indicatif : <em>Parece-me que vai chover.</em> (Il me semble qu'il va pleuvoir.)</li><li><strong>Suponho que</strong> + subjonctif : <em>Suponho que ele <strong>esteja</strong> doente.</em> (Je suppose qu'il est malade.)</li><li><strong>Se calhar</strong> (familier, PT-PT) : <em>Se calhar, amanhã não trabalho.</em> (Peut-être que demain je ne travaille pas.) — pas de subjonctif !</li><li><strong>Possivelmente</strong> : <em>Possivelmente, temos de adiar.</em> (Possiblement, nous devons reporter.)</li><li><strong>Provavelmente</strong> : <em>Provavelmente chove à tarde.</em> (Il pleut probablement l'après-midi.) — indicatif !</li></ul><p><strong>Note :</strong> <em>Se calhar</em> est typiquement portugais européen. Au Brésil, on dit <em>talvez</em>.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Dialogues avec nuances de certitude",
+      "content": "<p>Pratiquez ces échanges :</p><ul><li>— <em>Achas que o João vem à festa?</em><br/>— <em>Duvido que <strong>venha</strong>. Ele disse que estava cansado.</em></li><li>— <em>Amanhã vai estar bom tempo?</em><br/>— <em>Talvez. Pode ser que <strong>faça</strong> sol, mas não tenho a certeza.</em></li><li>— <em>A reunião é às três?</em><br/>— <em>É possível que <strong>seja</strong> às três, mas se calhar mudaram a hora.</em></li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel mode utilise-t-on après 'Duvido que' ?",
+      "correctAnswer": "Le subjonctif",
+      "distractors": ["L'indicatif", "Le conditionnel", "L'infinitif"],
+      "explanation": "'Duvido que' exprime un doute et exige toujours le subjonctif : Duvido que ele venha."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "É provável que amanhã ________ (haver) trânsito na autoestrada.",
+      "correctAnswer": "haja",
+      "explanation": "'É provável que' déclenche le subjonctif. HAVER au présent du subjonctif = haja."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Je ne crois pas qu'il puisse venir.",
+      "correctAnswer": "Não creio que ele possa vir.",
+      "explanation": "'Não creio que' (négation = doute) + subjonctif. PODER au présent du subjonctif = possa."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle expression est typiquement portugaise européenne (et non brésilienne) ?",
+      "correctAnswer": "Se calhar",
+      "distractors": ["Talvez", "É possível que", "Pode ser que"],
+      "explanation": "'Se calhar' (peut-être) est une expression familière spécifique au portugais européen. Elle ne déclenche pas le subjonctif."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Não acho que esta solução ________ (ser) a melhor.",
+      "correctAnswer": "seja",
+      "explanation": "'Não acho que' : la négation de 'acho que' déclenche le subjonctif. SER au présent du subjonctif = seja."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "talvez", "phonetic": "/tɐɫˈveʃ/", "french": "peut-être"},
+    {"portuguese": "duvido que", "phonetic": "/duˈvidu kɨ/", "french": "je doute que"},
+    {"portuguese": "é possível que", "phonetic": "/ɛ puˈsivɛɫ kɨ/", "french": "il est possible que"},
+    {"portuguese": "pode ser que", "phonetic": "/ˈpɔdɨ seɾ kɨ/", "french": "il se peut que"},
+    {"portuguese": "é provável que", "phonetic": "/ɛ pɾuˈvavɛɫ kɨ/", "french": "il est probable que"},
+    {"portuguese": "se calhar", "phonetic": "/sɨ kɐˈʎaɾ/", "french": "peut-être (familier, PT-PT)"},
+    {"portuguese": "suponho que", "phonetic": "/suˈpoɲu kɨ/", "french": "je suppose que"},
+    {"portuguese": "não creio que", "phonetic": "/nɐ̃w̃ ˈkɾɐju kɨ/", "french": "je ne crois pas que"},
+    {"portuguese": "possivelmente", "phonetic": "/pusiˈvɛɫmẽtɨ/", "french": "possiblement"},
+    {"portuguese": "provavelmente", "phonetic": "/pɾuvavɛɫˈmẽtɨ/", "french": "probablement"}
+  ]
+}

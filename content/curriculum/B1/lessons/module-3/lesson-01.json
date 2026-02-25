@@ -1,0 +1,83 @@
+{
+  "id": "b1-m3-l01",
+  "title": "Exprimer son opinion",
+  "type": "grammar",
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Utiliser les expressions d'opinion courantes en portugais européen",
+    "Distinguer les structures suivies de l'indicatif et du subjonctif",
+    "Formuler des opinions nuancées sur des sujets variés"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Donner son avis",
+      "content": "<p>Au niveau B1, il est essentiel de savoir exprimer son opinion de manière claire et structurée. Le portugais européen dispose de nombreuses expressions pour introduire un point de vue.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Expressions d'opinion + indicatif",
+      "content": "<p>Les expressions suivantes expriment une certitude ou une opinion personnelle et sont suivies de l'<strong>indicatif</strong> :</p><ul><li><em>Acho que...</em> (Je pense que...)</li><li><em>Penso que...</em> (Je pense que... — plus formel)</li><li><em>Na minha opinião,...</em> (À mon avis,...)</li><li><em>Parece-me que...</em> (Il me semble que...)</li><li><em>Tenho a certeza de que...</em> (Je suis certain que...)</li><li><em>É verdade que...</em> (Il est vrai que...)</li></ul><p>Exemple : <em>Acho que o português europeu <strong>é</strong> mais difícil do que o brasileiro.</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Négation + subjonctif",
+      "content": "<p>Attention : à la forme <strong>négative</strong>, ces expressions demandent le <strong>subjonctif</strong> :</p><ul><li><em>Não acho que <strong>seja</strong> verdade.</em> (Je ne pense pas que ce soit vrai.)</li><li><em>Não penso que <strong>tenha</strong> razão.</em> (Je ne pense pas qu'il ait raison.)</li><li><em>Não me parece que <strong>esteja</strong> correto.</em> (Il ne me semble pas que ce soit correct.)</li></ul><p>Ce fonctionnement est similaire au français.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Nuancer son opinion",
+      "content": "<p>Pour nuancer vos opinions :</p><ul><li><em>Por um lado... por outro lado...</em> (D'un côté... de l'autre côté...)</li><li><em>Até certo ponto...</em> (Jusqu'à un certain point...)</li><li><em>Depende...</em> (Ça dépend...)</li><li><em>Não tenho a certeza, mas acho que...</em> (Je ne suis pas sûr, mais je pense que...)</li></ul><p>Exemple : <em>Por um lado, a tecnologia facilita a vida. Por outro lado, passamos demasiado tempo no ecrã.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Donnez votre avis",
+      "content": "<p>Donnez votre opinion sur ces sujets :</p><ol><li><em>Aprender línguas é importante?</em></li><li><em>Os transportes públicos em Portugal são bons?</em></li><li><em>As redes sociais são úteis ou perigosas?</em></li></ol><p>Utilisez au moins trois expressions différentes.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle expression est suivie de l'indicatif ?",
+      "correctAnswer": "Acho que + indicatif",
+      "distractors": ["Não acho que + indicatif", "Duvido que + indicatif", "Talvez + indicatif"],
+      "explanation": "'Acho que' (affirmatif) est suivi de l'indicatif. À la forme négative, il demande le subjonctif."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Na minha ________, o português europeu é muito bonito.",
+      "correctAnswer": "opinião",
+      "explanation": "'Na minha opinião' = À mon avis, est l'une des expressions d'opinion les plus courantes."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Je ne pense pas que ce soit facile.'",
+      "correctAnswer": "Não acho que seja fácil.",
+      "explanation": "'Não acho que' (négatif) → subjonctif : 'seja' (subjonctif de 'ser')."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'D'un côté... de l'autre côté...' ?",
+      "correctAnswer": "Por um lado... por outro lado...",
+      "distractors": ["De um lado... de outro lado...", "Num lado... noutro lado...", "Dum lado... doutro lado..."],
+      "explanation": "'Por um lado... por outro lado...' est la formule standard pour nuancer une opinion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ -me que esta ideia não vai funcionar.",
+      "correctAnswer": "Parece",
+      "explanation": "'Parece-me que...' = Il me semble que... Expression d'opinion suivie de l'indicatif."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "opinião", "phonetic": "/opiɲiˈɐ̃w/", "french": "opinion, avis"},
+    {"portuguese": "acho que", "phonetic": "/ˈaʃu kɨ/", "french": "je pense que"},
+    {"portuguese": "parece-me", "phonetic": "/pɐˈɾɛsɨ mɨ/", "french": "il me semble"},
+    {"portuguese": "certeza", "phonetic": "/sɨɾˈtezɐ/", "french": "certitude"},
+    {"portuguese": "até certo ponto", "phonetic": "/ɐˈtɛ ˈsɛɾtu ˈpõtu/", "french": "jusqu'à un certain point"},
+    {"portuguese": "por um lado", "phonetic": "/puɾ ũ ˈladu/", "french": "d'un côté"},
+    {"portuguese": "por outro lado", "phonetic": "/puɾ ˈotɾu ˈladu/", "french": "de l'autre côté"},
+    {"portuguese": "depende", "phonetic": "/dɨˈpẽdɨ/", "french": "ça dépend"},
+    {"portuguese": "verdade", "phonetic": "/vɨɾˈdadɨ/", "french": "vérité"}
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "a1-m1-l04",
+  "title": "Les pronoms sujets et le verbe SER",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Connaître et utiliser les 7 pronoms sujets du portugais européen",
+    "Conjuguer le verbe SER (être) au présent de l'indicatif",
+    "Comprendre la différence entre TU et VOCÊ au Portugal",
+    "Construire des phrases simples avec SER pour décrire des identités et des origines"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le système des pronoms en portugais européen",
+      "content": "<p>Le portugais européen possède un système de pronoms qui diffère du français et du portugais brésilien. La distinction entre <strong>formel et informel</strong> est particulièrement importante et structurée différemment du français.</p><p>Le verbe <strong>ser</strong> (être) est l'un des deux verbes « être » en portugais (avec <em>estar</em>). Il s'utilise pour les identités permanentes : nationalité, profession, origine, caractéristiques essentielles.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les pronoms sujets portugais",
+      "content": "<p>Voici les pronoms sujets du portugais européen :</p><table><thead><tr><th>Pronom PT</th><th>Phonétique</th><th>Français</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Eu</strong></td><td>[ew]</td><td>Je</td><td>Toujours minuscule sauf en début de phrase</td></tr><tr><td><strong>Tu</strong></td><td>[tu]</td><td>Tu (informel)</td><td>Très courant en Portugal avec amis, famille</td></tr><tr><td><strong>Ele</strong></td><td>[ˈelɨ]</td><td>Il</td><td>Pour les personnes et objets masculins</td></tr><tr><td><strong>Ela</strong></td><td>[ˈelɐ]</td><td>Elle</td><td>Pour les personnes et objets féminins</td></tr><tr><td><strong>Você</strong></td><td>[voˈse]</td><td>Vous (formel singulier)</td><td>Conjugué comme ele/ela — voir ci-dessous</td></tr><tr><td><strong>Nós</strong></td><td>[nɔʃ]</td><td>Nous</td><td>Forme standard et formelle</td></tr><tr><td><strong>Vocês</strong></td><td>[voˈseʃ]</td><td>Vous (pluriel)</td><td>Conjugué comme eles/elas</td></tr><tr><td><strong>Eles</strong></td><td>[ˈelɨʃ]</td><td>Ils (masc. ou mixte)</td><td>Pour un groupe mixte aussi</td></tr><tr><td><strong>Elas</strong></td><td>[ˈelɐʃ]</td><td>Elles</td><td>Pour un groupe exclusivement féminin</td></tr></tbody></table><p><strong>Attention :</strong> Il n'y a pas de pronom neutre en portugais. Un groupe mixte (hommes + femmes) utilise <em>eles</em>.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "TU vs VOCÊ : la distinction essentielle",
+      "content": "<p>C'est l'une des différences les plus importantes entre le portugais européen et le brésilien :</p><h3>En Portugal :</h3><ul><li><strong>Tu</strong> [tu] = tutoiement, registre informel. Utilisé avec les amis, la famille, les enfants, les collègues proches. <strong>Très courant dans la vie quotidienne lisboète.</strong></li><li><strong>Você</strong> [voˈse] = vouvoiement, registre formel ou neutre. Utilisé avec les inconnus, les supérieurs, les personnes plus âgées. Conjugué avec la même forme verbale que <em>ele/ela</em>.</li></ul><h3>Point grammatical clé :</h3><p><em>Você</em> est grammaticalement une 3e personne du singulier, même s'il signifie « vous ». C'est pourquoi il se conjugue comme <em>ele</em> et <em>ela</em> :</p><ul><li><em>Tu és português?</em> (tu es portugais ? — informel)</li><li><em>Você é português?</em> (vous êtes portugais ? — formel)</li></ul><p><strong>Note :</strong> Au Portugal, on entend aussi fréquemment le traitement par titre ou prénom sans pronom dans un registre formel (<em>O senhor é de Lisboa?</em> = Vous êtes de Lisbonne ?), mais nous verrons cela plus tard.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Conjugaison de SER au présent",
+      "content": "<p>Voici la conjugaison complète du verbe <strong>ser</strong> (être) au présent de l'indicatif :</p><table><thead><tr><th>Pronom</th><th>Conjugaison</th><th>Phonétique</th><th>Traduction</th></tr></thead><tbody><tr><td>Eu</td><td><strong>sou</strong></td><td>[sow]</td><td>Je suis</td></tr><tr><td>Tu</td><td><strong>és</strong></td><td>[ɛʃ]</td><td>Tu es</td></tr><tr><td>Ele / Ela / Você</td><td><strong>é</strong></td><td>[ɛ]</td><td>Il est / Elle est / Vous êtes</td></tr><tr><td>Nós</td><td><strong>somos</strong></td><td>[ˈsomuʃ]</td><td>Nous sommes</td></tr><tr><td>Vocês / Eles / Elas</td><td><strong>são</strong></td><td>[sɐ̃w̃]</td><td>Vous êtes / Ils sont / Elles sont</td></tr></tbody></table><p><strong>Important :</strong> <em>São</em> se prononce avec la diphtongue nasale [sɐ̃w̃] — c'est la même terminaison que dans <em>pão</em> (pain) ou <em>não</em> (non). Entraînez-vous bien !</p><p><strong>Note sur les pronoms :</strong> En portugais européen, les pronoms sujets sont souvent <strong>omis</strong> puisque la conjugaison verbale indique déjà la personne. On peut donc dire simplement <em>Sou francês</em> au lieu de <em>Eu sou francês</em>. Les deux sont corrects.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Usages de SER : ce qu'il exprime",
+      "content": "<p>Le verbe <em>ser</em> s'utilise pour les caractéristiques <strong>permanentes ou essentielles</strong>. Voici ses principaux usages :</p><ol><li><strong>L'identité / le nom :</strong><br><em>Eu sou a Ana.</em> — Je suis Ana.</li><li><strong>La nationalité :</strong><br><em>Sou francês / francesa.</em> — Je suis français(e).</li><li><strong>La profession :</strong><br><em>Sou professor / professora.</em> — Je suis professeur(e).</li><li><strong>L'origine / la provenance :</strong><br><em>Sou de Lisboa.</em> — Je suis de Lisbonne.</li><li><strong>Les caractéristiques permanentes :</strong><br><em>A Ana é simpática.</em> — Ana est sympathique.<br><em>O Pedro é alto.</em> — Pedro est grand.</li></ol><p><strong>Rappel :</strong> Le portugais a deux verbes « être » : <em>ser</em> (identité permanente) et <em>estar</em> (état temporaire). Nous étudierons <em>estar</em> dans une leçon ultérieure.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Construisez vos propres phrases",
+      "content": "<p>Utilisez <em>ser</em> pour vous décrire. Modèles :</p><ul><li><em>Eu sou [prénom].</em> — Je suis [prénom].</li><li><em>Sou de [ville/pays].</em> — Je suis de [ville/pays].</li><li><em>Sou [nationalité].</em> — Je suis [nationalité].</li></ul><p>Exemples complets :</p><blockquote><em>Chamo-me Claire. Sou francesa. Sou de Lyon. Sou professora.</em><br>Je m'appelle Claire. Je suis française. Je suis de Lyon. Je suis professeure.</blockquote><blockquote><em>O meu nome é Marc. Sou francês. Sou de Paris. Não sou português.</em><br>Mon nom est Marc. Je suis français. Je suis de Paris. Je ne suis pas portugais.</blockquote><p><strong>La négation :</strong> Pour nier avec <em>ser</em>, ajoutez simplement <strong>não</strong> devant le verbe : <em>Não sou...</em> = Je ne suis pas...</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la conjugaison correcte de <em>ser</em> pour le pronom <strong>tu</strong> ?",
+      "correctAnswer": "és",
+      "distractors": [
+        "é",
+        "sou",
+        "são"
+      ],
+      "explanation": "La conjugaison de <em>ser</em> : eu <em>sou</em>, tu <em>és</em>, ele/ela/você <em>é</em>, nós <em>somos</em>, vocês/eles/elas <em>são</em>. <em>És</em> est exclusivement la forme de <em>tu</em> (tutoiement informel)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Vous voulez vouvoyer quelqu'un poliment au Portugal. Quelle phrase utilisez-vous ?",
+      "correctAnswer": "Você é de Lisboa?",
+      "distractors": [
+        "Tu és de Lisboa?",
+        "Vocês são de Lisboa?",
+        "Você és de Lisboa?"
+      ],
+      "explanation": "<em>Você</em> est le pronom formel au singulier. Il se conjugue comme la 3e personne : <em>você é</em> (et non <em>você és</em>). <em>Tu és</em> serait du tutoiement informel. <em>Vocês são</em> est le pluriel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez avec la bonne forme de <em>ser</em> : « Nós ___ portugueses. » (Nous sommes portugais.)",
+      "correctAnswer": "somos",
+      "distractors": [
+        "são",
+        "sou",
+        "é"
+      ],
+      "explanation": "<em>Nós somos</em> = nous sommes. La forme <em>somos</em> est réservée à <em>nós</em> (nous). <em>São</em> correspond à <em>vocês/eles/elas</em>, <em>sou</em> à <em>eu</em>, et <em>é</em> à <em>ele/ela/você</em>."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais : « Ils sont de France. » (groupe mixte)",
+      "correctAnswer": "Eles são de França.",
+      "distractors": [
+        "Elas são de França.",
+        "Eles é de França.",
+        "Ele são de França."
+      ],
+      "explanation": "Pour un groupe mixte (hommes et femmes), on utilise <em>eles</em> en portugais. <em>Elas</em> serait uniquement pour un groupe exclusivement féminin. La conjugaison de <em>ser</em> pour <em>eles</em> est <em>são</em>."
+    },
+    {
+      "type": "error_detection",
+      "prompt": "Trouvez l'erreur dans cette phrase : « Você és professor? »",
+      "correctAnswer": "La conjugaison est incorrecte : avec você, on utilise é et non és.",
+      "distractors": [
+        "Le pronom você est incorrect dans ce contexte.",
+        "Le mot professor doit prendre un article : um professor.",
+        "La phrase est correcte, il n'y a pas d'erreur."
+      ],
+      "explanation": "<em>Você</em> se conjugue comme la 3e personne du singulier (comme <em>ele/ela</em>). La forme correcte est donc <em>Você é professor?</em> La forme <em>és</em> n'est utilisée qu'avec <em>tu</em> (tutoiement)."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "eu",
+      "phonetic": "/ew/",
+      "french": "je"
+    },
+    {
+      "portuguese": "tu",
+      "phonetic": "/tu/",
+      "french": "tu (informel)"
+    },
+    {
+      "portuguese": "ele / ela",
+      "phonetic": "/ˈelɨ/ /ˈelɐ/",
+      "french": "il / elle"
+    },
+    {
+      "portuguese": "você",
+      "phonetic": "/voˈse/",
+      "french": "vous (formel singulier)"
+    },
+    {
+      "portuguese": "nós",
+      "phonetic": "/nɔʃ/",
+      "french": "nous"
+    },
+    {
+      "portuguese": "vocês",
+      "phonetic": "/voˈseʃ/",
+      "french": "vous (pluriel)"
+    },
+    {
+      "portuguese": "eles / elas",
+      "phonetic": "/ˈelɨʃ/ /ˈelɐʃ/",
+      "french": "ils / elles"
+    },
+    {
+      "portuguese": "sou",
+      "phonetic": "/sow/",
+      "french": "je suis (ser)"
+    },
+    {
+      "portuguese": "és",
+      "phonetic": "/ɛʃ/",
+      "french": "tu es (ser)"
+    },
+    {
+      "portuguese": "é",
+      "phonetic": "/ɛ/",
+      "french": "il/elle/vous est/êtes (ser)"
+    },
+    {
+      "portuguese": "somos",
+      "phonetic": "/ˈsomuʃ/",
+      "french": "nous sommes (ser)"
+    },
+    {
+      "portuguese": "são",
+      "phonetic": "/sɐ̃w̃/",
+      "french": "ils/elles/vous sont/êtes (ser)"
+    },
+    {
+      "portuguese": "não sou",
+      "phonetic": "/nɐ̃w̃ sow/",
+      "french": "je ne suis pas (négation)"
+    }
+  ]
+}

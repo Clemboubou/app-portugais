@@ -1,0 +1,84 @@
+{
+  "id": "b2-m2-l05",
+  "title": "Le plus-que-parfait",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Maîtriser le plus-que-parfait composé (tinha + participe passé)",
+    "Découvrir la forme simple littéraire (falara, dissera)",
+    "Distinguer les usages du plus-que-parfait composé et simple en portugais européen"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le plus-que-parfait : deux formes en portugais",
+      "content": "<p>En portugais européen, le <strong>plus-que-parfait</strong> (pretérito mais-que-perfeito) existe sous <strong>deux formes</strong> :</p><ul><li>La forme <strong>composée</strong> (courante à l'oral et à l'écrit) : <em>tinha falado</em></li><li>La forme <strong>simple</strong> (littéraire, formelle) : <em>falara</em></li></ul><p>La forme composée est de loin la plus utilisée au quotidien. La forme simple apparaît surtout dans la <strong>littérature</strong>, la <strong>presse de qualité</strong> et les <strong>textes juridiques</strong>.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les deux formes en contexte",
+      "content": "<p>Observez ces paires de phrases équivalentes :</p><table><tr><th>Composé (courant)</th><th>Simple (littéraire)</th></tr><tr><td><em>Ele <strong>tinha falado</strong> com o chefe.</em></td><td><em>Ele <strong>falara</strong> com o chefe.</em></td></tr><tr><td><em>Nós <strong>tínhamos visto</strong> o filme.</em></td><td><em>Nós <strong>víramos</strong> o filme.</em></td></tr><tr><td><em>Elas <strong>tinham dito</strong> a verdade.</em></td><td><em>Elas <strong>disseram</strong> a verdade.</em></td></tr><tr><td><em>Eu <strong>tinha feito</strong> o trabalho.</em></td><td><em>Eu <strong>fizera</strong> o trabalho.</em></td></tr></table><p>Le sens est identique : une action <strong>antérieure à une autre action passée</strong>.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Formation des deux formes",
+      "content": "<p><strong>Forme composée</strong> (la plus courante) :</p><p><em>tinha / tinhas / tinha / tínhamos / tinham</em> + <strong>participe passé</strong></p><p>Exemples : <em>tinha comido, tinhas partido, tínhamos escrito</em></p><p><strong>Forme simple</strong> (littéraire) — se forme à partir du <strong>pretérito perfeito simples</strong>, 3ᵉ personne du pluriel, en remplaçant <em>-ram</em> par les terminaisons :</p><ul><li><em>-ra, -ras, -ra, -ramos (accent sur le á), -ram</em></li></ul><p>Exemples : <em>falaram → falara / falaras / falara / faláramos / falaram</em></p><p><strong>Verbes irréguliers courants :</strong></p><ul><li><em>fazer → fizera</em> (il avait fait)</li><li><em>dizer → dissera</em> (il avait dit)</li><li><em>ver → vira</em> (il avait vu)</li><li><em>ter → tivera</em> (il avait eu)</li><li><em>ser/ir → fora</em> (il avait été / il était allé)</li><li><em>pôr → pusera</em> (il avait mis)</li></ul><p><strong>Attention :</strong> À l'oral, les Portugais utilisent quasi exclusivement la forme composée. La forme simple est un marqueur de registre <strong>soutenu/littéraire</strong>.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Reconnaître et transformer",
+      "content": "<p>Transformez la forme composée en forme simple (littéraire) :</p><ol><li><em>Eu tinha chegado cedo.</em> → <em>Eu <strong>chegara</strong> cedo.</em></li><li><em>O poeta tinha escrito muitos sonetos.</em> → <em>O poeta <strong>escrevera</strong> muitos sonetos.</em></li><li><em>Nós tínhamos partido antes do amanhecer.</em> → <em>Nós <strong>partíramos</strong> antes do amanhecer.</em></li><li><em>Eles tinham visto o espetáculo.</em> → <em>Eles <strong>viram</strong> o espetáculo.</em></li></ol><p>Remarque : la 3ᵉ personne du pluriel de la forme simple est identique au <em>pretérito perfeito simples</em>. Seul le contexte permet de distinguer.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Mise en pratique",
+      "content": "<p>Complétez ce texte littéraire avec la forme simple du plus-que-parfait :</p><blockquote><em>Quando Maria chegou à estação, o comboio já ________ (partir). Ela ________ (esquecer-se) de verificar o horário. O pai ________ (avisar) dela, mas ela não ________ (ouvir). Nunca antes ________ (sentir-se) tão frustrada.</em></blockquote><p><strong>Réponses :</strong> <em>partira, esquecera-se, avisara, ouvira, se sentira</em></p><p>Essayez maintenant de rédiger 3 phrases en utilisant la forme simple, dans un style littéraire.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme simple (littéraire) du plus-que-parfait de 'ele tinha feito' ?",
+      "correctAnswer": "ele fizera",
+      "distractors": ["ele fazera", "ele fezera", "ele faria"],
+      "explanation": "FAZER est irrégulier : pretérito perfeito 'fizeram' → plus-que-parfait simple 'fizera'. 'Faria' est le conditionnel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quando cheguei, eles já ________ (partir — forme composée) para o aeroporto.",
+      "correctAnswer": "tinham partido",
+      "explanation": "Forme composée du plus-que-parfait : tinham (3ᵉ pers. pl.) + partido (participe passé de PARTIR)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez en portugais (forme composée) : Il avait déjà dit la vérité.",
+      "correctAnswer": "Ele já tinha dito a verdade.",
+      "explanation": "Tinha + dito (participe passé irrégulier de DIZER). 'Já' se place entre l'auxiliaire et le participe ou avant l'auxiliaire."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dans quel contexte utilise-t-on la forme simple (falara) en portugais européen ?",
+      "correctAnswer": "Dans la littérature et les textes formels",
+      "distractors": ["Dans la conversation quotidienne", "Uniquement au Brésil", "Pour exprimer le futur"],
+      "explanation": "La forme simple du plus-que-parfait est un marqueur de registre littéraire/formel en PT-PT. À l'oral, on utilise toujours 'tinha falado'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O escritor ________ (escrever — forme simple littéraire) o romance antes de morrer.",
+      "correctAnswer": "escrevera",
+      "explanation": "Forme simple : escreveram (pret. perf.) → escrevera. Le plus-que-parfait simple se forme sur la base de la 3ᵉ personne du pluriel du pretérito perfeito."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "mais-que-perfeito", "phonetic": "/majʃ kɨ pɨɾˈfejtu/", "french": "plus-que-parfait"},
+    {"portuguese": "forma composta", "phonetic": "/ˈfoɾmɐ kõˈpoʃtɐ/", "french": "forme composée"},
+    {"portuguese": "forma simples", "phonetic": "/ˈfoɾmɐ ˈsĩplɨʃ/", "french": "forme simple"},
+    {"portuguese": "literário", "phonetic": "/litɨˈɾaɾiu/", "french": "littéraire"},
+    {"portuguese": "anterior", "phonetic": "/ɐ̃tɨɾiˈoɾ/", "french": "antérieur"},
+    {"portuguese": "amanhecer", "phonetic": "/ɐmɐɲɨˈseɾ/", "french": "aube / lever du jour"},
+    {"portuguese": "avisar", "phonetic": "/ɐviˈzaɾ/", "french": "avertir / prévenir"},
+    {"portuguese": "espetáculo", "phonetic": "/ɨʃpɨˈtakulu/", "french": "spectacle"},
+    {"portuguese": "soneto", "phonetic": "/suˈnɛtu/", "french": "sonnet"},
+    {"portuguese": "comboio", "phonetic": "/kõˈboju/", "french": "train (PT-PT)"}
+  ]
+}

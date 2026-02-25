@@ -1,0 +1,282 @@
+[
+  {
+    "id": "b2_listening_001",
+    "title": "Conférence universitaire",
+    "level": "B2",
+    "duration": 180,
+    "scenario": "Un professeur donne une conférence sur l'histoire de la technologie",
+    "transcript": "Professora: Bom dia a todos. Hoje vamos discutir a história da Internet e o seu impacto nas sociedades modernas. A Internet começou como um projeto militar nos anos 60 nos Estados Unidos. Na década de 90, tornou-se acessível ao público geral. Este desenvolvimento teve implicações profundas em áreas como educação, trabalho e comunicação. A transformação digital que presenciámos nos últimos 20 anos mudou fundamentalmente a forma como nos relacionamos, trabalhamos e aprendemos. É importante compreender não apenas a tecnologia em si, mas também os aspetos éticos e sociais associados.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual era o propósito original da Internet?",
+        "options": ["Educação", "Comunicação civil", "Projeto militar", "Negócio comercial"],
+        "correctAnswer": "Projeto militar"
+      },
+      {
+        "id": "q2",
+        "question": "Em que período a Internet tornou-se acessível ao público?",
+        "options": ["Anos 60", "Anos 70", "Anos 80", "Anos 90"],
+        "correctAnswer": "Anos 90"
+      },
+      {
+        "id": "q3",
+        "question": "Quais são as áreas mencionadas que foram impactadas?",
+        "options": ["Agricultura e transportes", "Educação, trabalho e comunicação", "Apenas negócio", "Desporto e turismo"],
+        "correctAnswer": "Educação, trabalho e comunicação"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_002",
+    "title": "Discussão sobre politique",
+    "level": "B2",
+    "duration": 160,
+    "scenario": "Dois jornalistas debatem as consequências dos efeitos das mudanças climáticas",
+    "transcript": "Jornalista 1: A questão do aquecimento global é uma das mais urgentes do nosso tempo. Os dados científicos são inequívocos. As temperaturas subiram consideravelmente. Jornalista 2: Concordo plenamente. No entanto, ainda há governos que não reconhecem a gravidade da situação. Jornalista 1: É verdade. E as consequências já são visíveis: furacões mais intensos, secas prolongadas, aumento do nível do mar. Jornalista 2: Exatamente. Precisamos de medidas mais radicais. Os compromissos atuais são insuficientes. As energias renováveis devem ser prioritárias em toda a Europa.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "O que é que ambos os jornalistas concordam?",
+        "options": ["O clima está melhorando", "A gravidade do aquecimento global", "Não há mudanças visíveis", "As medidas atuais são suficientes"],
+        "correctAnswer": "A gravidade do aquecimento global"
+      },
+      {
+        "id": "q2",
+        "question": "Que consequências são mencionadas?",
+        "options": ["Apenas tempestades", "Furacões, secas e aumento do nível do mar", "Apenas secas", "Nenhuma consequência real"],
+        "correctAnswer": "Furacões, secas e aumento do nível do mar"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é a posição do segundo jornalista sobre as medidas atuais?",
+        "options": ["Suficientes", "Excelentes", "Insuficientes", "Não sabe"],
+        "correctAnswer": "Insuficientes"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_003",
+    "title": "Entrevista : Empreendedor tech",
+    "level": "B2",
+    "duration": 170,
+    "scenario": "Un entrepreneur parle de sa startup et ses défis",
+    "transcript": "Entrevistador: Qual foi a maior dificuldade ao iniciar a sua startup? Empreendedor: A principal dificuldade foi obter investimento inicial. Os bancos eram muito conservadores e não acreditavam no conceito. Tive de recorrer a investidores privados e apresentar um plano de negócio muito sólido. Entrevistador: E depois de iniciar, que desafios enfrentou? Empreendedor: O recrutamento de talento foi difícil. Precisávamos de programadores altamente especializados. Além disso, a competição aumentou significativamente. As grandes empresas tecnológicas tentaram replicar o nosso modelo. Entrevistador: Como conseguiram sobreviver? Empreendedor: Através da inovação contínua e foco no atendimento ao cliente. Mantemos-nos à frente pela qualidade e não pelo preço.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual foi a principal dificuldade inicial?",
+        "options": ["Recrutamento", "Obter investimento", "Competição", "Tecnologia"],
+        "correctAnswer": "Obter investimento"
+      },
+      {
+        "id": "q2",
+        "question": "Que tipo de investidores financiaram a startup?",
+        "options": ["Bancos", "Governo", "Investidores privados", "Fundos de pensão"],
+        "correctAnswer": "Investidores privados"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é a estratégia de competição mencionada?",
+        "options": ["Baixar preços", "Qualidade e atendimento", "Publicidade", "Fusão com outras empresas"],
+        "correctAnswer": "Qualidade e atendimento"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_004",
+    "title": "Documentário: Sustentabilidade urbana",
+    "level": "B2",
+    "duration": 200,
+    "scenario": "Narration d'un documentaire sur les villes durables",
+    "transcript": "Narrador: As cidades do século XXI enfrentam desafios complexos: superpopulação, poluição, consumo de energia excessivo. Alguns municípios estão a implementar soluções inovadoras. Copenhaga é um exemplo notável. Investiu massivamente em ciclovias e transportes públicos. Resultado: 60% dos habitantes usam bicicleta. Amsterdam seguiu um caminho similar. Sintra, em Portugal, está a desenvolver um plano de mobilidade urbana sustentável. O objetivo é reduzir a dependência de automóveis. Cidades inteligentes integram sensores para otimizar o tráfego, iluminação e consumo de água. No entanto, estes projetos requerem investimentos significativos e mudança de mentalidade. O futuro das cidades depende destas escolhas.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é a percentagem de utilizadores de bicicleta em Copenhaga?",
+        "options": ["30%", "45%", "60%", "75%"],
+        "correctAnswer": "60%"
+      },
+      {
+        "id": "q2",
+        "question": "O que as cidades inteligentes integram?",
+        "options": ["Apenas vigilância", "Sensores para otimizar recursos", "Apenas internet", "Apenas crédito social"],
+        "correctAnswer": "Sensores para otimizar recursos"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é o objetivo do plano de mobilidade de Sintra?",
+        "options": ["Aumentar automóveis", "Reduzir dependência de automóveis", "Construir mais estradas", "Banir transportes"],
+        "correctAnswer": "Reduzir dependência de automóveis"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_005",
+    "title": "Podcast : Psicologia do comportamento",
+    "level": "B2",
+    "duration": 190,
+    "scenario": "Psychologue explique le comportement des consommateurs",
+    "transcript": "Psicólogo: O comportamento do consumidor é influenciado por múltiplos fatores. A psicologia do marketing explora estes mecanismos. Um conceito importante é o \"viés de confirmação\". As pessoas procuram informações que confirmam as suas crenças preexistentes. As empresas exploram isto através de publicidade direcionada. Outro fator é a escassez percebida. Quando percebemos que algo é raro ou está a acabar, temos uma urgência em adquirir. O uso de cores, palavras-chave específicas e imagens também influencia decisões. É crucial que os consumidores sejam conscientes destes mecanismos para fazerem escolhas mais racionais. Não somos tão racionais quanto pensamos.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "O que é viés de confirmação?",
+        "options": ["Ignorar informações", "Procurar informações que confirmam crenças", "Acreditar em tudo", "Não ter opinião"],
+        "correctAnswer": "Procurar informações que confirmam crenças"
+      },
+      {
+        "id": "q2",
+        "question": "Como exploram as empresas o viés de confirmação?",
+        "options": ["Através de educação", "Publicidade direcionada", "Baixando preços", "Oferecendo qualidade"],
+        "correctAnswer": "Publicidade direcionada"
+      },
+      {
+        "id": "q3",
+        "question": "O que é escassez percebida?",
+        "options": ["Falta de informação", "Sensação de que algo é raro ou está a acabar", "Preço elevado", "Excesso de oferta"],
+        "correctAnswer": "Sensação de que algo é raro ou está a acabar"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_006",
+    "title": "Entrevista: Linguista",
+    "level": "B2",
+    "duration": 175,
+    "scenario": "Linguiste parle de l'évolution des langues",
+    "transcript": "Entrevistador: Como é que as línguas evoluem ao longo do tempo? Linguista: As línguas são organismos vivos. Mudam constantemente. O contato entre comunidades diferentes é um motor principal. Quando os portugueses colonizaram o Brasil, a língua portuguesa foi influenciada por línguas indígenas. Hoje, o português tem variantes muito diferentes: europeu e brasileiro. Entrevistador: E como é que as redes sociais estão a afetar as línguas? Linguista: As redes sociais acelerem a mudança linguística. Novas palavras surgem rapidamente. O português está a integrar muitos anglicismos: email, hashtag, smartphone. Alguns puristas veem isto como uma ameaça. Mas linguisticamente, é apenas evolução. Entrevistador: As línguas correm risco de desaparecer? Linguista: Sim, milhares de línguas estão ameaçadas. Quando uma língua desaparece, perde-se um sistema de conhecimento único.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é o motor principal de evolução linguística mencionado?",
+        "options": ["Educação formal", "Contato entre comunidades", "Governo", "Média"],
+        "correctAnswer": "Contato entre comunidades"
+      },
+      {
+        "id": "q2",
+        "question": "Que influência o português brasileiro teve?",
+        "options": ["Nenhuma", "Influência de línguas indígenas", "Apenas influência europeia", "Influência de línguas africanas"],
+        "correctAnswer": "Influência de línguas indígenas"
+      },
+      {
+        "id": "q3",
+        "question": "Como as redes sociais afetam as línguas?",
+        "options": ["Preservam-nas", "Acelerem mudança linguística", "Não têm impacto", "Eliminam-nas"],
+        "correctAnswer": "Acelerem mudança linguística"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_007",
+    "title": "Débat: Éducation en ligne",
+    "level": "B2",
+    "duration": 185,
+    "scenario": "Deux professeurs debatem a educacao presencial vs online",
+    "transcript": "Professor 1: A educação online tornou-se essencial, especialmente após a pandemia. Oferece flexibilidade e acesso a alunos em regiões remotas. Professor 2: Concordo que tem vantagens. Porém, a interação humana é fundamental. A educação presencial cria um ambiente de comunidade. As crianças precisam de socialização. Professor 1: Sim, mas muitos alunos aprendem melhor autonomamente, no seu próprio ritmo. A educação online permite isto. Além disso, reduz custos. Professor 2: Pode reduzir custos, mas há riscos. Nem todos têm acesso à internet de qualidade. A desigualdade digital é uma preocupação real. Professor 1: Verdade. Mas a solução não é abandonar educação online. É integrar o melhor dos dois mundos. Educação híbrida combinando presencial e online.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Qual é uma vantagem da educação online mencionada pelo Professor 1?",
+        "options": ["Maior socialização", "Flexibilidade e acesso remoto", "Menos tecnologia", "Custos mais elevados"],
+        "correctAnswer": "Flexibilidade e acesso remoto"
+      },
+      {
+        "id": "q2",
+        "question": "Qual é a principal preocupação do Professor 2?",
+        "options": ["Flexibilidade", "Falta de presença humana e desigualdade digital", "Custo baixo", "Qualidade da internet"],
+        "correctAnswer": "Falta de presença humana e desigualdade digital"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é a solução proposta pelos dois professores?",
+        "options": ["Apenas presencial", "Apenas online", "Educação híbrida", "Eliminar educação"],
+        "correctAnswer": "Educação híbrida"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_008",
+    "title": "Entrevista: Historiador",
+    "level": "B2",
+    "duration": 195,
+    "scenario": "Historien parle de l'impact de la COVID-19",
+    "transcript": "Entrevistador: Como vai a História recordar a pandemia de COVID-19? Historiador: A COVID-19 é um momento transformacional. Mudou a forma como trabalhamos, estudamos e nos relacionamos. Historicamente, as pandemias sempre marcaram pontos de viragem. A peste negra do século XIV alterou a estrutura social medieval. A pandemia de gripe de 1918 levou a mudanças políticas significativas. Com a COVID, presenciámos aceleração digital maciça. O teletrabalho, antes marginal, tornou-se norma. A saúde mental emergiu como prioridade. Entrevistador: Houve consequências negativas? Historiador: Sim, muitas. Desigualdade aumentou. As minorias foram desproporcionalmente afetadas. A economia sofreu, particularmente turismo e hotelaria. Mas historicamente, estes períodos de crise também impulsionam inovação. A COVID acelerou a transição para energia limpa e trabalho remoto.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Como é que a peste negra afetou a sociedade?",
+        "options": ["Pequenas mudanças", "Alterou estrutura social medieval", "Não teve impacto", "Apenas impacto econômico"],
+        "correctAnswer": "Alterou estrutura social medieval"
+      },
+      {
+        "id": "q2",
+        "question": "Qual foi a consequência negativa mais mencionada?",
+        "options": ["Falta de educação", "Aumento de desigualdade", "Excesso de trabalho", "Falta de inovação"],
+        "correctAnswer": "Aumento de desigualdade"
+      },
+      {
+        "id": "q3",
+        "question": "O que a COVID acelerou?",
+        "options": ["Volta ao presencial", "Transição para energia limpa e trabalho remoto", "Industrialização", "Nenhuma mudança"],
+        "correctAnswer": "Transição para energia limpa e trabalho remoto"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_009",
+    "title": "Documentário: Biodiversité marine",
+    "level": "B2",
+    "duration": 210,
+    "scenario": "Narration d'un documentaire sur la vie marine",
+    "transcript": "Narrador: Os oceanos cobrem 70% do planeta e albergam 80% da vida conhecida. No entanto, estão sob pressão nunca vista. A sobrepesca reduziu as populações de peixes em 90% em algumas espécies. A poluição plástica atingiu profundidades abissais. O aquecimento global altera a salinidade e temperatura, afetando ecossistemas inteiros. Os recifes de coral estão a desaparecer a um ritmo alarmante. Uma única ação do homem pode desencadear colapsos em cascata. Cientistas estimam que 1 milhão de espécies marinhas estão ameaçadas. Mas há esperança. Áreas marinhas protegidas demonstram recuperação. A consciência está a crescer. Mudanças de política, redução de plástico e transição energética são essenciais para salvar os oceanos.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Que percentagem de vida conhecida os oceanos albergam?",
+        "options": ["50%", "70%", "80%", "90%"],
+        "correctAnswer": "80%"
+      },
+      {
+        "id": "q2",
+        "question": "Qual é a percentagem de redução de populações de peixes mencionada?",
+        "options": ["50%", "70%", "80%", "90%"],
+        "correctAnswer": "90%"
+      },
+      {
+        "id": "q3",
+        "question": "Quantas espécies marinhas estão ameaçadas segundo cientistas?",
+        "options": ["100 mil", "500 mil", "1 milhão", "10 milhões"],
+        "correctAnswer": "1 milhão"
+      }
+    ]
+  },
+  {
+    "id": "b2_listening_010",
+    "title": "Podcast : Economia comportamental",
+    "level": "B2",
+    "duration": 200,
+    "scenario": "Economista explique concepts avancés",
+    "transcript": "Economista: A economia comportamental desafia o modelo tradicional do «homem económico racional». Somos seres emocionais que temos viéses cognitivos. Um conceito fascinante é o \"custo irrecuperável\". Se investimos dinheiro ou tempo em algo, tendemos a perseguir mesmo que racional não seja. Exemplo: continuar a ver um filme ruim porque já pagou a entrada. Outro é o \"efeito de dotação\". Valorizamos mais o que possuímos do que o mesmo item que não possuímos. A \"aversão ao risco\" faz-nos evitar potenciais ganhos. Estes viéses afetam decisões financeiras, carreira, saúde. Compreender isto ajuda a tomar decisões mais conscientes. Políticas públicas agora usam estes conceitos para melhorar resultados.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "O que desafia a economia comportamental?",
+        "options": ["Capitalismo", "Modelo do homem económico racional", "Comunismo", "Anarquismo"],
+        "correctAnswer": "Modelo do homem económico racional"
+      },
+      {
+        "id": "q2",
+        "question": "O que é custo irrecuperável?",
+        "options": ["Dinheiro encontrado", "Investimento anterior que nos leva a perseguir mesmo irracionalmente", "Lucro", "Poupança"],
+        "correctAnswer": "Investimento anterior que nos leva a perseguir mesmo irracionalmente"
+      },
+      {
+        "id": "q3",
+        "question": "Qual é o efeito de dotação?",
+        "options": ["Valorizar menos o que temos", "Valorizar mais o que possuímos vs o mesmo item não possuído", "Não valorizar nada", "Valorizar igualmente tudo"],
+        "correctAnswer": "Valorizar mais o que possuímos vs o mesmo item não possuído"
+      }
+    ]
+  }
+]

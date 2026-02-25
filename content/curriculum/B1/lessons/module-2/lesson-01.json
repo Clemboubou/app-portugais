@@ -1,0 +1,84 @@
+{
+  "id": "b1-m2-l01",
+  "title": "Le vocabulaire du bureau",
+  "type": "vocabulary",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Maîtriser le vocabulaire essentiel du monde professionnel",
+    "Décrire son lieu de travail et ses tâches quotidiennes",
+    "Comprendre des conversations professionnelles courantes"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le monde du travail",
+      "content": "<p>Le vocabulaire professionnel est indispensable au niveau B1. Que vous travailliez au Portugal ou que vous parliez de votre métier, ces mots vous seront essentiels au quotidien.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Au bureau",
+      "content": "<p>Vocabulaire de l'environnement de travail :</p><ul><li><em>o escritório</em> — le bureau (lieu)</li><li><em>a secretária</em> — le bureau (meuble)</li><li><em>o computador</em> — l'ordinateur</li><li><em>a impressora</em> — l'imprimante</li><li><em>o dossiê / a pasta</em> — le dossier</li><li><em>a reunião</em> — la réunion</li><li><em>o relatório</em> — le rapport</li><li><em>o prazo</em> — le délai, la date limite</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Les personnes au travail",
+      "content": "<p>Les personnes et les relations professionnelles :</p><ul><li><em>o/a colega</em> — le/la collègue</li><li><em>o/a chefe</em> — le/la chef</li><li><em>o/a diretor(a)</em> — le/la directeur(-trice)</li><li><em>o/a estagiário(a)</em> — le/la stagiaire</li><li><em>o/a funcionário(a)</em> — l'employé(e)</li><li><em>a empresa</em> — l'entreprise</li><li><em>o contrato</em> — le contrat</li><li><em>o salário</em> — le salaire</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Actions professionnelles",
+      "content": "<p>Verbes et expressions courantes :</p><ul><li><em>trabalhar a tempo inteiro / parcial</em> — travailler à temps plein / partiel</li><li><em>ter uma reunião</em> — avoir une réunion</li><li><em>entregar o relatório</em> — remettre le rapport</li><li><em>cumprir o prazo</em> — respecter le délai</li><li><em>fazer horas extraordinárias</em> — faire des heures supplémentaires</li><li><em>pedir um aumento</em> — demander une augmentation</li></ul><p>Exemple : <em>Tenho de entregar o relatório antes do prazo, por isso vou fazer horas extraordinárias.</em> (Je dois remettre le rapport avant la date limite, donc je vais faire des heures supplémentaires.)</p>"
+    },
+    {
+      "type": "production",
+      "title": "Décrivez votre travail",
+      "content": "<p>Pratiquez en décrivant votre journée de travail :</p><ul><li><em>Trabalho num escritório no centro de Lisboa.</em></li><li><em>Os meus colegas são muito simpáticos.</em></li><li><em>Todos os dias, tenho pelo menos uma reunião.</em></li><li><em>O meu chefe pede-me sempre relatórios.</em></li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'la date limite' en portugais européen ?",
+      "correctAnswer": "o prazo",
+      "distractors": ["o limite", "a data", "o término"],
+      "explanation": "'O prazo' est le mot courant pour 'la date limite' ou 'le délai' en contexte professionnel."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tenho de ________ o relatório antes de sexta-feira.",
+      "correctAnswer": "entregar",
+      "explanation": "'Entregar o relatório' signifie 'remettre le rapport'."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'J'ai une réunion avec mon chef à 14h.'",
+      "correctAnswer": "Tenho uma reunião com o meu chefe às catorze horas.",
+      "explanation": "'Ter uma reunião' = avoir une réunion. 'O meu chefe' = mon chef. 'Às catorze horas' = à 14h."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel est le mot pour 'le bureau' (meuble sur lequel on travaille) ?",
+      "correctAnswer": "a secretária",
+      "distractors": ["o escritório", "a mesa", "o gabinete"],
+      "explanation": "'A secretária' désigne le meuble de bureau. 'O escritório' est le lieu (la pièce/le bâtiment)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O meu ________ de trabalho é a tempo inteiro.",
+      "correctAnswer": "contrato",
+      "explanation": "'O contrato de trabalho' = le contrat de travail. 'A tempo inteiro' = à temps plein."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "escritório", "phonetic": "/ɨʃkɾiˈtɔɾju/", "french": "bureau (lieu)"},
+    {"portuguese": "reunião", "phonetic": "/ʁɨuniˈɐ̃w/", "french": "réunion"},
+    {"portuguese": "relatório", "phonetic": "/ʁɨlɐˈtɔɾju/", "french": "rapport"},
+    {"portuguese": "prazo", "phonetic": "/ˈpɾazu/", "french": "délai, date limite"},
+    {"portuguese": "colega", "phonetic": "/kuˈlɛɡɐ/", "french": "collègue"},
+    {"portuguese": "chefe", "phonetic": "/ˈʃɛfɨ/", "french": "chef"},
+    {"portuguese": "empresa", "phonetic": "/ẽˈpɾezɐ/", "french": "entreprise"},
+    {"portuguese": "contrato", "phonetic": "/kõˈtɾatu/", "french": "contrat"},
+    {"portuguese": "salário", "phonetic": "/sɐˈlaɾju/", "french": "salaire"},
+    {"portuguese": "estagiário", "phonetic": "/ɨʃtɐʒiˈaɾju/", "french": "stagiaire"}
+  ]
+}

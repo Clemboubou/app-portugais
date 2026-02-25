@@ -1,0 +1,76 @@
+{
+  "prompts": [
+    {
+      "id": "w-a2-01",
+      "title": "Raconter ses vacances",
+      "instructions": "Racontez vos dernières vacances au passé. Indiquez où vous êtes allé(e), combien de temps, ce que vous avez fait et ce que vous avez aimé.",
+      "model": "No verão passado, fui ao Algarve com a minha família. Ficámos uma semana num hotel perto da praia. Visitámos várias cidades e comemos muito peixe grelhado. Adorei a praia de Benagil — a gruta é espetacular! Foi uma viagem maravilhosa.",
+      "level": "A2",
+      "minWords": 40,
+      "maxWords": 100
+    },
+    {
+      "id": "w-a2-02",
+      "title": "Décrire sa routine quotidienne",
+      "instructions": "Décrivez votre routine quotidienne typique : à quelle heure vous vous levez, vos activités de la journée, vos repas, et l'heure du coucher.",
+      "model": "Levanto-me às sete horas e tomo o pequeno-almoço — geralmente café e torradas. Depois, vou trabalhar de metro. Almoço à uma hora, normalmente no restaurante perto do escritório. À noite, faço exercício ou leio um livro. Deito-me por volta das onze.",
+      "level": "A2",
+      "minWords": 40,
+      "maxWords": 100
+    },
+    {
+      "id": "w-a2-03",
+      "title": "Écrire un e-mail formel",
+      "instructions": "Écrivez un e-mail à un propriétaire pour demander des informations sur un appartement à louer. Demandez le prix, la superficie, les charges incluses, et si les animaux sont acceptés.",
+      "model": "Caro Senhor,\n\nVi o seu anúncio do apartamento T2 na Rua da Prata. Gostaria de saber o valor da renda mensal e se as despesas estão incluídas. O apartamento tem aquecimento? Aceita animais de estimação? Tenho um gato pequeno.\n\nAgradeço a sua resposta.\n\nCom os melhores cumprimentos,\nMarie Dupont",
+      "level": "A2",
+      "minWords": 40,
+      "maxWords": 120
+    },
+    {
+      "id": "w-a2-04",
+      "title": "Comparer deux villes",
+      "instructions": "Comparez deux villes portugaises que vous connaissez (ou que vous imaginez). Utilisez les comparatifs (mais... do que, tão... como, menos... do que).",
+      "model": "Lisboa é maior do que o Porto, mas o Porto é tão bonito como Lisboa. Lisboa tem mais turistas, enquanto o Porto é menos caro. A gastronomia do Porto é tão boa como a de Lisboa — a francesinha é deliciosa! O clima de Lisboa é mais quente do que o do Porto.",
+      "level": "A2",
+      "minWords": 40,
+      "maxWords": 100
+    },
+    {
+      "id": "w-a2-05",
+      "title": "Donner des directions",
+      "instructions": "Un ami vous demande comment aller de la gare au restaurant où vous avez réservé. Donnez-lui des directions détaillées avec les rues et les repères.",
+      "model": "Quando saíres da estação, vira à direita na Avenida da Liberdade. Segue em frente durante cinco minutos até ao semáforo. Depois, vira à esquerda na Rua Augusta. O restaurante fica no lado direito, ao lado da farmácia. Chama-se 'O Velho Lisboa'. Não tem como errar!",
+      "level": "A2",
+      "minWords": 35,
+      "maxWords": 90
+    },
+    {
+      "id": "w-a2-06",
+      "title": "Raconter un problème de santé",
+      "instructions": "Décrivez un problème de santé que vous avez eu récemment. Expliquez les symptômes, ce que le médecin vous a dit, et le traitement prescrit.",
+      "model": "Na semana passada, fui ao médico porque me doía muito a garganta e tinha febre. O médico examinou-me e disse que era uma amigdalite. Receitou-me um antibiótico durante sete dias e aconselhou-me a descansar. Depois de três dias, já me sentia muito melhor.",
+      "level": "A2",
+      "minWords": 40,
+      "maxWords": 100
+    },
+    {
+      "id": "w-a2-07",
+      "title": "Décrire un logement",
+      "instructions": "Décrivez votre logement idéal : nombre de pièces, quartier, équipements, proximité des transports.",
+      "model": "O meu apartamento ideal é um T3 no centro de Lisboa, perto de uma estação de metro. Tem uma sala grande com varanda, uma cozinha equipada e dois quartos de banho. Gostaria de ter um pequeno jardim ou terraço para tomar café de manhã. O bairro deve ser calmo mas com comércio perto.",
+      "level": "A2",
+      "minWords": 40,
+      "maxWords": 100
+    },
+    {
+      "id": "w-a2-08",
+      "title": "Répondre à une invitation",
+      "instructions": "Un ami vous invite à son anniversaire samedi prochain. Répondez en acceptant, demandez des détails (heure, lieu, tenue vestimentaire) et proposez d'apporter quelque chose.",
+      "model": "Olá Pedro!\n\nMuito obrigada pelo convite! Claro que vou à tua festa de aniversário no sábado. Podes dizer-me a que horas começa e onde é? Devo vestir-me de forma elegante ou é casual? Posso levar uma sobremesa — que tal um bolo de chocolate? Estou ansiosa!\n\nUm abraço,\nMarie",
+      "level": "A2",
+      "minWords": 35,
+      "maxWords": 90
+    }
+  ]
+}

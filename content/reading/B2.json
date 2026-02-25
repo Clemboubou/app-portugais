@@ -1,0 +1,282 @@
+[
+  {
+    "id": "b2_reading_001",
+    "title": "Artigo: Transformação digital nas empresas",
+    "level": "B2",
+    "text": "A transformação digital é uma realidade inescapável para as empresas modernas. Não é simplesmente a adoção de novas tecnologias, mas uma mudança fundamental na forma como as organizações operam. Empresas como Netflix desafiaram modelos de negócio tradicionais. O sector de comércio a retalho enfrenta perturbações contínuas. A inteligência artificial, cloud computing e análise de dados tornam-se competências essenciais. No entanto, muitas organizações lutam com a transformação. A razão principal é a resistência cultural. Os colaboradores têm medo de perder empregos ou de não conseguirem adaptar-se. Lideranças precisam de comunicar claro a visão. Investimento em formação é crucial. A transformação digital não é um projeto com fim, mas uma jornada contínua de evolução e adaptação.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "O que a transformação digital representa?",
+        "options": ["Apenas comprar computadores", "Mudança fundamental na operação das organizações", "Despedir colaboradores", "Usar redes sociais"],
+        "correctAnswer": "Mudança fundamental na operação das organizações"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "Qual é a principal razão pela qual as empresas lutam com transformação?",
+        "options": ["Falta de dinheiro", "Resistência cultural", "Falta de clientes", "Excesso de tecnologia"],
+        "correctAnswer": "Resistência cultural"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "A transformação digital é um projeto com fim definido.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_002",
+    "title": "Ensaio: O futuro da democracia",
+    "level": "B2",
+    "text": "A democracia enfrenta desafios sem precedentes no século XXI. A polarização política, a desinformação e a desconfiança nas instituições erodem os pilares da democracia liberal. As redes sociais amplificam vozes extremistas e criam câmaras de eco. A democracia foi pensada para um contexto diferente, onde a informação era escassa. Hoje, o excesso de informação e a dificuldade em distinguir factos de ficção fragilizam o discurso racional. Alguns argumentam que a democracia representativa é obsoleta e que deveria ser substituída por democracia digital ou participativa. Outros defendem que as instituições precisam apenas de reformas. O que é consensual é que inação será fatal. A educação cívica, literacia digital e jornalismo de qualidade são ferramentas essenciais para revitalizar a democracia.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é o maior desafio para a democracia mencionado no texto?",
+        "options": ["Falta de votantes", "Polarização, desinformação e desconfiança", "Economia fraca", "Guerras"],
+        "correctAnswer": "Polarização, desinformação e desconfiança"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "Como é que as redes sociais afetam a democracia?",
+        "options": ["Fortalecem-na", "Amplificam vozes extremistas e criam câmaras de eco", "Não têm impacto", "Educam os cidadãos"],
+        "correctAnswer": "Amplificam vozes extremistas e criam câmaras de eco"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "A educação cívica é considerada essencial para revitalizar a democracia.",
+        "correctAnswer": true
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_003",
+    "title": "Relatório: Impacto das alterações climáticas",
+    "level": "B2",
+    "text": "Segundo o Painel Intergovernamental sobre Mudanças Climáticas (IPCC), os impactos das alterações climáticas já são mensuráveis e sem precedentes. Desde 1900, a temperatura global aumentou 1,1 graus Celsius. Este aumento aparentemente pequeno tem consequências massivas. Os eventos climáticos extremos tornaram-se mais frequentes e intensos. Furacões, inundações, secas prolongadas atingem regiões com regularidade perturbadora. Os ecossistemas sofrem. A biodiversidade está em colapso. O nível do mar sobe, ameaçando cidades costeiras. A agricultura enfrenta desafios imensos. Populações inteiras estão a ser deslocadas. Paradoxalmente, o maior impacto recai sobre os países menos responsáveis pelas emissões. A injustiça climática é uma realidade. Cientistas indicam que temos uma janela de oportunidade limitada para limitar o aumento a 1,5 graus. Além disto, as consequências serão catastróficas.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "De quanto aumentou a temperatura global desde 1900?",
+        "options": ["0,5 graus", "1,1 graus", "2 graus", "3 graus"],
+        "correctAnswer": "1,1 graus"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "Qual é o principal desafio para países menos desenvolvidos?",
+        "options": ["Tecnologia", "Injustiça climática: impactos mas baixas emissões", "Economia forte", "Falta de população"],
+        "correctAnswer": "Injustiça climática: impactos mas baixas emissões"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "Os cientistas indicam que ainda temos bastante tempo para agir.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_004",
+    "title": "Crítica literária: Modernismo português",
+    "level": "B2",
+    "text": "O modernismo português, emergente no início do século XX, foi um movimento revolucionário nas artes e na literatura. Fernando Pessoa é a figura mais emblemática, com seus heterónimos que desafiaram a identidade individual e literária. Pessoa criou personas distintas: Álvaro de Campos (poeta modernista), Ricardo Reis (poeta clássico), Alberto Caeiro (poeta sensacionista). Cada heterónimo tinha estilo, personalidade e até assinatura distintos. Esta fragmentação da identidade antecipou conceitos pós-modernos. Além de Pessoa, Mário de Sá-Carneiro explorou temas de decadência e transcendência. O movimento rejeitava o academicismo do século XIX. Buscava originalidade, experimentação e inovação. A revista Orpheu tornou-se a voz do modernismo português. Críticos argumentam que o modernismo português foi menos radical que movimentos europeus contemporâneos, mas sua originalidade reside na fusão de influências diversas com sensibilidade portuguesa única.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Quantos heterónimos principais Pessoa criou?",
+        "options": ["Um", "Dois", "Três", "Cinco"],
+        "correctAnswer": "Três"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "O que o heterónimo Álvaro de Campos representava?",
+        "options": ["Classicismo", "Sensacionismo", "Modernismo", "Romantismo"],
+        "correctAnswer": "Modernismo"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "O modernismo português foi tão radical quanto movimentos europeus da época.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_005",
+    "title": "Artigo científico: Neuroplasticidade",
+    "level": "B2",
+    "text": "A neuroplasticidade é a capacidade do cérebro humano de se reorganizar e criar novas conexões neurais ao longo da vida. Durante décadas, acreditava-se que o cérebro adulto era fixo e imutável. Pesquisas recentes provaram que isto é falso. O cérebro é extraordinariamente adaptável. Quando aprendemos uma nova competência, o cérebro literalmente muda. Neuroimagem mostra reorganização estrutural. Após um acidente vascular cerebral, o cérebro consegue redirecionar funções para outras áreas. Isto oferece esperança para reabilitação. A neuroplasticidade também explica porque é que prática repetida melhora desempenho. Cada repetição reforça caminhos neurais específicos. Este conhecimento transformou reabilitação, educação e tratamento de desordens neurológicas. Meditação, exercício físico e aprendizagem contínua estimulam neuroplasticidade. Implicações filosóficas são profundas. Sugere que somos mais mestres do nosso destino que pensávamos.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "O que é neuroplasticidade?",
+        "options": ["Doença cerebral", "Capacidade do cérebro se reorganizar e criar novas conexões", "Tipo de cirurgia", "Medicamento"],
+        "correctAnswer": "Capacidade do cérebro se reorganizar e criar novas conexões"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "Como é que a prática repetida melhora desempenho segundo o texto?",
+        "options": ["Aumenta motivação", "Reforça caminhos neurais específicos", "Reduz ansiedade", "Melhora nutrição"],
+        "correctAnswer": "Reforça caminhos neurais específicos"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "O cérebro adulto é completamente fixo e não pode mudar.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_006",
+    "title": "Análise: Economia circular",
+    "level": "B2",
+    "text": "A economia circular é um modelo de produção e consumo que visa eliminar o desperdício. Contrasta com a economia linear tradicional (extrair-produzir-descartar). Na economia circular, produtos são projetados para durabilidade e reutilização. Materiais são reciclados em novos produtos. Resíduos de uma indústria tornam-se matéria-prima de outra. Empresas como a Patagonia adotaram este modelo, oferecendo reparação e reciclagem de roupas. Volvo está a redesenhar automóveis para facilitar desmontagem e reutilização de peças. Estes modelos reduzem consumo de recursos virgens, diminuem emissões e criam novos mercados. No entanto, a transição enfrenta obstáculos. Sistemas de reciclagem atuais são inadequados. Comportamentos de consumidor precisam mudar. Investimento em inovação é substancial. Governos começam a implementar políticas circulares, mas a velocidade é insuficiente. A economia circular não é uma solução completa, mas um passo essencial para sustentabilidade.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é a diferença principal entre economia linear e circular?",
+        "options": ["Preço", "Na circular, há reutilização e reciclagem; linear é extrair-descartar", "Localização", "Número de empresas"],
+        "correctAnswer": "Na circular, há reutilização e reciclagem; linear é extrair-descartar"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "Como é que a Volvo está a adotar economia circular?",
+        "options": ["Aumentando produção", "Redesenhando automóveis para reutilização de peças", "Reduzindo preços", "Mudando de país"],
+        "correctAnswer": "Redesenhando automóveis para reutilização de peças"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "A economia circular é uma solução completa e perfeita para sustentabilidade.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_007",
+    "title": "Ensaio: Saúde mental e trabalho moderno",
+    "level": "B2",
+    "text": "O trabalho moderno transformou-se drasticamente nas últimas décadas. A fronteira entre vida profissional e pessoal desapareceu. Smartphones permitem que chefes contactem colaboradores a qualquer hora. Expectativas de disponibilidade 24/7 criar stress crônico. A mentalidade de sempre \"on\" afeta saúde mental gravemente. Estudos mostram aumento em ansiedade, depressão e síndrome de burnout. O teletrabalho, embora ofereza flexibilidade, pode intensificar isolamento e dificuldade em \"desligar-se\". Empresas começam a reconhecer isto. Algumas implementam políticas de \"direito a desconectar\". Períodos definidos sem contacto são protegidos. Meditação e mindfulness são oferecidos em alguns locais. No entanto, estas medidas são insuficientes. Mudança estrutural é necessária. Redução de horas de trabalho, maior autonomia e reconhecimento de que saúde mental é prioridade são essenciais. O futuro do trabalho deve colocar bem-estar humano no centro.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é um efeito negativo do trabalho moderno mencionado?",
+        "options": ["Redução de stress", "Desaparecimento da fronteira vida profissional/pessoal", "Mais tempo livre", "Menos responsabilidade"],
+        "correctAnswer": "Desaparecimento da fronteira vida profissional/pessoal"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "O que é \"direito a desconectar\"?",
+        "options": ["Demissão", "Períodos sem contacto profissional protegidos", "Férias obrigatórias", "Redução de salário"],
+        "correctAnswer": "Períodos sem contacto profissional protegidos"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "Meditação resolve completamente o problema de saúde mental no trabalho.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_008",
+    "title": "Reportagem: Migração e refugiados",
+    "level": "B2",
+    "text": "A migração é um fenômeno complexo moldado por fatores políticos, económicos e ambientais. Milhões de pessoas deslocam-se anualmente fugindo de pobreza, conflito ou degradação ambiental. A Europa enfrenta ondas migratórias recorrentes. Algumas populações veem migrantes com desconfiança, temendo competição por empregos ou mudança cultural. Outras reconhecem contribuições económicas e demográficas de migrantes. Factualmente, estudos mostram que migrantes frequentemente têm impacto positivo em economia. Preenchem lacunas no mercado laboral. Pagam impostos. Criam empresas. Culturalmente, diversidade enriquece. No entanto, integração requer investimento. Educação, habitação e acesso a emprego devem ser garantidos. Políticas migratórias precisam balancear compassão com realismo. Fechamento total de fronteiras é implausível e desumano. Integração bem gerida é possível e benéfica. O futuro da Europa dependerá de como gerencia a migração.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Quais são as principais razões para migração mencionadas?",
+        "options": ["Curiosidade turística", "Pobreza, conflito e degradação ambiental", "Férias", "Educação superior"],
+        "correctAnswer": "Pobreza, conflito e degradação ambiental"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "Qual é o impacto económico de migrantes segundo o texto?",
+        "options": ["Sempre negativo", "Positivo: preenchem lacunas, pagam impostos, criam empresas", "Neutro", "Desconhecido"],
+        "correctAnswer": "Positivo: preenchem lacunas, pagam impostos, criam empresas"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "O texto sugere que fechamento total de fronteiras é a melhor política.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_009",
+    "title": "Artigo: Inteligência artificial e ética",
+    "level": "B2",
+    "text": "A inteligência artificial (IA) está a transformar sociedades, mas questões éticas permanecem negligenciadas. Sistemas de IA fazem decisões que afetam vidas: aprovação de empréstimos, diagnósticos médicos, sentenças judiciais. Contudo, muitos sistemas operam como \"caixas negras\" — suas decisões são incompreensíveis até aos seus criadores. Isto levanta questões de responsabilidade. Se um algoritmo discrimina minorias, quem é responsável? A falta de diversidade entre programadores perpetua viéses. Dados de treino muitas vezes refletem discriminações históricas. Existem preocupações genuínas sobre privacidade e vigilância. Governos começam a regular IA, mas leis ficam atrás de inovação. Precisamos de frameworks éticos claros. Transparência (explicabilidade) é essencial. Auditoria independente de sistemas críticos é obrigatória. Inclusão de especialistas em ética desde o início do desenvolvimento. A IA é uma ferramenta poderosa. Como ferramenta, pode servir interesse comum ou aprofundar injustiça. A escolha é nossa.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é o problema principal com muitos sistemas de IA?",
+        "options": ["São muito lentes", "Operam como caixas negras com decisões incompreensíveis", "Custam muito", "São muito simples"],
+        "correctAnswer": "Operam como caixas negras com decisões incompreensíveis"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "Como é que a falta de diversidade entre programadores afeta IA?",
+        "options": ["Melhora eficiência", "Perpetua viéses", "Não tem impacto", "Reduz custos"],
+        "correctAnswer": "Perpetua viéses"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "Governos têm regulado completamente todas as questões de IA.",
+        "correctAnswer": false
+      }
+    ]
+  },
+  {
+    "id": "b2_reading_010",
+    "title": "Análise: Futuro da educação superior",
+    "level": "B2",
+    "text": "A educação superior enfrenta disrupção. Universidades tradicionais enfrentam competição de plataformas online massivas (MOOCs), programas de formação rápida e aprendizagem experiencial. Os custos das universidades aumentaram exponencialmente. Dívida de estudantes é um problema social grave. Empregadores questionam valor de diplomas tradicionais. Competências práticas e adaptabilidade importam mais. No entanto, universidades possuem vantagens perdurantes: comunidade académica, investigação de ponta, credibilidade histórica. A tendência é hibridização. Universidades adotam modelos online e aumentam flexibilidade. Parcerias com indústria trazem relevância prática. Micro-credenciais complementam diplomas tradicionais. A educação superior não desaparecerá, mas transformar-se-á. Instituições que se adaptarem prosperam. Aquelas resistindo à mudança declinarão. O futuro privilegia aprendizagem contínua. Educação será descentralizada, mais acessível e flexível. Isto apresenta oportunidades e riscos — qualidade e equidade precisam ser mantidas.",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "question": "Qual é um desafio principal para universidades tradicionais?",
+        "options": ["Falta de estudantes", "Competição de plataformas online e custos aumentados", "Excesso de regulação", "Falta de tecnologia"],
+        "correctAnswer": "Competição de plataformas online e custos aumentados"
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "question": "Qual é a tendência futura para universidades mencionada?",
+        "options": ["Desaparecimento total", "Hibridização: modelos online + flexibilidade", "Voltar ao presencial 100%", "Reduzir programas"],
+        "correctAnswer": "Hibridização: modelos online + flexibilidade"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "question": "Micro-credenciais substituirão completamente diplomas tradicionais.",
+        "correctAnswer": false
+      }
+    ]
+  }
+]

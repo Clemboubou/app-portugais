@@ -1,0 +1,84 @@
+{
+  "id": "a2-m2-l05",
+  "title": "Les tâches ménagères",
+  "type": "vocabulary",
+  "estimatedMinutes": 13,
+  "objectives": [
+    "Nommer les principales tâches ménagères en portugais européen",
+    "Parler de sa routine ménagère au présent et au passé",
+    "Utiliser les verbes d'action liés au ménage dans des phrases"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le quotidien à la maison",
+      "content": "<p>Les <strong>tarefas domésticas</strong> (tâches ménagères) font partie du quotidien. Savoir en parler est utile pour la vie de tous les jours, que ce soit pour partager les corvées en colocation ou simplement raconter sa journée.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les tâches ménagères",
+      "content": "<table><thead><tr><th>Portugais</th><th>Français</th></tr></thead><tbody><tr><td><strong>limpar a casa</strong></td><td>nettoyer la maison</td></tr><tr><td><strong>arrumar o quarto</strong></td><td>ranger la chambre</td></tr><tr><td><strong>cozinhar</strong></td><td>cuisiner</td></tr><tr><td><strong>lavar a roupa</strong></td><td>laver le linge</td></tr><tr><td><strong>lavar a loiça</strong></td><td>faire la vaisselle</td></tr><tr><td><strong>passar a ferro</strong></td><td>repasser</td></tr><tr><td><strong>aspirar</strong></td><td>passer l'aspirateur</td></tr><tr><td><strong>varrer o chão</strong></td><td>balayer le sol</td></tr><tr><td><strong>estender a roupa</strong></td><td>étendre le linge</td></tr><tr><td><strong>fazer as compras</strong></td><td>faire les courses</td></tr><tr><td><strong>fazer a cama</strong></td><td>faire le lit</td></tr><tr><td><strong>levar o lixo</strong></td><td>sortir les poubelles</td></tr></tbody></table><p><strong>Note PT-PT</strong> : En portugais européen, on dit <em>lavar a loiça</em> (pas 'lavar a louça' qui est brésilien).</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Parler de la routine ménagère",
+      "content": "<p>Pour parler de la fréquence :</p><ul><li><em><strong>Todos os dias</strong>, faço a cama.</em> (Tous les jours, je fais le lit.)</li><li><em><strong>Duas vezes por semana</strong>, aspiro a casa.</em> (Deux fois par semaine, je passe l'aspirateur.)</li><li><em><strong>Ao fim de semana</strong>, faço as compras.</em> (Le week-end, je fais les courses.)</li><li><em><strong>Ontem</strong>, lavei a roupa e passei a ferro.</em> (Hier, j'ai lavé le linge et repassé.)</li></ul><p>Pour partager les tâches :</p><ul><li><em>Eu cozinho e tu lavas a loiça.</em> (Je cuisine et tu fais la vaisselle.)</li><li><em>Podemos dividir as tarefas.</em> (On peut partager les tâches.)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Associer les tâches aux pièces",
+      "content": "<p>Dans quelle pièce fait-on ces tâches ?</p><ul><li><em>Cozinhar</em> → <strong>na cozinha</strong></li><li><em>Fazer a cama</em> → <strong>no quarto</strong></li><li><em>Limpar o espelho</em> → <strong>na casa de banho</strong></li><li><em>Aspirar</em> → <strong>na sala / no corredor</strong></li><li><em>Estender a roupa</em> → <strong>na varanda</strong></li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Votre routine ménagère",
+      "content": "<p>Décrivez votre routine ménagère en utilisant les adverbes de fréquence :</p><p>Exemple : <em>Todos os dias, faço a cama e lavo a loiça. Duas vezes por semana, aspiro a sala e limpo a casa de banho. Ao sábado, faço as compras no supermercado. Detesto passar a ferro, por isso faço-o raramente!</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'faire la vaisselle' en portugais européen ?",
+      "correctAnswer": "lavar a loiça",
+      "distractors": ["lavar a louça", "limpar os pratos", "fazer a loiça"],
+      "explanation": "En portugais européen, on dit 'lavar a loiça'. 'Louça' est l'orthographe brésilienne."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Ontem, eu ________ (passar) a ferro durante uma hora.",
+      "correctAnswer": "passei",
+      "explanation": "'Passar a ferro' (repasser) au Pretérito Perfeito : eu passei, tu passaste, ele passou..."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : 'Je fais les courses deux fois par semaine.'",
+      "correctAnswer": "Faço as compras duas vezes por semana.",
+      "explanation": "'Fazer as compras' = faire les courses. 'Duas vezes por semana' = deux fois par semaine."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'estender a roupa' ?",
+      "correctAnswer": "Étendre le linge",
+      "distractors": ["Repasser le linge", "Plier le linge", "Laver le linge"],
+      "explanation": "'Estender' = étendre. 'Lavar' = laver. 'Passar a ferro' = repasser. 'Dobrar' = plier."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Todos os dias, eu ________ (fazer) a cama de manhã.",
+      "correctAnswer": "faço",
+      "explanation": "'Fazer a cama' = faire le lit. Au présent : eu faço, tu fazes, ele faz..."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "limpar", "phonetic": "/lĩˈpaɾ/", "french": "nettoyer"},
+    {"portuguese": "arrumar", "phonetic": "/ɐʁuˈmaɾ/", "french": "ranger"},
+    {"portuguese": "cozinhar", "phonetic": "/kuziˈɲaɾ/", "french": "cuisiner"},
+    {"portuguese": "lavar a roupa", "phonetic": "/lɐˈvaɾ ɐ ˈʁopɐ/", "french": "laver le linge"},
+    {"portuguese": "lavar a loiça", "phonetic": "/lɐˈvaɾ ɐ ˈlojsɐ/", "french": "faire la vaisselle"},
+    {"portuguese": "passar a ferro", "phonetic": "/pɐˈsaɾ ɐ ˈfɛʁu/", "french": "repasser"},
+    {"portuguese": "aspirar", "phonetic": "/ɐʃpiˈɾaɾ/", "french": "passer l'aspirateur"},
+    {"portuguese": "varrer", "phonetic": "/vɐˈʁeɾ/", "french": "balayer"},
+    {"portuguese": "estender a roupa", "phonetic": "/ɨʃtɐ̃ˈdeɾ ɐ ˈʁopɐ/", "french": "étendre le linge"},
+    {"portuguese": "fazer as compras", "phonetic": "/fɐˈzeɾ ɐʃ ˈkõpɾɐʃ/", "french": "faire les courses"}
+  ]
+}

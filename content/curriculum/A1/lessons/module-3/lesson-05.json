@@ -1,0 +1,144 @@
+{
+  "id": "a1-m3-l05",
+  "title": "Les verbes réguliers en -AR au présent",
+  "type": "grammar",
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Identifier le radical et la terminaison d'un verbe régulier en -AR",
+    "Conjuguer les verbes falar, morar, trabalhar, estudar, gostar et comprar au présent de l'indicatif",
+    "Construire des phrases simples sur la vie quotidienne avec ces verbes"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les verbes en -AR : le groupe le plus courant",
+      "content": "En portugais européen, les verbes sont classés en trois groupes selon leur terminaison à l'infinitif : -AR, -ER et -IR. Les verbes en -AR sont de loin les plus nombreux et les plus courants. Bonne nouvelle : une fois que vous connaissez le modèle de conjugaison, vous pouvez conjuguer des centaines de verbes !"
+    },
+    {
+      "type": "explanation",
+      "title": "Le modèle de conjugaison en -AR",
+      "content": "Pour conjuguer un verbe en -AR au présent, il faut :\n1. Retirer la terminaison -AR pour obtenir le radical.\n2. Ajouter la terminaison correspondant au pronom sujet.\n\nExemple avec FALAR (parler) → radical : FAL-\n\n| Pronom     | Terminaison | Forme      |\n|------------|-------------|------------|\n| eu         | -o          | falo       |\n| tu         | -as         | falas      |\n| ele/ela    | -a          | fala       |\n| nós        | -amos       | falamos    |\n| eles/elas  | -am         | falam      |\n\nCe modèle s'applique à tous les verbes réguliers en -AR. Mémorisez ces cinq terminaisons : -o, -as, -a, -amos, -am."
+    },
+    {
+      "type": "discovery",
+      "title": "Six verbes essentiels conjugués",
+      "content": "Voici six verbes réguliers en -AR très utiles pour la vie quotidienne :\n\n1. FALAR (parler)\n   falo, falas, fala, falamos, falam\n   Ex. : Eu falo português. (Je parle portugais.)\n\n2. MORAR (habiter, résider)\n   moro, moras, mora, moramos, moram\n   Ex. : Ela mora em Lisboa. (Elle habite à Lisbonne.)\n\n3. TRABALHAR (travailler)\n   trabalho, trabalhas, trabalha, trabalhamos, trabalham\n   Ex. : O meu pai trabalha num escritório. (Mon père travaille dans un bureau.)\n\n4. ESTUDAR (étudier)\n   estudo, estudas, estuda, estudamos, estudam\n   Ex. : Nós estudamos português. (Nous étudions le portugais.)\n\n5. GOSTAR (aimer, apprécier)\n   gosto, gostas, gosta, gostamos, gostam\n   Ex. : Gosto de música. (J'aime la musique.)\n\n6. COMPRAR (acheter)\n   compro, compras, compra, compramos, compram\n   Ex. : Eles compram pão na padaria. (Ils achètent du pain à la boulangerie.)"
+    },
+    {
+      "type": "explanation",
+      "title": "Attention à GOSTAR : toujours suivi de DE",
+      "content": "Le verbe gostar (aimer, apprécier) est toujours suivi de la préposition de en portugais européen. Cette construction est différente du français.\n\n• Gosto de vinho. (J'aime le vin.)\n• Gostas de Lisboa? (Tu aimes Lisbonne ?)\n• Ela não gosta de segunda-feira. (Elle n'aime pas le lundi.)\n\nQuand de précède un article défini, les contractions suivantes s'appliquent :\n• de + o → do : Gosto do mar. (J'aime la mer.)\n• de + a → da : Gosto da música portuguesa. (J'aime la musique portugaise.)\n• de + os → dos : Gosto dos pastéis de nata. (J'aime les pastéis de nata.)\n• de + as → das : Gosto das praias. (J'aime les plages.)\n\nAvant un verbe à l'infinitif, on utilise de + infinitif :\n• Gosto de trabalhar. (J'aime travailler.)"
+    },
+    {
+      "type": "explanation",
+      "title": "La négation avec NÃO",
+      "content": "Pour mettre un verbe en -AR à la forme négative, il suffit de placer não avant le verbe conjugué :\n\n• Falo inglês. → Não falo inglês. (Je ne parle pas anglais.)\n• Ela mora em Porto. → Ela não mora em Porto. (Elle n'habite pas à Porto.)\n• Trabalhamos de manhã. → Não trabalhamos de manhã. (Nous ne travaillons pas le matin.)\n\nEn portugais européen, não ne change jamais de forme selon le pronom ou le verbe. Il reste toujours não."
+    },
+    {
+      "type": "production",
+      "title": "Parlez de vous",
+      "content": "Construisez des phrases vraies sur vous-même. Utilisez não si nécessaire.\n\n1. Eu moro em ___ .\n2. Estudo ___ (langues/matières).\n3. Trabalho ___ (lieu/horaire).\n4. Gosto de ___ .\n5. Não gosto de ___ .\n\nExemple de réponses possibles :\n• Moro em Paris.\n• Estudo português e inglês.\n• Trabalho num café.\n• Gosto de viajar.\n• Não gosto de acordar cedo."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme correcte de FALAR pour « eles » ?",
+      "correctAnswer": "falam",
+      "distractors": ["falamos", "fala", "falas"],
+      "explanation": "La terminaison pour eles/elas dans les verbes en -AR est -am. Falam = ils/elles parlent. Falamos correspond à nós, fala à ele/ela, et falas à tu."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Complétez : « A Ana ___ em Coimbra. » (Ana habite à Coimbra.)",
+      "correctAnswer": "mora",
+      "distractors": ["moram", "moras", "moro"],
+      "explanation": "A Ana est un sujet de troisième personne du singulier (ele/ela). La terminaison correspondante pour les verbes en -AR est -a, donc mora."
+    },
+    {
+      "type": "translation",
+      "prompt": "Traduisez en portugais européen : « Nous travaillons le matin. »",
+      "correctAnswer": "Trabalhamos de manhã.",
+      "distractors": [
+        "Trabalham de manhã.",
+        "Trabalho de manhã.",
+        "Trabalhamos pela manhã."
+      ],
+      "explanation": "Pour nós, la terminaison des verbes en -AR est -amos : trabalhamos. De manhã est l'expression portugaise européenne standard pour « le matin ». Trabalham correspond à eles/elas."
+    },
+    {
+      "type": "error_detection",
+      "prompt": "Trouvez l'erreur dans la phrase : « Gosto música portuguesa. »",
+      "correctAnswer": "Il manque la préposition DE : « Gosto de música portuguesa. »",
+      "distractors": [
+        "Il faut dire « Gosto a música portuguesa. »",
+        "Il faut dire « Gostas de música portuguesa. »",
+        "La phrase est correcte."
+      ],
+      "explanation": "Le verbe gostar est toujours suivi de la préposition de en portugais européen. On dit gosto de + nom ou gosto de + infinitif. Sans de, la phrase est incorrecte."
+    },
+    {
+      "type": "word_order",
+      "prompt": "Remettez dans le bon ordre : « não / eles / estudam / sábado / ao »",
+      "correctAnswer": "Eles não estudam ao sábado.",
+      "distractors": [
+        "Não eles estudam ao sábado.",
+        "Eles estudam não ao sábado.",
+        "Ao sábado eles não estudam."
+      ],
+      "explanation": "La structure de base est : sujet + não + verbe + complément. Não se place directement avant le verbe conjugué. Ao sábado (le samedi) peut aussi se placer en tête de phrase, mais la structure standard est sujet + não + verbe."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "falar",
+      "phonetic": "/fɐˈlaɾ/",
+      "french": "parler"
+    },
+    {
+      "portuguese": "morar",
+      "phonetic": "/muˈɾaɾ/",
+      "french": "habiter, résider"
+    },
+    {
+      "portuguese": "trabalhar",
+      "phonetic": "/tɾɐβɐˈʎaɾ/",
+      "french": "travailler"
+    },
+    {
+      "portuguese": "estudar",
+      "phonetic": "/ɨʃtuˈdaɾ/",
+      "french": "étudier"
+    },
+    {
+      "portuguese": "gostar (de)",
+      "phonetic": "/ɡuʃˈtaɾ/",
+      "french": "aimer, apprécier (+ de)"
+    },
+    {
+      "portuguese": "comprar",
+      "phonetic": "/kõˈpɾaɾ/",
+      "french": "acheter"
+    },
+    {
+      "portuguese": "não",
+      "phonetic": "/ˈnɐ̃w/",
+      "french": "ne… pas, non"
+    },
+    {
+      "portuguese": "de manhã",
+      "phonetic": "/dɨ mɐˈɲɐ̃/",
+      "french": "le matin"
+    },
+    {
+      "portuguese": "à tarde",
+      "phonetic": "/a ˈtaɾdɨ/",
+      "french": "l'après-midi"
+    },
+    {
+      "portuguese": "à noite",
+      "phonetic": "/a ˈnojtɨ/",
+      "french": "le soir, la nuit"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "b2-m4-l02",
+  "title": "José Saramago",
+  "type": "reading",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Découvrir José Saramago, prix Nobel de littérature 1998",
+    "Lire et analyser un extrait adapté de son œuvre",
+    "Comprendre les particularités stylistiques de Saramago"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Saramago : le Nobel portugais",
+      "content": "<p><strong>José Saramago</strong> (1922-2010) est le seul auteur de langue portugaise à avoir reçu le <strong>prix Nobel de littérature</strong> (1998). Né à Azinhaga, dans le Ribatejo, il est devenu l'un des romanciers les plus importants du XXᵉ siècle.</p><p>Ses œuvres majeures : <em>Memorial do Convento</em> (Le Dieu manchot), <em>Ensaio sobre a Cegueira</em> (L'Aveuglement), <em>O Evangelho segundo Jesus Cristo</em> (L'Évangile selon Jésus-Christ).</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Extrait adapté : Ensaio sobre a Cegueira",
+      "content": "<p>Lisez cet extrait adapté de <em>Ensaio sobre a Cegueira</em> (L'Aveuglement, 1995) :</p><blockquote><em>O semáforo mudou para vermelho e o homem que conduzia o carro parou. Estava ali, tranquilo, à espera que o sinal ficasse verde, quando de repente deixou de ver. Em vez das cores que até então via, o vermelho e o verde, e o amarelo entre os dois, tudo se tinha tornado numa brancura luminosa. Tentou abrir e fechar os olhos, mas a cegueira branca continuava ali, espessa como uma névoa em que se tivesse perdido.</em></blockquote><p>Ce roman raconte une épidémie de cécité blanche qui frappe une ville entière — une allégorie puissante sur la société.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Le style unique de Saramago",
+      "content": "<p>Saramago est célèbre pour son <strong>style très particulier</strong> :</p><ul><li><strong>Ponctuation minimale</strong> : pas de guillemets pour les dialogues, très peu de points. Les phrases s'enchaînent avec des virgules.</li><li><strong>Majuscule au milieu de phrase</strong> : indique un changement de locuteur dans les dialogues.</li><li><strong>Phrases très longues</strong> : créent un flux narratif continu, comme un courant de conscience.</li><li><strong>Ironie constante</strong> : commentaires sarcastiques du narrateur omniscient.</li></ul><p><strong>Vocabulaire du texte :</strong></p><ul><li><em>semáforo</em> — feu de circulation</li><li><em>cegueira</em> — cécité / aveuglement</li><li><em>brancura</em> — blancheur</li><li><em>névoa</em> — brouillard</li><li><em>de repente</em> — soudain</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Compréhension et analyse",
+      "content": "<p>Répondez en portugais :</p><ol><li><em>O que aconteceu ao homem quando estava parado no semáforo?</em> → <em>Deixou de ver de repente; ficou cego.</em></li><li><em>Que tipo de cegueira é descrita?</em> → <em>Uma cegueira branca, luminosa, como uma névoa.</em></li><li><em>Quais são as características do estilo de Saramago visíveis neste excerto?</em> → <em>Frases longas, pouca pontuação, descrição detalhada.</em></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Réflexion personnelle",
+      "content": "<p>Rédigez en portugais (80-100 mots) une réponse à cette question :</p><p><em>Na sua opinião, o que representa a cegueira branca neste romance? É uma metáfora de quê?</em></p><p>(À votre avis, que représente la cécité blanche dans ce roman ? C'est une métaphore de quoi ?)</p><p>Structures utiles : <em>Parece-me que...</em>, <em>A cegueira pode representar...</em>, <em>Saramago quis mostrar que...</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "En quelle année José Saramago a-t-il reçu le prix Nobel de littérature ?",
+      "correctAnswer": "1998",
+      "distractors": ["1986", "2002", "1995"],
+      "explanation": "Saramago a reçu le Nobel en 1998, devenant le premier et seul auteur de langue portugaise à recevoir ce prix."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O romance mais conhecido de Saramago é o ________ sobre a Cegueira.",
+      "correctAnswer": "Ensaio",
+      "explanation": "'Ensaio sobre a Cegueira' (L'Aveuglement, littéralement 'Essai sur la Cécité') est l'œuvre la plus connue de Saramago."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Soudain, il a cessé de voir.",
+      "correctAnswer": "De repente, deixou de ver.",
+      "explanation": "'De repente' = soudain. 'Deixar de' + infinitif = cesser de. Construction très courante en PT-PT."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la particularité stylistique la plus connue de Saramago ?",
+      "correctAnswer": "L'absence de guillemets dans les dialogues et la ponctuation minimale",
+      "distractors": ["L'utilisation de vers rimés", "Les chapitres très courts", "L'écriture en première personne"],
+      "explanation": "Saramago est célèbre pour son absence de guillemets, ses dialogues intégrés au texte et ses phrases extrêmement longues."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Tudo se tinha tornado numa ________ luminosa. (= blancheur)",
+      "correctAnswer": "brancura",
+      "explanation": "'Brancura' = blancheur, formé sur 'branco' (blanc) + suffixe '-ura'. Même construction que 'escuridão' (obscurité)."
+    }
+  ],
+  "vocabulary": [
+    {"portuguese": "cegueira", "phonetic": "/sɨˈɡejɾɐ/", "french": "cécité / aveuglement"},
+    {"portuguese": "brancura", "phonetic": "/bɾɐ̃ˈkuɾɐ/", "french": "blancheur"},
+    {"portuguese": "névoa", "phonetic": "/ˈnɛvuɐ/", "french": "brouillard / brume"},
+    {"portuguese": "semáforo", "phonetic": "/sɨˈmafuɾu/", "french": "feu de circulation"},
+    {"portuguese": "de repente", "phonetic": "/dɨ ʁɨˈpẽtɨ/", "french": "soudain"},
+    {"portuguese": "deixar de", "phonetic": "/dejˈʃaɾ dɨ/", "french": "cesser de"},
+    {"portuguese": "ensaio", "phonetic": "/ẽˈsaju/", "french": "essai (littéraire)"},
+    {"portuguese": "romancista", "phonetic": "/ʁumɐ̃ˈsiʃtɐ/", "french": "romancier"},
+    {"portuguese": "Prémio Nobel", "phonetic": "/ˈpɾɛmiu ˈnɔbɛl/", "french": "prix Nobel"},
+    {"portuguese": "metáfora", "phonetic": "/mɨˈtafuɾɐ/", "french": "métaphore"}
+  ]
+}
