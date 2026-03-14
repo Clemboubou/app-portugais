@@ -1,0 +1,7 @@
+[
+  {"id": 23, "levelCode": "C1", "title": "Maîtrise du système verbal", "description": "Mésoclise, subjonctif futur, infinitif personnel avancé, nuances aspectuelles", "order": 1},
+  {"id": 24, "levelCode": "C1", "title": "Registres et styles", "description": "Langue soutenue, juridique, académique, littéraire vs langue courante", "order": 2},
+  {"id": 25, "levelCode": "C1", "title": "Littérature et culture", "description": "Pessoa, Camões, Saramago, fado, cinema português, identidade cultural", "order": 3},
+  {"id": 26, "levelCode": "C1", "title": "Communication avancée", "description": "Débat, rhétorique, nuances pragmatiques, ironie, humour portugais", "order": 4},
+  {"id": 27, "levelCode": "C1", "title": "Vers l'autonomie totale", "description": "Textes complexes, production écrite sophistiquée, révision globale C1", "order": 5}
+]

@@ -1,0 +1,117 @@
+{
+  "id": "c1-m5-l01",
+  "title": "Lecture de textes complexes",
+  "type": "reading",
+  "estimatedMinutes": 30,
+  "objectives": [
+    "Lire et comprendre des textes de presse et academiques en portugais C1",
+    "Identifier les strategies de lecture rapide et analytique",
+    "Extraire les idees cles et les sous-entendus dans un texte dense"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Strategies de lecture au C1",
+      "content": "<p>Au niveau C1, lire en portugais ne se limite plus a comprendre les mots : il faut saisir le <strong>positionnement de l'auteur</strong>, les <strong>presupposes</strong>, les <strong>sous-entendus</strong> et la <strong>structure argumentative</strong>. Trois strategies complementaires : <em>skimming</em> (survol), <em>scanning</em> (reperage cibler), lecture analytique profonde.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Types de textes C1",
+      "content": "<p><strong>Presse de qualite :</strong> Publico, Observador, Expresso — editoriaux, reportages d'investigation.</p><p><strong>Textes academiques :</strong> articles de recherche, essais critiques, theses.</p><p><strong>Textes litteraires :</strong> Saramago, Eca, Pessoa — registre soutenu, ironie, intertextualite.</p><p><strong>Textes juridiques/officiels :</strong> lois, arrets, decrets (langue tres formalisee).</p><p><strong>Difficultes specifiques C1 :</strong></p><ul><li>Mesoclise : <em>dar-te-ei</em></li><li>Subjonctif futur : <em>quando chegares</em></li><li>Infinitif personnel : <em>apesar de eles serem</em></li><li>Latinismes : <em>outrossim, doravante, porquanto</em></li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Lire un editorial",
+      "content": "<p><strong>Extrait fictif d'editorial du Publico :</strong></p><p><em>A crise demografica que assola o interior do pais nao e, como frequentemente se pretende, um problema de politica regional, mas antes a consequencia logica de decadas de centralizacao obstinada. Outrossim, as medidas pontuais implementadas nos ultimos anos revelaram-se manifestamente insuficientes para inverter uma tendencia que, doravante, se tornara dificilmente reversivel.</em></p><p><strong>Analyse :</strong> l'auteur rejette une explication courante ('como frequentemente se pretende'), etablit une causalite ('consequencia logica'), utilise des latinismes ('outrossim', 'doravante'), exprime une position critique avec des adverbes d'intensite ('manifestamente', 'obstinada').</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Analyser un texte",
+      "content": "<p>Pour l'extrait ci-dessus, repondez :</p><p>1. Quelle est la these de l'auteur ? → <strong>La crise demographique est due a la centralisation, pas a la politique regionale</strong></p><p>2. Quel est le connecteur qui introduit un argument supplementaire ? → <strong>Outrossim</strong></p><p>3. Quelle forme grammaticale indique le futur proche ? → <strong>Tornara (futur simple)</strong></p><p>4. Quel adverbe renforce le jugement negatif ? → <strong>Manifestamente / obstinada</strong></p>"
+    },
+    {
+      "type": "production",
+      "title": "Resume critique",
+      "content": "<p>Trouvez un article en ligne dans Publico ou Observador sur un sujet qui vous interesse. Redigez un resume critique de 120-150 mots :</p><ul><li>Sujet et these de l'auteur (2-3 phrases)</li><li>Arguments principaux (3-4 points)</li><li>Votre evaluation critique : points forts, limites (3-4 phrases)</li></ul><p>Utilisez le lexique du commentaire academique.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Que signifie 'outrossim' dans un texte formel ?",
+      "correctAnswer": "De plus / en outre / de meme (connecteur d'addition formel)",
+      "distractors": [
+        "Par consequent",
+        "Toutefois",
+        "En effet"
+      ],
+      "explanation": "'Outrossim' est un latinisme formel equivalent a 'alem disso', 'tambem', 'igualmente'. Tres frequents dans les textes juridiques et journalistiques formels."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Le 'skimming' est une strategie de lecture qui consiste a :",
+      "correctAnswer": "Survol rapide pour identifier l'idee generale et la structure",
+      "distractors": [
+        "Lecture mot a mot",
+        "Recherche d'un terme specifique",
+        "Memorisation du vocabulaire"
+      ],
+      "explanation": "Skimming = survol pour saisir l'essentiel rapidement (titre, sous-titres, premier/dernier paragraphes). Scanning = recherche d'une info precise."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : A partir de maintenant, ces mesures seront obligatoires.",
+      "correctAnswer": "Doravante, estas medidas serao obrigatorias.",
+      "explanation": "'Doravante' = a partir de maintenant / desormais. Latinisme formel tres utilise dans les textes officiels et juridiques portugais."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Como frequentemente se ________ (pretender), o problema nao e tecnico mas politico.",
+      "correctAnswer": "pretende",
+      "explanation": "'Como se pretende' = comme on le pretend / comme on le croit. 'Pretender' en PT = pretendre / affirmer (faux ami : it does not mean 'to pretend' as in to fake)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dans un editorial, identifier le 'positionnement de l'auteur' signifie :",
+      "correctAnswer": "Determiner si l'auteur est pour ou contre, et avec quelle intensite, a travers les choix lexicaux",
+      "distractors": [
+        "Verifier les faits cites",
+        "Compter les connecteurs",
+        "Analyser la longueur des phrases"
+      ],
+      "explanation": "Le positionnement se repere dans le lexique evalue (adjectifs, adverbes), les structures de concession/refutation, le choix des verbes citants."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "outrossim",
+      "phonetic": "/otɾuˈsĩ/",
+      "french": "de plus / en outre (formel)"
+    },
+    {
+      "portuguese": "doravante",
+      "phonetic": "/duɾɐˈvɐ̃tɨ/",
+      "french": "desormais / a partir de maintenant"
+    },
+    {
+      "portuguese": "porquanto",
+      "phonetic": "/puɾˈkwɐ̃tu/",
+      "french": "etant donne que / car (archaique)"
+    },
+    {
+      "portuguese": "pressuposto",
+      "phonetic": "/pɾɨsuˈpoʃtu/",
+      "french": "presuppose"
+    },
+    {
+      "portuguese": "subentendido",
+      "phonetic": "/subẽtẽˈdidu/",
+      "french": "sous-entendu"
+    },
+    {
+      "portuguese": "editorial",
+      "phonetic": "/ɨditɔˈɾjal/",
+      "french": "editorial"
+    }
+  ]
+}

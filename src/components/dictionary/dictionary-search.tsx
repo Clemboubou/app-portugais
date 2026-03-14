@@ -36,20 +36,29 @@ export function DictionarySearch() {
   const [query, setQuery] = useState("");
   const [result, setResult] = useState<LookupResult | null>(null);
   const [isLoading, setIsLoading] = useState(false);
+  const [loadingMsg, setLoadingMsg] = useState("Recherche en cours…");
   const [error, setError] = useState<string | null>(null);
   const [addedToSrs, setAddedToSrs] = useState(false);
   const [isAddingSrs, setIsAddingSrs] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const loadingTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Première traduction française extraite des définitions
-  const mainTranslation = result?.definitions[0]?.definitions[0] ?? null;
+  const mainTranslation = result?.definitions?.[0]?.definitions?.[0] ?? null;
 
   const handleSearch = async () => {
     if (!query.trim()) return;
     setIsLoading(true);
+    setLoadingMsg("Recherche en cours…");
     setError(null);
     setResult(null);
     setAddedToSrs(false);
+
+    // Après 3s sans résultat, indiquer que l'IA prend le relais
+    if (loadingTimerRef.current) clearTimeout(loadingTimerRef.current);
+    loadingTimerRef.current = setTimeout(() => {
+      setLoadingMsg("Wiktionary n'a pas trouvé ce mot — l'IA génère la définition…");
+    }, 3000);
 
     try {
       const res = await fetch(
@@ -65,6 +74,7 @@ export function DictionarySearch() {
       setError("Erreur de connexion.");
     } finally {
       setIsLoading(false);
+      if (loadingTimerRef.current) clearTimeout(loadingTimerRef.current);
     }
   };
 
@@ -127,6 +137,10 @@ export function DictionarySearch() {
       {isLoading && (
         <Card>
           <CardContent className="pt-6 space-y-3">
+            <div className="flex items-center gap-2 text-sm text-muted-foreground">
+              <Loader2 className="h-4 w-4 animate-spin shrink-0" />
+              <span>{loadingMsg}</span>
+            </div>
             <Skeleton className="h-7 w-1/2" />
             <Skeleton className="h-4 w-2/3" />
             <Skeleton className="h-4 w-1/2" />

@@ -1,0 +1,112 @@
+{
+  "id": "c1-m4-l05",
+  "title": "Discours rapporte et citation au C1",
+  "type": "grammar",
+  "estimatedMinutes": 26,
+  "objectives": [
+    "Maitriser toutes les transformations du discours indirect au C1",
+    "Utiliser les verbes de citation avec leurs constructions specifiques",
+    "Rendre compte d'un discours avec nuance et fidelite"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le discours rapporte au niveau avance",
+      "content": "<p>Au C1, le discours rapporte depasse la simple transposition des temps. Il faut maitriser :</p><ul><li>Les verbes de citation et leurs constructions</li><li>Les changements pronominaux et deictiques</li><li>Le discours indirect libre (technique litteraire)</li><li>La citation avec guillemets et ses conventions</li></ul>"
+    },
+    {
+      "type": "discovery",
+      "title": "Verbes introducteurs avances",
+      "content": "<p><strong>Verbes de declaration :</strong> <em>afirmar, declarar, assegurar, reconhecer, admitir</em></p><p><strong>Verbes de questionnement :</strong> <em>perguntar, indagar, questionar, interrogar</em></p><p><strong>Verbes de demande :</strong> <em>pedir, solicitar, requerer, exigir</em></p><p><strong>Verbes d'opinion :</strong> <em>defender, argumentar, sustentar, alegar</em></p><p><strong>Verbes de concession :</strong> <em>conceder, admitir, reconhecer</em></p><p><strong>Constructions specifiques :</strong></p><ul><li><em>Insistir em que + conjuntivo</em></li><li><em>Recusar(-se) a + infinitif</em></li><li><em>Negar que + conjuntivo</em></li><li><em>Propor que + conjuntivo</em></li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Transformations au C1",
+      "content": "<p><strong>Tableau des changements de temps :</strong></p><table><tr><th>Direct</th><th>Indirect (passe)</th></tr><tr><td>presente</td><td>imperfeito</td></tr><tr><td>preterito perfeito</td><td>mais-que-perfeito</td></tr><tr><td>futuro</td><td>condicional</td></tr><tr><td>conjuntivo presente</td><td>conjuntivo imperfeito</td></tr><tr><td>imperativo</td><td>conjuntivo imperfeito / infinitif</td></tr></table><p><strong>Deictiques :</strong> aqui → ali / la, hoje → naquele dia, amanha → no dia seguinte, este → aquele</p><p><strong>Discours indirect libre :</strong> fusion entre narration et parole interieure, sans verbum dicendi.</p><p>Ex: <em>Estava cansada. Para que continuar? Nada fazia sentido.</em></p>"
+    },
+    {
+      "type": "practice",
+      "title": "Transposer au discours indirect",
+      "content": "<p>Transposez en discours indirect (passe) :</p><p>1. <em>«Vou amanha a Lisboa», disse ele.</em> → <strong>Ele disse que iria no dia seguinte a Lisboa.</strong></p><p>2. <em>«Nao fui eu!», negou ela.</em> → <strong>Ela negou que tivesse sido ela.</strong></p><p>3. <em>«Venha cedo», pediu o chefe.</em> → <strong>O chefe pediu que viesse cedo. / O chefe pediu-lhe que fosse cedo.</strong></p><p>4. <em>«Posso sair?», perguntou.</em> → <strong>Perguntou se podia sair.</strong></p>"
+    },
+    {
+      "type": "production",
+      "title": "Compte rendu d'interview",
+      "content": "<p>Vous avez interview une personnalite. Redigez un compte rendu de 120-150 mots en discours indirect :</p><ul><li>Elle a affirme que...</li><li>Elle a reconnu que...</li><li>Elle a refuse de...</li><li>Elle a propose que...</li><li>Elle a nie que...</li></ul><p>Utilisez des verbes introducteurs varies et effectuez toutes les transformations necessaires.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Ela afirmou que ________ (ir) ao congresso no dia seguinte.",
+      "correctAnswer": "iria",
+      "explanation": "Discours indirect au passe : futuro (ira) → condicional (iria). 'Amanha' → 'no dia seguinte'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Le 'discours indirect libre' se caracterise par :",
+      "correctAnswer": "La fusion entre narration et pensee du personnage sans verbum dicendi",
+      "distractors": [
+        "L'usage obligatoire des guillemets",
+        "La transformation systematique des temps",
+        "L'emploi du conjuntivo"
+      ],
+      "explanation": "Le discours indirect libre (estilo indireto livre) fond la voix du narrateur et celle du personnage : 'Estava cansada. Para que continuar?' - on ne sait pas si c'est le narrateur ou le personnage."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Il a nie qu'il ait ete present lors de la reunion.",
+      "correctAnswer": "Ele negou que tivesse estado presente na reuniao.",
+      "explanation": "'Negar que' + conjuntivo. Passe dans le passe : 'tivesse estado' (mais-que-perfeito do conjuntivo de 'estar')."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "O diretor recusou-se a ________ (comentar) o assunto.",
+      "correctAnswer": "comentar",
+      "explanation": "'Recusar-se a' + infinitif. Pas de conjuntivo ici : 'recusar-se a fazer algo' = se refuser a faire quelque chose."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel changement deictique est correct en discours indirect ?",
+      "correctAnswer": "'Hoje' → 'naquele dia' / 'amanha' → 'no dia seguinte'",
+      "distractors": [
+        "'Aqui' → 'aqui'",
+        "'Hoje' → 'ontem'",
+        "'Este' → 'este'"
+      ],
+      "explanation": "Les deictiques temporels et spatiaux changent en discours indirect : hoje→naquele dia, amanha→no dia seguinte, aqui→ali/la, este→aquele."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "afirmar",
+      "phonetic": "/ɐfiɾˈmaɾ/",
+      "french": "affirmer"
+    },
+    {
+      "portuguese": "negar",
+      "phonetic": "/nɨˈɡaɾ/",
+      "french": "nier"
+    },
+    {
+      "portuguese": "reconhecer",
+      "phonetic": "/ʁɨkuɲɨˈseɾ/",
+      "french": "reconnaitre / admettre"
+    },
+    {
+      "portuguese": "sustentar",
+      "phonetic": "/suʃtẽˈtaɾ/",
+      "french": "soutenir (une these)"
+    },
+    {
+      "portuguese": "deictico",
+      "phonetic": "/ˈdɐjtiku/",
+      "french": "deictique"
+    },
+    {
+      "portuguese": "estilo indireto livre",
+      "phonetic": "/ɨʃˈtilu ĩdiˈɾɛtu ˈlivɾɨ/",
+      "french": "discours indirect libre"
+    }
+  ]
+}

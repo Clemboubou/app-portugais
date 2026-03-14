@@ -1,0 +1,34 @@
+{
+  "id": "c1-m2-l04",
+  "title": "La langue des médias : presse et radio PT",
+  "type": "listening",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Comprendre le registre journalistique du portugais européen",
+    "Reconnaître les structures syntaxiques de la presse PT",
+    "Décoder les titres et chapeaux des journaux portugais"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "Le journalisme portugais", "content": "<p>La presse portugaise (Público, Expresso, Jornal de Notícias, Observador) et la radio (Antena 1, TSF) ont un style propre : phrases concises pour les titres, langue soutenue mais accessible dans les articles, vocabulaire politique et économique riche.</p><p>La <strong>TSF</strong> (radio d'information continue) est particulièrement utile pour l'immersion sonore — l'accent de Lisbonne y est standard et la diction soignée.</p>"},
+    {"type": "discovery", "title": "Vocabulaire journalistique PT", "content": "<p><strong>Titres et structure :</strong></p><ul><li><em>manchete</em> — manchette / titre principal</li><li><em>subtítulo / antetítulo</em> — sous-titre / surtitre</li><li><em>lead / lide</em> — chapeau (premier paragraphe)</li><li><em>editorial</em> — éditorial</li><li><em>coluna de opinião</em> — chronique d'opinion</li></ul><p><strong>Vocabulaire politique courant :</strong></p><ul><li><em>Assembleia da República</em> — Assemblée de la République (parlement)</li><li><em>primeiro-ministro</em> — premier ministre</li><li><em>chumbar / aprovar</em> — rejeter / approuver (une loi)</li><li><em>cativações</em> — gels de crédits budgétaires</li><li><em>défice / excedente</em> — déficit / excédent</li></ul><p><strong>Structures typiques des titres :</strong></p><ul><li>Infinitif sujet : <em>Aumentar impostos pode prejudicar crescimento</em></li><li>Passif : <em>Taxa de desemprego foi reduzida para 6%</em></li><li>Nominal sans verbe : <em>Greve na CP. Comboios suspensos até sexta.</em></li></ul>"},
+    {"type": "explanation", "title": "Analyser un article de presse", "content": "<p><strong>Structure d'un article PT :</strong></p><ol><li><strong>Manchete</strong> : court, percutant, verbe au passé ou infinitif</li><li><strong>Lead</strong> : résumé des 5W (quem, o quê, quando, onde, porquê)</li><li><strong>Desenvolvimento</strong> : faits + citations de sources</li><li><strong>Contexto</strong> : arrière-plan historique/politique</li></ol><p><strong>Exemple d'article (extrait fictif) :</strong></p><blockquote><em><strong>Governo anuncia pacote de investimento em transporte público</strong></em><br><em>O ministro das Infraestruturas apresentou ontem um plano de 500 milhões de euros para modernização da rede ferroviária e expansão do metro de Lisboa, segundo declarações prestadas à agência Lusa. A medida, que deverá entrar em vigor no próximo trimestre, visa reduzir o congestionamento nas principais artérias da capital.</em></blockquote>"},
+    {"type": "practice", "title": "Décoder les titres", "content": "<p>Analysez ces titres de journaux portugais et traduisez-les en français :</p><ol><li><em>PS chumba proposta do PSD sobre habitação</em></li><li><em>Inflação desce pelo quarto mês consecutivo</em></li><li><em>Greve dos professores afeta 300 mil alunos</em></li><li><em>TAP regista prejuízo de 200 milhões no primeiro semestre</em></li></ol><p><strong>Réponses :</strong> 1. Le PS rejette la proposition du PSD sur le logement. 2. L'inflation baisse pour le 4ème mois consécutif. 3. La grève des enseignants touche 300 000 élèves. 4. TAP enregistre une perte de 200 millions au premier semestre.</p>"},
+    {"type": "production", "title": "Rédiger un article court", "content": "<p>Rédigez un article journalistique court (120-150 mots) sur un sujet actuel qui vous intéresse (économie, culture, sport, société). Rédigez : 1 manchete, 1 lead, 1 paragraphe de développement. Utilisez au moins 4 termes journalistiques vus dans cette leçon.</p>"}
+  ],
+  "exercises": [
+    {"type": "mcq", "prompt": "Que signifie 'chumbar uma proposta' dans le contexte parlementaire ?", "correctAnswer": "Rejeter une proposition", "distractors": ["Approuver une proposition", "Amender une proposition", "Reporter une proposition"], "explanation": "'Chumbar' = couler, faire échouer. Au parlement, 'chumbar uma proposta/lei' = la rejeter par vote. Contraire : 'aprovar'."},
+    {"type": "mcq", "prompt": "Quel est le premier paragraphe d'un article journalistique, résumant les 5W ?", "correctAnswer": "lead / lide", "distractors": ["manchete", "editorial", "antetítulo"], "explanation": "Le 'lead' (ou 'lide' en orthographe portugaise) est le chapeau, premier paragraphe résumant qui, quoi, quand, où, pourquoi."},
+    {"type": "fill_blank", "prompt": "A taxa de desemprego ________ (desceu / subiu) para 5,8%, o valor mais baixo desde 2010.", "correctAnswer": "desceu", "explanation": "'Descer' = baisser/descendre. 'Subir' = monter. Contexte : 'valor mais baixo' = valeur la plus basse → la statistique a baissé."},
+    {"type": "translate", "prompt": "Traduisez ce titre : 'Inflação cede pelo terceiro trimestre consecutivo'", "correctAnswer": "L'inflation recule pour le troisième trimestre consécutif", "explanation": "'Ceder' ici = reculer, baisser (sens journalistique). 'Trimestre consecutivo' = trimestre consécutif."},
+    {"type": "mcq", "prompt": "Comment s'appelle le parlement portugais ?", "correctAnswer": "Assembleia da República", "distractors": ["Senado", "Câmara dos Deputados", "Parlamento Nacional"], "explanation": "Le Portugal a un parlement unicaméral : l'Assembleia da República (239 députés). Pas de Sénat contrairement à la France."}
+  ],
+  "vocabulary": [
+    {"portuguese": "manchete", "phonetic": "/mɐ̃ˈʃɛtɨ/", "french": "manchette / titre principal"},
+    {"portuguese": "chumbar", "phonetic": "/ʃũˈbaɾ/", "french": "rejeter (vote parlementaire)"},
+    {"portuguese": "Assembleia da República", "phonetic": "/ɐsẽˈblɐjɐ dɐ ʁɨˈpublikɐ/", "french": "Assemblée de la République (parlement)"},
+    {"portuguese": "défice", "phonetic": "/ˈdɛfisɨ/", "french": "déficit"},
+    {"portuguese": "taxa de desemprego", "phonetic": "/ˈtasɐ dɨ dɨzẽˈpɾeɡu/", "french": "taux de chômage"},
+    {"portuguese": "agência Lusa", "phonetic": "/ɐˈʒẽsiɐ ˈluzɐ/", "french": "agence Lusa (agence de presse officielle PT)"},
+    {"portuguese": "coluna de opinião", "phonetic": "/kuˈlunɐ dɨ opiniˈɐ̃w̃/", "french": "chronique d'opinion"}
+  ]
+}

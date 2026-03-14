@@ -1,12 +1,13 @@
 /**
- * Text-to-Speech via Microsoft Edge TTS (pt-PT voices, gratuit).
+ * Text-to-Speech pt-PT (Lisbonne) — sans aucun mélange PT-BR.
  *
- * Stratégie :
- *   1. CLI Python `edge-tts` via child_process (si Python installé)
+ * Stratégies (dans l'ordre) :
+ *   0. gTTS CLI Python (Google Translate, --lang pt --tld pt → voix PT-PT)
+ *   1. edge-tts CLI Python (pt-PT-RaquelNeural / pt-PT-DuarteNeural)
  *   2. WebSocket Microsoft Edge TTS (implémentation native Node.js)
  *
- * Si les deux échouent, l'API retourne { useWebSpeech: true }
- * et le client utilise window.speechSynthesis (Web Speech API).
+ * Si toutes échouent → { useWebSpeech: true } (client affiche erreur,
+ * PAS de fallback Web Speech API car les voix navigateur sont PT-BR sur Windows).
  *
  * Les fichiers MP3 sont mis en cache dans /public/audio/{hash}.mp3.
  */
@@ -56,7 +57,50 @@ function ensureAudioDir(): void {
 }
 
 // ---------------------------------------------------------------------------
-// Stratégie 1 — CLI Python edge-tts
+// Stratégie 0 — gTTS Python API (Google Translate, PT-PT garanti)
+// ---------------------------------------------------------------------------
+
+function generateWithGtts(text: string, outputPath: string): boolean {
+  try {
+    // Écrire le texte et le script dans des fichiers temporaires pour éviter
+    // tout problème d'échappement avec les chemins Windows et les guillemets
+    const tmpTextFile = `${outputPath}.gtts_text.txt`;
+    const tmpScript   = `${outputPath}.gtts_script.py`;
+
+    fs.writeFileSync(tmpTextFile, text.trim(), "utf8");
+
+    // Chemins normalisés en forward-slashes pour Python (portable sur Windows)
+    const pyText   = tmpTextFile.replace(/\\/g, "/");
+    const pyOutput = outputPath.replace(/\\/g, "/");
+
+    const script = [
+      "# -*- coding: utf-8 -*-",
+      "from gtts import gTTS",
+      `text_file = r'${pyText}'`,
+      `output    = r'${pyOutput}'`,
+      "with open(text_file, encoding='utf-8') as f:",
+      "    text = f.read()",
+      "tts = gTTS(text, lang='pt', tld='pt', slow=False)",
+      "tts.save(output)",
+    ].join("\n");
+
+    fs.writeFileSync(tmpScript, script, "utf8");
+
+    execSync(`python "${tmpScript}"`, { timeout: 45_000, stdio: "pipe" });
+
+    // Nettoyage des fichiers temporaires
+    for (const f of [tmpTextFile, tmpScript]) {
+      try { fs.unlinkSync(f); } catch { /* ignore */ }
+    }
+
+    return fs.existsSync(outputPath) && fs.statSync(outputPath).size > 0;
+  } catch {
+    return false;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Stratégie 1 — edge-tts CLI Python (pt-PT-RaquelNeural)
 // ---------------------------------------------------------------------------
 
 function generateWithPythonCli(
@@ -325,13 +369,19 @@ export async function generateTts(
 
   const voiceName = VOICE_MAP[voice];
 
-  // Stratégie 1 : CLI Python edge-tts
+  // Stratégie 0 : gTTS (Google Translate PT-PT — meilleure qualité PT-PT)
+  const gttsSuccess = generateWithGtts(text.trim(), filePath);
+  if (gttsSuccess) {
+    return { audioUrl, cached: false };
+  }
+
+  // Stratégie 1 : edge-tts CLI Python (pt-PT-RaquelNeural)
   const cliSuccess = generateWithPythonCli(text.trim(), voiceName, filePath);
   if (cliSuccess) {
     return { audioUrl, cached: false };
   }
 
-  // Stratégie 2 : WebSocket natif Node.js
+  // Stratégie 2 : WebSocket natif Node.js (edge-tts sans Python)
   const wsSuccess = await generateWithWebSocket(text.trim(), voiceName, filePath);
   if (wsSuccess) {
     return { audioUrl, cached: false };

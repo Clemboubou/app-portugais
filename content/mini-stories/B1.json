@@ -1,0 +1,152 @@
+{
+  "level": "B1",
+  "stories": [
+    {
+      "id": "ms-b1-001",
+      "title": "A entrevista de emprego de Sofia",
+      "theme": "Monde du travail",
+      "icon": "💼",
+      "main_text": "Sofia candidatou-se a um emprego numa empresa de tecnologia em Lisboa. Preparou cuidadosamente o currículo e a carta de motivação. No dia da entrevista, chegou dez minutos antes. O recrutador recebeu-a numa sala de reuniões moderna. Perguntou-lhe sobre a sua experiência profissional e as suas competências. Sofia explicou que tinha trabalhado três anos numa multinacional e que dominava inglês e francês. O recrutador ficou impressionado. Uma semana depois, Sofia recebeu uma proposta de emprego. Aceitou sem hesitar.",
+      "vocabulary": [
+        { "pt": "candidatar-se a", "fr": "postuler à" },
+        { "pt": "o currículo", "fr": "le CV" },
+        { "pt": "a carta de motivação", "fr": "la lettre de motivation" },
+        { "pt": "o recrutador", "fr": "le recruteur" },
+        { "pt": "a experiência profissional", "fr": "l'expérience professionnelle" },
+        { "pt": "as competências", "fr": "les compétences" },
+        { "pt": "a multinacional", "fr": "la multinationale" },
+        { "pt": "dominar", "fr": "maîtriser" },
+        { "pt": "impressionado/a", "fr": "impressionné(e)" },
+        { "pt": "a proposta de emprego", "fr": "l'offre d'emploi" },
+        { "pt": "sem hesitar", "fr": "sans hésiter" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "A que tipo de empresa se candidatou Sofia? A uma empresa de tecnologia.\nO que preparou antes da entrevista? Preparou o currículo e a carta de motivação.\nQuando chegou à entrevista? Chegou dez minutos antes.\nO que perguntou o recrutador? Perguntou sobre experiência profissional e competências.\nO que disse Sofia sobre o seu percurso? Disse que tinha trabalhado numa multinacional e dominava inglês e francês.\nComo reagiu o recrutador? Ficou impressionado.\nO que aconteceu uma semana depois? Sofia recebeu uma proposta de emprego.\nO que fez Sofia? Aceitou sem hesitar."
+        },
+        {
+          "type": "subjunctive",
+          "label": "Avec subjonctif",
+          "text": "Para que Sofia conseguisse o emprego, era necessário que preparasse bem o currículo. O recrutador queria que ela explicasse a sua experiência profissional. Era importante que chegasse a horas. Embora estivesse nervosa, respondeu com confiança. O recrutador ficou tão impressionado que lhe propôs o emprego. Sofia ficou contente por ter aceitado sem hesitar."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Sofia não se candidatou a uma empresa de turismo. Não chegou atrasada à entrevista. O recrutador não a recebeu no corredor. Não lhe perguntou sobre os seus hobbies. Sofia não disse que não falava línguas estrangeiras. O recrutador não ficou desapontado. Sofia não recusou a proposta de emprego."
+        }
+      ]
+    },
+    {
+      "id": "ms-b1-002",
+      "title": "Um fim-de-semana em Sintra",
+      "theme": "Culture et tourisme",
+      "icon": "🏰",
+      "main_text": "No fim-de-semana passado, Nuno e a namorada foram a Sintra. Apanharam o comboio em Rossio às dez da manhã. Sintra fica a apenas quarenta minutos de Lisboa. Logo que chegaram, ficaram impressionados com a beleza da vila. Subiram ao Palácio da Pena, que foi construído no século XIX. As vistas sobre o Atlântico eram deslumbrantes. Provaram os famosos travesseiros, uma espécie de pastelaria local. Antes de regressar, Nuno comprou azulejos pintados à mão para oferecer à mãe.",
+      "vocabulary": [
+        { "pt": "apanhar o comboio", "fr": "prendre le train" },
+        { "pt": "a vila", "fr": "le bourg / la ville" },
+        { "pt": "subir", "fr": "monter" },
+        { "pt": "construído/a", "fr": "construit(e)" },
+        { "pt": "o século", "fr": "le siècle" },
+        { "pt": "as vistas", "fr": "les vues / le panorama" },
+        { "pt": "deslumbrante", "fr": "époustouflant(e)" },
+        { "pt": "o travesseiro", "fr": "le «traversin» (pâtisserie de Sintra)" },
+        { "pt": "a pastelaria", "fr": "la pâtisserie" },
+        { "pt": "os azulejos", "fr": "les azulejos (carreaux peints)" },
+        { "pt": "pintado à mão", "fr": "peint(e) à la main" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "Para onde foram Nuno e a namorada? Foram a Sintra.\nComo foram? Apanharam o comboio em Rossio.\nA que distância fica Sintra de Lisboa? Fica a quarenta minutos.\nO que visitaram? Subiram ao Palácio da Pena.\nQuando foi construído o palácio? Foi construído no século XIX.\nComo eram as vistas? Eram deslumbrantes.\nO que provaram? Provaram os famosos travesseiros.\nO que comprou Nuno? Comprou azulejos pintados à mão."
+        },
+        {
+          "type": "imperfect",
+          "label": "Imparfait et parfait contrastés",
+          "text": "Quando eram crianças, Nuno e a namorada nunca tinham ido a Sintra. Este fim-de-semana, decidiram finalmente ir. Chegaram de manhã quando o sol ainda estava baixo. Enquanto subiam ao Palácio da Pena, reparavam em cada detalhe da arquitectura. As vistas eram tão bonitas que ficaram lá mais tempo do que tinham planeado."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Nuno e a namorada não foram a Sintra de carro. Não apanharam o autocarro. Sintra não fica a duas horas de Lisboa. Não visitaram o Castelo dos Mouros. O palácio não foi construído no século XVIII. As vistas não eram decepcionantes. Nuno não comprou ímanes de frigorífico."
+        }
+      ]
+    },
+    {
+      "id": "ms-b1-003",
+      "title": "Alfama, o bairro mais antigo",
+      "theme": "Culture et histoire",
+      "icon": "🎵",
+      "main_text": "Alfama é o bairro mais antigo de Lisboa. As suas ruas são estreitas e tortuosas, cheias de história. No passado, era o bairro mourisco da cidade. Hoje, Alfama é famosa pelo fado, a música tradicional portuguesa. À noite, ouvem-se fadistas nas casas de fado e nas tabernas. Os turistas vêm de todo o mundo para escutar este canto melancólico. A saudade, esse sentimento tipicamente português de nostalgia, está no coração do fado. Subir ao Castelo de São Jorge para ver o pôr-do-sol sobre o Tejo é uma experiência inesquecível.",
+      "vocabulary": [
+        { "pt": "o bairro", "fr": "le quartier" },
+        { "pt": "estreito/a", "fr": "étroit(e)" },
+        { "pt": "tortuoso/a", "fr": "tortueux/euse" },
+        { "pt": "mourisco/a", "fr": "maure / mauresque" },
+        { "pt": "o fadista", "fr": "le/la chanteur(euse) de fado" },
+        { "pt": "a taberna", "fr": "la taverne" },
+        { "pt": "melancólico/a", "fr": "mélancolique" },
+        { "pt": "a saudade", "fr": "la saudade (nostalgie portugaise)" },
+        { "pt": "o pôr-do-sol", "fr": "le coucher de soleil" },
+        { "pt": "inesquecível", "fr": "inoubliable" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "O que é Alfama? É o bairro mais antigo de Lisboa.\nComo são as ruas de Alfama? São estreitas e tortuosas.\nO que era Alfama no passado? Era o bairro mourisco.\nPor que é Alfama famosa hoje? Pelo fado, a música tradicional portuguesa.\nOnde se ouvem fadistas? Nas casas de fado e nas tabernas.\nO que é a saudade? É um sentimento tipicamente português de nostalgia.\nO que é recomendado fazer em Alfama? Subir ao Castelo de São Jorge para ver o pôr-do-sol."
+        },
+        {
+          "type": "subjunctive",
+          "label": "Avec subjonctif",
+          "text": "Se visitardes Lisboa, é essencial que passeis por Alfama. Para que compreendas a alma portuguesa, é preciso que ouças o fado. Embora as ruas sejam difíceis de percorrer, vale a pena explorar cada canto. Mesmo que não percebas todas as letras, sentirás a emoção da saudade. Antes de regressares, não te esqueças de subir ao Castelo de São Jorge."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Alfama não é o bairro mais moderno de Lisboa. As suas ruas não são largas e direitas. No passado, não era um bairro rico. Alfama não é famosa pela música pop. Não há casas de fado no centro comercial. A saudade não é um sentimento de alegria. O Castelo de São Jorge não fica no Marquês de Pombal."
+        }
+      ]
+    },
+    {
+      "id": "ms-b1-004",
+      "title": "O telemóvel esquecido",
+      "theme": "Vie quotidienne",
+      "icon": "📱",
+      "main_text": "Numa manhã de segunda-feira, Luís saiu de casa às pressas e esqueceu-se do telemóvel em cima da mesa. Só deu pela falta quando chegou ao metro. Não podia voltar porque ia chegar atrasado ao trabalho. Durante todo o dia, sentiu-se perdido sem poder verificar as mensagens nem atender chamadas. Os colegas repararam que ele estava inquieto. Ao almoço, pediu emprestado o telemóvel a uma colega para avisar a família. Logo que chegou a casa, ficou aliviado ao encontrar o telemóvel intacto.",
+      "vocabulary": [
+        { "pt": "às pressas", "fr": "à la hâte / en vitesse" },
+        { "pt": "esquecer-se de", "fr": "oublier" },
+        { "pt": "dar pela falta", "fr": "remarquer l'absence de" },
+        { "pt": "o metro", "fr": "le métro" },
+        { "pt": "verificar as mensagens", "fr": "consulter les messages" },
+        { "pt": "atender chamadas", "fr": "répondre aux appels" },
+        { "pt": "inquieto/a", "fr": "inquiet/ète" },
+        { "pt": "pedir emprestado", "fr": "emprunter" },
+        { "pt": "avisar", "fr": "prévenir / avertir" },
+        { "pt": "aliviado/a", "fr": "soulagé(e)" },
+        { "pt": "intacto/a", "fr": "intact(e)" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "O que fez Luís numa manhã de segunda-feira? Saiu de casa às pressas e esqueceu o telemóvel.\nOnde estava o telemóvel? Em cima da mesa.\nQuando deu pela falta? Quando chegou ao metro.\nPorque não voltou a casa? Ia chegar atrasado ao trabalho.\nComo se sentiu durante o dia? Sentiu-se perdido e inquieto.\nO que fez ao almoço? Pediu emprestado o telemóvel a uma colega.\nComo se sentiu ao chegar a casa? Ficou aliviado ao encontrar o telemóvel intacto."
+        },
+        {
+          "type": "conditional",
+          "label": "Au conditionnel",
+          "text": "Se Luís tivesse o telemóvel, poderia verificar as mensagens. Poderia atender as chamadas dos clientes. Não estaria inquieto durante o dia. Não teria de pedir emprestado o telemóvel à colega. Se não se esquecesse do telemóvel, o dia teria corrido muito melhor."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Luís não saiu de casa calmamente. Não esqueceu as chaves. Não deu pela falta do telemóvel em casa. Não voltou a casa para o buscar. Não se sentiu tranquilo durante o dia. Os colegas não repararam que ele estava bem-disposto. Não pediu emprestado o computador. O telemóvel não estava partido."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c1-m2-l03",
+  "title": "Le style littéraire : Pessoa et Saramago",
+  "type": "reading",
+  "estimatedMinutes": 30,
+  "objectives": [
+    "Lire et analyser des extraits de la littérature portugaise contemporaine",
+    "Comprendre les particularités stylistiques de Pessoa et Saramago",
+    "Identifier les figures de style et structures littéraires en PT-PT"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "La littérature comme miroir de la langue", "content": "<p>Lire la littérature portugaise dans le texte est l'un des moyens les plus efficaces d'atteindre le niveau C1. Fernando Pessoa et José Saramago représentent deux extrêmes stylistiques de la prose portugaise : l'un fragmenté, introspectif, philosophique ; l'autre au souffle épique, aux phrases interminables, engagé politiquement.</p>"},
+    {"type": "discovery", "title": "Pessoa : le Livro do Desassossego", "content": "<p>Bernardo Soares, hétéronyme semi-lui-même de Pessoa, a rédigé le <em>Livro do Desassossego</em> — un journal intime fragmentaire, jamais terminé, publié posthumément.</p><blockquote><em>Não sou nada.<br>Nunca serei nada.<br>Não posso querer ser nada.<br>À parte isso, tenho em mim todos os sonhos do mundo.</em><br><br>— Fernando Pessoa, <em>Tabacaria</em> (Álvaro de Campos)</blockquote><p><strong>Caractéristiques du style de Pessoa :</strong></p><ul><li>Phrases courtes et nominales, ellipses</li><li>Paradoxes et oxymores (<em>sossego inquieto, alegria triste</em>)</li><li>Vocabulaire philosophique et introspectif</li><li>Jeux avec l'identité et le néant</li></ul>"},
+    {"type": "explanation", "title": "Saramago : le roman sans ponctuation", "content": "<p>José Saramago (Prix Nobel 1998) est célèbre pour son style unique : phrases infiniment longues, absence de guillemets et de paragraphes distincts pour les dialogues, voix narrative qui commente et philosophe.</p><blockquote><em>A cegueira que nos invadiu parece-me assim, não uma cegueira de nascença, mas uma outra, uma cegueira que nos faz continuar a ver, mas que ao mesmo tempo nos não deixa ver o que estamos a ver.</em><br><br>— José Saramago, <em>Ensaio sobre a Cegueira</em></blockquote><p><strong>Caractéristiques du style de Saramago :</strong></p><ul><li>Phrases très longues, multiples propositions enchaînées par virgules</li><li>Dialogues intégrés au paragraphe, signalés par une majuscule</li><li>Narrateur omniscient qui interpelle le lecteur</li><li>Ironie et commentaire philosophique</li></ul>"},
+    {"type": "practice", "title": "Analyser un extrait", "content": "<p>Lisez cet extrait du <em>Memorial do Convento</em> de Saramago et répondez :</p><blockquote><em>Baltasar não tinha mão esquerda, perdera-a em guerra, não na de agora, em outra anterior, tanto faz, guerras são todas iguais, muda a paisagem, às vezes a língua, mudam as caras dos soldados, não a dos mortos que são sempre a mesma cara.</em></blockquote><ol><li>Quel est le style syntaxique dominant dans cet extrait ?</li><li>Identifiez la figure de style dans 'a cara dos mortos são sempre a mesma cara'.</li><li>Quel effet produit l'absence de point d'interrogation ou d'exclamation ?</li></ol>"},
+    {"type": "production", "title": "Imiter un style", "content": "<p>Choisissez l'un des deux styles :</p><p><strong>Option A (Pessoa) :</strong> Écrivez un fragment introspectif de 80-100 mots sur le sentiment de <em>saudade</em>, avec phrases courtes, paradoxes, et questionnements identitaires.</p><p><strong>Option B (Saramago) :</strong> Écrivez un paragraphe narratif de 100-120 mots dans le style de Saramago — longues phrases, digressions philosophiques, ironie légère.</p>"}
+  ],
+  "exercises": [
+    {"type": "mcq", "prompt": "Quel est le nom de l'hétéronyme de Pessoa qui écrit 'Je ne suis rien' ?", "correctAnswer": "Álvaro de Campos", "distractors": ["Ricardo Reis", "Alberto Caeiro", "Bernardo Soares"], "explanation": "Le poème 'Tabacaria' est signé Álvaro de Campos. Bernardo Soares est l'auteur du Livro do Desassossego. Ricardo Reis écrit des odes classiques."},
+    {"type": "mcq", "prompt": "Pourquoi les dialogues de Saramago n'ont-ils pas de guillemets ?", "correctAnswer": "Pour fusionner voix narrative et voix des personnages, créant une ambiguïté intentionnelle", "distractors": ["Par erreur d'édition", "Pour économiser de l'espace", "Parce qu'il n'y a pas de dialogues dans ses romans"], "explanation": "Le choix stylistique de Saramago vise à créer une continuité entre le narrateur omniscient et les personnages, rendant la frontière entre pensée et parole floue."},
+    {"type": "fill_blank", "prompt": "Dans le style académique, on parle de ________ pour désigner les différents 'moi' créatifs de Pessoa.", "correctAnswer": "heterónimos", "explanation": "'Heterónimos' (hétéronymes) = personnages distincts avec biographies propres, différents d'un pseudonyme car ils ont une personnalité autonome."},
+    {"type": "translate", "prompt": "Traduisez : 'Je ne suis rien. Je ne serai jamais rien. Je ne peux vouloir être rien.'", "correctAnswer": "Não sou nada. Nunca serei nada. Não posso querer ser nada.", "explanation": "Citation directe de Pessoa (Álvaro de Campos, Tabacaria). 'Nunca serei' = futur de ser. 'Querer ser' = vouloir être."},
+    {"type": "mcq", "prompt": "Quel roman de Saramago a valu le Prix Nobel 1998 ?", "correctAnswer": "Le prix a été décerné pour l'ensemble de l'oeuvre, incluant Ensaio sobre a Cegueira", "distractors": ["Memorial do Convento uniquement", "Os Lusíadas (adapté par Saramago)", "A Jangada de Pedra"], "explanation": "Saramago a reçu le Nobel en 1998 pour l'ensemble de son oeuvre. L'Ensaio sobre a Cegueira (1995) est souvent cité comme l'oeuvre qui a déclenché la reconnaissance internationale."}
+  ],
+  "vocabulary": [
+    {"portuguese": "heterónimo", "phonetic": "/ɛtɨˈɾɔnimu/", "french": "hétéronyme"},
+    {"portuguese": "saudade", "phonetic": "/sɐwˈdadɨ/", "french": "saudade (nostalgie mélancolique intraduisible)"},
+    {"portuguese": "desassossego", "phonetic": "/dɨzɐsuˈseɡu/", "french": "inquiétude / désassossèment"},
+    {"portuguese": "oxímoro", "phonetic": "/ɔˈksimuɾu/", "french": "oxymore"},
+    {"portuguese": "narrador omnisciente", "phonetic": "/nɐʁɐˈdoɾ omniˈsjẽtɨ/", "french": "narrateur omniscient"},
+    {"portuguese": "ironia", "phonetic": "/iɾuˈniɐ/", "french": "ironie"},
+    {"portuguese": "metáfora", "phonetic": "/mɨˈtafuɾɐ/", "french": "métaphore"}
+  ]
+}

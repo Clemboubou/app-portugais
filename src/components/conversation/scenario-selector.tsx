@@ -9,7 +9,7 @@ interface ScenarioSelectorProps {
   onStart: (scenario: string, level: string) => void;
 }
 
-type Level = "A1" | "A2" | "B1" | "B2";
+type Level = "A1" | "A2" | "B1" | "B2" | "C1";
 
 const SCENARIOS: Record<Level, string[]> = {
   A1: ["Au café", "À l'hôtel", "Faire les courses", "Demander son chemin"],
@@ -26,6 +26,13 @@ const SCENARIOS: Record<Level, string[]> = {
     "Critique d'un film",
     "Négociation",
   ],
+  C1: [
+    "Débat philosophique : Éthique et technologie",
+    "Présentation académique : Recherche personnelle",
+    "Négociation complexe : Résolution de conflits",
+    "Analyse critique : Évaluation d'argument",
+    "Mentor professionnel : Conseil et guidance",
+  ],
 };
 
 const LEVEL_COLORS: Record<Level, string> = {
@@ -33,6 +40,7 @@ const LEVEL_COLORS: Record<Level, string> = {
   A2: "bg-blue-100 text-blue-800 border-blue-200",
   B1: "bg-orange-100 text-orange-800 border-orange-200",
   B2: "bg-purple-100 text-purple-800 border-purple-200",
+  C1: "bg-rose-100 text-rose-800 border-rose-200",
 };
 
 export function ScenarioSelector({ onStart }: ScenarioSelectorProps) {
@@ -49,7 +57,7 @@ export function ScenarioSelector({ onStart }: ScenarioSelectorProps) {
       <div>
         <h2 className="text-lg font-semibold mb-3">Choisir un niveau</h2>
         <div className="flex gap-2 flex-wrap">
-          {(["A1", "A2", "B1", "B2"] as Level[]).map((level) => (
+          {(["A1", "A2", "B1", "B2", "C1"] as Level[]).map((level) => (
             <Button
               key={level}
               variant={selectedLevel === level ? "default" : "outline"}
@@ -127,6 +135,11 @@ function getScenarioEmoji(scenario: string): string {
     "Réunion professionnelle": "📊",
     "Critique d'un film": "🎬",
     "Négociation": "🤝",
+    "Débat philosophique : Éthique et technologie": "🤖",
+    "Présentation académique : Recherche personnelle": "🎓",
+    "Négociation complexe : Résolution de conflits": "🕊️",
+    "Analyse critique : Évaluation d'argument": "🔍",
+    "Mentor professionnel : Conseil et guidance": "💡",
   };
   return emojis[scenario] ?? "💬";
 }

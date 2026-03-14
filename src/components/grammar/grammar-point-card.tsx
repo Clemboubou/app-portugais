@@ -8,15 +8,19 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { ChevronDown, ChevronUp, Sparkles } from "lucide-react";
 
 interface Example {
-  pt: string;
-  fr: string;
+  pt?: string;
+  fr?: string;
+  portuguese?: string;
+  french?: string;
+  explanation?: string;
 }
 
 interface GrammarPoint {
   id: string;
   title: string;
   level: string;
-  explanation: string;
+  explanation?: string;
+  description?: string;
   examples: Example[];
   tip?: string;
 }

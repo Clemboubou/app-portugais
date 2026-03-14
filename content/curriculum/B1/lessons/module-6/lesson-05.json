@@ -1,0 +1,112 @@
+{
+  "id": "b1-m6-l05",
+  "title": "Debat : technologie et societe",
+  "type": "speaking",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Debattre des impacts de la technologie sur la societe en portugais",
+    "Exprimer et defendre une opinion sur les medias numeriques",
+    "Utiliser des connecteurs d'opinion et de concession au niveau B1"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Les grands debats numeriques",
+      "content": "<p>La technologie souleve des debats de societe importants. Au Portugal comme ailleurs, on discute de : l'<strong>addiction aux ecrans</strong>, le <strong>droit a l'oubli numerique</strong>, la <strong>fracture numerique</strong> (desigualdade digital), la <strong>cybersecurite</strong>, et l'impact de l'IA sur l'emploi.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Expressions pour debattre",
+      "content": "<p><strong>Exprimer une opinion :</strong></p><ul><li><em>Na minha opiniao...</em> — A mon avis...</li><li><em>Acredito / Penso / Considero que...</em> — Je crois / pense / considere que...</li><li><em>Do meu ponto de vista...</em> — De mon point de vue...</li></ul><p><strong>Conceder et opposer :</strong></p><ul><li><em>Embora..., no entanto...</em> — Bien que..., cependant...</li><li><em>E verdade que..., mas...</em> — Il est vrai que..., mais...</li><li><em>Por um lado..., por outro lado...</em> — D'un cote..., de l'autre...</li></ul><p><strong>Nuancer :</strong></p><ul><li><em>Depende de...</em> — Cela depend de...</li><li><em>Nao e assim tao simples.</em> — Ce n'est pas si simple.</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structure d'un argument B1",
+      "content": "<p>Pour bien argumenter au niveau B1 :</p><p><strong>Formule TEEL :</strong></p><ol><li><em>Tese</em> — Affirmez votre position</li><li><em>Explicacao</em> — Expliquez pourquoi</li><li><em>Exemplo</em> — Donnez un exemple concret</li><li><em>Ligacao</em> — Reliez au sujet principal</li></ol><p><strong>Exemple :</strong> <em>As redes sociais sao prejudiciais para os jovens (tese). Com efeito, passam demasiado tempo nas plataformas (explicacao). Em Portugal, um estudo recente mostrou que os adolescentes passam mais de 4 horas por dia no telemovel (exemplo). Por isso, e necessario estabelecer limites (ligacao).</em></p>"
+    },
+    {
+      "type": "practice",
+      "title": "Construire un argument",
+      "content": "<p>Construisez un argument structure (TEEL) sur le sujet : <em>A inteligencia artificial vai eliminar empregos?</em></p><p>Utilisez :</p><ul><li>Tese : <strong>Na minha opiniao, a IA vai...</strong></li><li>Explicacao : <strong>Porque / Visto que...</strong></li><li>Exemplo : <strong>Por exemplo, em Portugal...</strong></li><li>Ligacao : <strong>Por isso / Portanto...</strong></li></ul>"
+    },
+    {
+      "type": "production",
+      "title": "Debat ecrit",
+      "content": "<p>Choisissez un camp et redigez un texte argumente de 100-120 mots :</p><p><em>Os telemoveis devem ser proibidos nas escolas?</em></p><p>Camp A : Sim, devem ser proibidos.<br>Camp B : Nao, devem ser permitidos com regras.</p><p>Utilisez : une these, deux arguments avec exemples, une concession, une conclusion.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment exprimer une concession en portugais B1 ?",
+      "correctAnswer": "Embora seja verdade que..., no entanto...",
+      "distractors": [
+        "Por isso...",
+        "Visto que...",
+        "Dado que..."
+      ],
+      "explanation": "'Embora' + conjuntivo exprime la concession. 'No entanto' = cependant. Formule de concession : reconnaitre un point adverse avant de maintenir sa position."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ minha opiniao, as novas tecnologias trazem mais beneficios do que problemas.",
+      "correctAnswer": "Na",
+      "explanation": "'Na minha opiniao' = a mon avis (contraction de 'em + a' = 'na'). Formule tres courante pour introduire une opinion personnelle."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : D'un cote les reseaux sociaux permettent de rester en contact, de l'autre ils creent de l'addiction.",
+      "correctAnswer": "Por um lado as redes sociais permitem manter contacto, por outro lado criam vicio.",
+      "explanation": "'Por um lado... por outro lado...' = d'un cote... de l'autre... Structure binaire pour presenter deux aspects opposes."
+    },
+    {
+      "type": "mcq",
+      "prompt": "La 'desigualdade digital' (fracture numerique) designe :",
+      "correctAnswer": "L'inegalite d'acces aux technologies numeriques selon les classes sociales ou les regions",
+      "distractors": [
+        "Les pannes internet frequentes",
+        "La censure sur internet",
+        "Le cout des smartphones"
+      ],
+      "explanation": "La fracture numerique (desigualdade digital ou fossado digital) designe les inegalites d'acces aux TIC selon le revenu, l'age, la geographie ou l'education."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "E verdade que a tecnologia facilita a vida, ________ tambem cria novas dependencias.",
+      "correctAnswer": "mas / no entanto / porem",
+      "explanation": "Connecteurs d'opposition : 'mas' (mais), 'no entanto' (cependant), 'porem' (toutefois, plus formel). Apres une concession, l'opposition introduit l'argument principal."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "dependencia",
+      "phonetic": "/dɨpẽˈdẽsjɐ/",
+      "french": "dependance / addiction"
+    },
+    {
+      "portuguese": "desigualdade digital",
+      "phonetic": "/dɨziɡuɐlˈdadɨ diˈʒital/",
+      "french": "fracture numerique"
+    },
+    {
+      "portuguese": "inteligencia artificial",
+      "phonetic": "/ĩtɨliˈʒẽsjɐ ɐɾtifiˈsjal/",
+      "french": "intelligence artificielle"
+    },
+    {
+      "portuguese": "por um lado",
+      "phonetic": "/puɾ ũ ˈladu/",
+      "french": "d'un cote"
+    },
+    {
+      "portuguese": "no entanto",
+      "phonetic": "/nu ẽˈtɐ̃tu/",
+      "french": "cependant"
+    },
+    {
+      "portuguese": "do meu ponto de vista",
+      "phonetic": "/du mew ˈpõtu dɨ ˈviʃtɐ/",
+      "french": "de mon point de vue"
+    }
+  ]
+}

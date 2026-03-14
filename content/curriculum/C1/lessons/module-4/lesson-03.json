@@ -1,0 +1,117 @@
+{
+  "id": "c1-m4-l03",
+  "title": "Pragmatique et actes de langage",
+  "type": "grammar",
+  "estimatedMinutes": 26,
+  "objectives": [
+    "Comprendre les actes de langage indirects en portugais",
+    "Maitriser la politesse linguistique (FTA, face)",
+    "Adapter son discours selon le contexte pragmatique"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La pragmatique : au-dela du sens litteral",
+      "content": "<p>La <strong>pragmatique</strong> etudie le sens des enonces dans leur contexte. Au C1, vous devez comprendre les <em>implicites</em> : ce qu'on dit n'est pas toujours ce qu'on veut dire. Ex: <em>Podes passar o sal?</em> n'est pas une question sur votre capacite, c'est une demande de sel.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Actes de langage en portugais",
+      "content": "<p><strong>Actes directs :</strong> forme = fonction</p><ul><li>Ordre : <em>Fecha a porta!</em></li><li>Question : <em>Que horas sao?</em></li></ul><p><strong>Actes indirects :</strong> forme ≠ fonction</p><ul><li><em>Podes fechar a porta?</em> → ordre poli</li><li><em>Sabes que horas sao?</em> → demande d'info</li><li><em>Nao estaria melhor la fora?</em> → suggestion delicat</li></ul><p><strong>Face et politesse (Brown & Levinson) :</strong></p><ul><li>Face positive : need d'approbation</li><li>Face negative : besoin d'autonomie</li><li>FTA (Face Threatening Act) : acte qui menace la face</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Strategies de politesse portugaises",
+      "content": "<p><strong>Attenuation des FTA :</strong></p><ul><li>Conditionnel : <em>Poderia fechar a janela?</em> (Pourriez-vous fermer la fenetre ?)</li><li>Minimisation : <em>Sei que esta muito ocupado, mas...</em></li><li>Presupposition : <em>Imagino que ja tenha considerado esta opcao...</em></li></ul><p><strong>V/T en portugais europeen :</strong></p><ul><li><em>o senhor / a senhora</em> = vouvoiement formel</li><li><em>voce</em> = familier (attention : en PT-EU c'est moins formel qu'en Brasil)</li><li><em>tu</em> = intimite</li></ul><p><strong>Formules de refus polis :</strong></p><ul><li><em>Temo que nao seja possivel...</em></li><li><em>Infelizmente, nao me e possivel...</em></li><li><em>Agradeco o convite, mas...</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Reformuler poliment",
+      "content": "<p>Reformulez ces actes directs en actes indirects polis :</p><p>1. <em>Cala-te!</em> → <strong>Podias fazer menos barulho, por favor?</strong></p><p>2. <em>Quero o relatorio hoje.</em> → <strong>Seria possivel receber o relatorio ainda hoje?</strong></p><p>3. <em>Isso esta errado.</em> → <strong>Talvez valesse a pena rever este ponto...</strong></p>"
+    },
+    {
+      "type": "production",
+      "title": "Simulation de situation",
+      "content": "<p>Ecrivez un email formel (80-100 mots) a votre superieur pour :</p><ul><li>Refuser une mission supplementaire (FTA : refus)</li><li>Proposer une alternative</li><li>Maintenir la relation professionnelle (face positive)</li></ul><p>Utilisez : conditionnel, attenuation, formules de politesse portugaises formelles.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "La phrase 'Sabes que horas sao?' est un acte de langage :",
+      "correctAnswer": "Indirect : c'est une demande d'information formulee comme une question sur la connaissance",
+      "distractors": [
+        "Direct : question sur les connaissances de l'autre",
+        "Ordre deGuise",
+        "Reproche"
+      ],
+      "explanation": "Acte indirect : la forme (question sur capacite/connaissance) ne correspond pas a la fonction (demande d'information sur l'heure)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Temo que nao ________ possivel aceitar este prazo. (politesse + subjonctif)",
+      "correctAnswer": "seja",
+      "explanation": "'Temo que' + conjuntivo presente. 'Seja' = 3e pers. sg. du conjuntivo de 'ser'. Formule polie pour un refus."
+    },
+    {
+      "type": "mcq",
+      "prompt": "En portugais europeen, 'voce' est :",
+      "correctAnswer": "Moins formel que 'o senhor/a senhora', mais formel que 'tu'",
+      "distractors": [
+        "Equivalent du 'vous' francais",
+        "Uniquement utilise au Bresil",
+        "Synonyme de 'tu'"
+      ],
+      "explanation": "En PT-EU, 'voce' est une forme intermediaire. Le vouvoiement formel passe par 'o senhor/a senhora' (3e pers. sg.)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez poliment : Pourriez-vous fermer la fenetre ?",
+      "correctAnswer": "Poderia fechar a janela, por favor? / Importava-se de fechar a janela?",
+      "explanation": "Conditionnel 'poderia' pour la politesse. 'Importava-se de...' = vous derangerait-il de... (formule tres polie)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Un 'FTA' (Face Threatening Act) est :",
+      "correctAnswer": "Un acte de langage qui menace l'image sociale de l'interlocuteur",
+      "distractors": [
+        "Un acte de politesse excessive",
+        "Une formule de salutation",
+        "Une demande directe"
+      ],
+      "explanation": "FTA = Face Threatening Act. Ex: un refus, un ordre, une critique menacent la 'face' (image sociale) de l'autre. La politesse sert a attenuer ces menaces."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "pragmatica",
+      "phonetic": "/pɾaɡˈmatikɐ/",
+      "french": "pragmatique"
+    },
+    {
+      "portuguese": "implicito",
+      "phonetic": "/ĩˈplisitu/",
+      "french": "implicite"
+    },
+    {
+      "portuguese": "atenuacao",
+      "phonetic": "/ɐtɨnuɐˈsɐ̃w̃/",
+      "french": "attenuation"
+    },
+    {
+      "portuguese": "cortesia",
+      "phonetic": "/kuɾtɨˈziɐ/",
+      "french": "politesse / courtoisie"
+    },
+    {
+      "portuguese": "subentendido",
+      "phonetic": "/subẽtẽˈdidu/",
+      "french": "sous-entendu"
+    },
+    {
+      "portuguese": "enunciado",
+      "phonetic": "/inũsiˈadu/",
+      "french": "enonce"
+    }
+  ]
+}

@@ -2,6 +2,30 @@ import { NextRequest, NextResponse } from "next/server";
 import { lookupWiktionary } from "@/lib/content/wiktionary";
 import { ollamaChat, checkOllamaHealth } from "@/lib/ai/ollama";
 
+/** Extrait le premier objet JSON valide d'une chaîne en comptant les accolades */
+function extractFirstJSON(text: string): Record<string, unknown> | null {
+  let depth = 0;
+  let start = -1;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (ch === "{") {
+      if (depth === 0) start = i;
+      depth++;
+    } else if (ch === "}") {
+      depth--;
+      if (depth === 0 && start !== -1) {
+        try {
+          return JSON.parse(text.slice(start, i + 1)) as Record<string, unknown>;
+        } catch {
+          // bloc invalide, on continue la recherche
+          start = -1;
+        }
+      }
+    }
+  }
+  return null;
+}
+
 export async function GET(request: NextRequest) {
   try {
     const word = request.nextUrl.searchParams.get("word");
@@ -38,29 +62,29 @@ Ta mission :
 2. Si le mot est déjà en portugais, utilise-le directement.
 3. Dans tous les cas, le champ "word" DOIT contenir le mot en PORTUGAIS européen.
 
-Réponds UNIQUEMENT en JSON valide avec ce format exact, sans texte avant ni après :
+Réponds UNIQUEMENT en JSON valide avec ce format exact, sans texte avant ni après, sans balises markdown :
 {
   "word": "MOT_EN_PORTUGAIS",
   "phonetic": "/phonétique IPA portugais/",
   "definitions": [
-    { "partOfSpeech": "Nom/Verbe/Adjectif/etc", "definitions": ["traduction et définition en français"] }
+    { "partOfSpeech": "Nom", "definitions": ["traduction et définition en français"] }
   ],
   "audioUrl": null,
   "examples": [
     { "pt": "phrase exemple en portugais européen", "fr": "traduction française de la phrase" }
   ],
-  "etymology": "origine étymologique en français (ou null)",
+  "etymology": "origine étymologique en français",
   "source": "ollama"
 }`;
 
-    const raw = await ollamaChat("general", [
-      { role: "user", content: prompt },
-    ]);
+    const raw = await ollamaChat(
+      "general",
+      [{ role: "user", content: prompt }],
+      { num_ctx: 8192, temperature: 0.3, think: false }
+    );
 
-    // Parser le JSON retourné par Ollama
-    const jsonMatch = raw.match(/\{[\s\S]*\}/);
-    if (jsonMatch) {
-      const parsed = JSON.parse(jsonMatch[0]) as Record<string, unknown>;
+    const parsed = extractFirstJSON(raw);
+    if (parsed) {
       parsed.source = "ollama";
       return NextResponse.json(parsed);
     }

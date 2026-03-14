@@ -1,0 +1,117 @@
+{
+  "id": "c1-m3-l05",
+  "title": "Cinema et arts visuels portugais",
+  "type": "cultural",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Connaitre les cineastes portugais majeurs et leurs oeuvres",
+    "Comprendre l'esthetique du cinema portugais (lenteur, lumiere, memoire)",
+    "Analyser la relation entre arts visuels et identite nationale"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le cinema portugais : une ecole du regard",
+      "content": "<p>Le cinema portugais se distingue par une esthetique de la lenteur, de la contemplation et de la memoire. Influence par Manoel de Oliveira, il valorise la duree, la lumiere atlantique et les espaces urbains lisboetes.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Cineastes et films emblematiques",
+      "content": "<p><strong>Manoel de Oliveira (1908-2015) :</strong> a filme jusqu'a 106 ans. Films : <em>Amor de Perdicao</em> (1978), <em>Viagem ao Principio do Mundo</em> (1997).</p><p><strong>Miguel Gomes :</strong> <em>Tabu</em> (2012), <em>As Mil e Uma Noites</em> (2015).</p><p><strong>Pedro Costa :</strong> cinema du reel, quartier de Fontainhas. <em>Ossos</em> (1997), <em>Cavalo Dinheiro</em> (2014).</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Arts visuels : azulejos et architecture",
+      "content": "<p><strong>Les azulejos :</strong> carreaux de faience peinte, patrimoine visuel unique. Origine arabe (az-zulayj). Musee Nacional do Azulejo a Lisbonne.</p><p><strong>Architecture :</strong></p><ul><li>Style manuelim (XVIe s.) : Torre de Belem, Mosteiro dos Jeronimos</li><li>Pombalino (XVIIIe s.) : reconstruction de Lisbonne apres 1755</li><li>Contemporain : Alvaro Siza Vieira (Pritzker 1992), Eduardo Souto de Moura (Pritzker 2011)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Associer artiste et oeuvre",
+      "content": "<p>Associez :</p><p>1. Manoel de Oliveira → <strong>Viagem ao Principio do Mundo</strong></p><p>2. Miguel Gomes → <strong>Tabu (2012)</strong></p><p>3. Pedro Costa → <strong>Cavalo Dinheiro (2014)</strong></p><p>4. Alvaro Siza → <strong>Musee de Serralves (Porto)</strong></p><p>5. Style manuelim → <strong>Torre de Belem</strong></p>"
+    },
+    {
+      "type": "production",
+      "title": "Critique de film",
+      "content": "<p>Redigez une mini-critique (80-100 mots) d'un film portugais :</p><ul><li>Titre, realisateur, annee</li><li>Theme principal</li><li>Esthetique : rythme, lumiere, lieux</li><li>Votre avis argumente</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel cineaste portugais a filme jusqu'a l'age de 106 ans ?",
+      "correctAnswer": "Manoel de Oliveira",
+      "distractors": [
+        "Pedro Costa",
+        "Miguel Gomes",
+        "Joao Cesar Monteiro"
+      ],
+      "explanation": "Manoel de Oliveira (1908-2015) a tourne son dernier film a 106 ans."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est l'origine etymologique du mot azulejo ?",
+      "correctAnswer": "L'arabe az-zulayj (petite pierre polie)",
+      "distractors": [
+        "L'espagnol azul (bleu)",
+        "Le latin azulum",
+        "Le portugais azul (bleu)"
+      ],
+      "explanation": "Azulejo vient de l'arabe az-zulayj. L'etymologie n'est pas liee a la couleur bleue."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Alvaro Siza Vieira a recu le prix Pritzker en ________.",
+      "correctAnswer": "1992",
+      "explanation": "Alvaro Siza (ne en 1933) a recu le prix Pritzker en 1992, Eduardo Souto de Moura en 2011."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Le style manuelim correspond a quelle periode ?",
+      "correctAnswer": "XVIe siecle (epoque des decouvertes, regne de Manuel Ier)",
+      "distractors": [
+        "XIVe siecle (reconquete)",
+        "XVIIIe siecle (reconstruction pombaline)",
+        "XIXe siecle (romantisme)"
+      ],
+      "explanation": "Le style manuelim est un style tardif-gothique specifiquement portugais, developpe sous Manuel Ier (1469-1521)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Voyage au debut du monde (titre de film)",
+      "correctAnswer": "Viagem ao Principio do Mundo",
+      "explanation": "Film d'Oliveira (1997) avec Marcello Mastroianni."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "realizador",
+      "phonetic": "/ʁɨɐliˈzadoɾ/",
+      "french": "realisateur (cinema)"
+    },
+    {
+      "portuguese": "azulejo",
+      "phonetic": "/ɐzuˈleʒu/",
+      "french": "azulejo (carreau de faience)"
+    },
+    {
+      "portuguese": "manuelim",
+      "phonetic": "/mɐnuˈɛlĩ/",
+      "french": "style manuelim"
+    },
+    {
+      "portuguese": "argumento",
+      "phonetic": "/ɐɾɡuˈmẽtu/",
+      "french": "scenario"
+    },
+    {
+      "portuguese": "plano",
+      "phonetic": "/ˈplɐnu/",
+      "french": "plan (cinema)"
+    },
+    {
+      "portuguese": "personagem",
+      "phonetic": "/pɨɾsuˈnaʒɐ̃j̃/",
+      "french": "personnage"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "c1-m2-l01",
+  "title": "La langue juridique et administrative",
+  "type": "reading",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Comprendre le vocabulaire juridique et administratif du portugais européen",
+    "Déchiffrer des textes de contrats, lois et documents officiels",
+    "Reconnaître les structures syntaxiques formelles du registre juridique"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "Le portugais de la loi et de l'administration", "content": "<p>Le portugais juridique et administratif possède un vocabulaire très spécialisé, des structures syntaxiques archaïques et des formules figées. C'est un registre incontournable pour tout francophone vivant au Portugal, que ce soit pour louer un appartement, signer un contrat ou comprendre un document officiel.</p><blockquote><em>O segundo outorgante declara, nos termos do artigo 1.º do presente contrato, que doravante se obriga a…</em></blockquote>"},
+    {"type": "discovery", "title": "Vocabulaire juridique essentiel", "content": "<p><strong>Parties d'un contrat :</strong></p><ul><li><em>outorgante / contraente</em> — partie contractante</li><li><em>primeiro outorgante / segundo outorgante</em> — première/deuxième partie</li><li><em>doravante</em> — dorénavant, ci-après</li><li><em>nos termos de</em> — aux termes de / conformément à</li></ul><p><strong>Actes et clauses :</strong></p><ul><li><em>cláusula</em> — clause</li><li><em>rescisão</em> — résiliation</li><li><em>sem prejuízo de</em> — sans préjudice de</li><li><em>outrossim</em> — de même, également (formule d'addition)</li><li><em>salvo disposição em contrário</em> — sauf disposition contraire</li><li><em>em conformidade com</em> — en conformité avec</li></ul><p><strong>Documents :</strong></p><ul><li><em>escritura pública</em> — acte notarié</li><li><em>certidão</em> — certificat</li><li><em>procuração</em> — procuration</li><li><em>requerimento</em> — requête</li></ul>"},
+    {"type": "explanation", "title": "Structures syntaxiques du registre juridique", "content": "<p><strong>Caractéristiques du style juridique PT :</strong></p><ol><li><strong>Passif fréquent :</strong> <em>O contrato é celebrado entre…</em></li><li><strong>Infinitif personnel :</strong> <em>Para os outorgantes procederem à…</em></li><li><strong>Subjonctif futur :</strong> <em>…nos termos que vierem a ser acordados.</em></li><li><strong>Formules nominales lourdes :</strong> <em>…tendo em conta o disposto no número anterior…</em></li><li><strong>Référence aux articles :</strong> <em>nos termos do artigo 3.º, n.º 2, alínea b)</em></li></ol><p><strong>Extrait de contrat :</strong><br><em>CLÁUSULA SEGUNDA<br>O arrendatário obriga-se ao pagamento da renda mensal no valor de € 800,00 (oitocentos euros), a efectuar até ao oitavo dia útil de cada mês, salvo disposição em contrário acordada entre as partes.</em></p>"},
+    {"type": "practice", "title": "Décoder un document", "content": "<p>Lisez ce texte et répondez aux questions :</p><blockquote><em>O presente contrato, celebrado entre as partes acima identificadas, produz efeitos a partir da data da sua assinatura, sem prejuízo do disposto na cláusula anterior. Outrossim, declaram os outorgantes que o presente instrumento é redigido em duplicado, ficando um exemplar na posse de cada parte.</em></blockquote><ol><li>Que signifie 'sem prejuízo do disposto na cláusula anterior' ?</li><li>Que signifie 'outrossim' dans ce contexte ?</li><li>Combien d'exemplaires du contrat existent ?</li></ol><p>Réponses : 1. Sans affecter/remettre en cause ce qui est prévu dans la clause précédente. 2. De même, également. 3. Deux (duplicado = en double exemplaire).</p>"},
+    {"type": "production", "title": "Rédiger une clause", "content": "<p>Rédigez une <em>cláusula</em> de contrat de location (arrendamento) pour un appartement à Lisbonne. Elle doit inclure : montant du loyer, date de paiement, durée du contrat, conditions de résiliation. Utilisez au minimum 5 termes juridiques vus dans cette leçon.</p>"}
+  ],
+  "exercises": [
+    {"type": "mcq", "prompt": "Que signifie 'doravante' dans un contrat ?", "correctAnswer": "dorénavant / à partir de maintenant", "distractors": ["en double exemplaire", "conformément à", "sans préjudice"], "explanation": "'Doravante' = dorénavant, ci-après. Formule contractuelle indiquant que quelque chose s'appliquera à partir du moment de la signature."},
+    {"type": "mcq", "prompt": "Que signifie 'outrossim' dans un texte juridique ?", "correctAnswer": "de même / également (en ajout)", "distractors": ["autrement", "cependant", "étant donné que"], "explanation": "'Outrossim' = de même, également. C'est une formule d'addition très formelle, quasi exclusive aux textes juridiques et officiels."},
+    {"type": "fill_blank", "prompt": "O contrato é celebrado ________ (aux termes de) o artigo 5.º do Código Civil.", "correctAnswer": "nos termos de", "explanation": "'Nos termos de' = aux termes de / conformément à. Formule indiquant la base légale."},
+    {"type": "fill_blank", "prompt": "A rescisão do contrato só é possível com aviso prévio de 30 dias, ________ (sauf disposition contraire).", "correctAnswer": "salvo disposição em contrário", "explanation": "'Salvo disposição em contrário' = sauf disposition contraire. Formule de réserve très fréquente dans les contrats."},
+    {"type": "translate", "prompt": "Traduisez : 'Les parties déclarent que le présent contrat prend effet à partir du 1er janvier.'", "correctAnswer": "As partes declaram que o presente contrato produz efeitos a partir do dia 1 de janeiro.", "explanation": "'Produzir efeitos' = prendre effet / produire ses effets. 'A partir de' = à partir de."}
+  ],
+  "vocabulary": [
+    {"portuguese": "outorgante", "phonetic": "/otɔɾˈɡɐ̃tɨ/", "french": "partie contractante / signataire"},
+    {"portuguese": "doravante", "phonetic": "/doɾɐˈvɐ̃tɨ/", "french": "dorénavant / ci-après"},
+    {"portuguese": "outrossim", "phonetic": "/otɾoˈsĩ/", "french": "de même / également"},
+    {"portuguese": "sem prejuízo de", "phonetic": "/sẽj̃ pɾɨˈʒwizu dɨ/", "french": "sans préjudice de"},
+    {"portuguese": "rescisão", "phonetic": "/ʁɨsiˈzɐ̃w̃/", "french": "résiliation"},
+    {"portuguese": "nos termos de", "phonetic": "/nuʃ ˈtɛɾmuʃ dɨ/", "french": "aux termes de / conformément à"},
+    {"portuguese": "cláusula", "phonetic": "/ˈklawzulɐ/", "french": "clause"},
+    {"portuguese": "requerimento", "phonetic": "/ʁɨkɨɾiˈmẽtu/", "french": "requête / demande officielle"}
+  ]
+}

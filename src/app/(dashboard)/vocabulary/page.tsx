@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { AudioPlayer } from "@/components/audio/audio-player";
-import { ChevronLeft } from "lucide-react";
+import { ChevronLeft, BookMarked } from "lucide-react";
 
 interface VocabItem {
   id: number;
@@ -119,9 +119,14 @@ export default function VocabularyPage() {
 
   if (isLoading) {
     return (
-      <div className="space-y-6">
-        <h1 className="text-2xl font-bold">Vocabulaire</h1>
-        <p className="text-muted-foreground">Chargement...</p>
+      <div className="space-y-8">
+        <div className="rounded-2xl bg-gradient-to-r from-emerald-500 to-emerald-600 p-6 text-white">
+          <div className="flex items-center gap-3 mb-1">
+            <BookMarked className="h-6 w-6 opacity-90" />
+            <h1 className="text-2xl font-bold">Vocabulaire</h1>
+          </div>
+          <p className="text-emerald-100 text-sm">Chargement...</p>
+        </div>
       </div>
     );
   }
@@ -129,26 +134,34 @@ export default function VocabularyPage() {
   // Vue détail d'un thème
   if (selectedTheme) {
     return (
-      <div className="space-y-6">
-        <div className="flex items-center gap-3">
-          <Button
-            variant="ghost"
-            size="sm"
-            onClick={() => setSelectedTheme(null)}
-          >
-            <ChevronLeft className="h-4 w-4 mr-1" />
-            Thèmes
-          </Button>
-          <h1 className="text-2xl font-bold">
-            {TAG_ICONS[selectedTheme] ?? "📦"}{" "}
-            {TAG_LABELS[selectedTheme] ?? selectedTheme}
-          </h1>
-          <Badge variant="secondary">{currentItems.length} mots</Badge>
+      <div className="space-y-8">
+        {/* Header */}
+        <div className="rounded-2xl bg-gradient-to-r from-emerald-500 to-emerald-600 p-6 text-white">
+          <div className="flex items-center gap-3 mb-1">
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={() => setSelectedTheme(null)}
+              className="text-white hover:bg-white/20 hover:text-white -ml-2"
+            >
+              <ChevronLeft className="h-4 w-4 mr-1" />
+              Thèmes
+            </Button>
+          </div>
+          <div className="flex items-center gap-3 mt-1">
+            <span className="text-3xl">{TAG_ICONS[selectedTheme] ?? "📦"}</span>
+            <div>
+              <h1 className="text-2xl font-bold">
+                {TAG_LABELS[selectedTheme] ?? selectedTheme}
+              </h1>
+              <p className="text-emerald-100 text-sm">{currentItems.length} mots dans ce thème</p>
+            </div>
+          </div>
         </div>
 
         <div className="grid gap-2 md:grid-cols-2 lg:grid-cols-3">
           {currentItems.map((item) => (
-            <Card key={item.id} className="transition-all hover:shadow-md hover:border-primary">
+            <Card key={item.id} className="rounded-2xl border bg-card shadow-sm transition-all hover:shadow-md hover:-translate-y-0.5 duration-200">
               <CardContent className="flex items-center gap-3 py-3">
                 <AudioPlayer text={item.portuguese} />
                 <div className="min-w-0 flex-1">
@@ -159,7 +172,7 @@ export default function VocabularyPage() {
                   <span className="text-xs text-muted-foreground block">
                     [{item.phonetic}]
                   </span>
-                  <Badge variant="outline" className="text-xs mt-0.5">
+                  <Badge variant="outline" className="text-xs mt-0.5 rounded-full">
                     {item.level}
                   </Badge>
                 </div>
@@ -173,11 +186,15 @@ export default function VocabularyPage() {
 
   // Vue grille des thèmes
   return (
-    <div className="space-y-6">
-      <div>
-        <h1 className="text-2xl font-bold">Vocabulaire</h1>
-        <p className="text-muted-foreground">
-          {allVocab.length} mots — Choisissez un thème
+    <div className="space-y-8">
+      {/* Gradient header banner */}
+      <div className="rounded-2xl bg-gradient-to-r from-emerald-500 to-emerald-600 p-6 text-white">
+        <div className="flex items-center gap-3 mb-1">
+          <BookMarked className="h-6 w-6 opacity-90" />
+          <h1 className="text-2xl font-bold">Vocabulaire</h1>
+        </div>
+        <p className="text-emerald-100 text-sm">
+          {allVocab.length} mots organisés par thème — Choisissez un thème pour commencer
         </p>
       </div>
 
@@ -186,13 +203,13 @@ export default function VocabularyPage() {
           <button
             key={tag}
             onClick={() => setSelectedTheme(tag)}
-            className="flex flex-col items-center gap-2 rounded-xl border bg-card p-4 text-center transition-all hover:border-primary hover:shadow-md hover:bg-primary/5 active:scale-95"
+            className="flex flex-col items-center gap-2 rounded-2xl border bg-card p-4 text-center shadow-sm transition-all hover:shadow-md hover:-translate-y-0.5 duration-200 hover:border-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/20 active:scale-95"
           >
             <span className="text-3xl">{TAG_ICONS[tag] ?? "📦"}</span>
-            <span className="font-medium text-sm">
+            <span className="font-semibold text-sm">
               {TAG_LABELS[tag] ?? tag}
             </span>
-            <Badge variant="secondary" className="text-xs">
+            <Badge variant="secondary" className="text-xs rounded-full px-3 py-0.5">
               {items.length} mots
             </Badge>
           </button>

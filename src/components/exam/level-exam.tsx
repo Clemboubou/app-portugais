@@ -8,7 +8,7 @@ import { Progress } from "@/components/ui/progress";
 import { Input } from "@/components/ui/input";
 import { CheckCircle, XCircle, Award } from "lucide-react";
 
-type Level = "A1" | "A2" | "B1" | "B2";
+type Level = "A1" | "A2" | "B1" | "B2" | "C1";
 
 interface ExamQuestion {
   id: string;

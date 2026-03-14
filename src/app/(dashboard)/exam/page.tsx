@@ -8,7 +8,7 @@ import { LevelExam } from "@/components/exam/level-exam";
 import { Award, ArrowRight } from "lucide-react";
 import examsData from "@/../content/exam/exams.json";
 
-type Level = "A1" | "A2" | "B1" | "B2";
+type Level = "A1" | "A2" | "B1" | "B2" | "C1";
 
 interface ExamResult {
   level: Level;
@@ -22,13 +22,15 @@ const LEVEL_DESCRIPTIONS: Record<Level, string> = {
   A2: "Valider votre autonomie : passé, logement, santé, transports.",
   B1: "Valider votre niveau intermédiaire : subjonctif, conditionnel, culture.",
   B2: "Valider votre niveau avancé : argumentation, littérature, registres.",
+  C1: "Valider votre maîtrise : mésoclise, registres formels, littérature, nuances.",
 };
 
 const NEXT_LEVEL: Record<Level, Level | null> = {
   A1: "A2",
   A2: "B1",
   B1: "B2",
-  B2: null,
+  B2: "C1",
+  C1: null,
 };
 
 export default function ExamPage() {
@@ -114,7 +116,7 @@ export default function ExamPage() {
       </div>
 
       <div className="grid gap-4 md:grid-cols-2">
-        {(["A1", "A2", "B1", "B2"] as Level[]).map((level) => {
+        {(["A1", "A2", "B1", "B2", "C1"] as Level[]).map((level) => {
           const result = getResultForLevel(level);
           const isUnlocked = true; // Accès libre à tous les niveaux
 

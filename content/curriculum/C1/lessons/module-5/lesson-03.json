@@ -1,0 +1,117 @@
+{
+  "id": "c1-m5-l03",
+  "title": "Comprehension orale avancee",
+  "type": "listening",
+  "estimatedMinutes": 28,
+  "objectives": [
+    "Comprendre des discours authentiques en portugais europeen C1",
+    "Identifier les strategies pour decoder un debit rapide et un registre soutenu",
+    "Comprendre les implicites et sous-entendus a l'oral"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Ecouter au niveau C1",
+      "content": "<p>Au C1, la comprehension orale depasse la reconnaissance des mots : il faut comprendre le <strong>debit naturel</strong> d'un locuteur natif, les <strong>reductions phonetiques</strong>, les <strong>elisions</strong>, l'<strong>intonation expressive</strong> et les references culturelles implicites. Sources privilegiees : RTP (television publique), RDP (radio), debats politiques, conferences TED en portugais europeen.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Specificites phonetiques du PT-EU rapide",
+      "content": "<p><strong>Reductions typiques :</strong></p><ul><li>Voyelles atones tres reduites : <em>e</em> → /ɨ/ ou muet</li><li><em>para</em> → /prɐ/ ou /p'rɐ/ en debit rapide</li><li><em>estar</em> → /ʃˈtaɾ/ (e- initial supprime)</li><li><em>esta</em> → /ˈʃtɐ/</li></ul><p><strong>Liaisons et enchainements :</strong></p><ul><li><em>e aqui</em> → /jɐˈki/</li><li><em>nao e</em> → /nɐ̃wˈe/ en debit rapide</li></ul><p><strong>Registres de comprehension C1 :</strong></p><ul><li>Discours academique : vocabulaire technique, phrases longues</li><li>Debat politique : interruptions, ellipses, references implicites</li><li>Humour/ironie : ton, intonation, contexte culturel</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Strategies d'ecoute active",
+      "content": "<p><strong>Avant l'ecoute :</strong> anticiper le contexte (titre, image, situation).</p><p><strong>Premiere ecoute :</strong> gist (idee generale), ne pas bloquer sur les mots inconnus.</p><p><strong>Deuxieme ecoute :</strong> details, structure, positions des locuteurs.</p><p><strong>Troisieme ecoute :</strong> nuances, ironie, implicites.</p><p><strong>Indicateurs de structure orale :</strong></p><ul><li>Enumeration : <em>em primeiro lugar... depois... finalmente...</em></li><li>Opposition : <em>pelo contrario... ora...</em></li><li>Concession : <em>convenhamos que... nao deixa de ser verdade que...</em></li><li>Reformulation : <em>ou seja... isto e...</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Exercice de transcription selective",
+      "content": "<p>Exercice pratique :</p><p>1. Ecoutez 3 minutes d'une emission RTP (disponible sur rtp.pt) sur un sujet politique ou culturel.</p><p>2. Notez : le sujet principal, les 3 idees cles, la position de l'intervenant.</p><p>3. Identifiez 5 connecteurs oraux utilises.</p><p>4. Y a-t-il de l'ironie ? Comment le detectez-vous ?</p>"
+    },
+    {
+      "type": "production",
+      "title": "Compte rendu oral",
+      "content": "<p>Apres avoir ecoute une emission de 5 minutes, redigez un compte rendu de 100-120 mots :</p><ul><li>Source et contexte (emission, date, intervenants)</li><li>Sujet traite et angle adopte</li><li>Points cles mentionnes</li><li>Ton : neutre, engage, ironique ?</li><li>Ce que vous n'avez pas compris (auto-evaluation)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "En portugais europeen rapide, 'estar' se prononce souvent :",
+      "correctAnswer": "Sans le /e/ initial : /ʃˈtaɾ/",
+      "distractors": [
+        "/esˈtaɾ/ (plein)",
+        "/ɨsˈtaɾ/ (reduit mais complet)",
+        "/staɾ/ (sans voyelle ni s)"
+      ],
+      "explanation": "En portugais europeen parle, les voyelles initiales atones tombent : 'estar' → /ʃˈtaɾ/, 'estou' → /ʃˈto/. Tres frequent dans le debit courant."
+    },
+    {
+      "type": "mcq",
+      "prompt": "La formule 'convenhamos que...' dans un debat indique :",
+      "correctAnswer": "Une concession argumentative : 'admettons que...' avant de refuter",
+      "distractors": [
+        "Un accord total",
+        "Une question",
+        "Une conclusion"
+      ],
+      "explanation": "'Convenhamos que...' = reconnaissons / admettons que... C'est une concession rhetorique pour paraitre equitable avant de developper son argument."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Autrement dit, la solution proposee n'est pas viable.",
+      "correctAnswer": "Ou seja, a solucao proposta nao e viavel.",
+      "explanation": "'Ou seja' = autrement dit / c'est-a-dire. Marqueur de reformulation tres frequents a l'oral PT-EU."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ contrario, os dados mostram uma tendencia positiva.",
+      "correctAnswer": "Pelo",
+      "explanation": "'Pelo contrario' = au contraire. Connecteur d'opposition oral et ecrit, tres courant dans les debats."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Pour detecter l'ironie a l'oral en portugais, on se fie principalement a :",
+      "correctAnswer": "L'intonation, la pause, le contexte et l'exageration intentionnelle",
+      "distractors": [
+        "Le vocabulaire seulement",
+        "La vitesse d'elocution",
+        "La longueur des phrases"
+      ],
+      "explanation": "L'ironie orale passe par l'intonation montante-descendante specifique, une pause avant le mot ironique, et un contexte connu. 'Que boa ideia!' dit sur un ton plat = ironie."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "debit",
+      "phonetic": "/dɨˈbitu/",
+      "french": "debit (de parole)"
+    },
+    {
+      "portuguese": "convenhamos",
+      "phonetic": "/kõvɨˈɲɐmuʃ/",
+      "french": "admettons / reconnaissons"
+    },
+    {
+      "portuguese": "ou seja",
+      "phonetic": "/o ˈsɐjɐ/",
+      "french": "autrement dit / c'est-a-dire"
+    },
+    {
+      "portuguese": "pelo contrario",
+      "phonetic": "/pɨlu kõˈtɾaɾju/",
+      "french": "au contraire"
+    },
+    {
+      "portuguese": "isto e",
+      "phonetic": "/iʃtu ˈe/",
+      "french": "c'est-a-dire"
+    },
+    {
+      "portuguese": "nao deixa de ser",
+      "phonetic": "/nɐ̃w ˈdɐjʃɐ dɨ seɾ/",
+      "french": "il n'en reste pas moins que"
+    }
+  ]
+}

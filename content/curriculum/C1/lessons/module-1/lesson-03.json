@@ -1,0 +1,33 @@
+{
+  "id": "c1-m1-l03",
+  "title": "L'infinitif personnel avancé",
+  "type": "grammar",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Maîtriser les constructions complexes avec l'infinitif personnel",
+    "Distinguer l'infinitif personnel de l'infinitif impersonnel",
+    "Utiliser l'infinitif personnel après prépositions et locutions"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "L'infinitif qui se conjugue", "content": "<p>L'<strong>infinitivo pessoal</strong> est une forme unique au portugais : c'est un infinitif qui s'accorde avec son sujet. Il permet d'éviter des subordonnées lourdes tout en indiquant clairement le sujet de l'action.</p><blockquote><em>Para <strong>eles compreenderem</strong>, é necessário explicar bem.</em> — Pour qu'ils comprennent, il faut bien expliquer.<br><em>Apesar de <strong>estarmos</strong> cansados, continuámos.</em> — Bien que nous soyons fatigués, nous avons continué.</blockquote>"},
+    {"type": "discovery", "title": "Formation et paradigme", "content": "<p>Formation : base de l'infinitif + terminaisons :</p><table><thead><tr><th>Pers.</th><th>Term.</th><th>falar</th><th>ter</th><th>ir</th></tr></thead><tbody><tr><td>eu</td><td>—</td><td>falar</td><td>ter</td><td>ir</td></tr><tr><td>tu</td><td>-es</td><td>falares</td><td>teres</td><td>ires</td></tr><tr><td>ele</td><td>—</td><td>falar</td><td>ter</td><td>ir</td></tr><tr><td>nós</td><td>-mos</td><td>falarmos</td><td>termos</td><td>irmos</td></tr><tr><td>vós</td><td>-des</td><td>falardes</td><td>terdes</td><td>irdes</td></tr><tr><td>eles</td><td>-em</td><td>falarem</td><td>terem</td><td>irem</td></tr></tbody></table><p><strong>Infinitif personnel composé :</strong> ter/haver + participe → <em>para eles terem feito isso</em> (pour qu'ils aient fait ça).</p>"},
+    {"type": "explanation", "title": "Quand utiliser l'infinitif personnel ?", "content": "<p><strong>Obligatoire</strong> quand le sujet de l'infinitif est différent de celui de la principale :</p><ul><li><em>É importante <strong>eles virem</strong> cedo.</em> (eux ≠ sujet imp.)</li><li><em>Pedi <strong>aos alunos escreverem</strong> um texto.</em></li></ul><p><strong>Facultatif (mais fréquent)</strong> pour clarifier le sujet même quand il est le même :</p><ul><li><em>Partimos sem <strong>dizermos</strong> nada.</em> = <em>Partimos sem dizer nada.</em></li></ul><p><strong>Prépositions courantes :</strong> <em>para, por, sem, ao, antes de, depois de, apesar de, além de, em vez de</em> + inf. pessoal.</p><p><strong>Locution <em>ao + inf. pessoal</em></strong> (en + gérondif fr.) : <em>Ao <strong>chegarem</strong> eles, tocou a campainha.</em></p>"},
+    {"type": "practice", "title": "Choisir la bonne forme", "content": "<p>Complétez avec l'infinitif personnel ou impersonnel selon le contexte :</p><ol><li><em>É necessário ________ (nós / estudar) mais.</em> → <strong>estudarmos</strong></li><li><em>Antes de ________ (eles / sair), avisaram-nos.</em> → <strong>saírem</strong></li><li><em>Ao ________ (tu / abrir) a porta, viste-o.</em> → <strong>abrires</strong></li><li><em>Apesar de ________ (ser) tarde, ficámos.</em> → <strong>ser</strong> (même sujet implicite)</li><li><em>Para ________ (vós / perceber), preciso de exemplos.</em> → <strong>perceberdes</strong></li></ol>"},
+    {"type": "production", "title": "Réécrire avec infinitif personnel", "content": "<p>Transformez les phrases avec subordonnée en phrases avec infinitif personnel :</p><ol><li><em>Embora eles estejam cansados, vão continuar.</em></li><li><em>Depois que nós chegarmos, ligaremos.</em></li><li><em>Para que vocês compreendam, vou explicar.</em></li><li><em>Quando tu saíres, fecha a porta.</em></li></ol>"}
+  ],
+  "exercises": [
+    {"type": "fill_blank", "prompt": "É fundamental que nós ________ (respeitar) o ambiente. (infinitif personnel)", "correctAnswer": "respeitarmos", "explanation": "Infinitif personnel, nós : respeitarmos. 'É fundamental + inf. pessoal' est une construction typique du PT-PT."},
+    {"type": "fill_blank", "prompt": "Antes de eles ________ (partir), disseram adeus.", "correctAnswer": "partirem", "explanation": "Antes de + infinitif personnel (3ème pl.) : partirem."},
+    {"type": "mcq", "prompt": "Quelle phrase est correcte en PT-PT ?", "correctAnswer": "Ao chegarem eles, todos se levantaram.", "distractors": ["Ao eles chegando, todos se levantaram.", "Quando eles chegam, todos se levantaram.", "Eles chegando, todos se levantaram."], "explanation": "'Ao + infinitivo pessoal' est la construction PT-PT pour 'en arrivant / dès qu'ils sont arrivés'. Le gérondif en -ndo n'est pas utilisé comme ici en PT-PT."},
+    {"type": "translate", "prompt": "Traduisez : 'Sans que vous le sachiez, tout avait changé.'", "correctAnswer": "Sem o saberdes, tudo tinha mudado.", "explanation": "Sem + infinitif personnel (saberdes, vós). 'O' est le COD de 'saber'."},
+    {"type": "mcq", "prompt": "L'infinitif personnel de 'ser' pour 'eles' est :", "correctAnswer": "serem", "distractors": ["seram", "sejam", "eram"], "explanation": "Ser au infinitivo pessoal : ser, seres, ser, sermos, serdes, serem."}
+  ],
+  "vocabulary": [
+    {"portuguese": "infinitivo pessoal", "phonetic": "/ĩfiniˈtivu pɨsuˈal/", "french": "infinitif personnel (conjugué)"},
+    {"portuguese": "infinitivo impessoal", "phonetic": "/ĩfiniˈtivu ĩpɨsuˈal/", "french": "infinitif impersonnel"},
+    {"portuguese": "apesar de", "phonetic": "/ɐpɨˈzaɾ dɨ/", "french": "bien que / malgré"},
+    {"portuguese": "além de", "phonetic": "/ɐˈlẽj̃ dɨ/", "french": "en plus de / outre"},
+    {"portuguese": "em vez de", "phonetic": "/ẽj̃ ˈveʃ dɨ/", "french": "au lieu de"},
+    {"portuguese": "ao + infinitivo", "phonetic": "/aw/", "french": "en + gérondif (en arrivant = ao chegar)"}
+  ]
+}

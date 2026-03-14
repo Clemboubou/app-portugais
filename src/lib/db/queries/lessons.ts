@@ -37,28 +37,34 @@ export function getExercisesByLesson(lessonId: number) {
 }
 
 export function getAllModulesWithLessons() {
-  const allModules = db
+  // 1 seule requête JOIN au lieu de N+1 (1 par module)
+  const rows = db
     .select({
       module: modules,
       level: levels,
+      lesson: lessons,
     })
     .from(modules)
     .innerJoin(levels, eq(modules.levelId, levels.id))
-    .orderBy(levels.order, modules.order)
+    .leftJoin(lessons, eq(lessons.moduleId, modules.id))
+    .orderBy(levels.order, modules.order, lessons.order)
     .all();
 
-  return allModules.map((row) => {
-    const moduleLessons = db
-      .select()
-      .from(lessons)
-      .where(eq(lessons.moduleId, row.module.id))
-      .orderBy(lessons.order)
-      .all();
+  // Regrouper les leçons par module côté JS
+  const moduleMap = new Map<number, { id: number; levelId: number; title: string; description: string; order: number; isUnlocked: boolean; levelCode: string; lessons: typeof rows[0]["lesson"][] }>();
 
-    return {
-      ...row.module,
-      levelCode: row.level.code,
-      lessons: moduleLessons,
-    };
-  });
+  for (const row of rows) {
+    if (!moduleMap.has(row.module.id)) {
+      moduleMap.set(row.module.id, {
+        ...row.module,
+        levelCode: row.level.code,
+        lessons: [],
+      });
+    }
+    if (row.lesson) {
+      moduleMap.get(row.module.id)!.lessons.push(row.lesson);
+    }
+  }
+
+  return Array.from(moduleMap.values());
 }

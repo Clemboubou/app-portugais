@@ -1,84 +1,112 @@
 {
   "id": "b2-m3-l03",
-  "title": "Rapporter un discours dans la presse",
-  "type": "reading",
-  "estimatedMinutes": 25,
+  "title": "Discours rapporte dans la presse",
+  "type": "grammar",
+  "estimatedMinutes": 24,
   "objectives": [
-    "Identifier les différentes formes de discours rapporté dans un article de presse",
-    "Comprendre les conventions journalistiques portugaises",
-    "Distinguer citations directes et reformulations indirectes"
+    "Comprendre et analyser le discours rapporte dans les medias portugais",
+    "Distinguer citation directe, indirecte et libre dans un article",
+    "Produire des citations journalistiques en portugais europeen"
   ],
   "steps": [
     {
       "type": "introduction",
-      "title": "Le discours rapporté dans le journalisme portugais",
-      "content": "<p>La presse portugaise utilise abondamment le <strong>discours rapporté</strong>. Les journalistes alternent entre <strong>citations directes</strong> (entre guillemets) et <strong>reformulations indirectes</strong>. Savoir lire et comprendre ces constructions est essentiel pour accéder aux médias lusophones.</p><p>En PT-PT, les guillemets utilisés sont « » (guillemets français) ou "" (guillemets anglais).</p>"
+      "title": "Le discours rapporte dans la presse",
+      "content": "<p>La presse portugaise utilise abondamment le <strong>discours rapporte</strong>. Les journalistes alternent entre <strong>citations directes</strong> (entre guillemets) et <strong>reformulations indirectes</strong>. En PT-PT, les guillemets utilises sont &laquo; &raquo; (guillemets francais) ou doubles virgules typographiques.</p>"
     },
     {
       "type": "discovery",
-      "title": "Un article de presse authentique (adapté)",
-      "content": "<p>Lisez cet extrait :</p><blockquote><strong>Primeiro-ministro defende reformas na educação</strong><br/><br/><em>O primeiro-ministro afirmou ontem, em conferência de imprensa, que «o sistema educativo português precisa de reformas profundas». Segundo o chefe do Governo, as mudanças serão implementadas «de forma gradual, respeitando os profissionais do ensino».</em><br/><br/><em>A oposição reagiu de imediato. O líder do principal partido da oposição declarou que as propostas eram «insuficientes» e exigiu que o Governo apresentasse um plano mais detalhado. Questionado sobre o calendário das reformas, o ministro da Educação respondeu que o plano seria apresentado «até ao final do mês».</em></blockquote>"
+      "title": "Types de discours rapporte dans les medias",
+      "content": "<p><strong>Citation directe :</strong></p><p><em>O ministro afirmou: &laquo;A economia portuguesa esta a crescer.&raquo;</em></p><p><strong>Citation indirecte :</strong></p><p><em>O ministro afirmou que a economia portuguesa estava a crescer.</em></p><p><strong>Discours indirect libre :</strong></p><p><em>A economia crescia. Para que preocupar-se?</em> (voix du ministre fondue dans la narration)</p><p><strong>Verbes citants journalistiques :</strong></p><ul><li><em>afirmar, declarar, garantir, assegurar</em> (affirmer, garantir)</li><li><em>revelar, admitir, reconhecer</em> (reveler, admettre)</li><li><em>criticar, contestar, recusar</em> (critiquer, contester)</li></ul>"
     },
     {
       "type": "explanation",
-      "title": "Les techniques du discours rapporté journalistique",
-      "content": "<p><strong>1. Citation directe partielle :</strong></p><p><em>Afirmou que «o sistema precisa de reformas».</em> — Seule une partie de la phrase est citée mot pour mot.</p><p><strong>2. Discours indirect pur :</strong></p><p><em>Declarou que as propostas eram insuficientes.</em> — Pas de guillemets, reformulation complète.</p><p><strong>3. Según + nom :</strong></p><p><em>Segundo o ministro, as mudanças serão graduais.</em> — Attribution sans verbe introducteur direct.</p><p><strong>4. Verbes journalistiques courants :</strong></p><ul><li><em>sublinhar</em> (souligner), <em>salientar</em> (mettre en relief)</li><li><em>garantir</em> (garantir), <em>admitir</em> (admettre)</li><li><em>lamentar</em> (déplorer), <em>criticar</em> (critiquer)</li><li><em>revelar</em> (révéler), <em>acusar</em> (accuser)</li></ul>"
+      "title": "Transformations du discours indirect au passe",
+      "content": "<p><strong>Tableau des concordances temporelles :</strong></p><table><tr><th>Direct</th><th>Indirect passe</th></tr><tr><td>e (presente)</td><td>estava (imperfeito)</td></tr><tr><td>foi (perfeito)</td><td>tinha sido (mais-que-perfeito)</td></tr><tr><td>sera (futuro)</td><td>seria (condicional)</td></tr><tr><td>ha (ha)</td><td>havia / tinha</td></tr></table><p><strong>Changements deictiques :</strong></p><ul><li>hoje → naquele dia / nesse dia</li><li>aqui → ali / naquele lugar</li><li>este → aquele / esse</li><li>amanha → no dia seguinte</li></ul>"
     },
     {
       "type": "practice",
-      "title": "Analyse de l'article",
-      "content": "<p>Répondez aux questions sur l'extrait :</p><ol><li>Combien de personnes sont citées dans l'article ? <strong>Trois : le Premier ministre, le leader de l'opposition, le ministre de l'Éducation.</strong></li><li>Quels verbes introducteurs sont utilisés ? <strong>Afirmou, declarou, exigiu, respondeu.</strong></li><li>Identifiez un exemple de citation directe partielle et un de discours indirect pur.</li></ol>"
+      "title": "Transposer des citations de presse",
+      "content": "<p>Transposez en discours indirect (passe) :</p><p>1. O presidente disse: &laquo;Vamos investir em energias renovaveis.&raquo; → <strong>O presidente disse que iam investir em energias renovaveis.</strong></p><p>2. A ministra declarou: &laquo;Nao ha crise no sistema de saude.&raquo; → <strong>A ministra declarou que nao havia crise no sistema de saude.</strong></p><p>3. O porta-voz garantiu: &laquo;O acordo sera assinado amanha.&raquo; → <strong>O porta-voz garantiu que o acordo seria assinado no dia seguinte.</strong></p>"
     },
     {
       "type": "production",
-      "title": "Rédiger un paragraphe journalistique",
-      "content": "<p>À partir de ces déclarations directes, rédigez un court paragraphe de presse en utilisant le discours indirect :</p><ul><li>Le maire : «Vamos construir um novo hospital na cidade.»</li><li>Une habitante : «Estamos à espera há dez anos.»</li><li>Le porte-parole de l'hôpital : «O projeto será concluído em dois anos.»</li></ul><p>Utilisez au moins 3 verbes introducteurs différents et alternez citations directes partielles et discours indirect.</p>"
+      "title": "Rediger un article journalistique",
+      "content": "<p>Redigez un court article de presse (100-130 mots) rapportant une conference de presse imaginaire :</p><ul><li>Utilisez au moins 3 verbes citants differents</li><li>Alternez citation directe et indirecte</li><li>Appliquez les concordances temporelles correctes</li><li>Incluez les changements deictiques necessaires</li></ul>"
     }
   ],
   "exercises": [
     {
       "type": "mcq",
-      "prompt": "Quel verbe journalistique signifie 'mettre en relief / souligner' ?",
-      "correctAnswer": "salientar",
-      "distractors": ["lamentar", "acusar", "admitir"],
-      "explanation": "'Salientar' = mettre en relief, souligner un point. 'Lamentar' = déplorer. 'Acusar' = accuser."
+      "prompt": "Dans 'O ministro garantiu que o acordo seria assinado amanha', quelle transformation s'est produite ?",
+      "correctAnswer": "Futuro (sera) → Condicional (seria) + amanha reste amanha (si contemporain) ou no dia seguinte",
+      "distractors": [
+        "Futuro → Imperfeito",
+        "Presente → Mais-que-perfeito",
+        "Aucune transformation necessaire"
+      ],
+      "explanation": "En discours indirect au passe, le futur devient conditionnel : 'sera' → 'seria'. 'Amanha' peut rester ou devenir 'no dia seguinte' selon le contexte temporel."
     },
     {
       "type": "fill_blank",
-      "prompt": "O ministro ________ que o plano seria apresentado até ao final do mês.",
-      "correctAnswer": "garantiu",
-      "explanation": "'Garantir' (garantir) est un verbe introducteur courant dans la presse pour une promesse ou un engagement."
+      "prompt": "A deputada afirmou que a situacao ________ (ser) preocupante naquele momento.",
+      "correctAnswer": "era",
+      "explanation": "Discours indirect au passe : 'e' (presente) → 'era' (imperfeito). Transformation temporelle obligatoire."
     },
     {
       "type": "translate",
-      "prompt": "Traduisez : Selon le ministre, les réformes seront graduelles.",
-      "correctAnswer": "Segundo o ministro, as reformas serão graduais.",
-      "explanation": "'Segundo' + nom = selon. Structure sans verbe introducteur, très fréquente dans la presse PT."
+      "prompt": "Traduisez : Le porte-parole a reconnu que des erreurs avaient ete commises.",
+      "correctAnswer": "O porta-voz reconheceu que tinham sido cometidos erros.",
+      "explanation": "'Reconhecer que' + plus-que-parfait. 'Tinham sido cometidos' = avaient ete commis (passif + mais-que-perfeito)."
     },
     {
       "type": "mcq",
-      "prompt": "Dans la phrase « A oposição exigiu que o Governo apresentasse um plano », quel mode verbal suit 'exigiu que' ?",
-      "correctAnswer": "Imperfeito do conjuntivo",
-      "distractors": ["Indicativo", "Condicional", "Infinitivo pessoal"],
-      "explanation": "'Exigir que' exige le subjonctif. Comme le verbe introducteur est au passé, on utilise l'imperfeito do conjuntivo : apresentasse."
+      "prompt": "Quel verbe citant convient pour rapporter une critique ?",
+      "correctAnswer": "contestar / criticar / questionar",
+      "distractors": [
+        "afirmar / declarar",
+        "garantir / assegurar",
+        "revelar / admitir"
+      ],
+      "explanation": "'Contestar', 'criticar', 'questionar' sont des verbes de contre-discours. 'Afirmar/declarar' sont neutres, 'garantir/assegurar' expriment la certitude."
     },
     {
       "type": "fill_blank",
-      "prompt": "O líder da oposição ________ que as propostas eram insuficientes.",
-      "correctAnswer": "declarou",
-      "explanation": "'Declarar' (déclarer) est un verbe introducteur neutre-formel typique du langage journalistique."
+      "prompt": "O director disse que a reuniao tinha sido cancelada ________ dia. (deictique : ce jour-la)",
+      "correctAnswer": "naquele",
+      "explanation": "'Naquele dia' = ce jour-la (discours indirect). En direct : 'hoje'. Transformation deictique obligatoire en discours indirect au passe."
     }
   ],
   "vocabulary": [
-    {"portuguese": "conferência de imprensa", "phonetic": "/kõfɨˈɾẽsiɐ dɨ ĩˈpɾẽsɐ/", "french": "conférence de presse"},
-    {"portuguese": "primeiro-ministro", "phonetic": "/pɾiˈmejɾu miˈniʃtɾu/", "french": "Premier ministre"},
-    {"portuguese": "oposição", "phonetic": "/opuziˈsɐ̃w̃/", "french": "opposition"},
-    {"portuguese": "salientar", "phonetic": "/sɐliẽˈtaɾ/", "french": "souligner / mettre en relief"},
-    {"portuguese": "garantir", "phonetic": "/ɡɐɾɐ̃ˈtiɾ/", "french": "garantir"},
-    {"portuguese": "admitir", "phonetic": "/ɐdmiˈtiɾ/", "french": "admettre"},
-    {"portuguese": "revelar", "phonetic": "/ʁɨvɨˈlaɾ/", "french": "révéler"},
-    {"portuguese": "sublinhar", "phonetic": "/subliˈɲaɾ/", "french": "souligner"},
-    {"portuguese": "porta-voz", "phonetic": "/ˈpɔɾtɐ vɔʃ/", "french": "porte-parole"},
-    {"portuguese": "segundo", "phonetic": "/sɨˈɡũdu/", "french": "selon"}
+    {
+      "portuguese": "porta-voz",
+      "phonetic": "/ˈpoɾtɐ ˈvɔʃ/",
+      "french": "porte-parole"
+    },
+    {
+      "portuguese": "declarar",
+      "phonetic": "/dɨklɐˈɾaɾ/",
+      "french": "declarer"
+    },
+    {
+      "portuguese": "garantir",
+      "phonetic": "/ɡɐɾɐ̃ˈtiɾ/",
+      "french": "garantir"
+    },
+    {
+      "portuguese": "contestar",
+      "phonetic": "/kõtɨʃˈtaɾ/",
+      "french": "contester"
+    },
+    {
+      "portuguese": "deictico",
+      "phonetic": "/ˈdɐjtiku/",
+      "french": "deictique"
+    },
+    {
+      "portuguese": "concordancia temporal",
+      "phonetic": "/kõkuɾˈdɐ̃sjɐ tẽpuˈɾal/",
+      "french": "concordance des temps"
+    }
   ]
 }

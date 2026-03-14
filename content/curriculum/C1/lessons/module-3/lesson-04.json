@@ -1,0 +1,117 @@
+{
+  "id": "c1-m3-l04",
+  "title": "Le fado : poésie et musique",
+  "type": "cultural",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Comprendre les origines et l'esthétique du fado",
+    "Analyser des paroles de fado comme textes poétiques",
+    "Connaitre les grandes fadistas et le fado de Coimbra vs Lisbonne"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le fado : voix de l'ame portugaise",
+      "content": "<p>Le <strong>fado</strong> (du latin <em>fatum</em>, destin) est inscrit au patrimoine immateriel de l'UNESCO depuis 2011. Genre musical ne a Lisbonne au XIXe siecle dans les quartiers populaires d'Alfama et Mouraria. Il se caracterise par la <em>saudade</em>, la melancolie, le destin. Accompagnement : guitarra portuguesa (12 cordes) + viola baixo (guitare classique).</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Fado de Lisbonne vs Fado de Coimbra",
+      "content": "<p><strong>Fado de Lisbonne :</strong></p><ul><li>Femmes et hommes chantent</li><li>Repertoire populaire, themes : amour, vie de quartier, mer</li><li>Amalia Rodrigues (1920-1999) = la Rainha do Fado</li><li>Artistes contemporains : Mariza, Ana Moura, Camane</li></ul><p><strong>Fado de Coimbra :</strong></p><ul><li>Chante exclusivement par des hommes, tradition academique</li><li>Poesie savante, influence de Camoes</li><li>Costume academique (cape noire)</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Analyser des paroles de fado",
+      "content": "<p><strong>Extrait : Estranha Forma de Vida (Amalia Rodrigues) :</strong></p><p><em>Estranha forma de vida / Que os deuses nos concederam / Passamos e nao vivemos / Sonhamos e nao queremos</em></p><p><strong>Analyse :</strong></p><ul><li>Theme : existence comme passage</li><li>Opposition : passamos/vivemos, sonhamos/queremos</li><li>Resignation : os deuses nos concederam (fatalisme)</li><li>Registre poetique eleve</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Analyser et traduire",
+      "content": "<p>Traduisez et commentez ces vers :</p><p>1. <em>O gente da minha terra / Agora e que eu percebi / Que o fado veio do ceu / Para minha perdicao.</em></p><p>2. <em>Toda a minha vida e fado / E o meu fado sou eu.</em></p>"
+    },
+    {
+      "type": "production",
+      "title": "Commentaire sur le fado",
+      "content": "<p>Redigez un texte argumentatif (100-130 mots) sur le sujet : <em>Pourquoi le fado est-il un art intraduisible ?</em></p><p>Utilisez les concepts vus : saudade, destin (fatum), rapport entre musique et poesie, specificite culturelle portugaise.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Depuis quelle annee le fado est-il inscrit au patrimoine UNESCO ?",
+      "correctAnswer": "2011",
+      "distractors": [
+        "1998",
+        "2005",
+        "2016"
+      ],
+      "explanation": "Le fado de Lisbonne a ete inscrit sur la liste du patrimoine culturel immateriel de l'UNESCO en novembre 2011."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel instrument est specifique au fado portugais ?",
+      "correctAnswer": "La guitarra portuguesa (12 cordes, cordophone a plectre)",
+      "distractors": [
+        "Le cavaquinho bresilien",
+        "La vihuela espagnole",
+        "Le mandoline italien"
+      ],
+      "explanation": "La guitarra portuguesa est un instrument unique, a 12 cordes metalliques, propre au fado."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Etrange facon de vivre que les dieux nous ont accordee.",
+      "correctAnswer": "Estranha forma de vida que os deuses nos concederam.",
+      "explanation": "Debut du fado emblematique d'Amalia Rodrigues. 'Conceder' = accorder."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Amalia Rodrigues est surnommee la «________ do Fado».",
+      "correctAnswer": "Rainha",
+      "explanation": "Amalia Rodrigues (1920-1999) est surnommee la Rainha do Fado (Reine du Fado)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la difference principale entre le fado de Lisbonne et le fado de Coimbra ?",
+      "correctAnswer": "Coimbra est chante uniquement par des hommes, lie a la tradition academique universitaire",
+      "distractors": [
+        "Coimbra utilise des instruments differents",
+        "Coimbra est plus moderne",
+        "Lisbonne interdit les femmes"
+      ],
+      "explanation": "Le fado de Coimbra est une tradition academique masculine, lie a l'universite."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "fado",
+      "phonetic": "/ˈfadu/",
+      "french": "fado (destin ; genre musical)"
+    },
+    {
+      "portuguese": "fadista",
+      "phonetic": "/fɐˈdiʃtɐ/",
+      "french": "chanteur/euse de fado"
+    },
+    {
+      "portuguese": "guitarra portuguesa",
+      "phonetic": "/ɡiˈtaʁɐ puɾtuˈɡezɐ/",
+      "french": "guitare portugaise (12 cordes)"
+    },
+    {
+      "portuguese": "saudade",
+      "phonetic": "/sɐwˈdadɨ/",
+      "french": "melancolie nostalgique"
+    },
+    {
+      "portuguese": "perdicao",
+      "phonetic": "/pɨɾdiˈsɐ̃w̃/",
+      "french": "perdition / perte"
+    },
+    {
+      "portuguese": "letra",
+      "phonetic": "/ˈlɛtɾɐ/",
+      "french": "paroles (de chanson)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "c1-m1-l04",
+  "title": "Nuances aspectuelles et temporelles",
+  "type": "grammar",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Maîtriser les oppositions perfeito composto vs simples en PT-PT",
+    "Distinguer ter + particípio et haver + particípio",
+    "Utiliser acabar de, acabar por, passar a, voltar a correctement"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "Les subtilités aspectuelles du portugais", "content": "<p>Au niveau C1, les nuances aspectuelles sont cruciales. En PT-PT, le <strong>pretérito perfeito composto</strong> (tenho falado) et le <strong>perfeito simples</strong> (falei) ont des valeurs très différentes — contrairement à l'espagnol ou au français.</p><blockquote><em><strong>Tenho estudado</strong> muito ultimamente.</em> — J'étudie beaucoup ces derniers temps (action répétée récente).<br><em><strong>Estudei</strong> ontem.</em> — J'ai étudié hier (action ponctuelle passée).</blockquote>"},
+    {"type": "discovery", "title": "Perfeito composto vs simples", "content": "<p><strong>Pretérito perfeito simples</strong> (falei) :</p><ul><li>Action <strong>ponctuelle, terminée</strong> dans le passé</li><li>Moment précis : <em>Ontem <strong>fui</strong> ao cinema.</em></li><li>Bilan sur une période close : <em>Este ano <strong>viajei</strong> muito.</em></li></ul><p><strong>Pretérito perfeito composto</strong> (tenho falado) :</p><ul><li>Action <strong>répétée ou continue</strong> jusqu'au présent</li><li><em><strong>Tenho trabalhado</strong> muito esta semana.</em> (travail en cours)</li><li><em><strong>Tenho-te</strong> dito isso várias vezes.</em> (répété)</li></ul><p><strong>Piège :</strong> ne pas confondre avec le français où 'j'ai parlé' = ponctuel. En PT-PT, 'falei' = ponctuel, 'tenho falado' = itératif/duratif récent.</p>"},
+    {"type": "explanation", "title": "Ter vs haver + particípio, et périphrases aspectuelles", "content": "<p><strong>Haver de + infinitif</strong> : obligation morale ou certitude future :</p><ul><li><em>Hei de <strong>conseguir</strong>.</em> — J'y arriverai (certainement).</li><li><em>Havemos de <strong>falar</strong> sobre isso.</em> — Il faudra qu'on en parle.</li></ul><p><strong>Périphrases aspectuelles clés :</strong></p><ul><li><em><strong>acabar de</strong> + inf.</em> = venir de : <em>Acabo de <strong>chegar</strong>.</em></li><li><em><strong>acabar por</strong> + inf.</em> = finir par : <em>Acabei por <strong>aceitar</strong>.</em></li><li><em><strong>passar a</strong> + inf.</em> = se mettre à / commencer à : <em>Passou a <strong>fumar</strong> aos 20 anos.</em></li><li><em><strong>voltar a</strong> + inf.</em> = refaire : <em>Voltei a <strong>ler</strong> o livro.</em></li><li><em><strong>continuar a</strong> + inf.</em> = continuer à : <em>Continua a <strong>trabalhar</strong>.</em></li><li><em><strong>deixar de</strong> + inf.</em> = cesser de : <em>Deixou de <strong>fumar</strong>.</em></li></ul>"},
+    {"type": "practice", "title": "Choisir la périphrase correcte", "content": "<p>Traduisez avec la bonne périphrase :</p><ol><li>'Je viens d'arriver.' → <strong>Acabo de chegar.</strong></li><li>'Il a fini par partir.' → <strong>Acabou por partir.</strong></li><li>'Elle a recommencé à travailler.' → <strong>Voltou a trabalhar.</strong></li><li>'Nous avons arrêté de fumer.' → <strong>Deixámos de fumar.</strong></li><li>'Il s'est mis à crier.' → <strong>Passou a gritar.</strong></li></ol>"},
+    {"type": "production", "title": "Raconter une évolution personnelle", "content": "<p>Écrivez un paragraphe de 100-120 mots décrivant une évolution personnelle ou professionnelle. Utilisez au moins 4 périphrases aspectuelles différentes et montrez la distinction perfeito simples / composto.</p>"}
+  ],
+  "exercises": [
+    {"type": "mcq", "prompt": "Quelle phrase exprime une action répétée récente en PT-PT ?", "correctAnswer": "Tenho trabalhado muito esta semana.", "distractors": ["Trabalhei muito esta semana.", "Trabalhava muito.", "Vou trabalhar muito."], "explanation": "'Tenho trabalhado' = pretérito perfeito composto = action répétée/continue récente. 'Trabalhei' serait ponctuel."},
+    {"type": "fill_blank", "prompt": "Ele ________ de chegar quando ligaste. (venir de)", "correctAnswer": "acabava", "explanation": "Acabar de = venir de. À l'imparfait : acabava de chegar = il venait d'arriver (dans le passé)."},
+    {"type": "fill_blank", "prompt": "Após muita resistência, ela ________ por aceitar o emprego. (finir par)", "correctAnswer": "acabou", "explanation": "'Acabar por + infinitif' = finir par. Pretérito perfeito simples : acabou."},
+    {"type": "mcq", "prompt": "Que signifie 'Hei de conseguir' ?", "correctAnswer": "J'y arriverai certainement (promesse/certitude)", "distractors": ["J'ai déjà réussi", "Je viens de réussir", "Je dois réussir maintenant"], "explanation": "'Haver de + infinitif' exprime une certitude ou résolution forte sur le futur. C'est une forme très PT-PT."},
+    {"type": "translate", "prompt": "Traduisez : 'Depuis qu'il a déménagé, il a recommencé à courir chaque matin.'", "correctAnswer": "Desde que se mudou, voltou a correr todas as manhãs.", "explanation": "'Desde que' + pretérito perfeito simples. 'Voltou a correr' = recommencé à courir (voltar a + inf.)."}
+  ],
+  "vocabulary": [
+    {"portuguese": "acabar de", "phonetic": "/ɐˈkabaɾ dɨ/", "french": "venir de"},
+    {"portuguese": "acabar por", "phonetic": "/ɐˈkabaɾ puɾ/", "french": "finir par"},
+    {"portuguese": "passar a", "phonetic": "/pɐˈsaɾ ɐ/", "french": "se mettre à / commencer à"},
+    {"portuguese": "voltar a", "phonetic": "/vulˈtaɾ ɐ/", "french": "recommencer à / refaire"},
+    {"portuguese": "deixar de", "phonetic": "/dɐjˈʃaɾ dɨ/", "french": "cesser de / arrêter de"},
+    {"portuguese": "haver de", "phonetic": "/ɐˈveɾ dɨ/", "french": "devoir (fatalité) / être certain de"},
+    {"portuguese": "aspecto verbal", "phonetic": "/ɐʃˈpɛtu vɨɾˈbal/", "french": "aspect verbal"}
+  ]
+}

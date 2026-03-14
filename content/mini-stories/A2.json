@@ -1,0 +1,188 @@
+{
+  "level": "A2",
+  "stories": [
+    {
+      "id": "ms-a2-001",
+      "title": "As férias de verão de Beatriz",
+      "theme": "Voyages et loisirs",
+      "icon": "🏖️",
+      "main_text": "Este verão, Beatriz foi ao Algarve com a família. Ficaram numa pequena pensão perto da praia. Todos os dias, Beatriz acordava cedo e ia nadar no mar. O mar estava quente e muito azul. À tarde, a família visitava aldeias típicas. Comeram muito peixe fresco e marisco. Beatriz tirou muitas fotografias. No fim das férias, ela estava triste por voltar para Lisboa.",
+      "vocabulary": [
+        { "pt": "as férias", "fr": "les vacances" },
+        { "pt": "o verão", "fr": "l'été" },
+        { "pt": "a pensão", "fr": "la pension / le B&B" },
+        { "pt": "a praia", "fr": "la plage" },
+        { "pt": "nadar", "fr": "nager" },
+        { "pt": "a aldeia", "fr": "le village" },
+        { "pt": "o marisco", "fr": "les fruits de mer" },
+        { "pt": "tirar fotografias", "fr": "prendre des photos" },
+        { "pt": "triste", "fr": "triste" },
+        { "pt": "voltar", "fr": "rentrer / retourner" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "Para onde foi Beatriz este verão? Foi ao Algarve.\nCom quem foi? Foi com a família.\nOnde ficaram? Ficaram numa pequena pensão.\nO que fazia Beatriz todos os dias? Acordava cedo e ia nadar.\nO que visitaram à tarde? Visitaram aldeias típicas.\nO que comeram? Comeram peixe fresco e marisco.\nComo se sentiu Beatriz no fim das férias? Estava triste por voltar."
+        },
+        {
+          "type": "future",
+          "label": "Au futur",
+          "text": "Para o próximo verão, Beatriz vai ao Algarve com a família. Vão ficar numa pequena pensão perto da praia. Todos os dias, Beatriz vai acordar cedo e vai nadar no mar. À tarde, a família vai visitar aldeias típicas. Vão comer muito peixe fresco e marisco. Beatriz vai tirar muitas fotografias."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Beatriz não foi ao norte de Portugal. Não ficou num hotel de cinco estrelas. Não acordava tarde. O mar não estava frio. Não comeram carne. Beatriz não tirou poucas fotografias. No fim das férias, não estava contente por partir."
+        }
+      ]
+    },
+    {
+      "id": "ms-a2-002",
+      "title": "No restaurante com amigos",
+      "theme": "Restauration",
+      "icon": "🍽️",
+      "main_text": "Ao sábado à noite, Carlos e os seus amigos foram a um restaurante no Chiado. A empregada de mesa trouxe a ementa. Carlos queria peixe mas decidiu pedir bacalhau à Brás. A amiga Rita pediu caldo verde e frango assado. Beberam vinho tinto da região do Alentejo. A sobremesa foi um arroz doce delicioso. No fim, Carlos pediu a conta. Cada um pagou a sua parte.",
+      "vocabulary": [
+        { "pt": "a ementa", "fr": "la carte / le menu" },
+        { "pt": "o bacalhau à Brás", "fr": "morue à la Brás (plat typique)" },
+        { "pt": "o caldo verde", "fr": "soupe au chou vert" },
+        { "pt": "o frango assado", "fr": "le poulet rôti" },
+        { "pt": "o vinho tinto", "fr": "le vin rouge" },
+        { "pt": "a sobremesa", "fr": "le dessert" },
+        { "pt": "o arroz doce", "fr": "le riz au lait" },
+        { "pt": "a conta", "fr": "l'addition" },
+        { "pt": "cada um", "fr": "chacun" },
+        { "pt": "pagar a sua parte", "fr": "payer sa part" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "Quando foram ao restaurante? Foram ao sábado à noite.\nOnde fica o restaurante? No Chiado.\nO que trouxe a empregada? A empregada trouxe a ementa.\nO que pediu Carlos? Pediu bacalhau à Brás.\nO que pediu Rita? Pediu caldo verde e frango assado.\nO que beberam? Beberam vinho tinto do Alentejo.\nQual foi a sobremesa? Foi um arroz doce.\nComo pagaram? Cada um pagou a sua parte."
+        },
+        {
+          "type": "conditional",
+          "label": "Au conditionnel",
+          "text": "Se Carlos fosse a um restaurante amanhã, escolheria um restaurante no Chiado. Queria pedir bacalhau à Brás. A amiga Rita pediria caldo verde e frango assado. Beberiam vinho tinto do Alentejo. A sobremesa seria um arroz doce. No fim, cada um pagaria a sua parte."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Carlos e os amigos não foram a uma tasca. A empregada não trouxe uma lista de vinhos. Carlos não pediu carne. Rita não pediu sopa de legumes. Não beberam vinho verde. A sobremesa não foi um pastel de nata. No fim, Carlos não pagou tudo sozinho."
+        }
+      ]
+    },
+    {
+      "id": "ms-a2-003",
+      "title": "Uma consulta médica",
+      "theme": "Santé",
+      "icon": "🏥",
+      "main_text": "Na segunda-feira, Marta não se sentiu bem. Tinha dores de cabeça e estava com febre. Marcou uma consulta no centro de saúde. O médico examinou-a e perguntou os seus sintomas. Ela disse que também tinha tosse e dores de garganta. O médico diagnosticou uma gripe. Receitou-lhe medicamentos e disse para ficar em casa a descansar três dias. Marta seguiu os conselhos do médico e ficou melhor.",
+      "vocabulary": [
+        { "pt": "sentir-se bem", "fr": "se sentir bien" },
+        { "pt": "a dor de cabeça", "fr": "le mal de tête" },
+        { "pt": "a febre", "fr": "la fièvre" },
+        { "pt": "marcar uma consulta", "fr": "prendre rendez-vous" },
+        { "pt": "o centro de saúde", "fr": "le centre de santé" },
+        { "pt": "os sintomas", "fr": "les symptômes" },
+        { "pt": "a tosse", "fr": "la toux" },
+        { "pt": "a garganta", "fr": "la gorge" },
+        { "pt": "a gripe", "fr": "la grippe" },
+        { "pt": "os medicamentos", "fr": "les médicaments" },
+        { "pt": "descansar", "fr": "se reposer" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "Como se sentiu Marta na segunda-feira? Não se sentiu bem.\nQuais eram os seus sintomas? Tinha dores de cabeça e febre.\nOnde marcou consulta? No centro de saúde.\nO que perguntou o médico? Perguntou os seus sintomas.\nQue mais tinha Marta? Tinha tosse e dores de garganta.\nO que diagnosticou o médico? Diagnosticou uma gripe.\nO que receitou o médico? Receitou medicamentos.\nQuantos dias ficou em casa? Três dias."
+        },
+        {
+          "type": "future",
+          "label": "Au futur",
+          "text": "Se Marta não se sentir bem, vai marcar uma consulta no centro de saúde. O médico vai examiná-la e perguntar os seus sintomas. Se tiver gripe, o médico vai receitar medicamentos. Marta vai ficar em casa a descansar. Vai seguir os conselhos do médico e vai ficar melhor."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Marta não foi ao hospital. Não tinha dores de barriga. Não marcou consulta no privado. O médico não perguntou a sua morada. Ela não tinha pneumonia. O médico não receitou antibióticos. Marta não ficou em casa uma semana."
+        }
+      ]
+    },
+    {
+      "id": "ms-a2-004",
+      "title": "A tarde de sábado de Miguel",
+      "theme": "Loisirs",
+      "icon": "⚽",
+      "main_text": "Aos sábados à tarde, Miguel gosta de praticar desporto. Esta semana, foi jogar futebol com os amigos num parque perto de casa. Depois do futebol, estavam todos com fome e sede. Foram a uma tasca e pediram bifes e cervejas frescas. À noite, Miguel foi ao cinema com a namorada. Viram um filme português muito interessante. Chegaram a casa à meia-noite.",
+      "vocabulary": [
+        { "pt": "praticar desporto", "fr": "faire du sport" },
+        { "pt": "o futebol", "fr": "le football" },
+        { "pt": "o parque", "fr": "le parc" },
+        { "pt": "com fome", "fr": "avoir faim" },
+        { "pt": "com sede", "fr": "avoir soif" },
+        { "pt": "a tasca", "fr": "le bistrot / le petit resto" },
+        { "pt": "o bife", "fr": "le steak" },
+        { "pt": "a cerveja fresca", "fr": "la bière fraîche" },
+        { "pt": "o cinema", "fr": "le cinéma" },
+        { "pt": "a namorada", "fr": "la petite amie" },
+        { "pt": "a meia-noite", "fr": "minuit" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "O que gosta de fazer Miguel aos sábados? Gosta de praticar desporto.\nOnde foi jogar futebol? Foi a um parque perto de casa.\nComo estavam depois do futebol? Estavam com fome e sede.\nOnde foram comer? Foram a uma tasca.\nO que pediram? Pediram bifes e cervejas frescas.\nPara onde foi Miguel à noite? Foi ao cinema.\nCom quem foi? Foi com a namorada.\nA que horas chegaram a casa? Chegaram à meia-noite."
+        },
+        {
+          "type": "habitual",
+          "label": "Habitude (présent)",
+          "text": "Aos sábados à tarde, Miguel gosta de praticar desporto. Vai jogar futebol com os amigos num parque perto de casa. Depois do futebol, estão sempre com fome e sede. Vão a uma tasca e pedem bifes e cervejas frescas. À noite, Miguel vai ao cinema com a namorada."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Miguel não gosta de passar o sábado em casa. Não foi jogar ténis. O parque não fica longe. Não foram a um restaurante caro. Não pediram sopas. À noite, Miguel não ficou em casa. Não viram um filme americano. Não chegaram a casa às dez horas."
+        }
+      ]
+    },
+    {
+      "id": "ms-a2-005",
+      "title": "A viagem de comboio",
+      "theme": "Transports",
+      "icon": "🚂",
+      "main_text": "Sara precisa de ir ao Porto para uma reunião. Na estação de Santa Apolónia, comprou um bilhete de ida e volta. O comboio Alfa Pendular parte às nove horas. Sara encontrou o seu lugar e sentou-se. Durante a viagem, leu um livro e ouviu música. A paisagem era muito bonita: montanhas, rios e vinhas. O comboio chegou ao Porto a horas. A reunião correu muito bem.",
+      "vocabulary": [
+        { "pt": "a viagem", "fr": "le voyage" },
+        { "pt": "o comboio", "fr": "le train (PT-PT)" },
+        { "pt": "a estação", "fr": "la gare" },
+        { "pt": "o bilhete", "fr": "le billet" },
+        { "pt": "a ida e volta", "fr": "l'aller-retour" },
+        { "pt": "partir", "fr": "partir" },
+        { "pt": "o lugar", "fr": "la place / le siège" },
+        { "pt": "a paisagem", "fr": "le paysage" },
+        { "pt": "a vinha", "fr": "le vignoble" },
+        { "pt": "a reunião", "fr": "la réunion" },
+        { "pt": "correr bem", "fr": "bien se passer" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "Para onde precisa de ir Sara? Precisa de ir ao Porto.\nPorque vai ao Porto? Para uma reunião.\nOnde comprou o bilhete? Na estação de Santa Apolónia.\nQue bilhete comprou? Um bilhete de ida e volta.\nA que horas parte o comboio? Parte às nove horas.\nO que fez Sara durante a viagem? Leu um livro e ouviu música.\nComo era a paisagem? Era muito bonita: montanhas, rios e vinhas.\nComo correu a reunião? Correu muito bem."
+        },
+        {
+          "type": "future",
+          "label": "Au futur",
+          "text": "Amanhã, Sara vai de comboio ao Porto para uma reunião. Na estação de Santa Apolónia, vai comprar um bilhete de ida e volta. O comboio Alfa Pendular vai partir às nove horas. Durante a viagem, Sara vai ler um livro e ouvir música. A reunião vai correr muito bem."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Sara não foi de carro ao Porto. Não comprou um bilhete só de ida. O comboio não parte às sete horas. Sara não ficou de pé durante a viagem. Não dormiu. A paisagem não era feia. O comboio não chegou atrasado. A reunião não correu mal."
+        }
+      ]
+    }
+  ]
+}

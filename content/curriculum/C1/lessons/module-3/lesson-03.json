@@ -1,0 +1,117 @@
+{
+  "id": "c1-m3-l03",
+  "title": "Saramago : style et narration",
+  "type": "cultural",
+  "estimatedMinutes": 28,
+  "objectives": [
+    "Identifier les caractéristiques stylistiques du roman saramaguien",
+    "Analyser la ponctuation non conventionnelle et le flux narratif",
+    "Lire et comprendre des extraits de Saramago"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "José Saramago, prix Nobel 1998",
+      "content": "<p>José Saramago (1922–2010) est le seul auteur de langue portugaise à avoir reçu le prix Nobel de littérature (1998). Ses romans se caractérisent par un style radicalement personnel : <strong>absence de guillemets et de majuscules dans les dialogues</strong>, phrases qui s'étendent sur de longues distances, narrateur omniscient ironique, paraboles allégoriques.</p><p>Œuvres majeures : <em>Ensaio sobre a Cegueira</em> (1995), <em>O Evangelho segundo Jesus Cristo</em> (1991), <em>Memorial do Convento</em> (1982), <em>O Homem Duplicado</em> (2002).</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les marques stylistiques de Saramago",
+      "content": "<p><strong>1. Ponctuation non conventionnelle :</strong></p><ul><li>Pas de guillemets dans les dialogues</li><li>Majuscule après virgule pour marquer un changement de locuteur</li><li>Phrases très longues reliées par des virgules</li></ul><p><strong>2. Narrateur :</strong> omniscient, ironique, qui intervient dans le récit</p><p><strong>3. Allégorie :</strong> les personnages sont souvent désignés par leur fonction (a Mulher do Médico, o Polícia)</p><p><strong>4. Intertextualité :</strong> références bibliques, historiques, philosophiques</p><p><strong>Exemple :</strong> <em>O médico disse, Pode ir, não há mais nada a fazer, a mulher disse, Obrigada, doutor, e saiu.</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Analyser le style saramaguien",
+      "content": "<p><strong>Extrait de Ensaio sobre a Cegueira :</strong></p><p><em>O primeiro cego da cidade foi aquele que se encontrava ao volante do carro quando, por uma razão desconhecida, ficou subitamente cego no meio do trânsito, nas horas de ponta, aquando do semáforo vermelho, e ficou assim, imóvel, até que os outros automobilistas se cansaram de buzinar e alguém veio em seu auxílio.</em></p><p>Caractéristiques : une seule phrase longue, accumulation de propositions relatives et circonstancielles, pas de marque de dialogue, présentation factuelle ironique d'un événement extraordinaire.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Réécrire en style conventionnel",
+      "content": "<p>Réécrivez cet extrait saramaguien en ajoutant guillemets, points et retours à la ligne :</p><p><em>Tenho fome, disse ela, Também eu, respondeu ele, mas não há nada em casa, Poderíamos ir ao restaurante, Não tenho dinheiro, Eu pago, disse ela.</em></p><p>→ — Tenho fome — disse ela.<br>— Também eu — respondeu ele — mas não há nada em casa.<br>— Poderíamos ir ao restaurante.<br>— Não tenho dinheiro.<br>— Eu pago — disse ela.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Écrire à la manière de Saramago",
+      "content": "<p>Écrivez un court paragraphe (60-80 mots) à la manière de Saramago :</p><ul><li>Une scène de dialogue entre deux personnes</li><li>Sans guillemets, avec majuscule pour changer de locuteur</li><li>Une phrase longue avec plusieurs propositions</li><li>Un narrateur qui commente avec ironie</li></ul><p>Thème suggéré : une file d'attente, un café, une salle d'attente.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la marque stylistique la plus reconnaissable de Saramago ?",
+      "correctAnswer": "L'absence de guillemets dans les dialogues, remplacés par des virgules et majuscules",
+      "distractors": [
+        "L'usage exclusif du vers",
+        "Les dialogues très courts",
+        "L'absence totale de ponctuation"
+      ],
+      "explanation": "Saramago intègre les dialogues dans le flux narratif sans guillemets. Le changement de locuteur est indiqué par une virgule suivie d'une majuscule."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle récompense Saramago a-t-il reçue en 1998 ?",
+      "correctAnswer": "Le prix Nobel de littérature",
+      "distractors": [
+        "Le prix Camões",
+        "Le Booker Prize",
+        "Le prix Pulitzer"
+      ],
+      "explanation": "José Saramago a reçu le prix Nobel de littérature en 1998, seul auteur de langue portugaise à ce jour."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : L'essai sur la cécité (titre du roman)",
+      "correctAnswer": "Ensaio sobre a Cegueira",
+      "explanation": "'Ensaio' = essai. 'Cegueira' = cécité (de 'cego' = aveugle). Roman allégorique de 1995, traduit dans 40 langues."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Dans les romans de Saramago, les personnages sont souvent désignés par leur ________ plutôt que par leur nom.",
+      "correctAnswer": "fonction / métier",
+      "explanation": "Ex: 'a Mulher do Médico', 'o Médico', 'o Polícia' — procédé allégorique qui universalise les personnages."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Lequel de ces romans est de Saramago ?",
+      "correctAnswer": "Memorial do Convento (1982)",
+      "distractors": [
+        "Os Maias (1888)",
+        "Mensagem (1934)",
+        "Amor de Perdição (1862)"
+      ],
+      "explanation": "Memorial do Convento (1982) de Saramago raconte la construction du couvent de Mafra sous João V. Les autres sont de Eça de Queirós, Pessoa et Camilo Castelo Branco."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "estilo",
+      "phonetic": "/ɨʃˈtilu/",
+      "french": "style"
+    },
+    {
+      "portuguese": "narrador",
+      "phonetic": "/nɐʁɐˈdoɾ/",
+      "french": "narrateur"
+    },
+    {
+      "portuguese": "alegoria",
+      "phonetic": "/ɐlɨˈɡɔɾjɐ/",
+      "french": "allégorie"
+    },
+    {
+      "portuguese": "cegueira",
+      "phonetic": "/sɨˈɡɐjɾɐ/",
+      "french": "cécité"
+    },
+    {
+      "portuguese": "pontuação",
+      "phonetic": "/põtuɐˈsɐ̃w̃/",
+      "french": "ponctuation"
+    },
+    {
+      "portuguese": "fluxo narrativo",
+      "phonetic": "/ˈfluksu nɐʁɐˈtivu/",
+      "french": "flux narratif"
+    }
+  ]
+}

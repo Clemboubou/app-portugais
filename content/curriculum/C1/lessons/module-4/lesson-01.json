@@ -1,0 +1,117 @@
+{
+  "id": "c1-m4-l01",
+  "title": "Rhetorique et argumentation avancee",
+  "type": "grammar",
+  "estimatedMinutes": 28,
+  "objectives": [
+    "Maitriser les figures de rhetorique en portugais",
+    "Construire un argument syllogistique en portugais",
+    "Utiliser les procedes rhetoriques de persuasion"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La rhetorique au service du discours",
+      "content": "<p>Au niveau C1, argumenter ne suffit pas : il faut <strong>persuader</strong>. La rhetorique classique (Aristote) distingue <em>logos</em> (argument rationnel), <em>ethos</em> (credibilite du locuteur) et <em>pathos</em> (emotion de l'auditoire). En portugais europeen formel, ces trois dimensions s'articulent dans des discours structures.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Figures de rhetorique en portugais",
+      "content": "<p><strong>Anaphore :</strong> repetition en debut de phrase. <em>Queremos paz. Queremos justicia. Queremos progresso.</em></p><p><strong>Antithese :</strong> opposition de deux idees. <em>Muito se prometeu, pouco se cumpriu.</em></p><p><strong>Litote :</strong> attenuation ironique. <em>Nao e dos melhores alunos.</em> (= e mau aluno)</p><p><strong>Eufemismo :</strong> attenuation d'une realite negative. <em>Passou a melhor vida.</em> (= morreu)</p><p><strong>Hiperbole :</strong> exageration. <em>Ja disse isto mil vezes.</em></p><p><strong>Ironia :</strong> dire le contraire de ce qu'on pense. <em>Que bela solucao!</em> (quando a solucao e ma)</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Structure du discours argumentatif C1",
+      "content": "<p><strong>Plan type d'une dissertation portugaise :</strong></p><ol><li><strong>Introducao :</strong> contextualizacao do tema + tese central</li><li><strong>Desenvolvimento :</strong> 2-3 argumentos com exemplos + contraargumentos + refutacao</li><li><strong>Conclusao :</strong> sintese + abertura (perspectiva mais ampla)</li></ol><p><strong>Conectores de refutacao :</strong></p><ul><li><em>Contrariamente ao que se poderia pensar...</em></li><li><em>Embora seja verdade que... nao e menos certo que...</em></li><li><em>O argumento de que... nao resiste a uma analise mais aprofundada.</em></li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Identifier les figures de style",
+      "content": "<p>Identifiez la figure de rhetorique dans chaque phrase :</p><p>1. <em>Nao e o mais dotado dos politicos.</em> → <strong>Litote</strong></p><p>2. <em>Queremos paz, queremos unidade, queremos futuro.</em> → <strong>Anaphore</strong></p><p>3. <em>A reuniao correu pessimamente bem.</em> → <strong>Antiphrase/Ironie</strong></p><p>4. <em>Disse-lhe isso um milhao de vezes.</em> → <strong>Hyperbole</strong></p>"
+    },
+    {
+      "type": "production",
+      "title": "Discours argumentatif",
+      "content": "<p>Redigez un paragraphe de 120-150 mots sur : <em>A inteligencia artificial ameaca o emprego humano?</em></p><p>Incluez obligatoirement :</p><ul><li>Une anaphore (au moins 2 repetitions)</li><li>Une antithese</li><li>Un connecteur de refutation</li><li>Une conclusion ouverte</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Qu'est-ce qu'une litote ?",
+      "correctAnswer": "Attenuation ironique qui dit moins pour exprimer plus (ex: pas des plus brillants = tres mediocre)",
+      "distractors": [
+        "Exageration hyperbolique",
+        "Repetition en debut de phrase",
+        "Opposition de deux idees"
+      ],
+      "explanation": "La litote dit moins que ce qu'on pense : 'Nao e dos melhores' = il est mauvais. Effet d'attenuation ou d'ironie subtile."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ ao que se poderia pensar, o projeto teve sucesso.",
+      "correctAnswer": "Contrariamente",
+      "explanation": "'Contrariamente ao que se poderia pensar' = Contrairement a ce qu'on aurait pu penser. Connecteur de refutation/concession."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Dans la rhetorique classique, le 'pathos' designe :",
+      "correctAnswer": "L'appel a l'emotion de l'auditoire",
+      "distractors": [
+        "L'argument rationnel",
+        "La credibilite du locuteur",
+        "La structure logique du discours"
+      ],
+      "explanation": "Aristote distinguait logos (raison), ethos (credibilite) et pathos (emotion). Le pathos vise a toucher emotionnellement l'auditeur."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Bien qu'il soit vrai que... il n'est pas moins certain que...",
+      "correctAnswer": "Embora seja verdade que... nao e menos certo que...",
+      "explanation": "'Embora' + subjonctif. 'Nao e menos certo' = il n'est pas moins certain (litote de renforcement)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "L'anaphore est une figure de :",
+      "correctAnswer": "Repetition (meme mot/structure en debut de propositions successives)",
+      "distractors": [
+        "Opposition",
+        "Attenuation",
+        "Substitution"
+      ],
+      "explanation": "L'anaphore repete le meme element en debut de propositions : 'Queremos... Queremos... Queremos...' Effet rythmique et persuasif."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "retorica",
+      "phonetic": "/ˈʁɛtuɾikɐ/",
+      "french": "rhetorique"
+    },
+    {
+      "portuguese": "anafora",
+      "phonetic": "/ɐˈnafuɾɐ/",
+      "french": "anaphore"
+    },
+    {
+      "portuguese": "antitese",
+      "phonetic": "/ɐ̃ˈtitɨzɨ/",
+      "french": "antithese"
+    },
+    {
+      "portuguese": "litotes",
+      "phonetic": "/liˈtɔtɨʃ/",
+      "french": "litote"
+    },
+    {
+      "portuguese": "eufemismo",
+      "phonetic": "/ewfɨˈmizmu/",
+      "french": "euphemisme"
+    },
+    {
+      "portuguese": "silogismo",
+      "phonetic": "/siluˈʒizmu/",
+      "french": "syllogisme"
+    }
+  ]
+}

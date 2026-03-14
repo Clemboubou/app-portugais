@@ -2466,17 +2466,6 @@
     ]
   },
   {
-    "portuguese": "bebê",
-    "phonetic": "",
-    "french": "bébé (BR) / bebé (EP)",
-    "level": "A1",
-    "frequency": 82,
-    "tags": [
-      "famille",
-      "br"
-    ]
-  },
-  {
     "portuguese": "caderno",
     "phonetic": "",
     "french": "cahier / carnet",
@@ -2506,39 +2495,6 @@
     "tags": [
       "cuisine",
       "objets"
-    ]
-  },
-  {
-    "portuguese": "dezenove",
-    "phonetic": "",
-    "french": "dix-neuf (BR) / dezanove (EP)",
-    "level": "A1",
-    "frequency": 82,
-    "tags": [
-      "nombres",
-      "br"
-    ]
-  },
-  {
-    "portuguese": "dezesseis",
-    "phonetic": "",
-    "french": "seize (BR) / dezasseis (EP)",
-    "level": "A1",
-    "frequency": 82,
-    "tags": [
-      "nombres",
-      "br"
-    ]
-  },
-  {
-    "portuguese": "dezessete",
-    "phonetic": "",
-    "french": "dix-sept (BR) / dezassete (EP)",
-    "level": "A1",
-    "frequency": 82,
-    "tags": [
-      "nombres",
-      "br"
     ]
   },
   {
@@ -2674,17 +2630,6 @@
     ]
   },
   {
-    "portuguese": "trem",
-    "phonetic": "",
-    "french": "train (BR) / comboio (EP)",
-    "level": "A1",
-    "frequency": 82,
-    "tags": [
-      "transport",
-      "br"
-    ]
-  },
-  {
     "portuguese": "aqueles",
     "phonetic": "",
     "french": "ces (masc. éloignés)",
@@ -2692,17 +2637,6 @@
     "frequency": 80,
     "tags": [
       "pronoms"
-    ]
-  },
-  {
-    "portuguese": "cachorro",
-    "phonetic": "",
-    "french": "chien (BR) / cão (EP)",
-    "level": "A1",
-    "frequency": 80,
-    "tags": [
-      "animaux",
-      "br"
     ]
   },
   {
@@ -2726,17 +2660,6 @@
     ]
   },
   {
-    "portuguese": "ônibus",
-    "phonetic": "",
-    "french": "bus (BR) / autocarro (EP)",
-    "level": "A1",
-    "frequency": 80,
-    "tags": [
-      "transport",
-      "br"
-    ]
-  },
-  {
     "portuguese": "aquilo",
     "phonetic": "",
     "french": "ça / cela (éloigné)",
@@ -2744,18 +2667,6 @@
     "frequency": 78,
     "tags": [
       "pronoms"
-    ]
-  },
-  {
-    "portuguese": "suco",
-    "phonetic": "",
-    "french": "jus (BR) / sumo (EP)",
-    "level": "A1",
-    "frequency": 78,
-    "tags": [
-      "nourriture",
-      "boissons",
-      "br"
     ]
   },
   {
@@ -2796,46 +2707,6 @@
     "frequency": 75,
     "tags": [
       "animaux"
-    ]
-  },
-  {
-    "portuguese": "la",
-    "phonetic": "",
-    "french": "là (adverbe) / la (article BR)",
-    "level": "A1",
-    "frequency": 75,
-    "tags": [
-      "grammaire"
-    ]
-  },
-  {
-    "portuguese": "las",
-    "phonetic": "",
-    "french": "les (fém. pl., BR) / lá (adverbe)",
-    "level": "A1",
-    "frequency": 72,
-    "tags": [
-      "grammaire"
-    ]
-  },
-  {
-    "portuguese": "lo",
-    "phonetic": "",
-    "french": "le (article BR)",
-    "level": "A1",
-    "frequency": 72,
-    "tags": [
-      "grammaire"
-    ]
-  },
-  {
-    "portuguese": "los",
-    "phonetic": "",
-    "french": "les (masc. pl., BR)",
-    "level": "A1",
-    "frequency": 72,
-    "tags": [
-      "grammaire"
     ]
   },
   {
@@ -4195,16 +4066,6 @@
     ]
   },
   {
-    "portuguese": "calça",
-    "phonetic": "",
-    "french": "pantalon (BR) / calças (EP)",
-    "level": "A2",
-    "frequency": 78,
-    "tags": [
-      "vêtements"
-    ]
-  },
-  {
     "portuguese": "caminho",
     "phonetic": "",
     "french": "chemin / sentier",
@@ -4213,16 +4074,6 @@
     "tags": [
       "lieux",
       "transport"
-    ]
-  },
-  {
-    "portuguese": "camiseta",
-    "phonetic": "",
-    "french": "t-shirt (BR) / camiseta (EP)",
-    "level": "A2",
-    "frequency": 78,
-    "tags": [
-      "vêtements"
     ]
   },
   {
@@ -4638,17 +4489,6 @@
     ]
   },
   {
-    "portuguese": "marrom",
-    "phonetic": "",
-    "french": "marron (BR) / castanho (EP)",
-    "level": "A2",
-    "frequency": 78,
-    "tags": [
-      "couleurs",
-      "br"
-    ]
-  },
-  {
     "portuguese": "melhorar",
     "phonetic": "",
     "french": "améliorer / aller mieux",
@@ -4831,17 +4671,6 @@
     "frequency": 78,
     "tags": [
       "connecteurs"
-    ]
-  },
-  {
-    "portuguese": "pra",
-    "phonetic": "",
-    "french": "pour (BR, familier) / para",
-    "level": "A2",
-    "frequency": 78,
-    "tags": [
-      "argot",
-      "br"
     ]
   },
   {
@@ -5365,17 +5194,6 @@
     ]
   },
   {
-    "portuguese": "macarrão",
-    "phonetic": "",
-    "french": "pâtes (BR) / massa (EP)",
-    "level": "A2",
-    "frequency": 75,
-    "tags": [
-      "nourriture",
-      "br"
-    ]
-  },
-  {
     "portuguese": "metade",
     "phonetic": "",
     "french": "moitié",
@@ -5814,18 +5632,6 @@
     ]
   },
   {
-    "portuguese": "câmera",
-    "phonetic": "",
-    "french": "caméra (BR) / câmara (EP)",
-    "level": "A2",
-    "frequency": 72,
-    "tags": [
-      "objets",
-      "technologie",
-      "br"
-    ]
-  },
-  {
     "portuguese": "daí",
     "phonetic": "",
     "french": "de là / donc",
@@ -5969,17 +5775,6 @@
     ]
   },
   {
-    "portuguese": "garçom",
-    "phonetic": "",
-    "french": "serveur (BR) / empregado de mesa (EP)",
-    "level": "A2",
-    "frequency": 72,
-    "tags": [
-      "métiers",
-      "br"
-    ]
-  },
-  {
     "portuguese": "idoso",
     "phonetic": "",
     "french": "âgé / personne âgée",
@@ -6008,17 +5803,6 @@
     "frequency": 72,
     "tags": [
       "nourriture"
-    ]
-  },
-  {
-    "portuguese": "jaqueta",
-    "phonetic": "",
-    "french": "veste (BR) / casaco (EP)",
-    "level": "A2",
-    "frequency": 72,
-    "tags": [
-      "vêtements",
-      "br"
     ]
   },
   {
@@ -6362,28 +6146,6 @@
     ]
   },
   {
-    "portuguese": "sorvete",
-    "phonetic": "",
-    "french": "glace (BR) / gelado (EP)",
-    "level": "A2",
-    "frequency": 72,
-    "tags": [
-      "nourriture",
-      "br"
-    ]
-  },
-  {
-    "portuguese": "suéter",
-    "phonetic": "",
-    "french": "pull / sweat (BR) / camisola (EP)",
-    "level": "A2",
-    "frequency": 72,
-    "tags": [
-      "vêtements",
-      "br"
-    ]
-  },
-  {
     "portuguese": "sítio",
     "phonetic": "",
     "french": "endroit / maison de campagne",
@@ -6453,18 +6215,6 @@
     "tags": [
       "verbes",
       "transport"
-    ]
-  },
-  {
-    "portuguese": "xícara",
-    "phonetic": "",
-    "french": "tasse (BR) / chávena (EP)",
-    "level": "A2",
-    "frequency": 72,
-    "tags": [
-      "cuisine",
-      "objets",
-      "br"
     ]
   },
   {
@@ -6592,18 +6342,6 @@
     ]
   },
   {
-    "portuguese": "mouse",
-    "phonetic": "",
-    "french": "souris d'ordinateur (BR) / rato (EP)",
-    "level": "A2",
-    "frequency": 70,
-    "tags": [
-      "technologie",
-      "objets",
-      "br"
-    ]
-  },
-  {
     "portuguese": "nele",
     "phonetic": "",
     "french": "en lui / dedans",
@@ -6661,18 +6399,6 @@
     "frequency": 68,
     "tags": [
       "adjectifs"
-    ]
-  },
-  {
-    "portuguese": "brócolis",
-    "phonetic": "",
-    "french": "brocoli (BR) / brócolos (EP)",
-    "level": "A2",
-    "frequency": 68,
-    "tags": [
-      "nourriture",
-      "légumes",
-      "br"
     ]
   },
   {
@@ -7244,18 +6970,6 @@
     ]
   },
   {
-    "portuguese": "sacola",
-    "phonetic": "",
-    "french": "sac (BR) / saco (EP)",
-    "level": "A2",
-    "frequency": 65,
-    "tags": [
-      "objets",
-      "shopping",
-      "br"
-    ]
-  },
-  {
     "portuguese": "tartaruga",
     "phonetic": "",
     "french": "tortue",
@@ -7494,17 +7208,6 @@
     "tags": [
       "animaux",
       "insectes"
-    ]
-  },
-  {
-    "portuguese": "mamão",
-    "phonetic": "",
-    "french": "papaye (BR) / papaia (EP)",
-    "level": "A2",
-    "frequency": 58,
-    "tags": [
-      "nourriture",
-      "fruits"
     ]
   },
   {
@@ -8724,17 +8427,6 @@
     "frequency": 62,
     "tags": [
       "nourriture"
-    ]
-  },
-  {
-    "portuguese": "úmido",
-    "phonetic": "",
-    "french": "humide (BR) / húmido (EP)",
-    "level": "B1",
-    "frequency": 62,
-    "tags": [
-      "adjectifs",
-      "br"
     ]
   },
   {

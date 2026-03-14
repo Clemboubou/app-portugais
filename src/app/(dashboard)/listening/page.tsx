@@ -7,7 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { LevelSelector } from "@/components/level-selector";
 import { ListeningExercise } from "@/components/listening/listening-exercise";
 import { DictationFull } from "@/components/listening/dictation-full";
-import { ChevronLeft, Headphones } from "lucide-react";
+import { ChevronLeft } from "lucide-react";
 import listeningA1 from "@/../content/listening/A1.json";
 import listeningA2 from "@/../content/listening/A2.json";
 import listeningB1Raw from "@/../content/listening/B1.json";

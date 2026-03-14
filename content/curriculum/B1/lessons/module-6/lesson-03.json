@@ -1,0 +1,112 @@
+{
+  "id": "b1-m6-l03",
+  "title": "Nouvelles technologies et quotidien",
+  "type": "vocabulary",
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Maitriser le vocabulaire technique des nouvelles technologies",
+    "Decrire l'usage quotidien des appareils numeriques",
+    "Discuter des avantages et inconvenients de la technologie"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La revolution numerique au Portugal",
+      "content": "<p>Le Portugal est l'un des pays europeens les plus avances en matiere de transformation numerique. Lisbonne accueille chaque annee le <strong>Web Summit</strong>, l'une des plus grandes conferences technologiques mondiales. Les startups portugaises se developpent dans les quartiers de Beato et Parque das Nacoes.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Vocabulaire technologique",
+      "content": "<p><strong>Appareils :</strong></p><ul><li><em>telemovel / smartphone</em> — telephone portable</li><li><em>computador portatil</em> — ordinateur portable</li><li><em>tablet</em> — tablette</li><li><em>auriculares</em> — ecouteurs</li><li><em>carregador</em> — chargeur</li></ul><p><strong>Internet et logiciels :</strong></p><ul><li><em>navegar na internet</em> — naviguer sur internet</li><li><em>descarregar / fazer download</em> — telecharger</li><li><em>atualizar</em> — mettre a jour</li><li><em>aplicacao / app</em> — application</li><li><em>palavra-passe / password</em> — mot de passe</li><li><em>wifi / ligacao sem fios</em> — wifi / connexion sans fil</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Problemes techniques courants",
+      "content": "<p><strong>Exprimer un probleme technique :</strong></p><ul><li><em>O meu telemovel esta sem bateria.</em> — Mon telephone est a plat</li><li><em>O computador nao liga.</em> — L'ordinateur ne s'allume pas</li><li><em>A internet esta lenta / caiu.</em> — Internet est lent / est tombe</li><li><em>Esqueci-me da palavra-passe.</em> — J'ai oublie mon mot de passe</li><li><em>Preciso de recarregar o telemovel.</em> — J'ai besoin de recharger mon telephone</li></ul><p><strong>Demander de l'aide :</strong></p><ul><li><em>Podes ajudar-me com o computador?</em> — Tu peux m'aider avec l'ordinateur ?</li><li><em>Como se faz o download desta app?</em> — Comment on telecharge cette appli ?</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Resoudre des problemes techniques",
+      "content": "<p>Associez le probleme a la solution :</p><p>1. O telemovel nao carrega. → <strong>Verifica o carregador / toma cabo</strong></p><p>2. Esqueci a palavra-passe. → <strong>Clica em 'esqueci a palavra-passe'</strong></p><p>3. A internet esta lenta. → <strong>Reinicia o router / verifica a ligacao wifi</strong></p><p>4. A app nao funciona. → <strong>Atualiza ou reinstala a aplicacao</strong></p>"
+    },
+    {
+      "type": "production",
+      "title": "Discuter de la technologie",
+      "content": "<p>Redigez un texte de 80-100 mots sur le sujet : <em>A tecnologia facilita ou complica a nossa vida?</em></p><p>Utilisez :</p><ul><li>Des exemples concrets d'appareils ou d'applications</li><li>Des connecteurs d'opposition (mas, no entanto, por outro lado)</li><li>Votre opinion personnelle (Na minha opiniao... / Acredito que...)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Comment dit-on 'telephone portable' en portugais europeen ?",
+      "correctAnswer": "telemovel",
+      "distractors": [
+        "celular",
+        "movel",
+        "fone"
+      ],
+      "explanation": "'Telemovel' est le terme portugais europeen. 'Celular' est le terme bresilien. Autre option PT-EU : 'smartphone' (anglicisme accepte)."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Preciso de ________ o meu telemovel, a bateria esta a acabar.",
+      "correctAnswer": "carregar / recarregar",
+      "explanation": "'Carregar' ou 'recarregar' = recharger. 'A bateria esta a acabar' = la batterie est en train de s'epuiser (progressif PT-EU)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Peux-tu m'aider a telecharger cette application ?",
+      "correctAnswer": "Podes ajudar-me a descarregar esta aplicacao?",
+      "explanation": "'Descarregar' = telecharger (PT-EU). 'Fazer download' egalement utilise. 'Podes ajudar-me a...' = peux-tu m'aider a..."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel evenement technologique mondial se tient annuellement a Lisbonne ?",
+      "correctAnswer": "Le Web Summit",
+      "distractors": [
+        "Le CES de Las Vegas",
+        "La Viva Technology",
+        "Le Mobile World Congress"
+      ],
+      "explanation": "Le Web Summit s'est installe a Lisbonne depuis 2016. C'est l'une des plus grandes conferences tech mondiales, attirant des dizaines de milliers de participants."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "A ________ sem fios esta a funcionar mal hoje.",
+      "correctAnswer": "ligacao",
+      "explanation": "'Ligacao sem fios' = connexion sans fil / wifi. 'Ligacao' = connexion / liaison. Terme technique portugais europeen."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "telemovel",
+      "phonetic": "/tɛlɨˈmɔvɛl/",
+      "french": "telephone portable (PT-EU)"
+    },
+    {
+      "portuguese": "descarregar",
+      "phonetic": "/dɨʃkɐʁɨˈɡaɾ/",
+      "french": "telecharger"
+    },
+    {
+      "portuguese": "atualizar",
+      "phonetic": "/ɐtuɐliˈzaɾ/",
+      "french": "mettre a jour"
+    },
+    {
+      "portuguese": "palavra-passe",
+      "phonetic": "/pɐˈlavɾɐ ˈpasɨ/",
+      "french": "mot de passe"
+    },
+    {
+      "portuguese": "carregador",
+      "phonetic": "/kɐʁɨˈɡadoɾ/",
+      "french": "chargeur"
+    },
+    {
+      "portuguese": "aplicacao",
+      "phonetic": "/ɐplikɐˈsɐ̃w̃/",
+      "french": "application / appli"
+    }
+  ]
+}

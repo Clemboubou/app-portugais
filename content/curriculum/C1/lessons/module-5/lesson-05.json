@@ -1,0 +1,117 @@
+{
+  "id": "c1-m5-l05",
+  "title": "Examen final C1",
+  "type": "grammar",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Evaluer l'ensemble des competences acquises au niveau C1",
+    "Produire un texte complexe demonstrant la maitrise du C1",
+    "Identifier les points a consolider avant le passage au niveau superieur"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Examen final C1 — Portuguese Europeen",
+      "content": "<p>Cet examen evalue l'ensemble des competences du niveau C1 en portugais europeen. Competences testees : grammaire avancee (mesoclise, subj. futur, inf. personnel), registres de langue, culture portugaise, comprehension de textes complexes, production ecrite sophistiquee.</p><p>Duree recommandee : 35 minutes. Conditions d'examen : sans aide exterieure.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Recapitulatif des competences C1",
+      "content": "<p><strong>Grammaire :</strong> mesoclise, subj. futur, inf. personnel avance, toutes les conditionnelles, voix passive analytique et pronominale, discours rapporte complet.</p><p><strong>Lexique :</strong> latinismes formels, connecteurs d'argumentation, vocabulaire des registres specialises (juridique, academique, medialogique).</p><p><strong>Culture :</strong> Pessoa et les heteronymes, Os Lusiadas, Saramago, fado, cinema portugais, historia moderne du Portugal.</p><p><strong>Pragmatique :</strong> modalite epistemique/deontique, ironie, actes de langage indirects, politesse formelle.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Criteres d'evaluation C1 (CECRL)",
+      "content": "<p>Au CECRL C1, l'apprenant peut :</p><ul><li>S'exprimer spontanement et couramment sans chercher ses mots de maniere tres apparente</li><li>Utiliser la langue de facon flexible et efficace a des fins sociales, academiques et professionnelles</li><li>Produire un texte clair, bien structure et detaille sur des sujets complexes</li><li>Comprendre une grande gamme de textes longs et exigeants</li><li>Saisir les implicites</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Exercices de synthese finale",
+      "content": "<p>Completez :</p><ol><li><em>________ (Dizer, eu) a verdade assim que me ________ (perguntar, eles).</em> → <strong>Dir-lhes-ei / perguntarem</strong></li><li><em>Apesar de eles ________ (afirmar) o contrario, os factos sao inequivocos.</em> → <strong>afirmarem</strong></li><li><em>________ de ser verdade que os custos aumentaram, ha alternativas viaveis.</em> → <strong>Nao deixa</strong> (nao deixa de ser verdade que)</li><li><em>A que ________ (vir, voce) a Lisboa amanha?</em> → <strong>vira</strong> (subj. futur de 'vir')</li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Production finale C1",
+      "content": "<p>Redigez un essai de <strong>250-300 mots</strong> sur l'un de ces sujets :</p><p>A) <em>Fernando Pessoa e a identidade portuguesa : reflexo ou construcao?</em></p><p>B) <em>O papel das novas tecnologias na preservacao ou na erosao das linguas minoritarias.</em></p><p>C) <em>A saudade : concept universel ou especificidade portuguesa irredutivel?</em></p><p>Criteres d'evaluation :</p><ul><li>Richesse lexicale et registre soutenu (4 pts)</li><li>Grammaire : min. 3 structures C1 (mesoclise, subj. futur, inf. personnel) (4 pts)</li><li>Argumentation : these, arguments, nuances, conclusion (4 pts)</li><li>Coherence et cohesion (4 pts)</li><li>Correction orthographique et syntaxique (4 pts)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle phrase contient une mesoclise correcte ?",
+      "correctAnswer": "Comunicar-te-ia os resultados amanha.",
+      "distractors": [
+        "Comunicar-te amanha os resultados.",
+        "Te comunicaria os resultados.",
+        "Comunicaria-te os resultados."
+      ],
+      "explanation": "Mesoclise : radical + clitique + desinence. 'Comunicar-te-ia' = Comunicar + te + ia (cond. de 'comunicar'). Obligatoire en registre formel ecrit."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Quem ________ (querer) participar no seminario deve enviar a sua candidatura ate sexta.",
+      "correctAnswer": "quiser",
+      "explanation": "Subj. futur de 'querer' : quiser (3e sg.). Apres 'quem' relatif indefini, le subj. futur est obligatoire : 'quem quiser' = quiconque voudra."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel heteronyme de Pessoa est associe a la philosophie stoicienne et aux odes latines ?",
+      "correctAnswer": "Ricardo Reis",
+      "distractors": [
+        "Alvaro de Campos",
+        "Alberto Caeiro",
+        "Bernardo Soares"
+      ],
+      "explanation": "Ricardo Reis : style classique neo-latin, stoicisme, odes en strophes regulieres. Campos = futuriste, Caeiro = sensoriel, Soares = prose meditative."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Il n'en reste pas moins vrai que la situation s'est amelioree.",
+      "correctAnswer": "Nao deixa de ser verdade que a situacao melhorou.",
+      "explanation": "'Nao deixa de ser verdade que' = il n'en reste pas moins vrai que. Formule de concession qui reconnait un fait tout en maintenant sa position."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Au CECRL, le niveau C1 se distingue du B2 notamment par :",
+      "correctAnswer": "La capacite a s'exprimer spontanement et couramment sur des sujets complexes sans effort apparent",
+      "distractors": [
+        "La connaissance des temps verbaux",
+        "La comprehension des textes simples",
+        "L'usage des pronoms"
+      ],
+      "explanation": "C1 = utilisateur experimente. La fluidite, la spontaneite et la capacite a traiter des textes et sujets complexes le distinguent du B2 (utilisateur independant avance)."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "competencia",
+      "phonetic": "/kõpɨˈtẽsjɐ/",
+      "french": "competence"
+    },
+    {
+      "portuguese": "inequivoco",
+      "phonetic": "/ĩɨˈkivuku/",
+      "french": "inequivoque"
+    },
+    {
+      "portuguese": "irredutivel",
+      "phonetic": "/iʁɨduˈtivɛl/",
+      "french": "irreductible"
+    },
+    {
+      "portuguese": "espontaneidade",
+      "phonetic": "/ɨʃpõtɐnɨjˈdadɨ/",
+      "french": "spontaneite"
+    },
+    {
+      "portuguese": "fluencia",
+      "phonetic": "/fluˈẽsjɐ/",
+      "french": "fluidite / aisance"
+    },
+    {
+      "portuguese": "sofisticado",
+      "phonetic": "/sufɨʃtiˈkadu/",
+      "french": "sophistique"
+    }
+  ]
+}

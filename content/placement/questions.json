@@ -52,6 +52,17 @@
     ], "answer": "s'entendre bien avec quelqu'un" },
     { "id": "p-b2-08", "level": "B2", "type": "mcq", "question": "Dans quel registre utilise-t-on 'V. Exa.' ?", "options": ["familier", "courant", "très formel / officiel", "argotique"], "answer": "très formel / officiel" },
     { "id": "p-b2-09", "level": "B2", "type": "translation", "question": "Traduisez : 'À moins que tu ne changes d'avis, je partirai demain.'", "answer": "A menos que mudes de ideias, partirei amanhã." },
-    { "id": "p-b2-10", "level": "B2", "type": "translation", "question": "Traduisez : 'Il aurait fallu qu'il prévienne avant.'", "answer": "Deveria ter avisado antes." }
+    { "id": "p-b2-10", "level": "B2", "type": "translation", "question": "Traduisez : 'Il aurait fallu qu'il prévienne avant.'", "answer": "Deveria ter avisado antes." },
+
+    { "id": "p-c1-01", "level": "C1", "type": "mcq", "question": "Quelle est la fonction de la mésoclise dans 'Dar-te-ei um livro' ?", "options": ["Futur avec pronom intercalé (PT-PT formel)", "Conditionnel passé", "Passé composé", "Impératif négatif"], "answer": "Futur avec pronom intercalé (PT-PT formel)" },
+    { "id": "p-c1-02", "level": "C1", "type": "mcq", "question": "Complétez : 'Aconteça ___ acontecer, estarei lá.' (quoi qu'il arrive)", "options": ["o que", "que", "como", "quando"], "answer": "o que" },
+    { "id": "p-c1-03", "level": "C1", "type": "mcq", "question": "Que signifie 'insurgir-se contra' ?", "options": ["s'insurger contre", "s'intégrer dans", "insister sur", "intervenir pour"], "answer": "s'insurger contre" },
+    { "id": "p-c1-04", "level": "C1", "type": "mcq", "question": "Quel mot complète : 'Por muito que ___ (esforçar-se)...' ?", "options": ["se esforçasse", "esforçasse", "se esforce", "esforçar"], "answer": "se esforçasse" },
+    { "id": "p-c1-05", "level": "C1", "type": "fill_blank", "question": "Seja ___ for a decisão, respeitá-la-emos. (quelle que soit)", "answer": "qual" },
+    { "id": "p-c1-06", "level": "C1", "type": "fill_blank", "question": "___ que todos participem, o projeto terá sucesso. (à condition que)", "answer": "Desde" },
+    { "id": "p-c1-07", "level": "C1", "type": "mcq", "question": "Quelle œuvre est l'épopée nationale portugaise ?", "options": ["Os Lusíadas", "Mensagem", "O Crime do Padre Amaro", "Memorial do Convento"], "answer": "Os Lusíadas" },
+    { "id": "p-c1-08", "level": "C1", "type": "mcq", "question": "Comment réfuter poliment dans un débat formel ?", "options": ["Permitam-me discordar, pois...", "Isso está errado!", "Acho que não.", "Não concordo!"], "answer": "Permitam-me discordar, pois..." },
+    { "id": "p-c1-09", "level": "C1", "type": "translation", "question": "Traduisez (registre soutenu) : 'Il est indéniable que la langue évolue.'", "answer": "É inegável que a língua evolui." },
+    { "id": "p-c1-10", "level": "C1", "type": "translation", "question": "Traduisez : 'Il se peut qu'il ait déjà terminé.'", "answer": "É possível que já tenha terminado." }
   ]
 }

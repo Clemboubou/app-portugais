@@ -1,0 +1,33 @@
+{
+  "id": "c1-m1-l01",
+  "title": "La mésoclise : le pronom dans le futur",
+  "type": "grammar",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Comprendre et produire la mésoclise au futur et au conditionnel",
+    "Savoir quand la mésoclise est obligatoire en PT-PT formel",
+    "Distinguer les constructions PT-PT et PT-BR pour les pronoms"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "Un phénomène unique au portugais", "content": "<p>La <strong>mésoclise</strong> est le placement d'un pronom clitique <em>à l'intérieur</em> d'une forme verbale, entre le radical et la désinence. C'est une caractéristique quasi exclusive du portugais européen formel.</p><p>Elle s'applique uniquement au <strong>futur de l'indicatif</strong> et au <strong>conditionnel</strong>, lorsque le pronom ne peut pas être placé avant le verbe.</p><blockquote><em>Dar-te-ei um livro.</em> — Je te donnerai un livre.<br><em>Fazê-lo-ia.</em> — Il le ferait.</blockquote>"},
+    {"type": "discovery", "title": "Formation de la mésoclise", "content": "<p>Formation : radical du futur + pronom + terminaison.</p><table><thead><tr><th>Pronom</th><th>Futur de <em>dar</em></th><th>Conditionnel</th></tr></thead><tbody><tr><td>me</td><td>dar-me-ei</td><td>dar-me-ia</td></tr><tr><td>te</td><td>dar-te-ei</td><td>dar-te-ia</td></tr><tr><td>lhe</td><td>dar-lhe-ei</td><td>dar-lhe-ia</td></tr><tr><td>o/a</td><td>dá-lo-ei</td><td>dá-lo-ia</td></tr><tr><td>nos</td><td>dar-nos-ei</td><td>dar-nos-ia</td></tr></tbody></table><p><strong>Attention aux pronoms -o/-a :</strong> le <em>r</em> final du radical tombe et prend un accent : <em>dar+o → dá-lo-ei</em>, <em>fazer+o → fazê-lo-ia</em>.</p>"},
+    {"type": "explanation", "title": "Quand la mésoclise est-elle obligatoire ?", "content": "<p>La mésoclise s'impose en <strong>début de phrase absolue</strong> — là où la proclise est interdite :</p><ul><li><em><strong>Dar-te-ei</strong> a resposta amanhã.</em> ✓</li><li><em>Ele disse que <strong>te daria</strong> a resposta.</em> ✓ (après <em>que</em> → proclise)</li><li><em>Nunca <strong>te darei</strong> razão.</em> ✓ (après <em>nunca</em> → proclise)</li></ul><p>Mots attracteurs (déclenchent la proclise) : <em>não, nunca, já, sempre, também, que, se, quando, como, quem…</em></p>"},
+    {"type": "practice", "title": "Transformer avec mésoclise", "content": "<p>Transformez les phrases (début de phrase, sans attracteur) :</p><ol><li><em>Eu vou dar-te o livro amanhã.</em> → <strong>Dar-te-ei o livro amanhã.</strong></li><li><em>Ele vai fazer isso.</em> → <strong>Fá-lo-á.</strong></li><li><em>Nós vamos escrever-lhe.</em> → <strong>Escrever-lhe-emos.</strong></li><li><em>Eles vão dizer-nos a verdade.</em> → <strong>Dirão-nos a verdade.</strong></li><li><em>Eu gostaria de ajudá-la.</em> → <strong>Ajudá-la-ia.</strong></li></ol>"},
+    {"type": "production", "title": "Discours politique avec mésoclise", "content": "<p>Rédigez un court discours formel (6-8 phrases) comme si vous étiez un politicien portugais faisant des promesses électorales. Utilisez la mésoclise avec au moins <strong>4 pronoms différents</strong>.</p><p>Début suggéré : <em>Cidadãos, dar-vos-ei conta de cada decisão tomada. Defender-vos-ei das injustiças…</em></p>"}
+  ],
+  "exercises": [
+    {"type": "fill_blank", "prompt": "________ (eu / dar + te) a resposta quando souber. (début de phrase, futur)", "correctAnswer": "Dar-te-ei", "explanation": "Mésoclise obligatoire en début de phrase : dar + te + ei = dar-te-ei."},
+    {"type": "fill_blank", "prompt": "Eles ________ (trazer + o) na próxima semana. (mésoclise, 3ème pl.)", "correctAnswer": "trazê-lo-ão", "explanation": "Trazer au futur : trarão → mésoclise avec -o : trazê-lo-ão (r final tombe + accent circonflexe)."},
+    {"type": "mcq", "prompt": "Quelle phrase utilise correctement la mésoclise ?", "correctAnswer": "Enviá-la-ei amanhã.", "distractors": ["Enviar-la-ei amanhã.", "Enviarei-la amanhã.", "La enviarei amanhã."], "explanation": "Enviar + a : le r tombe et le a prend l'accent : enviá-la-ei."},
+    {"type": "mcq", "prompt": "Après quel mot la mésoclise est-elle impossible ?", "correctAnswer": "nunca", "distractors": ["amanhã", "certamente", "porventura"], "explanation": "Après 'nunca' (mot attracteur), la proclise est obligatoire : 'Nunca te darei razão.'"},
+    {"type": "translate", "prompt": "Traduisez (registre formel, début de phrase) : 'Nous vous dirons la vérité.'", "correctAnswer": "Dir-vos-emos a verdade.", "explanation": "Dizer au futur : diremos. Mésoclise avec vos : dir-vos-emos a verdade."}
+  ],
+  "vocabulary": [
+    {"portuguese": "mesóclise", "phonetic": "/mɛˈzɔklizɨ/", "french": "mésoclise"},
+    {"portuguese": "clítico", "phonetic": "/ˈklitiku/", "french": "pronom clitique (atone)"},
+    {"portuguese": "próclise", "phonetic": "/ˈprɔklizɨ/", "french": "proclise (pronom avant verbe)"},
+    {"portuguese": "ênclise", "phonetic": "/ˈẽklizɨ/", "french": "enclise (pronom après verbe)"},
+    {"portuguese": "palavra atrativa", "phonetic": "/pɐˈlɐvɾɐ ɐtɾɐˈtivɐ/", "french": "mot attracteur"},
+    {"portuguese": "futuros irregulares", "phonetic": "/fuˈtuɾuʃ iɾɨɡuˈlaɾɨʃ/", "french": "futurs irréguliers (dizer→direi, fazer→farei, trazer→trarei)"}
+  ]
+}

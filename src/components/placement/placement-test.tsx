@@ -9,7 +9,7 @@ import { Progress } from "@/components/ui/progress";
 import { Skeleton } from "@/components/ui/skeleton";
 import questionsData from "@/../content/placement/questions.json";
 
-type Level = "A1" | "A2" | "B1" | "B2";
+type Level = "A1" | "A2" | "B1" | "B2" | "C1";
 
 interface PlacementQuestion {
   id: string;
@@ -33,7 +33,7 @@ interface PlacementResult {
 }
 
 const ALL_QUESTIONS = questionsData.questions as PlacementQuestion[];
-const LEVELS: Level[] = ["A1", "A2", "B1", "B2"];
+const LEVELS: Level[] = ["A1", "A2", "B1", "B2", "C1"];
 const PASS_THRESHOLD = 0.8; // 80%
 
 function getQuestionsForLevel(level: Level): PlacementQuestion[] {

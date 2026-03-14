@@ -58,10 +58,19 @@ interface LessonData {
   vocabulary: Array<{ portuguese: string; phonetic: string; french: string }>;
 }
 
-const LEVELS_TO_SEED = ["A1", "A2", "B1", "B2"];
+const LEVELS_TO_SEED = ["A1", "A2", "B1", "B2", "C1"];
 
 async function seed() {
   console.log("🌱 Début du seed...\n");
+
+  // 0. Nettoyage préalable (évite les doublons si seed relancé)
+  console.log("🧹 Nettoyage des données existantes...");
+  sqlite.pragma("foreign_keys = OFF");
+  for (const table of ["exercises", "user_progress", "srs_cards", "vocabulary_items", "recordings", "lessons", "modules", "levels"]) {
+    sqlite.prepare(`DELETE FROM ${table}`).run();
+  }
+  sqlite.pragma("foreign_keys = ON");
+  console.log("  ✓ Tables vidées\n");
 
   // 1. Insérer les niveaux CECRL
   console.log("📚 Insertion des niveaux CECRL...");
@@ -70,6 +79,7 @@ async function seed() {
     { code: "A2", name: "Élémentaire", description: "Routines, transports, logement, loisirs, passé simple, futur immédiat", order: 2 },
     { code: "B1", name: "Intermédiaire", description: "Voyages, culture, travail, santé, subjonctif présent, conditionnel", order: 3 },
     { code: "B2", name: "Intermédiaire avancé", description: "Société, politique, littérature, presse, subjonctif passé, passif", order: 4 },
+    { code: "C1", name: "Avancé", description: "Mésoclise, subjonctif futur, registres formels, culture littéraire, pragmatique avancée", order: 5 },
   ];
 
   for (const level of levelsData) {

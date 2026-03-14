@@ -1,0 +1,34 @@
+{
+  "id": "c1-m2-l02",
+  "title": "Le style académique et scientifique",
+  "type": "writing",
+  "estimatedMinutes": 28,
+  "objectives": [
+    "Rédiger un texte académique structuré en portugais européen",
+    "Utiliser le langage de la nuance scientifique (hedging)",
+    "Maîtriser les formules de citation, référence et argumentation académique"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "L'écriture académique en PT-PT", "content": "<p>Le style académique portugais a ses propres conventions : il valorise la <strong>précision</strong>, la <strong>distanciation</strong> par rapport aux résultats, et l'utilisation de formules impersonnelles. On évite les jugements trop directs, on nuance, on réfère.</p><blockquote><em>Os dados sugerem, embora não provem conclusivamente, que existe uma correlação positiva entre…</em></blockquote>"},
+    {"type": "discovery", "title": "Le langage de la nuance (hedging)", "content": "<p>Le <em>hedging</em> (langue de la précaution épistémique) est essentiel dans l'écriture académique :</p><p><strong>Verbes de suggestion :</strong></p><ul><li><em>sugerir, indicar, apontar para, revelar, demonstrar, evidenciar</em></li><li><em>Os resultados <strong>sugerem</strong> que…</em> / <em>Os dados <strong>indicam</strong>…</em></li></ul><p><strong>Expressions modales de prudence :</strong></p><ul><li><em>parece(r), ao que parece, aparentemente</em></li><li><em>pode(r) ser que, é possível que + conjuntivo</em></li><li><em>segundo os dados, de acordo com os resultados</em></li></ul><p><strong>Passif impersonnel :</strong></p><ul><li><em>conclui-se que, observa-se que, verifica-se que, considera-se que</em></li><li><em>pode-se afirmar que, importa referir que</em></li></ul>"},
+    {"type": "explanation", "title": "Structure d'un article académique", "content": "<p><strong>Abstract (Resumo) :</strong> 150-250 mots, présent ou passé, contexte + méthode + résultats + implications.</p><p><strong>Introduction :</strong></p><ul><li>Contextualisation : <em>No contexto atual de…</em></li><li>Problème : <em>Coloca-se, pois, a questão de…</em></li><li>Objectifs : <em>O presente estudo pretende analisar…</em></li></ul><p><strong>Formules de référence :</strong></p><ul><li><em>Segundo Saramago (2001)…</em></li><li><em>Conforme afirma Costa (2015, p. 32)…</em></li><li><em>Como salienta Pessoa (1935)…</em></li></ul><p><strong>Conclusion :</strong></p><ul><li><em>Em suma, os resultados obtidos permitiram concluir que…</em></li><li><em>Estes dados contribuem para uma melhor compreensão de…</em></li><li><em>Investigações futuras deverão contemplar…</em></li></ul>"},
+    {"type": "practice", "title": "Transformer en style académique", "content": "<p>Réécrivez ces phrases en style académique :</p><ol><li>'Je pense que les résultats montrent que...' → <em>Os resultados <strong>sugerem</strong> que…</em></li><li>'On a prouvé que...' → <em><strong>Verificou-se</strong> que…</em></li><li>'C'est évident que...' → <em><strong>Os dados indicam</strong> que…</em></li><li>'Quelqu'un a dit que...' → <em><strong>Segundo autores como</strong>… / <strong>Conforme refere</strong>…</em></li></ol>"},
+    {"type": "production", "title": "Rédiger un abstract", "content": "<p>Rédigez un <em>resumo académico</em> (150-200 mots) pour une étude fictive sur un sujet de votre choix (ex. : impact du télétravail sur la productivité, évolution du fado contemporain, tourisme à Lisbonne). Utilisez au minimum 5 formules de hedging et 2 formules de référence fictives.</p>"}
+  ],
+  "exercises": [
+    {"type": "mcq", "prompt": "Quelle formule convient le mieux à l'écriture académique pour introduire une conclusion prudente ?", "correctAnswer": "Os dados sugerem que existe uma correlação.", "distractors": ["É óbvio que existe uma correlação.", "Claramente existe uma correlação.", "Eu acho que existe uma correlação."], "explanation": "'Sugerir' est un verbe de hedging qui nuance la conclusion. Les autres formules sont trop directes ou informelles pour un texte académique."},
+    {"type": "fill_blank", "prompt": "________ os resultados obtidos, ________ afirmar que a hipótese foi confirmada. (selon / on peut)", "correctAnswer": "De acordo com / pode-se", "explanation": "'De acordo com' = selon / en accord avec. 'Pode-se afirmar' = on peut affirmer (passif pronominal impersonnel)."},
+    {"type": "fill_blank", "prompt": "________ (il convient de noter) que os dados apresentados são preliminares.", "correctAnswer": "Importa referir", "explanation": "'Importa referir que' = il convient de noter que / il importe de mentionner. Formule académique courante."},
+    {"type": "mcq", "prompt": "Comment introduire une référence dans un texte académique PT ?", "correctAnswer": "Segundo Ferreira (2020, p. 45), os resultados indicam…", "distractors": ["Como Ferreira dizia em 2020…", "Ferreira disse que…", "D'après Ferreira (2020)…"], "explanation": "'Segundo + auteur (année, page)' est la formule standard. 'D'après' est français — en PT on dit 'segundo' ou 'conforme'."},
+    {"type": "translate", "prompt": "Traduisez (style académique) : 'Les recherches futures devront examiner l'impact à long terme de ce phénomène.'", "correctAnswer": "Investigações futuras deverão examinar o impacto a longo prazo deste fenómeno.", "explanation": "'Deverão' = devront (obligation/recommandation académique). 'A longo prazo' = à long terme. 'Fenómeno' = phénomène (PT-PT, accent sur e)."}
+  ],
+  "vocabulary": [
+    {"portuguese": "sugerir", "phonetic": "/suʒɨˈɾiɾ/", "french": "suggérer (hedging)"},
+    {"portuguese": "verificar-se", "phonetic": "/vɨɾifiˈkaɾ sɨ/", "french": "il s'avère que / on constate que"},
+    {"portuguese": "importa referir", "phonetic": "/ĩˈpɔɾtɐ ʁɨfɨˈɾiɾ/", "french": "il convient de noter"},
+    {"portuguese": "de acordo com", "phonetic": "/dɨ ɐˈkoɾdu kõ/", "french": "selon / conformément à"},
+    {"portuguese": "hipótese", "phonetic": "/iˈpɔtɨzɨ/", "french": "hypothèse"},
+    {"portuguese": "metodologia", "phonetic": "/mɨtudoluˈʒiɐ/", "french": "méthodologie"},
+    {"portuguese": "amostra", "phonetic": "/ɐˈmɔʃtɾɐ/", "french": "échantillon"}
+  ]
+}

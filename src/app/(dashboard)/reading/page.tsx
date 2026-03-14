@@ -83,6 +83,14 @@ const READING_DATA: Record<Level, ReadingText[]> = {
   C1: normalizeReadingFormat(readingC1Raw as RawReadingItem[]),
 };
 
+const LEVEL_COLORS: Record<Level, string> = {
+  A1: "from-emerald-500 to-emerald-600",
+  A2: "from-blue-500 to-blue-600",
+  B1: "from-amber-500 to-amber-600",
+  B2: "from-violet-500 to-violet-600",
+  C1: "from-rose-500 to-rose-600",
+};
+
 export default function ReadingPage() {
   const [level, setLevel] = useState<Level>("A1");
   const [selectedId, setSelectedId] = useState<string | null>(null);
@@ -105,14 +113,25 @@ export default function ReadingPage() {
 
   if (current) {
     return (
-      <div className="space-y-6">
-        <div className="flex items-center gap-3">
-          <Button variant="ghost" size="sm" onClick={() => setSelectedId(null)}>
-            <ChevronLeft className="h-4 w-4 mr-1" />
-            Textes
-          </Button>
-          <h1 className="text-2xl font-bold">Compréhension écrite</h1>
-          <Badge variant="secondary">{level}</Badge>
+      <div className="space-y-8">
+        <div className={`rounded-2xl bg-gradient-to-r ${LEVEL_COLORS[level]} p-6 text-white`}>
+          <div className="flex items-center gap-3">
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={() => setSelectedId(null)}
+              className="text-white hover:bg-white/20 hover:text-white -ml-2"
+            >
+              <ChevronLeft className="h-4 w-4 mr-1" />
+              Textes
+            </Button>
+            <BookOpen className="h-5 w-5 opacity-90" />
+            <h1 className="text-2xl font-bold">Compréhension écrite</h1>
+            <Badge className="rounded-full px-3 py-1 text-sm font-semibold bg-white/20 text-white border-0">
+              {level}
+            </Badge>
+          </div>
+          <p className="text-white/80 text-sm mt-2 ml-1">{current.title}</p>
         </div>
         <ReadingExercise key={current.id} text={current} onComplete={handleComplete} />
       </div>
@@ -122,15 +141,24 @@ export default function ReadingPage() {
   const completedCount = texts.filter((t) => scores[t.id] !== undefined).length;
 
   return (
-    <div className="space-y-6">
-      <div className="flex items-center justify-between">
-        <div>
-          <h1 className="text-2xl font-bold">Compréhension écrite</h1>
-          <p className="text-muted-foreground">
-            Choisissez un texte · {completedCount > 0 && `${completedCount}/${texts.length} terminés`}
-          </p>
+    <div className="space-y-8">
+      {/* Header */}
+      <div className={`rounded-2xl bg-gradient-to-r ${LEVEL_COLORS[level]} p-6 text-white`}>
+        <div className="flex items-start justify-between">
+          <div className="flex items-center gap-3">
+            <BookOpen className="h-6 w-6 opacity-90" />
+            <div>
+              <h1 className="text-2xl font-bold">Compréhension écrite</h1>
+              <p className="text-white/80 text-sm mt-0.5">
+                Choisissez un texte
+                {completedCount > 0 && ` · ${completedCount}/${texts.length} terminés`}
+              </p>
+            </div>
+          </div>
+          <div className="shrink-0">
+            <LevelSelector selected={level} onChange={handleLevelChange} />
+          </div>
         </div>
-        <LevelSelector selected={level} onChange={handleLevelChange} />
       </div>
 
       <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
@@ -139,12 +167,12 @@ export default function ReadingPage() {
           return (
             <Card
               key={text.id}
-              className="cursor-pointer transition-all hover:border-primary hover:shadow-md active:scale-[0.98]"
+              className="rounded-2xl border bg-card shadow-sm cursor-pointer transition-all hover:shadow-md hover:-translate-y-0.5 duration-200 hover:border-primary active:scale-[0.98]"
               onClick={() => setSelectedId(text.id)}
             >
               <CardHeader className="pb-2">
                 <div className="flex items-start justify-between">
-                  <CardTitle className="text-sm font-medium leading-tight">
+                  <CardTitle className="text-sm font-semibold leading-tight">
                     {text.title}
                   </CardTitle>
                   <BookOpen className="h-4 w-4 shrink-0 text-muted-foreground ml-2" />
@@ -152,13 +180,13 @@ export default function ReadingPage() {
               </CardHeader>
               <CardContent>
                 <div className="flex items-center gap-2">
-                  <Badge variant="outline" className="text-xs">
+                  <Badge variant="outline" className="text-xs rounded-full px-3 py-0.5">
                     {text.questions.length} questions
                   </Badge>
                   {score !== undefined && (
                     <Badge
                       variant="secondary"
-                      className={`text-xs ${score >= 70 ? "text-green-600" : "text-orange-500"}`}
+                      className={`text-xs rounded-full px-3 py-0.5 font-semibold ${score >= 70 ? "text-green-600" : "text-orange-500"}`}
                     >
                       {score}%
                     </Badge>

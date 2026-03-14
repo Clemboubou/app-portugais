@@ -210,11 +210,14 @@ export function ArticleReader({
   };
 
   const handleMarkRead = async () => {
-    await fetch("/api/authentic/mark-read", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ id: article.id }),
-    });
+    // Article temporaire (id ≤ 0) : pas de sauvegarde en DB
+    if (article.id > 0) {
+      await fetch("/api/authentic/mark-read", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id: article.id }),
+      });
+    }
     setIsRead(true);
     onMarkRead(article.id);
   };

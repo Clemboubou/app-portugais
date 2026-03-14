@@ -1,5 +1,6 @@
 "use client";
 
+import { memo } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 interface DayData {
@@ -37,7 +38,7 @@ const MONTH_LABELS = [
 
 const DAY_LABELS = ["", "Lun", "", "Mer", "", "Ven", ""];
 
-export function YearlyHeatmap({ data }: YearlyHeatmapProps) {
+export const YearlyHeatmap = memo(function YearlyHeatmap({ data }: YearlyHeatmapProps) {
   // Construire la map date → items
   const dataMap = new Map<string, number>();
   for (const d of data) {
@@ -211,4 +212,4 @@ export function YearlyHeatmap({ data }: YearlyHeatmapProps) {
       </CardContent>
     </Card>
   );
-}
+});

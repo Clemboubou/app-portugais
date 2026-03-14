@@ -59,6 +59,61 @@
         { "id": "q3", "type": "mcq", "question": "Qu'est-ce que les visiteurs apprécient le plus ?", "options": ["Les musées", "La gastronomie et le climat", "Les monuments", "Les plages"], "answer": 1 },
         { "id": "q4", "type": "true_false", "question": "Le maire veut préserver l'identité culturelle.", "answer": true }
       ]
+    },
+    {
+      "id": "r-a2-06",
+      "title": "Receita de caldo verde",
+      "content": "Caldo Verde — Receita Tradicional Portuguesa\n\nIngredientes para 4 pessoas:\n- 500 g de batatas\n- 200 g de couve portuguesa (couve-galega)\n- 1 chouriço de carne\n- 1 cebola\n- 3 dentes de alho\n- Azeite, sal e pimenta\n\nPreparação:\nDescasque e corte as batatas em pedaços. Numa panela, refogue a cebola e o alho no azeite durante dois minutos. Junte as batatas e cubra com água. Cozinhe durante vinte minutos até as batatas estarem macias. Triture a sopa com a varinha mágica. Adicione a couve cortada fininha e o chouriço às rodelas. Cozinhe mais cinco minutos. Tempere com sal e pimenta. Sirva quente com broa de milho.",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "Pour combien de personnes est cette recette ?", "options": ["2 personnes", "4 personnes", "6 personnes", "8 personnes"], "answer": 1 },
+        { "id": "q2", "type": "true_false", "question": "On utilise de la couve-fleur pour cette recette.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Combien de temps faut-il cuire les pommes de terre ?", "options": ["10 minutes", "15 minutes", "20 minutes", "30 minutes"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "r-a2-07",
+      "title": "Uma mensagem de amigo",
+      "content": "De: pedro.silva@email.pt\nPara: ana.costa@email.pt\nAssunto: Encontro no fim de semana!\n\nOlá Ana!\n\nTudo bem contigo? Faz muito tempo que não nos vemos!\n\nEste sábado vou organizar um pequeno jantar em minha casa. Começa às oito da noite. Vai estar o Miguel, a Catarina e talvez a Inês — ainda não confirmou.\n\nFaço bacalhau à Brás, que é o prato favorito do Miguel. Podes trazer uma sobremesa? Sei que fazes uma tarte de limão deliciosa!\n\nCasa nova — mudei-me para a Rua das Flores, n.º 14, 2.º andar direito, em Alfama. É fácil de encontrar, mesmo ao lado da Igreja de Santo Estêvão.\n\nEspero que possas vir! Diz-me rapidamente.\n\nUm abraço,\nPedro",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "À quelle heure commence le dîner ?", "options": ["19h", "20h", "21h", "22h"], "answer": 1 },
+        { "id": "q2", "type": "true_false", "question": "Pedro habite toujours à la même adresse.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Que Pedro demande-t-il à Ana d'apporter ?", "options": ["Du vin", "Du pain", "Un dessert", "Une salade"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "r-a2-08",
+      "title": "Anúncio do mercado de Campo de Ourique",
+      "content": "MERCADO DE CAMPO DE OURIQUE\nFeira de Produtos Regionais — Sábado, 15 de março\n\nVenha descobrir os melhores produtos do campo e do mar!\n\nO que vai encontrar:\n- Frutas e legumes frescos de produtores locais do Alentejo e do Ribatejo\n- Queijos artesanais da Serra da Estrela, Serpa e Azeitão\n- Enchidos tradicionais: chouriço, morcela, farinheira\n- Doces conventuais: pastel de Tentúgal, ovos moles de Aveiro\n- Vinhos do Alentejo, Douro e Vinho Verde\n- Azeites extra virgem premiados\n\nHorário: das 9h às 14h\nEntrada: gratuita\nInformações: mercado@campo-ourique.pt\n\nNão perca esta oportunidade de apoiar os produtores portugueses!",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "À quelle heure ferme le marché ?", "options": ["12h", "13h", "14h", "15h"], "answer": 2 },
+        { "id": "q2", "type": "true_false", "question": "L'entrée du marché est payante.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Quel fromage est mentionné dans l'annonce ?", "options": ["Queijo da Ilha", "Queijo Serra da Estrela", "Queijo Flamengo", "Queijo do Pico"], "answer": 1 }
+      ]
+    },
+    {
+      "id": "r-a2-09",
+      "title": "Anúncio de apartamento",
+      "content": "ARRENDA-SE APARTAMENTO — MOURARIA, LISBOA\n\nT2 em excelente estado, 4.º andar com elevador.\n\nCaracterísticas:\n- Área total: 75 m²\n- 2 quartos (um deles com roupeiro embutido)\n- 1 casa de banho completa\n- Sala ampla com varanda\n- Cozinha equipada (frigorífico, máquina de lavar roupa, fogão)\n- Aquecimento central\n- Exposição solar: nascente/poente\n\nLocalização privilegiada a 5 minutos a pé do Martim Moniz e do metro. Perto de transportes públicos, supermercados e escolas.\n\nRenda: 1.100 € / mês (água e condomínio incluídos)\nDisponível a partir de 1 de abril.\n\nContacto: Paulo Ferreira — 912 345 678\nVisitas apenas com marcação prévia.",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "Combien de chambres a l'appartement ?", "options": ["1 chambre", "2 chambres", "3 chambres", "4 chambres"], "answer": 1 },
+        { "id": "q2", "type": "true_false", "question": "L'appartement est disponible immédiatement.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Quel est le loyer mensuel ?", "options": ["900 €", "1 000 €", "1 100 €", "1 200 €"], "answer": 2 }
+      ]
+    },
+    {
+      "id": "r-a2-10",
+      "title": "Previsão do tempo em Lisboa",
+      "content": "PREVISÃO DO TEMPO — LISBOA — ESTA SEMANA\n\nSegunda-feira: Dia nublado com possibilidade de chuva fraca durante a manhã. Temperatura máxima de 16°C, mínima de 11°C. Vento fraco de noroeste.\n\nTerça-feira: Melhoria progressiva ao longo do dia. Períodos de sol a partir do meio-dia. Máxima de 18°C.\n\nQuarta-feira a sexta-feira: Tempo estável e solarengo. Temperaturas a subir gradualmente até aos 22°C na sexta-feira. Excelentes condições para passear na cidade.\n\nFim de semana: Chegada de uma nova perturbação atlântica. Esperam-se aguaceiros sábado à tarde. Domingo com vento forte e temperatura a descer para os 14°C.\n\nUV: Índice moderado terça a sexta. Recomenda-se protetor solar.",
+      "level": "A2",
+      "questions": [
+        { "id": "q1", "type": "mcq", "question": "Quel temps fait-il lundi matin ?", "options": ["Ensoleillé", "Nuageux avec pluie possible", "Orageux", "Brumeux"], "answer": 1 },
+        { "id": "q2", "type": "true_false", "question": "Le weekend sera entièrement beau et ensoleillé.", "answer": false },
+        { "id": "q3", "type": "mcq", "question": "Quelle est la température maximale prévue vendredi ?", "options": ["16°C", "18°C", "20°C", "22°C"], "answer": 3 }
+      ]
     }
   ]
 }

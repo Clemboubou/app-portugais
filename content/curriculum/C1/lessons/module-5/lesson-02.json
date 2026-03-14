@@ -1,0 +1,117 @@
+{
+  "id": "c1-m5-l02",
+  "title": "Production ecrite sophistiquee",
+  "type": "writing",
+  "estimatedMinutes": 35,
+  "objectives": [
+    "Rediger des textes formels complexes en portugais C1",
+    "Maitriser les genres textuels academiques et professionnels",
+    "Assurer la coherence et la cohesion dans un texte long"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Ecrire au niveau C1",
+      "content": "<p>Au C1, ecrire en portugais signifie produire des textes structurellement complexes avec un lexique precis, une organisation argumentative rigoureuse et une coherence stylistique. Les genres cibles : essai argumentatif, synthese de documents, lettre formelle, rapport professionnel, commentaire de texte.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Genres et conventions textuelles",
+      "content": "<p><strong>Dissertation/Ensaio :</strong></p><ul><li>Introduction : contextualizacao + problematica + tese + plano</li><li>Desenvolvimento : 2-3 partes com argumentos + exemplos + contraargumentos</li><li>Conclusao : sintese + abertura</li></ul><p><strong>Sintese de documentos :</strong></p><ul><li>Introduzir os documentos (sem citar extensamente)</li><li>Confrontar as perspectivas</li><li>Construir uma posicao propria</li></ul><p><strong>Relatorio profissional :</strong></p><ul><li>Sumario executivo</li><li>Analise da situacao</li><li>Recomendacoes</li><li>Conclusao</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Coherence et cohesion",
+      "content": "<p><strong>Coherence thematique :</strong> chaque paragraphe doit avoir une idee principale + developpement + lien au suivant.</p><p><strong>Cohesion lexicale :</strong></p><ul><li>Repetition controlee (eviter les repetitions inutiles)</li><li>Synonymes : <em>o problema / a questao / a dificuldade / o desafio</em></li><li>Anaphores : <em>este fenomeno / tal situacao / o referido caso</em></li></ul><p><strong>Cohesion grammaticale :</strong></p><ul><li>Conectores : <em>com efeito, todavia, por conseguinte, alias, outrossim</em></li><li>Pronoms de reprise : <em>o qual, a qual, os quais, cujo</em></li><li>Ellipses calculees</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Reviser un paragraphe",
+      "content": "<p>Ameliorez ce paragraphe (cohesion + registre) :</p><p><em>O problema e grande. O problema afeta muita gente. O problema nao tem solucao facil. As pessoas sofrem com o problema.</em></p><p>→ <strong>Este problema, que afeta um numero significativo de pessoas, nao admite solucao simplista. Com efeito, as suas ramificacoes sociais e economicas tornam qualquer intervencao um exercicio de grande complexidade.</strong></p>"
+    },
+    {
+      "type": "production",
+      "title": "Dissertation complete",
+      "content": "<p>Redigez une dissertation de 250-300 mots sur :</p><p><em>A globalizacao e uma ameaca ou uma oportunidade para a cultura portuguesa?</em></p><p>Structure obligatoire :</p><ul><li>Introduction (40-50 mots) : contexte + problematique + annonce du plan</li><li>Partie 1 (80-100 mots) : argument pro-globalisation</li><li>Partie 2 (80-100 mots) : risques + contre-arguments</li><li>Conclusion (40-50 mots) : synthese + ouverture</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Dans un texte formel, 'o referido caso' sert a :",
+      "correctAnswer": "Reprendre anaphoriquement un element mentionne precedemment sans repetition",
+      "distractors": [
+        "Introduire un exemple",
+        "Citer une source",
+        "Contredire l'argument precedent"
+      ],
+      "explanation": "'O referido caso' = le cas mentionne / le cas en question. Anaphore nominale formelle qui evite la repetition et maintient la cohesion."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Esta situacao, ________ consequencias sao imprevisibles, merece atencao urgente.",
+      "correctAnswer": "cujas",
+      "explanation": "'Cujo/cuja/cujos/cujas' = dont / duquel. 'Cujas consequencias' = dont les consequences. Pronom relatif de possession, tres formel."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Un 'sumario executivo' dans un rapport professionnel est :",
+      "correctAnswer": "Un resume concis des conclusions et recommandations principales, place en debut de document",
+      "distractors": [
+        "La conclusion detaillee",
+        "La liste des sources",
+        "L'annexe avec les donnees"
+      ],
+      "explanation": "Le sumario executivo permet aux decideurs de saisir l'essentiel sans lire le rapport complet. Il contient : objet, methode, resultats cles, recommandations."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Cette question, dont les implications sont multiples, merite une analyse approfondie.",
+      "correctAnswer": "Esta questao, cujas implicacoes sao multiplas, merece uma analise aprofundada.",
+      "explanation": "'Cujas implicacoes' = dont les implications. 'Aprofundada' = approfondie (de 'aprofundar')."
+    },
+    {
+      "type": "mcq",
+      "prompt": "La 'cohesion lexicale' dans un texte long se realise notamment par :",
+      "correctAnswer": "L'usage de synonymes et d'anaphores nominales pour eviter les repetitions",
+      "distractors": [
+        "L'emploi systematique du meme mot",
+        "L'usage exclusif de pronoms",
+        "La suppression des connecteurs"
+      ],
+      "explanation": "La cohesion lexicale : varier les designations d'un meme referent (synonymes, hyperonymes, anaphores nominales) tout en maintenant la clarte."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "coesao",
+      "phonetic": "/kuɨˈzɐ̃w̃/",
+      "french": "cohesion"
+    },
+    {
+      "portuguese": "coerencia",
+      "phonetic": "/kuɨˈɾẽsjɐ/",
+      "french": "coherence"
+    },
+    {
+      "portuguese": "sumario executivo",
+      "phonetic": "/suˈmaɾju ɨzɨˈkutivu/",
+      "french": "resume executif"
+    },
+    {
+      "portuguese": "anfora nominal",
+      "phonetic": "/ɐ̃ˈfɔɾɐ numiˈnal/",
+      "french": "anaphore nominale"
+    },
+    {
+      "portuguese": "aprofundado",
+      "phonetic": "/ɐpɾufũˈdadu/",
+      "french": "approfondi"
+    },
+    {
+      "portuguese": "cujo",
+      "phonetic": "/ˈkuʒu/",
+      "french": "dont (relatif de possession)"
+    }
+  ]
+}

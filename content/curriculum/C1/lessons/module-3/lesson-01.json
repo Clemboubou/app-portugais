@@ -1,0 +1,116 @@
+{
+  "id": "c1-m3-l01",
+  "title": "Fernando Pessoa et ses hétéronymes",
+  "type": "cultural",
+  "estimatedMinutes": 30,
+  "objectives": [
+    "Comprendre le concept d'hétéronymie et son importance dans l'œuvre de Pessoa",
+    "Distinguer les quatre hétéronymes principaux et leurs caractéristiques poétiques",
+    "Analyser un extrait du Livro do Desassossego en langue originale"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Fernando Pessoa : l'homme aux mille visages",
+      "content": "<p><strong>Fernando António Nogueira Pessoa</strong> (1888-1935) est le génie littéraire le plus extraordinaire de la littérature portugaise moderne — et l'un des plus importants de la littérature mondiale du XXe siècle. Né à Lisbonne, il passa une partie de son enfance en Afrique du Sud (à Durban), ce qui lui permit d'acquérir un anglais et un français littéraires parfaits.</p><p>Pessoa publia peu de son vivant. À sa mort, on découvrit dans un coffre (<em>a arca</em>) des milliers de feuillets manuscrits — une œuvre colossale, dont une grande partie n'est toujours pas publiée. Son originalité radicale : il n'écrivit pas sous son propre nom, mais sous celui de <strong>hétéronymes</strong> — des personnages fictifs dotés de biographies, de philosophies et de styles poétiques entièrement distincts.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Les quatre hétéronymes principaux",
+      "content": "<p><strong>1. ÁLVARO DE CAMPOS</strong> (1890-?)</p><p>Ingénieur naval, né à Tavira, formé à Glasgow. Style : futuriste, whitmanien, excessif, à l'image de ses «Odes» exubérantes. Vers longs, anaphores violentes. Exemple : <em>«Não sou nada. Nunca serei nada. Não posso querer ser nada.»</em> (<em>Tabacaria</em>, 1933)</p><p><strong>2. RICARDO REIS</strong> (1887-?)</p><p>Médecin, latin, stoïcien, néo-classique, inspiré d'Horace. Prose sobre et mesurée. <em>«Para ser grande, sê inteiro: nada / Teu exagera ou exclui.»</em></p><p><strong>3. ALBERTO CAEIRO</strong> (1889-1915)</p><p>Berger fictif de l'Alentejo, philosophe de l'objectivité radicale, maître des autres hétéronymes. Vers libres, refus de la métaphysique. <em>«Não tenho filosofia: tenho sentidos.»</em> / <em>«As coisas não têm significação: têm existência.»</em></p><p><strong>4. BERNARDO SOARES</strong> (semi-hétéronyme)</p><p>Aide-comptable de Lisbonne, auteur du <em>Livro do Desassossego</em>. Le plus proche de Pessoa lui-même — d'où le terme «semi-hétéronyme». Prose fragmentée, intimiste, philosophique, mélancolique.</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Hétéronyme vs pseudonyme : une distinction fondamentale",
+      "content": "<p><strong>Pseudonyme :</strong> un nom d'emprunt utilisé par un auteur qui reste identique à lui-même. Exemple : Voltaire (François-Marie Arouet), George Sand (Aurore Dupin).</p><p><strong>Hétéronyme :</strong> un être fictif autonome, doté d'une biographie propre, d'un tempérament, d'une philosophie et d'un style qui lui sont entièrement spécifiques. Pessoa insistait : ses hétéronymes <em>ne sont pas lui</em>. Ils ont une existence littéraire indépendante.</p><p>Pessoa lui-même le définissait ainsi : <em>«O que eu chamo heteronímia é uma diferença interior que não é de autor para autor, mas de alma para alma.»</em></p><p><strong>Extrait du Livro do Desassossego (Bernardo Soares) :</strong></p><blockquote><p><em>«A literatura é a maneira mais agradável de ignorar a vida. A música embala, as artes visuais animam, as artes vivas (como a dança e a representação) entretêm. A primeira, porém, da literatura, afasta-se da vida tornando-a simultaneamente em problema e sono.»</em></p></blockquote><p><strong>Analyse :</strong> Notez le paradoxe («maneira agradável de ignorar»), la gradation des arts, et le double mouvement final (problema / sono).</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Associer les caractéristiques aux hétéronymes",
+      "content": "<p>Associez chaque citation ou description à son hétéronyme :</p><ol><li><em>«Não tenho filosofia: tenho sentidos.»</em> → <strong>Alberto Caeiro</strong> (objectivisme radical)</li><li><em>«Para ser grande, sê inteiro.»</em> → <strong>Ricardo Reis</strong> (néo-classicisme stoïcien)</li><li><em>«Tenho em mim todos os sonhos do mundo.»</em> → <strong>Álvaro de Campos</strong> (futurisme excessif, <em>Tabacaria</em>)</li><li><em>Un aide-comptable de Lisbonne qui écrit ses rêveries nocturnes.</em> → <strong>Bernardo Soares</strong> (Livro do Desassossego)</li><li><em>Engenheiro formado em Glasgow, leitor de Walt Whitman.</em> → <strong>Álvaro de Campos</strong></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Production : analyser et créer",
+      "content": "<p><strong>Tâche 1 — Analyse :</strong><br>Lisez ce quatrain de Ricardo Reis et expliquez (4-6 phrases en français) le thème, le style et l'émotion :</p><blockquote><p><em>«Para ser grande, sê inteiro: nada<br>Teu exagera ou exclui.<br>Sê todo em cada coisa. Põe quanto és<br>No mínimo que fazes.»</em></p></blockquote><p><strong>Tâche 2 — Création :</strong><br>Écrivez un court fragment (5-8 phrases) de prose poétique à la manière de Bernardo Soares. Thème : regarder Lisbonne depuis une fenêtre de bureau au crépuscule. Utilisez la première personne, des images mélancoliques et un ton contemplatif.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la différence fondamentale entre un hétéronyme et un pseudonyme, selon Pessoa ?",
+      "correctAnswer": "L'hétéronyme est un être fictif autonome avec sa propre biographie et philosophie ; le pseudonyme est simplement un nom d'emprunt pour le même auteur.",
+      "distractors": [
+        "Le pseudonyme est plus littéraire ; l'hétéronyme est utilisé pour des raisons commerciales.",
+        "L'hétéronyme écrit en vers ; le pseudonyme écrit en prose.",
+        "Il n'y a aucune différence : les deux termes sont synonymes."
+      ],
+      "explanation": "Pessoa insistait : ses hétéronymes ne sont pas lui déguisé, mais des êtres fictifs indépendants avec leur propre âme, biographie et style. Un pseudonyme est simplement un alias de la même personne."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel hétéronyme de Pessoa est décrit comme un berger de l'Alentejo et philosophe de l'objectivité ?",
+      "correctAnswer": "Alberto Caeiro",
+      "distractors": [
+        "Bernardo Soares",
+        "Álvaro de Campos",
+        "Ricardo Reis"
+      ],
+      "explanation": "Alberto Caeiro est le 'maître' fictif des autres hétéronymes. Philosophe de la sensation pure et de l'objectivité radicale ('Não tenho filosofia: tenho sentidos'), il est décrit comme un berger de l'Alentejo."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Le Livro do Desassossego est attribué à l'hétéronyme ___ de Fernando Pessoa.",
+      "correctAnswer": "Bernardo Soares",
+      "explanation": "Le Livro do Desassossego est signé Bernardo Soares, aide-comptable fictif de Lisbonne et semi-hétéronyme (le plus proche de Pessoa lui-même). C'est une œuvre fragmentaire, prose poétique et journal intime fictif."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez ce vers de Ricardo Reis : « Para ser grande, sê inteiro. »",
+      "correctAnswer": "Pour être grand, sois entier / intègre.",
+      "explanation": "'Inteiro' signifie entier, complet, intègre. L'impératif 'sê' est la forme de l'impératif de 'ser' (être) à la 2e personne du singulier."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "heterónimo",
+      "phonetic": "/ɛ.tɛ.ˈɾɔ.ni.mu/",
+      "french": "hétéronyme (personnage fictif autonome d'un auteur)"
+    },
+    {
+      "portuguese": "a arca",
+      "phonetic": "/ɐ ˈaɾ.kɐ/",
+      "french": "le coffre (où Pessoa conservait ses manuscrits)"
+    },
+    {
+      "portuguese": "desassossego",
+      "phonetic": "/dɨ.zɐ.su.ˈse.ɣu/",
+      "french": "inquiétude, agitation, desarroi"
+    },
+    {
+      "portuguese": "saudade",
+      "phonetic": "/saw.ˈda.dɨ/",
+      "french": "saudade (nostalgie mélancolique intraduisible)"
+    },
+    {
+      "portuguese": "futurista",
+      "phonetic": "/fu.tu.ˈɾiʃ.tɐ/",
+      "french": "futuriste (courant artistique)"
+    },
+    {
+      "portuguese": "estóico",
+      "phonetic": "/ɨʃ.ˈtɔj.ku/",
+      "french": "stoïcien"
+    },
+    {
+      "portuguese": "verso livre",
+      "phonetic": "/ˈvɛɾ.su ˈli.vɾɨ/",
+      "french": "vers libre"
+    },
+    {
+      "portuguese": "fragmentário",
+      "phonetic": "/fɾɐɡ.mẽ.ˈta.ɾju/",
+      "french": "fragmentaire"
+    }
+  ]
+}

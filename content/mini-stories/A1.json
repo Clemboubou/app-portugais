@@ -1,0 +1,187 @@
+{
+  "level": "A1",
+  "stories": [
+    {
+      "id": "ms-a1-001",
+      "title": "Pedro vai ao café",
+      "theme": "Routine quotidienne",
+      "icon": "☕",
+      "main_text": "Pedro é estudante. Ele mora em Lisboa. Todos os dias, Pedro vai ao café perto da sua casa. O café chama-se «Café Central». Pedro pede um café e um pastel de nata. O empregado de mesa traz o pedido. Pedro bebe o café devagar. Ele lê o jornal. Pedro gosta muito de ir ao café.",
+      "vocabulary": [
+        { "pt": "o estudante", "fr": "l'étudiant(e)" },
+        { "pt": "morar", "fr": "habiter" },
+        { "pt": "todos os dias", "fr": "tous les jours" },
+        { "pt": "perto de", "fr": "près de" },
+        { "pt": "pedir", "fr": "commander / demander" },
+        { "pt": "o pastel de nata", "fr": "le flan portugais" },
+        { "pt": "o empregado de mesa", "fr": "le serveur" },
+        { "pt": "trazer", "fr": "apporter" },
+        { "pt": "devagar", "fr": "lentement" },
+        { "pt": "o jornal", "fr": "le journal" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "Quem é Pedro? Pedro é estudante.\nOnde mora Pedro? Pedro mora em Lisboa.\nPara onde vai Pedro? Pedro vai ao café.\nComo se chama o café? Chama-se «Café Central».\nO que pede Pedro? Pedro pede um café e um pastel de nata.\nQuem traz o pedido? O empregado de mesa traz o pedido.\nComo bebe Pedro o café? Pedro bebe o café devagar.\nO que lê Pedro? Pedro lê o jornal."
+        },
+        {
+          "type": "past",
+          "label": "Au passé",
+          "text": "Ontem, Pedro foi ao café. Ele pediu um café e um pastel de nata. O empregado de mesa trouxe o pedido. Pedro bebeu o café devagar. Ele leu o jornal. Pedro gostou muito de ir ao café."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Pedro não é professor. Ele não mora no Porto. Não vai ao restaurante todos os dias. Não pede um sumo. Pedro não bebe o café rápido. Não lê uma revista."
+        }
+      ]
+    },
+    {
+      "id": "ms-a1-002",
+      "title": "A família de Ana",
+      "theme": "Famille",
+      "icon": "👨‍👩‍👧",
+      "main_text": "Ana tem uma família grande. O pai chama-se Luís e a mãe chama-se Sofia. Ana tem dois irmãos: o Rui e o Tiago. A família mora numa casa em Coimbra. A casa tem quatro quartos e um jardim. O pai trabalha num banco. A mãe é professora. Os irmãos vão à escola. Ana gosta muito da sua família.",
+      "vocabulary": [
+        { "pt": "a família", "fr": "la famille" },
+        { "pt": "o pai", "fr": "le père" },
+        { "pt": "a mãe", "fr": "la mère" },
+        { "pt": "o irmão", "fr": "le frère" },
+        { "pt": "a casa", "fr": "la maison" },
+        { "pt": "o quarto", "fr": "la chambre" },
+        { "pt": "o jardim", "fr": "le jardin" },
+        { "pt": "o banco", "fr": "la banque" },
+        { "pt": "a professora", "fr": "la professeure" },
+        { "pt": "a escola", "fr": "l'école" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "Quem é Ana? Ana tem uma família grande.\nComo se chama o pai de Ana? O pai chama-se Luís.\nComo se chama a mãe? A mãe chama-se Sofia.\nQuantos irmãos tem Ana? Ana tem dois irmãos.\nOnde mora a família? A família mora em Coimbra.\nOnde trabalha o pai? O pai trabalha num banco.\nO que é a mãe? A mãe é professora.\nOnde vão os irmãos? Os irmãos vão à escola."
+        },
+        {
+          "type": "past",
+          "label": "Au passé (imparfait)",
+          "text": "Quando Ana era criança, tinha uma família grande. O pai chamava-se Luís e a mãe chamava-se Sofia. Ana tinha dois irmãos. A família morava numa casa em Coimbra. O pai trabalhava num banco. A mãe era professora. Os irmãos iam à escola."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Ana não tem uma família pequena. O pai não se chama João. A família não mora em Lisboa. A casa não tem dois quartos. O jardim não é grande. O pai não trabalha num restaurante. A mãe não é médica."
+        }
+      ]
+    },
+    {
+      "id": "ms-a1-003",
+      "title": "O dia de João",
+      "theme": "Routine quotidienne",
+      "icon": "🌅",
+      "main_text": "João acorda às sete horas. Ele toma o pequeno-almoço em casa: come pão com manteiga e bebe sumo de laranja. Às oito e meia, João sai de casa. Vai de autocarro para o trabalho. O trabalho começa às nove horas. Ao meio-dia, João almoça com os colegas num restaurante. À noite, João janta em família. Às dez horas, ele vai dormir.",
+      "vocabulary": [
+        { "pt": "acordar", "fr": "se réveiller" },
+        { "pt": "o pequeno-almoço", "fr": "le petit-déjeuner" },
+        { "pt": "a manteiga", "fr": "le beurre" },
+        { "pt": "o sumo de laranja", "fr": "le jus d'orange" },
+        { "pt": "sair", "fr": "sortir" },
+        { "pt": "o autocarro", "fr": "le bus (PT-PT)" },
+        { "pt": "começar", "fr": "commencer" },
+        { "pt": "o colega", "fr": "le collègue" },
+        { "pt": "jantar", "fr": "dîner" },
+        { "pt": "dormir", "fr": "dormir" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "A que horas acorda João? João acorda às sete horas.\nO que come ao pequeno-almoço? Come pão com manteiga.\nO que bebe? Bebe sumo de laranja.\nA que horas sai de casa? Sai às oito e meia.\nComo vai ao trabalho? Vai de autocarro.\nA que horas começa o trabalho? Começa às nove horas.\nOnde almoça João? Almoça num restaurante com os colegas.\nA que horas vai dormir? Vai dormir às dez horas."
+        },
+        {
+          "type": "past",
+          "label": "Au passé",
+          "text": "Ontem, João acordou às sete horas. Tomou o pequeno-almoço em casa. Comeu pão com manteiga e bebeu sumo de laranja. Às oito e meia, saiu de casa. Foi de autocarro para o trabalho. Ao meio-dia, almoçou com os colegas. À noite, jantou em família."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "João não acorda às oito horas. Não toma o pequeno-almoço num café. Não come cereais. Não bebe leite. Não vai de carro para o trabalho. Ao meio-dia, não almoça sozinho. Não vai dormir às onze horas."
+        }
+      ]
+    },
+    {
+      "id": "ms-a1-004",
+      "title": "No mercado",
+      "theme": "Compras",
+      "icon": "🛒",
+      "main_text": "A Dona Leonor vai ao mercado todas as manhãs. Hoje ela precisa de comprar fruta e legumes. Ela compra maçãs, laranjas e bananas. Também compra cenouras e batatas. O vendedor pesa a fruta. Custa três euros. A Dona Leonor paga e agradece: «Obrigada, até amanhã!» O vendedor responde: «De nada, até logo!»",
+      "vocabulary": [
+        { "pt": "o mercado", "fr": "le marché" },
+        { "pt": "a manhã", "fr": "le matin" },
+        { "pt": "precisar de", "fr": "avoir besoin de" },
+        { "pt": "a fruta", "fr": "les fruits" },
+        { "pt": "os legumes", "fr": "les légumes" },
+        { "pt": "a maçã", "fr": "la pomme" },
+        { "pt": "a laranja", "fr": "l'orange" },
+        { "pt": "a cenoura", "fr": "la carotte" },
+        { "pt": "a batata", "fr": "la pomme de terre" },
+        { "pt": "pesar", "fr": "peser" },
+        { "pt": "pagar", "fr": "payer" },
+        { "pt": "agradecer", "fr": "remercier" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "Para onde vai a Dona Leonor? Vai ao mercado.\nQuando vai ao mercado? Vai todas as manhãs.\nO que precisa de comprar? Precisa de fruta e legumes.\nQue fruta compra? Compra maçãs, laranjas e bananas.\nQue legumes compra? Compra cenouras e batatas.\nO que faz o vendedor? O vendedor pesa a fruta.\nQuanto custa? Custa três euros.\nO que diz a Dona Leonor? Diz: «Obrigada, até amanhã!»"
+        },
+        {
+          "type": "past",
+          "label": "Au passé",
+          "text": "Ontem, a Dona Leonor foi ao mercado. Precisou de comprar fruta e legumes. Comprou maçãs, laranjas e bananas. Também comprou cenouras e batatas. O vendedor pesou a fruta. Custou três euros. A Dona Leonor pagou e agradeceu."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "A Dona Leonor não vai ao supermercado. Não precisa de carne. Não compra uvas nem melões. Não compra cebolas hoje. O vendedor não pesa os legumes. Não custa dez euros."
+        }
+      ]
+    },
+    {
+      "id": "ms-a1-005",
+      "title": "Lisboa é bonita",
+      "theme": "Portugal et culture",
+      "icon": "🇵🇹",
+      "main_text": "Lisboa é a capital de Portugal. É uma cidade muito bonita. Tem o rio Tejo e fica perto do Oceano Atlântico. Em Lisboa há muitos monumentos históricos. A Torre de Belém e o Mosteiro dos Jerónimos são muito famosos. Os lisboetas são simpáticos e hospitaleiros. Muitos turistas visitam Lisboa todos os anos. Lisboa tem sete colinas.",
+      "vocabulary": [
+        { "pt": "a capital", "fr": "la capitale" },
+        { "pt": "a cidade", "fr": "la ville" },
+        { "pt": "o rio", "fr": "le fleuve" },
+        { "pt": "o oceano", "fr": "l'océan" },
+        { "pt": "o monumento", "fr": "le monument" },
+        { "pt": "histórico/a", "fr": "historique" },
+        { "pt": "famoso/a", "fr": "célèbre / fameux" },
+        { "pt": "simpático/a", "fr": "sympathique / gentil(le)" },
+        { "pt": "hospitaleiro/a", "fr": "hospitalier/ère" },
+        { "pt": "a colina", "fr": "la colline" }
+      ],
+      "variations": [
+        {
+          "type": "questions",
+          "label": "Version questions",
+          "text": "O que é Lisboa? Lisboa é a capital de Portugal.\nComo é Lisboa? É muito bonita.\nQue rio tem Lisboa? Tem o rio Tejo.\nOnde fica Lisboa? Fica perto do Oceano Atlântico.\nQuais são os monumentos famosos? A Torre de Belém e o Mosteiro dos Jerónimos.\nComo são os lisboetas? São simpáticos e hospitaleiros.\nQuantas colinas tem Lisboa? Tem sete colinas."
+        },
+        {
+          "type": "past",
+          "label": "Description au passé (imparfait)",
+          "text": "No século XV, Lisboa era já uma cidade importante. Tinha o rio Tejo e ficava perto do oceano. Os seus monumentos eram famosos em toda a Europa. Os lisboetas eram conhecidos pela sua hospitalidade. Muitos navegadores partiam de Lisboa para descobrir o mundo."
+        },
+        {
+          "type": "negative",
+          "label": "Forme négative",
+          "text": "Lisboa não é a capital de Espanha. Não é uma cidade pequena. Não fica perto do Mediterrâneo. O Mosteiro dos Jerónimos não é moderno. Os lisboetas não são antipáticos. Lisboa não tem cinco colinas."
+        }
+      ]
+    }
+  ]
+}

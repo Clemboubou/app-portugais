@@ -5,6 +5,7 @@ import { PlacementTest } from "@/components/placement/placement-test";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import { ClipboardList } from "lucide-react";
 
 interface StoredResult {
   level: string;
@@ -46,32 +47,36 @@ export default function PlacementPage() {
     });
 
     return (
-      <div className="space-y-6">
-        <div>
-          <h1 className="text-2xl font-bold">Test de positionnement</h1>
-          <p className="text-muted-foreground">
-            Évaluez votre niveau de portugais européen.
+      <div className="space-y-8">
+        {/* Header */}
+        <div className="rounded-2xl bg-gradient-to-r from-blue-500 to-blue-600 p-6 text-white">
+          <div className="flex items-center gap-3 mb-1">
+            <ClipboardList className="h-6 w-6 opacity-90" />
+            <h1 className="text-2xl font-bold">Test de positionnement</h1>
+          </div>
+          <p className="text-blue-100 text-sm">
+            Évaluez votre niveau de portugais européen selon le cadre CECRL.
           </p>
         </div>
 
-        <Card>
+        <Card className="rounded-2xl border bg-card shadow-sm">
           <CardHeader>
-            <CardTitle className="text-base">Résultat précédent</CardTitle>
+            <CardTitle className="text-base font-semibold">Résultat précédent</CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
-            <div className="flex items-center gap-4">
+            <div className="flex items-center gap-6">
               <div className="text-center">
-                <p className="text-sm text-muted-foreground">Niveau détecté</p>
-                <Badge className="text-xl px-5 py-2 mt-1 bg-[#1A56DB]">
+                <p className="text-sm text-muted-foreground mb-2">Niveau détecté</p>
+                <Badge className="rounded-full px-5 py-2 text-xl font-bold bg-[#1A56DB] hover:bg-[#1A56DB]/90">
                   {storedResult.level}
                 </Badge>
               </div>
               <div className="text-center">
-                <p className="text-sm text-muted-foreground">Score</p>
+                <p className="text-sm text-muted-foreground mb-1">Score</p>
                 <p className="text-3xl font-bold text-[#1A56DB]">{storedResult.score}%</p>
               </div>
               <div className="text-center">
-                <p className="text-sm text-muted-foreground">Date</p>
+                <p className="text-sm text-muted-foreground mb-1">Date</p>
                 <p className="text-sm font-medium">{date}</p>
               </div>
             </div>
@@ -84,7 +89,7 @@ export default function PlacementPage() {
             <Button
               variant="outline"
               onClick={handleRestart}
-              className="w-full"
+              className="w-full rounded-xl"
             >
               Refaire le test
             </Button>
@@ -96,15 +101,19 @@ export default function PlacementPage() {
 
   if (!isStarted) {
     return (
-      <div className="space-y-6">
-        <div>
-          <h1 className="text-2xl font-bold">Test de positionnement</h1>
-          <p className="text-muted-foreground">
-            Évaluez votre niveau de portugais européen.
+      <div className="space-y-8">
+        {/* Header */}
+        <div className="rounded-2xl bg-gradient-to-r from-blue-500 to-blue-600 p-6 text-white">
+          <div className="flex items-center gap-3 mb-1">
+            <ClipboardList className="h-6 w-6 opacity-90" />
+            <h1 className="text-2xl font-bold">Test de positionnement</h1>
+          </div>
+          <p className="text-blue-100 text-sm">
+            Évaluez votre niveau de portugais européen selon le cadre CECRL.
           </p>
         </div>
 
-        <Card>
+        <Card className="rounded-2xl border bg-card shadow-sm">
           <CardContent className="pt-6 space-y-4">
             <div className="space-y-2 text-sm text-muted-foreground">
               <p>
@@ -119,7 +128,7 @@ export default function PlacementPage() {
             </div>
             <Button
               onClick={() => setIsStarted(true)}
-              className="w-full bg-[#1A56DB] hover:bg-[#1A56DB]/90"
+              className="w-full rounded-xl bg-[#1A56DB] hover:bg-[#1A56DB]/90"
               size="lg"
             >
               Commencer le test
@@ -131,10 +140,14 @@ export default function PlacementPage() {
   }
 
   return (
-    <div className="space-y-6">
-      <div>
-        <h1 className="text-2xl font-bold">Test de positionnement</h1>
-        <p className="text-muted-foreground">
+    <div className="space-y-8">
+      {/* Header */}
+      <div className="rounded-2xl bg-gradient-to-r from-blue-500 to-blue-600 p-6 text-white">
+        <div className="flex items-center gap-3 mb-1">
+          <ClipboardList className="h-6 w-6 opacity-90" />
+          <h1 className="text-2xl font-bold">Test de positionnement</h1>
+        </div>
+        <p className="text-blue-100 text-sm">
           Répondez à chaque question du mieux que vous pouvez.
         </p>
       </div>

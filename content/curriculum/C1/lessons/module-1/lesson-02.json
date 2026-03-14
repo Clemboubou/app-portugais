@@ -1,0 +1,34 @@
+{
+  "id": "c1-m1-l02",
+  "title": "Le subjonctif futur (futuro do conjuntivo)",
+  "type": "grammar",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Former et utiliser le futuro do conjuntivo en PT-PT",
+    "Distinguer ses contextes d'emploi : quando, se, logo que, assim que",
+    "Comprendre la différence avec le présent du subjonctif"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "Un temps presque disparu ailleurs", "content": "<p>Le <strong>futuro do conjuntivo</strong> (subjonctif futur) est une forme quasi exclusive au portugais parmi les langues romanes vivantes. En espagnol, il a pratiquement disparu ; en français, il n'existe plus. En portugais — surtout PT-PT — il est omniprésent dans la langue courante.</p><p>Il exprime une action <strong>hypothétique ou conditionnelle dans le futur</strong> après certaines conjonctions.</p><blockquote><em>Quando <strong>chegares</strong>, liga-me.</em> — Quand tu arriveras, appelle-moi.<br><em>Se <strong>fizeres</strong> isso, terás problemas.</em> — Si tu fais ça, tu auras des problèmes.</blockquote>"},
+    {"type": "discovery", "title": "Formation du futuro do conjuntivo", "content": "<p>Base : 3ème personne du pluriel du <strong>pretérito perfeito</strong>, on supprime le <em>-ram</em> et on ajoute les terminaisons :</p><table><thead><tr><th>Personne</th><th>Terminaison</th><th>falar</th><th>ser/ir</th><th>fazer</th></tr></thead><tbody><tr><td>eu</td><td>—</td><td>falar</td><td>for</td><td>fizer</td></tr><tr><td>tu</td><td>-es</td><td>falares</td><td>fores</td><td>fizeres</td></tr><tr><td>ele/ela</td><td>—</td><td>falar</td><td>for</td><td>fizer</td></tr><tr><td>nós</td><td>-mos</td><td>falarmos</td><td>formos</td><td>fizermos</td></tr><tr><td>vós</td><td>-des</td><td>falardes</td><td>fordes</td><td>fizerdes</td></tr><tr><td>eles</td><td>-em</td><td>falarem</td><td>forem</td><td>fizerem</td></tr></tbody></table><p><strong>Irréguliers importants :</strong> ser/ir → for/fores/for…, ter → tiver, estar → estiver, haver → houver, poder → puder, saber → souber, querer → quiser, vir → vier, pôr → puser.</p>"},
+    {"type": "explanation", "title": "Contextes d'emploi", "content": "<p>Le futuro do conjuntivo s'emploie après :</p><ul><li><strong>Quando</strong> (quand, futur) : <em>Quando <strong>tiver</strong> dinheiro, viajarei.</em></li><li><strong>Se</strong> (si, condition future) : <em>Se <strong>vier</strong> cedo, avisa.</em></li><li><strong>Logo que / assim que</strong> (dès que) : <em>Logo que <strong>souberes</strong>, diz-me.</em></li><li><strong>Enquanto</strong> (tant que, futur) : <em>Enquanto <strong>houver</strong> vida, há esperança.</em></li><li><strong>Mal</strong> (dès que, aussitôt que) : <em>Mal <strong>chegares</strong>, liga.</em></li><li><strong>Onde / Como / Quem / O que</strong> (relatifs indéfinis futurs) : <em>Faço o que <strong>quiseres</strong>.</em></li></ul><p><strong>Piège :</strong> en français, on dit souvent le présent là où le portugais exige le futuro do conjuntivo : <em>Quand tu arriveras</em> = <em>Quando chegares</em> (pas <em>chegues</em> !).</p>"},
+    {"type": "practice", "title": "Choisir et conjuguer", "content": "<p>Complétez avec le futuro do conjuntivo correct :</p><ol><li><em>Quando ________ (estar) pronto, chama-me.</em> → <strong>estiveres</strong></li><li><em>Se ________ (poder) vir, seria ótimo.</em> → <strong>puderes</strong></li><li><em>Logo que ________ (saber) o resultado, avisa todos.</em> → <strong>souberes</strong></li><li><em>Enquanto ________ (haver) democracia, devemos participar.</em> → <strong>houver</strong></li><li><em>Farei o que ________ (querer — vocês).</em> → <strong>quiserem</strong></li><li><em>Mal ________ (vir) o comboio, entramos.</em> → <strong>vier</strong></li></ol>"},
+    {"type": "production", "title": "Rédiger des conditions futures", "content": "<p>Écrivez 8 phrases avec le futuro do conjuntivo, en utilisant des conjonctions variées (<em>quando, se, logo que, assim que, enquanto, mal, onde, o que</em>). Thème libre — parlez de vos projets, conditions, souhaits.</p><p>Exemple : <em>Assim que tiver o diploma, procurarei emprego em Lisboa.</em></p>"}
+  ],
+  "exercises": [
+    {"type": "fill_blank", "prompt": "Quando ________ (ter) tempo, lerei esse livro.", "correctAnswer": "tiver", "explanation": "Ter au futuro do conjuntivo, 1ère pers. : tiver. Quand + futur hypothétique → futuro do conjuntivo."},
+    {"type": "fill_blank", "prompt": "Logo que eles ________ (chegar), começamos a reunião.", "correctAnswer": "chegarem", "explanation": "Chegar au futuro do conjuntivo, 3ème pers. pl. : chegarem (chegar → chega + ram → chegar → chegarem)."},
+    {"type": "mcq", "prompt": "Quelle forme est correcte après 'Se' exprimant une condition future ?", "correctAnswer": "Se puderes vir, avisa.", "distractors": ["Se podes vir, avisa.", "Se possas vir, avisa.", "Se poderás vir, avisa."], "explanation": "Condition future : se + futuro do conjuntivo (puderes). 'Podes' est indicatif présent, 'possas' est conjuntivo présent — ni l'un ni l'autre pour une condition future."},
+    {"type": "mcq", "prompt": "Le futuro do conjuntivo de 'vir' (venir) pour 'eles' est :", "correctAnswer": "vierem", "distractors": ["venharem", "virão", "venham"], "explanation": "Vir au futuro do conjuntivo : vier, vieres, vier, viermos, vierdes, vierem."},
+    {"type": "translate", "prompt": "Traduisez : 'Dès que tu sauras la réponse, dis-le-moi.'", "correctAnswer": "Logo que souberes a resposta, diz-me.", "explanation": "Logo que + futuro do conjuntivo (souberes de saber). 'Diz-me' = dis-moi (impératif + pronom enclitique)."}
+  ],
+  "vocabulary": [
+    {"portuguese": "futuro do conjuntivo", "phonetic": "/fuˈtuɾu du kõʒũˈtivu/", "french": "subjonctif futur"},
+    {"portuguese": "assim que", "phonetic": "/ɐˈsĩ kɨ/", "french": "dès que"},
+    {"portuguese": "logo que", "phonetic": "/ˈloɡu kɨ/", "french": "dès que / aussitôt que"},
+    {"portuguese": "enquanto", "phonetic": "/ẽˈkwɐ̃tu/", "french": "tant que / pendant que"},
+    {"portuguese": "mal", "phonetic": "/mal/", "french": "dès que / aussitôt que (conjonction)"},
+    {"portuguese": "sempre que", "phonetic": "/ˈsẽpɾɨ kɨ/", "french": "chaque fois que"},
+    {"portuguese": "a menos que", "phonetic": "/ɐ ˈmenuʃ kɨ/", "french": "à moins que (+ conjuntivo)"}
+  ]
+}

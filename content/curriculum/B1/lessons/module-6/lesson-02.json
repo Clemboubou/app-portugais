@@ -1,0 +1,112 @@
+{
+  "id": "b1-m6-l02",
+  "title": "La presse portugaise",
+  "type": "reading",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Connaitre les principaux medias portugais",
+    "Lire et comprendre un article de presse en portugais europeen",
+    "Identifier les genres journalistiques : reportage, editorial, chronique"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Le paysage mediatique portugais",
+      "content": "<p>Le Portugal dispose d'une presse ecrite de qualite et de medias audiovisuels publics et prives. Les principaux quotidiens : <strong>Publico</strong> (centre-gauche, qualite), <strong>Correio da Manha</strong> (populaire), <strong>Observador</strong> (en ligne), <strong>Jornal de Negocios</strong> (economie). Television : <strong>RTP</strong> (publique), <strong>SIC</strong>, <strong>TVI</strong>. Radio : <strong>RDP/Antena 1</strong>.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Vocabulaire de la presse",
+      "content": "<p><strong>Genres journalistiques :</strong></p><ul><li><em>noticia</em> — article d'information</li><li><em>reportagem</em> — reportage</li><li><em>editorial</em> — editorial</li><li><em>cronica</em> — chronique</li><li><em>entrevista</em> — interview</li><li><em>opiniao</em> — tribune / opinion</li></ul><p><strong>Structure d'un article :</strong></p><ul><li><em>titulo</em> — titre</li><li><em>subtitulo / lead</em> — chapeau / sous-titre</li><li><em>corpo do texto</em> — corps de l'article</li><li><em>fonte</em> — source</li><li><em>fotografo / fotografa</em> — photographe</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Lire un article de presse",
+      "content": "<p><strong>Strategies de lecture :</strong></p><ol><li>Lire le titre et le sous-titre (resume de l'information)</li><li>Identifier les 5 W : Quem? O que? Onde? Quando? Porquoi? (Qui, Quoi, Ou, Quand, Pourquoi)</li><li>Identifier le type d'article : information factuelle ou opinion ?</li><li>Reperer les sources citees</li></ol><p><strong>Formules journalistiques :</strong></p><ul><li><em>Segundo fontes...</em> — Selon des sources...</li><li><em>De acordo com...</em> — Conformement a / Selon...</li><li><em>Fonte proxima do dossier afirma que...</em> — Une source proche du dossier affirme que...</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Analyser un titre de presse",
+      "content": "<p>Analysez ces titres de presse portugaise :</p><p>1. <em>Governo anuncia investimento de 500 milhoes em transportes publicos</em> → Type : <strong>noticia</strong>. Sujet : investissement gouvernemental. Source probable : gouvernement.</p><p>2. <em>A crise que nao queremos ver</em> → Type : <strong>editorial/opiniao</strong>. Ton subjectif ('que nao queremos ver').</p><p>3. <em>Lisboa: a cidade que se reinventa</em> → Type : <strong>reportagem</strong>. Angle positif, sujet de societe.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Rediger un bref article",
+      "content": "<p>Redigez un court article d'information (80-100 mots) sur un evenement que vous avez vecu ou imagine. Utilisez :</p><ul><li>Un titre accrocheur</li><li>Un lead (premiere phrase resumant l'essentiel)</li><li>Les 5 W : Quem, O que, Onde, Quando, Porquoi</li><li>Au moins une source citee</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quel quotidien portugais est considere comme le journal de reference (centre-gauche, qualite) ?",
+      "correctAnswer": "Publico",
+      "distractors": [
+        "Correio da Manha",
+        "Jornal de Negocios",
+        "A Bola"
+      ],
+      "explanation": "Le Publico est le quotidien de reference en Portugal, comparable au Monde en France. Le Correio da Manha est plus populaire/tabloide."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "________ fontes proximas do governo, a decisao sera tomada amanha.",
+      "correctAnswer": "Segundo",
+      "explanation": "'Segundo' = selon. Formule journalistique tres courante : 'Segundo fontes...' = selon des sources..."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Selon le ministere de la Sante, les chiffres s'ameliorent.",
+      "correctAnswer": "Segundo o Ministerio da Saude, os numeros estao a melhorar.",
+      "explanation": "'Segundo' = selon. 'Estar a melhorar' = s'ameliorer (progressif PT-EU). 'Ministerio da Saude' = ministere de la Sante."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Qu'est-ce qu'une 'cronica' dans la presse portugaise ?",
+      "correctAnswer": "Une chronique : texte d'opinion regulier d'un auteur identifie",
+      "distractors": [
+        "Un article factuel",
+        "Un reportage de terrain",
+        "Un editorial institutionnel"
+      ],
+      "explanation": "La 'cronica' portugaise est l'equivalent de la chronique : texte d'opinion, souvent litteraire, signe par un chroniqueur regulier. Genre tres apprecie au Portugal."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "De ________ com o relatorio publicado hoje, a economia cresceu 2%.",
+      "correctAnswer": "acordo",
+      "explanation": "'De acordo com' = conformement a / selon. Formule tres utilisee dans la presse portugaise pour citer des sources documentaires."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "noticia",
+      "phonetic": "/nuˈtisjɐ/",
+      "french": "article d'information / nouvelle"
+    },
+    {
+      "portuguese": "reportagem",
+      "phonetic": "/ʁɨpuɾˈtaʒɐ̃j̃/",
+      "french": "reportage"
+    },
+    {
+      "portuguese": "cronica",
+      "phonetic": "/ˈkɾɔnikɐ/",
+      "french": "chronique"
+    },
+    {
+      "portuguese": "editorial",
+      "phonetic": "/ɨditɔˈɾjal/",
+      "french": "editorial"
+    },
+    {
+      "portuguese": "fonte",
+      "phonetic": "/ˈfõtɨ/",
+      "french": "source"
+    },
+    {
+      "portuguese": "segundo",
+      "phonetic": "/sɨˈɡũdu/",
+      "french": "selon (journalistique)"
+    }
+  ]
+}

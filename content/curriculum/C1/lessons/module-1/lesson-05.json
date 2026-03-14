@@ -1,0 +1,34 @@
+{
+  "id": "c1-m1-l05",
+  "title": "Verbes à particule et constructions idiomatiques",
+  "type": "vocabulary",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Maîtriser les verbes à particule typiques du PT-PT (dar para, ficar a, estar para...)",
+    "Comprendre les nuances entre constructions proches",
+    "Utiliser ces constructions naturellement à l'oral"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "Les verbes à particule : clé du naturel", "content": "<p>En PT-PT, de nombreuses constructions verbales avec prépositions ou particules expriment des nuances aspectuelles, modales ou idiomatiques impossibles à déduire des composants séparément. Les maîtriser est la marque d'un locuteur avancé.</p><blockquote><em><strong>Dá para</strong> fazer isso amanhã.</em> — C'est faisable demain / On peut faire ça demain.<br><em><strong>Está para</strong> chover.</em> — Il va pleuvoir (imminence).</blockquote>"},
+    {"type": "discovery", "title": "Les constructions essentielles", "content": "<p><strong>dar para</strong> : être possible, servir à<br><em>Dá para ir a pé? / Não dá para aguentar.</em></p><p><strong>estar para</strong> : être sur le point de (imminence)<br><em>Está para chegar. / Não estou para brincadeiras.</em></p><p><strong>ficar a</strong> : continuer à (état résultant)<br><em>Ficou a olhar para mim. / Ficou a gostar de jazz.</em></p><p><strong>andar a</strong> : être en train de (action en cours, durée)<br><em>Ando a estudar muito. / O que andas a fazer?</em></p><p><strong>ir + gerúndio / ir a</strong> : action progressive en PT-PT (rare, littéraire)<br><em>A situação vai melhorando. / Ia falando quando entrou.</em></p><p><strong>vir a</strong> : finir par (conséquence)<br><em>Veio a saber a verdade. / Acabou por vir a ser famoso.</em></p><p><strong>ter a ver com</strong> : avoir à voir avec<br><em>Isso não tem a ver com o assunto.</em></p>"},
+    {"type": "explanation", "title": "Distinctions subtiles", "content": "<p><strong>Andar a vs estar a :</strong></p><ul><li><em>Estou a ler.</em> = Je lis (maintenant, action en cours)</li><li><em>Ando a ler.</em> = Je lis (ces temps-ci, de façon répétée/étendue)</li></ul><p><strong>Estar para vs estar prestes a :</strong></p><ul><li><em>Está para chover.</em> = Imminence naturelle (signe visible)</li><li><em>Estou prestes a partir.</em> = Je suis sur le point de partir (intentionnel)</li></ul><p><strong>Ficar a vs passar a :</strong></p><ul><li><em>Ficou a gostar.</em> = A commencé à aimer (résultat d'une expérience)</li><li><em>Passou a gostar.</em> = A commencé à aimer (changement progressif)</li></ul>"},
+    {"type": "practice", "title": "Compléter avec la bonne construction", "content": "<p>Choisissez et conjuguez :</p><ol><li>'Que fais-tu ces derniers temps ?' → <em>O que ________ (andar a / fazer)?</em> → <strong>andas a fazer</strong></li><li>'Il va pleuvoir.' → <em>________ (estar para / chover).</em> → <strong>Está para chover.</strong></li><li>'C'est impossible à comprendre.' → <em>Não ________ (dar para / perceber).</em> → <strong>dá para perceber</strong></li><li>'Elle a fini par comprendre.' → <em>Ela ________ (vir a / perceber).</em> → <strong>veio a perceber</strong></li><li>'Ça n'a rien à voir avec toi.' → <em>Isso não ________ (ter a ver) contigo.</em> → <strong>tem a ver</strong></li></ol>"},
+    {"type": "production", "title": "Conversation naturelle", "content": "<p>Écrivez un dialogue de 10-12 répliques entre deux amis parlant de leur quotidien. Intégrez naturellement au moins 6 constructions vues dans cette leçon. Visez un registre informel-standard, celui d'un Lisboète cultivé.</p>"}
+  ],
+  "exercises": [
+    {"type": "mcq", "prompt": "Quelle est la différence entre 'Estou a ler' et 'Ando a ler' ?", "correctAnswer": "Estou = action en ce moment ; ando = action répétée ces derniers temps", "distractors": ["Elles sont identiques", "Estou = futur ; ando = passé", "Ando = plus formel que estou"], "explanation": "'Estar a + inf.' = progressif immédiat. 'Andar a + inf.' = action en cours sur une période étendue, habituelle ces temps-ci."},
+    {"type": "fill_blank", "prompt": "Não ________ (dar para) perceber o que ele disse.", "correctAnswer": "dá", "explanation": "'Dar para' = être possible de / pouvoir. Conjugué à la 3ème pers. sing. avec sujet impersonnel : dá."},
+    {"type": "fill_blank", "prompt": "Depois de anos a resistir, ela ________ a gostar de fado. (finir par aimer)", "correctAnswer": "veio", "explanation": "'Vir a + infinitif' = finir par. Pretérito perfeito : veio."},
+    {"type": "mcq", "prompt": "Comment dit-on 'Je ne suis pas d'humeur à plaisanter' en PT-PT ?", "correctAnswer": "Não estou para brincadeiras.", "distractors": ["Não quero brincar.", "Estou para não brincar.", "Não tenho humor para piadas."], "explanation": "'Não estar para + substantif/infinitif' = ne pas être d'humeur pour. Expression idiomatique très courante en PT-PT."},
+    {"type": "translate", "prompt": "Traduisez : 'Ces derniers temps, je travaille beaucoup et ça commence à peser.'", "correctAnswer": "Ando a trabalhar muito e está a começar a pesar.", "explanation": "'Ando a trabalhar' = progressif étendu (ces temps-ci). 'Está a começar a pesar' = progressif immédiat (en train de commencer à peser)."}
+  ],
+  "vocabulary": [
+    {"portuguese": "dar para", "phonetic": "/ˈdaɾ ˈpaɾɐ/", "french": "être possible / pouvoir"},
+    {"portuguese": "estar para", "phonetic": "/ɨʃˈtaɾ ˈpaɾɐ/", "french": "être sur le point de / être d'humeur pour"},
+    {"portuguese": "andar a", "phonetic": "/ˈɐ̃daɾ ɐ/", "french": "être en train de (période étendue)"},
+    {"portuguese": "ficar a", "phonetic": "/fiˈkaɾ ɐ/", "french": "rester à / se mettre à (résultant)"},
+    {"portuguese": "vir a", "phonetic": "/ˈviɾ ɐ/", "french": "finir par"},
+    {"portuguese": "ter a ver com", "phonetic": "/ˈteɾ ɐ ˈveɾ kõ/", "french": "avoir à voir avec"},
+    {"portuguese": "prestes a", "phonetic": "/ˈpɾɛʃtɨʃ ɐ/", "french": "sur le point de (intentionnel)"}
+  ]
+}

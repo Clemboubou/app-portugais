@@ -1,0 +1,117 @@
+{
+  "id": "c1-m4-l02",
+  "title": "L'ironie et l'humour en portugais",
+  "type": "grammar",
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Comprendre et produire l'ironie en portugais europeen",
+    "Connaitre les registres humoristiques de la culture portugaise",
+    "Distinguer ironie verbale, situationnelle et dramatique"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "L'ironie : une signature culturelle",
+      "content": "<p>Les Portugais sont connus pour un humour distant, autoderision et ironie subtile. Ce n'est pas l'humour direct des Anglo-Saxons : c'est une ironie <em>fina</em> (fine), souvent liee a la resignacion et a la <em>saudade</em>. Le narrateur omniscient de Saramago ou les chroniques satiriques de Eca de Queiros en sont des modeles litteraires.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Types d'ironie en portugais",
+      "content": "<p><strong>Ironie verbale :</strong> dire le contraire de ce qu'on pense.</p><p><em>Que otima ideia a dele!</em> (cuando a ideia e ma)</p><p><strong>Autoderision :</strong> se moquer de soi-meme, trait typiquement portugais.</p><p><em>Nos, portugueses, somos bons em lamentar o que poderia ter sido.</em></p><p><strong>Antiphrase :</strong> expression figee ironique.</p><p><em>Boa essa!</em> (quand quelque chose est mauvais/absurde)</p><p><strong>Understatement :</strong> dire moins pour suggerer plus.</p><p><em>Nao me parece que seja a melhor das estrategias.</em> (= e uma estrategia pessima)</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Eca de Queiros : maitre de l'ironie",
+      "content": "<p>Eca de Queiros (1845-1900) est le grand maitre du roman realiste et de la satire sociale portugaise. Son ironie est caracteristique :</p><p><strong>Extrait de Os Maias :</strong> <em>Lisboa era sempre a mesma — pequena, branca, a tossir no inverno e a suar no verao, sem remedio e sem esperanca.</em></p><p>L'ironie est dans la litote et l'accumulation : 'a tossir... a suar... sem remedio e sem esperanca' — fatalisme ironique envers la capitale.</p><p><strong>Procedes d'Eca :</strong> ironie narrative (distance entre narrateur et personnages), satire sociale (bourgeoisie), europeisme critique envers le Portugal traditionnel.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Detecter l'ironie",
+      "content": "<p>Ces phrases sont-elles ironiques ? Expliquez :</p><p>1. <em>Como sempre, o comboio chegou a horas.</em> (le train est en retard habituellement) → <strong>Ironique</strong> : antiphrase implicite</p><p>2. <em>Nao e que ele seja completamente incompetente.</em> → <strong>Ironique</strong> : litote qui implique incompetence</p><p>3. <em>O tempo esta magnifico hoje.</em> (il fait beau) → <strong>Pas ironique</strong> si le contexte est positif</p>"
+    },
+    {
+      "type": "production",
+      "title": "Ecrire avec ironie",
+      "content": "<p>Redigez un court paragraphe ironique (60-80 mots) sur un de ces sujets :</p><ul><li>Les reunions inutiles au travail</li><li>La meteo a Lisbonne en hiver</li><li>Les transports en commun</li></ul><p>Utilisez au moins : une antiphrase, un understatement, une autoderision.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Qu'est-ce que l'autoderision ?",
+      "correctAnswer": "Se moquer de soi-meme ou de son propre groupe de facon ironique",
+      "distractors": [
+        "Moquer les autres",
+        "Exagerer ses qualites",
+        "Nier ses defauts"
+      ],
+      "explanation": "L'autoderision (autodepreciation) est un trait culturel portugais : se railler soi-meme avant que les autres le fassent, avec distance et humour."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel auteur portugais est le grand maitre de l'ironie sociale ?",
+      "correctAnswer": "Eca de Queiros (Os Maias, O Crime do Padre Amaro)",
+      "distractors": [
+        "Fernando Pessoa",
+        "Camoes",
+        "Jose Saramago"
+      ],
+      "explanation": "Eca de Queiros (1845-1900) est le maitre du roman realiste portugais, connu pour son ironie mordante envers la bourgeoisie lisboete."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez avec une nuance ironique : Quelle excellente idee ! (quand l'idee est mauvaise)",
+      "correctAnswer": "Que otima ideia! / Que boa ideia essa!",
+      "explanation": "L'ironie verbale en portugais fonctionne comme en francais : dire 'otima/boa' quand c'est mauvais. Le ton et le contexte indiquent l'ironie."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Nao me parece que seja a ________ das estrategias. (understatement pour 'c'est terrible')",
+      "correctAnswer": "melhor",
+      "explanation": "'Nao me parece que seja a melhor das estrategias' = je ne pense pas que ce soit la meilleure des strategies. Understatement pour eviter la critique directe."
+    },
+    {
+      "type": "mcq",
+      "prompt": "La phrase 'Boa essa!' exprime :",
+      "correctAnswer": "De l'ironie ou la surprise devant quelque chose d'absurde/mauvais",
+      "distractors": [
+        "De l'approbation sincere",
+        "De l'indifference",
+        "De la politesse formelle"
+      ],
+      "explanation": "'Boa essa!' est une antiphrase : on dit 'bonne/belle celle-la !' pour signifier que c'est absurde, mauvais ou incroyable de maniere negative."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "ironia",
+      "phonetic": "/iˈɾɔnjɐ/",
+      "french": "ironie"
+    },
+    {
+      "portuguese": "sarcasmo",
+      "phonetic": "/sɐɾˈkaʒmu/",
+      "french": "sarcasme"
+    },
+    {
+      "portuguese": "antifrase",
+      "phonetic": "/ɐ̃ˈtifɾazɨ/",
+      "french": "antiphrase"
+    },
+    {
+      "portuguese": "autoderrisao",
+      "phonetic": "/awtudeʁiˈzɐ̃w̃/",
+      "french": "autoderision"
+    },
+    {
+      "portuguese": "subentendido",
+      "phonetic": "/subẽtẽˈdidu/",
+      "french": "sous-entendu"
+    },
+    {
+      "portuguese": "satirico",
+      "phonetic": "/sɐˈtiɾiku/",
+      "french": "satirique"
+    }
+  ]
+}

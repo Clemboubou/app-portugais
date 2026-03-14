@@ -1,0 +1,34 @@
+{
+  "id": "c1-m2-l05",
+  "title": "Langue familière vs soutenue à Lisbonne",
+  "type": "conversation",
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Reconnaître et utiliser les expressions familières lisboètes",
+    "Comprendre les marqueurs sociolinguistiques du PT-PT oral",
+    "Adapter son registre selon la situation et l'interlocuteur"
+  ],
+  "steps": [
+    {"type": "introduction", "title": "Le continuum des registres", "content": "<p>Toute langue a un continuum entre le registre très formel et le registre très familier. En PT-PT, ce continuum est particulièrement marqué à Lisbonne, où coexistent une culture populaire vivante (alfacinha) et une tradition bourgeoise cultivée.</p><p>Un locuteur C1 doit pouvoir se mouvoir aisément sur ce continuum, comprendre une conversation entre amis avec argot lisboète <em>et</em> rédiger un email formel.</p>"},
+    {"type": "discovery", "title": "Expressions familières lisboètes", "content": "<p><strong>Adjectifs d'approbation :</strong></p><ul><li><em>giro/a</em> — sympa, cool, mignon</li><li><em>fixe</em> — cool, super (très commun)</li><li><em>bestial / brutal</em> — génial, incroyable</li><li><em>lindo/a</em> — beau/magnifique (usage plus intense qu'en fr.)</li></ul><p><strong>Intensificateurs informels :</strong></p><ul><li><em>bué (de)</em> — vachement, beaucoup (<em>É bué giro!</em>)</li><li><em>mesmo</em> — vraiment, tellement (<em>É mesmo bom.</em>)</li><li><em>tipo</em> — genre, style (marqueur discursif) (<em>É tipo, não sei…</em>)</li></ul><p><strong>Expressions courantes :</strong></p><ul><li><em>que seca</em> — quelle barbe / c'est chiant</li><li><em>estar tramado/a</em> — être dans la galère</li><li><em>não faz mal</em> — ça ne fait rien / pas de problème</li><li><em>deixa andar</em> — laisse tomber</li><li><em>é o que é</em> — c'est ce que c'est / tant pis</li></ul>"},
+    {"type": "explanation", "title": "Équivalents formels et registres", "content": "<table><thead><tr><th>Familier (oral)</th><th>Standard</th><th>Soutenu (écrit)</th></tr></thead><tbody><tr><td>giro / fixe</td><td>interessante / agradável</td><td>notável / apreciável</td></tr><tr><td>bué</td><td>muito / bastante</td><td>consideravelmente / significativamente</td></tr><tr><td>tipo</td><td>como, algo como</td><td>à semelhança de / como por exemplo</td></tr><tr><td>que seca</td><td>que aborrecimento</td><td>é de lamentar</td></tr><tr><td>estar tramado</td><td>estar em dificuldades</td><td>encontrar-se em situação difícil</td></tr><tr><td>deixa andar</td><td>não te preocupes / esquece</td><td>não se afigura necessário prosseguir</td></tr></tbody></table><p><strong>Marqueurs de Lisbonne :</strong> <em>alfacinha</em> (habitant de Lisbonne), <em>bairrista</em> (très attaché à son quartier), expressions du Bairro Alto, Alfama, Mouraria.</p>"},
+    {"type": "practice", "title": "Adapter selon le contexte", "content": "<p>Réécrivez ces phrases dans le registre indiqué :</p><ol><li>Familier → Soutenu : <em>Bué giro, mesmo!</em> → <strong>Consideravelmente notável, de facto.</strong></li><li>Familier → Standard : <em>Deixa andar, não faz mal.</em> → <strong>Não te preocupes, não tem importância.</strong></li><li>Soutenu → Familier : <em>Encontro-me em situação bastante difícil.</em> → <strong>Estou tramado/a.</strong></li><li>Standard → Soutenu : <em>É muito interessante.</em> → <strong>Afigura-se assaz interessante.</strong></li></ol>"},
+    {"type": "production", "title": "Deux versions du même message", "content": "<p>Écrivez le même message (inviter quelqu'un à dîner chez vous à Lisbonne) en deux versions :</p><ol><li><strong>Version familière</strong> (message WhatsApp à un ami) : ~40 mots</li><li><strong>Version formelle</strong> (invitation écrite à un collègue que vous tutoyez peu) : ~60 mots</li></ol>"}
+  ],
+  "exercises": [
+    {"type": "mcq", "prompt": "Que signifie 'bué' en argot lisboète ?", "correctAnswer": "Vachement / beaucoup (intensificateur)", "distractors": ["Peut-être", "Jamais", "Vraiment (= vraiment, littéral)"], "explanation": "'Bué' (ou 'bué de') est un intensificateur très courant dans l'argot de Lisbonne : 'É bué fixe!' = C'est trop bien! Probablement issu de l'argot africain via les lusodescendants."},
+    {"type": "mcq", "prompt": "Comment dit-on 'laisse tomber / ça ne fait rien' en PT-PT familier ?", "correctAnswer": "Deixa andar / não faz mal", "distractors": ["Está bem assim", "Tanto faz", "Não importa de todo"], "explanation": "'Deixa andar' et 'não faz mal' sont deux expressions très fréquentes. 'Não faz mal' est peut-être la plus universelle."},
+    {"type": "fill_blank", "prompt": "Está ________ de gente aqui! (= il y a vachement de monde)", "correctAnswer": "bué", "explanation": "'Bué de gente' = beaucoup de monde / vachement de monde. 'Bué de' + nom."},
+    {"type": "translate", "prompt": "Traduisez en registre soutenu : 'C'est sympa ici, j'aime beaucoup.'", "correctAnswer": "O ambiente aqui afigura-se bastante agradável, o que aprecio consideravelmente.", "explanation": "Registre soutenu : 'afigura-se' = il semble être, s'avère. 'Bastante agradável' remplace 'giro'. 'Aprecio consideravelmente' remplace 'gosto muito'."},
+    {"type": "mcq", "prompt": "Que signifie 'alfacinha' ?", "correctAnswer": "Habitant(e) de Lisbonne", "distractors": ["Quartier populaire de Lisbonne", "Plat typique de Lisbonne", "Argot pour 'police'"], "explanation": "'Alfacinha' = habitant(e) de Lisbonne (terme affectueux ou légèrement moqueur selon contexte). Vient de 'alface' (laitue) — les Lisboètes étaient réputés manger beaucoup de laitue."}
+  ],
+  "vocabulary": [
+    {"portuguese": "giro/a", "phonetic": "/ˈʒiɾu/", "french": "sympa, mignon, cool (familier)"},
+    {"portuguese": "fixe", "phonetic": "/ˈfiʃɨ/", "french": "super, cool (très courant, familier-standard)"},
+    {"portuguese": "bué", "phonetic": "/ˈbwɛ/", "french": "vachement, beaucoup (intensificateur argotique)"},
+    {"portuguese": "que seca", "phonetic": "/kɨ ˈsɛkɐ/", "french": "quelle barbe / c'est chiant"},
+    {"portuguese": "alfacinha", "phonetic": "/alfɐˈsĩɲɐ/", "french": "habitant(e) de Lisbonne"},
+    {"portuguese": "deixa andar", "phonetic": "/ˈdɐjʃɐ ɐ̃ˈdaɾ/", "french": "laisse tomber"},
+    {"portuguese": "estar tramado", "phonetic": "/ɨʃˈtaɾ tɾɐˈmadu/", "french": "être dans la galère"}
+  ]
+}

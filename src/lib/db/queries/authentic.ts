@@ -1,6 +1,6 @@
 import { db } from "@/lib/db";
 import { authenticContent } from "@/lib/db/schema";
-import { eq, desc, sql, and } from "drizzle-orm";
+import { eq, desc, sql, and, or, like } from "drizzle-orm";
 
 export interface AuthenticItem {
   source: string;
@@ -53,6 +53,31 @@ export function getAuthenticContent(
     .select()
     .from(authenticContent)
     .where(conditions.length > 0 ? and(...conditions) : undefined)
+    .orderBy(desc(authenticContent.savedAt))
+    .limit(limit)
+    .all();
+}
+
+export function searchContentByKeywords(
+  keywords: string[],
+  limit = 50,
+  levelFilter?: string
+) {
+  if (keywords.length === 0) return [];
+
+  const kwConditions = keywords.flatMap((kw) => [
+    like(authenticContent.title, `%${kw}%`),
+    like(authenticContent.content, `%${kw}%`),
+  ]);
+
+  const kwFilter = or(...kwConditions);
+  const levelCondition = levelFilter ? eq(authenticContent.level, levelFilter) : undefined;
+  const where = levelCondition ? and(levelCondition, kwFilter) : kwFilter;
+
+  return db
+    .select()
+    .from(authenticContent)
+    .where(where)
     .orderBy(desc(authenticContent.savedAt))
     .limit(limit)
     .all();

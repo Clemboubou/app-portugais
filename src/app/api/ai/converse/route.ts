@@ -45,7 +45,7 @@ Niveau CECRL de l'apprenant : ${body.level}`;
       })),
     ];
 
-    const response = await ollamaChat("conversation", ollamaMessages);
+    const response = await ollamaChat("conversation", ollamaMessages, { noCache: true });
 
     return NextResponse.json({
       message: {

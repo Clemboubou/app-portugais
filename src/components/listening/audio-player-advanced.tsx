@@ -13,7 +13,7 @@ interface AudioPlayerAdvancedProps {
   className?: string;
 }
 
-const SPEEDS = [0.75, 1, 1.25] as const;
+const SPEEDS = [0.5, 0.75, 1, 1.25] as const;
 
 /**
  * Lecteur audio avancé avec contrôle de vitesse, barre de progression,
@@ -25,7 +25,7 @@ export function AudioPlayerAdvanced({
   className,
 }: AudioPlayerAdvancedProps) {
   const { play, stop, isPlaying, isLoading } = useAudio();
-  const [speedIndex, setSpeedIndex] = useState(1); // 1x par défaut
+  const [speedIndex, setSpeedIndex] = useState(2); // 1x par défaut
   const [progress, setProgress] = useState(0);
   const audioElementRef = useRef<HTMLAudioElement | null>(null);
   const progressIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);

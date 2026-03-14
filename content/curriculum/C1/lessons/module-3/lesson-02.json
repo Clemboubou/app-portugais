@@ -1,0 +1,117 @@
+{
+  "id": "c1-m3-l02",
+  "title": "Os Lusíadas : l'épopée nationale",
+  "type": "cultural",
+  "estimatedMinutes": 30,
+  "objectives": [
+    "Comprendre la place d'Os Lusíadas dans la culture portugaise",
+    "Lire des extraits en portugais classique et les analyser",
+    "Connaître les thèmes principaux : navigations, empire, gloire"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Camões et l'épopée des découvertes",
+      "content": "<p>Luís de Camões (v.1524–1580) est le plus grand poète de la littérature portugaise. Son chef-d'œuvre <strong>Os Lusíadas</strong> (1572) célèbre l'expédition de Vasco de Gama vers l'Inde. Dix chants en <em>oitava rima</em> (octaves), imité de Virgile et de l'Arioste. Le titre vient de <em>Lusus</em>, ancêtre mythique des Portugais.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Structure et thèmes",
+      "content": "<p><strong>Structure :</strong> 10 chants, 1102 strophes en oitava rima (ABABABCC). Modèle : Énéide de Virgile.</p><p><strong>Thèmes principaux :</strong></p><ul><li>La <em>glória</em> : honneur et gloire de la patrie</li><li>La mer comme espace de défi et de grandeur</li><li>Le conflit entre destin humain et volonté des dieux</li><li>L'île des Amours (chant IX) : récompense des héros</li></ul><p><strong>Incipit célèbre :</strong> <em>As armas e os barões assinalados / Que da ocidental praia Lusitana / Por mares nunca dantes navegados / Passaram ainda além da Taprobana.</em></p>"
+    },
+    {
+      "type": "explanation",
+      "title": "La langue de Camões",
+      "content": "<p>Le portugais de Camões (XVIe siècle) diffère du contemporain :</p><ul><li>Latinismes : <em>assinalados</em> (signalés, illustres), <em>Lusitana</em> (portugaise)</li><li>Inversions poétiques : <em>Por mares nunca dantes navegados</em> (par des mers jamais auparavant naviguées)</li><li>Archaïsmes : <em>dantes</em> (autrefois), <em>além</em> (au-delà)</li><li>Mythologie : <em>Taprobana</em> = Ceylan (Sri Lanka)</li></ul><p>Cette langue archaïsante confère au texte une dignité épique.</p>"
+    },
+    {
+      "type": "practice",
+      "title": "Analyser un extrait",
+      "content": "<p>Strophe 1 : <em>As armas e os barões assinalados / Que da ocidental praia Lusitana / Por mares nunca dantes navegados / Passaram ainda além da Taprobana / Em perigos e guerras esforçados / Mais do que prometia a força humana / E entre gente remota edificaram / Novo Reino, que tanto sublimaram.</em></p><p>Traduction : Les armes et les barons illustres / Qui de la rive occidentale lusitanienne / Par des mers jamais auparavant naviguées / Passèrent au-delà de Taprobane / Dans les périls et les guerres, intrépides / Plus que ne le promettait la force humaine / Et parmi des peuples lointains fondèrent / Un nouveau Royaume qu'ils élevèrent si haut.</p>"
+    },
+    {
+      "type": "production",
+      "title": "Rédiger un commentaire",
+      "content": "<p>Rédigez un court commentaire (80-100 mots) sur la première strophe des Lusíadas. Analysez : le sujet (qui ?), l'action (quoi ?), l'espace (où ?), le registre épique. Utilisez des connecteurs formels du registre soutenu.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme poétique d'Os Lusíadas ?",
+      "correctAnswer": "L'oitava rima (octave ABABABCC)",
+      "distractors": [
+        "Le sonnet",
+        "Le tercet enchaîné (terza rima)",
+        "Le quatrain"
+      ],
+      "explanation": "Os Lusíadas est composé en oitava rima : strophes de 8 vers avec rime ABABABCC, forme héritée de l'Arioste."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel voyage est célébré dans Os Lusíadas ?",
+      "correctAnswer": "L'expédition de Vasco de Gama vers l'Inde (1497-1499)",
+      "distractors": [
+        "La découverte du Brésil par Cabral",
+        "La circumnavigation de Fernão de Magalhães",
+        "L'exploration de l'Afrique par Bartolomeu Dias"
+      ],
+      "explanation": "Os Lusíadas célèbre principalement le voyage de Vasco de Gama qui ouvrit la route maritime vers l'Inde en 1498."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Par des mers jamais auparavant naviguées.",
+      "correctAnswer": "Por mares nunca dantes navegados.",
+      "explanation": "Vers célèbre du premier chant. 'Dantes' = 'auparavant' (archaïsme). 'Navegados' = participé passé de 'navegar'."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Os Lusíadas a été publié en ________.",
+      "correctAnswer": "1572",
+      "explanation": "Os Lusíadas de Camões fut publié en 1572, sous le règne de Sébastien Ier. Camões mourut en 1580, l'année où le Portugal perdait son indépendance."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Que signifie le titre «Os Lusíadas» ?",
+      "correctAnswer": "Les fils de Lusus / Les Portugais (descendants du fondateur mythique)",
+      "distractors": [
+        "Les marins de Lisbonne",
+        "Les guerriers de l'Alentejo",
+        "Les navigateurs de l'Atlantique"
+      ],
+      "explanation": "'Luso-' vient de Lusus, fils mythique de Bacchus et fondateur légendaire du Portugal (Lusitanie)."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "epopeia",
+      "phonetic": "/ɨpuˈpɛjɐ/",
+      "french": "épopée"
+    },
+    {
+      "portuguese": "barão",
+      "phonetic": "/bɐˈɾɐ̃w̃/",
+      "french": "baron / seigneur"
+    },
+    {
+      "portuguese": "assinalado",
+      "phonetic": "/ɐsinɐˈladu/",
+      "french": "illustre / signalé"
+    },
+    {
+      "portuguese": "navegação",
+      "phonetic": "/nɐvɨɡɐˈsɐ̃w̃/",
+      "french": "navigation"
+    },
+    {
+      "portuguese": "glória",
+      "phonetic": "/ˈɡlɔɾjɐ/",
+      "french": "gloire"
+    },
+    {
+      "portuguese": "oitava rima",
+      "phonetic": "/ojˈtavɐ ˈʁimɐ/",
+      "french": "octave rimée (ABABABCC)"
+    }
+  ]
+}

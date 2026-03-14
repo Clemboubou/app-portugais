@@ -1,0 +1,117 @@
+{
+  "id": "c1-m4-l04",
+  "title": "Modalite et nuance epistemique",
+  "type": "grammar",
+  "estimatedMinutes": 24,
+  "objectives": [
+    "Exprimer la certitude, le doute et la probabilite avec precision",
+    "Maitriser les modaux et adverbes d'epistemicite en portugais",
+    "Distinguer modalite deontique vs epistemique"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "La modalite : nuancer sa pensee",
+      "content": "<p>La <strong>modalite</strong> exprime l'attitude du locuteur vis-a-vis de son enonce : est-ce certain, probable, possible, necessaire, souhaitable ? Au C1, la maitrise de la modalite permet d'exprimer des nuances fines : <em>Sei que e verdade</em> vs <em>Creio que seja verdade</em> vs <em>Talvez seja verdade.</em></p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Modalites epistemiques en portugais",
+      "content": "<p><strong>Certitude :</strong></p><ul><li><em>E certo que + indicatif</em> — il est certain que</li><li><em>Sem duvida (alguma)</em> — sans aucun doute</li><li><em>Evidentemente</em> — evidemment</li></ul><p><strong>Probabilite :</strong></p><ul><li><em>E provavel que + conjuntivo</em> — il est probable que</li><li><em>Provavelmente + futur/condicional</em> — probablement</li><li><em>Deve + infinitif</em> — doit (probabilite)</li></ul><p><strong>Possibilite :</strong></p><ul><li><em>E possivel que + conjuntivo</em> — il est possible que</li><li><em>Talvez + conjuntivo</em> — peut-etre</li><li><em>Pode ser que + conjuntivo</em> — il se peut que</li></ul><p><strong>Doute :</strong></p><ul><li><em>Duvido que + conjuntivo</em> — je doute que</li><li><em>Nao e certo que + conjuntivo</em> — il n'est pas certain que</li></ul>"
+    },
+    {
+      "type": "explanation",
+      "title": "Modalite deontique vs epistemique",
+      "content": "<p><strong>Modalite deontique</strong> (obligation, permission) :</p><ul><li><em>Deve entregar o relatorio.</em> = il DOIT remettre le rapport (obligation)</li><li><em>Pode sair.</em> = il PEUT sortir (permission)</li></ul><p><strong>Modalite epistemique</strong> (certitude, probabilite) :</p><ul><li><em>Deve estar em casa.</em> = il DOIT etre a la maison (probabilite)</li><li><em>Pode ter esquecido.</em> = il PEUT avoir oublie (possibilite)</li></ul><p>Le contexte distingue les deux. La modalite epistemique est souvent marquee par le conditionnel ou futur :</p><ul><li><em>Estara em casa.</em> = il est probablement a la maison (futur epistemique)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Exprimer la modalite",
+      "content": "<p>Reformulez avec le degre de certitude indique :</p><p>1. <em>Ele vem amanha.</em> (doute) → <strong>Talvez ele venha amanha.</strong></p><p>2. <em>Ela ganhou o premio.</em> (probabilite) → <strong>E provavel que ela tenha ganho o premio.</strong></p><p>3. <em>Eles estao em Lisboa.</em> (possibilite) → <strong>E possivel que estejam em Lisboa.</strong></p><p>4. <em>O projeto termina esta semana.</em> (certitude renforcee) → <strong>E certo que o projeto termina esta semana.</strong></p>"
+    },
+    {
+      "type": "production",
+      "title": "Analyse epistemique",
+      "content": "<p>Redigez un paragraphe de 80-100 mots exprimant votre analyse d'une situation ambigue :</p><p><em>Un ami devait vous appeler a 18h et il est maintenant 20h. Que s'est-il peut-etre passe ?</em></p><p>Utilisez au moins 4 marqueurs de modalite differents (certitude, probabilite, possibilite, doute).</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "prompt": "Dans 'Deve estar em reuniao', 'deve' exprime :",
+      "correctAnswer": "Une probabilite (modalite epistemique)",
+      "distractors": [
+        "Une obligation (modalite deontique)",
+        "Un ordre",
+        "Une interdiction"
+      ],
+      "explanation": "'Deve estar' = il doit etre / il est probablement en reunion. Modalite epistemique : le locuteur emet une hypothese probable."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "E provavel que ele ________ (chegar) tarde. (conjuntivo presente)",
+      "correctAnswer": "chegue",
+      "explanation": "'E provavel que' exige le conjuntivo. 'Chegar' → conjuntivo presente 3e sg. : 'chegue'."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quel adverbe exprime la plus haute certitude ?",
+      "correctAnswer": "Sem duvida alguma (sans aucun doute)",
+      "distractors": [
+        "Provavelmente",
+        "Possivelmente",
+        "Talvez"
+      ],
+      "explanation": "Echelle : sem duvida alguma (certitude max) > provavelmente > possivelmente > talvez (incertitude)."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Il se peut qu'elle ait oublie la reunion.",
+      "correctAnswer": "Pode ser que ela se tenha esquecido da reuniao. / Talvez ela se tenha esquecido da reuniao.",
+      "explanation": "'Pode ser que' + conjuntivo passe compose. 'Ter esquecido' → 'tenha esquecido' (conjuntivo do preterito perfeito)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Le 'futur epistemique' en portugais sert a exprimer :",
+      "correctAnswer": "Une probabilite au moment present (ex: Estara em casa = il est probablement a la maison)",
+      "distractors": [
+        "Un futur certain",
+        "Un souhait",
+        "Un ordre futur"
+      ],
+      "explanation": "En portugais europeen, le futur simple peut exprimer une probabilite presente : 'Onde estara ele?' = ou peut-il bien etre ?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "modalidade",
+      "phonetic": "/mudɐliˈdadɨ/",
+      "french": "modalite"
+    },
+    {
+      "portuguese": "epistemico",
+      "phonetic": "/ɨpiʃˈtemiku/",
+      "french": "epistemique"
+    },
+    {
+      "portuguese": "deontico",
+      "phonetic": "/diˈõtiku/",
+      "french": "deontique"
+    },
+    {
+      "portuguese": "certeza",
+      "phonetic": "/sɨɾˈtezɐ/",
+      "french": "certitude"
+    },
+    {
+      "portuguese": "probabilidade",
+      "phonetic": "/pɾubɐbiliˈdadɨ/",
+      "french": "probabilite"
+    },
+    {
+      "portuguese": "hipotese",
+      "phonetic": "/iˈpɔtɨzɨ/",
+      "french": "hypothese"
+    }
+  ]
+}

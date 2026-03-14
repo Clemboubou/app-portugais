@@ -1,0 +1,112 @@
+{
+  "id": "c1-m5-l04",
+  "title": "Revision integree C1",
+  "type": "grammar",
+  "estimatedMinutes": 30,
+  "objectives": [
+    "Reviser tous les points grammaticaux specifiques au niveau C1",
+    "Consolider mesoclise, subjonctif futur, infinitif personnel avance",
+    "Preparer l'examen final C1"
+  ],
+  "steps": [
+    {
+      "type": "introduction",
+      "title": "Bilan des competences C1",
+      "content": "<p>Cette lecon de revision couvre l'ensemble des specificitces grammaticales du niveau C1 en portugais europeen. Points cles : <strong>mesoclise</strong>, <strong>subjonctif futur</strong> dans les subordonnees, <strong>infinitif personnel</strong> dans des constructions avancees, <strong>connecteurs formels</strong>, <strong>modalite</strong> et <strong>discours rapporte</strong> avance.</p>"
+    },
+    {
+      "type": "discovery",
+      "title": "Tableau recapitulatif C1",
+      "content": "<p><strong>1. Mesoclise (futur/cond. + clitique) :</strong></p><table><tr><th>Sans pronom</th><th>Avec mesoclise</th></tr><tr><td>Direi</td><td>Dir-te-ei</td></tr><tr><td>Faria</td><td>Far-te-ia</td></tr></table><p><strong>2. Subjonctif futur :</strong></p><ul><li><em>Quando chegares, liga-me.</em></li><li><em>Se puderes vir, sera otimo.</em></li><li><em>Quem quiser participar deve inscrever-se.</em></li></ul><p><strong>3. Infinitif personnel C1 :</strong></p><ul><li><em>Apos termos discutido o assunto...</em></li><li><em>Sem eles o saberem...</em></li><li><em>Para serem aceites, os candidatos...</em></li></ul><p><strong>4. Latinismes formels :</strong> outrossim, doravante, porquanto, aquando de, a priori, de facto</p>"
+    },
+    {
+      "type": "explanation",
+      "title": "Erreurs frequentes C1",
+      "content": "<p><strong>1. Confusion subjonctif futur / presente :</strong></p><ul><li>FAUX : <em>Quando ele chega, vou sair.</em> (temps present)</li><li>JUSTE : <em>Quando ele chegar, vou sair.</em> (subj. futur apres 'quando')</li></ul><p><strong>2. Mesoclise oubliee en registre formel :</strong></p><ul><li>Registre courant : <em>Vou dizer-te.</em></li><li>Registre formel/lit. : <em>Dir-te-ei.</em></li></ul><p><strong>3. Infinitif personnel incorrect :</strong></p><ul><li>FAUX : <em>E bom nos saber a resposta.</em></li><li>JUSTE : <em>E bom nos sabermos a resposta.</em></li></ul><p><strong>4. Latinisme mal place :</strong></p><ul><li>FAUX : <em>Outrossim, obrigado.</em></li><li>JUSTE : <em>Outrossim, e importante considerar...</em> (registre soutenu seulement)</li></ul>"
+    },
+    {
+      "type": "practice",
+      "title": "Exercices de synthese",
+      "content": "<p>Completez avec la forme correcte :</p><ol><li><em>Quando ________ (chegar, voce) ao aeroporto, ligue imediatamente.</em> → <strong>chegar</strong></li><li><em>________ (Dizer, eu) a verdade ao diretor amanha.</em> → <strong>Dir-lhe-ei</strong></li><li><em>Apesar de eles ________ (ter) experiencia, nao foram selecionados.</em> → <strong>terem</strong></li><li><em>O projeto ________ (realizar, passiva) por uma equipa internacional.</em> → <strong>sera realizado</strong></li><li><em>Sem nos ________ (dar conta), o tempo passou.</em> → <strong>darmos</strong></li></ol>"
+    },
+    {
+      "type": "production",
+      "title": "Texte de synthese C1",
+      "content": "<p>Redigez un texte de 200-250 mots sur ce sujet :</p><p><em>Se pudesse reformar o sistema educativo portugues, quais seriam as suas tres prioritades e por que razoes?</em></p><p>Votre texte doit obligatoirement inclure :</p><ul><li>Au moins 2 formes du subjonctif futur</li><li>Un infinitif personnel (avec sujet exprime)</li><li>La mesoclise (ou une justification de son absence)</li><li>3 latinismes formels minimum</li><li>Un discours rapporte (imaginaire ou reel)</li></ul>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill_blank",
+      "prompt": "Quando os alunos ________ (terminar) os exames, os resultados serao publicados.",
+      "correctAnswer": "terminarem",
+      "explanation": "Subjonctif futur apres 'quando' : terminarem (3e pers. pl.). Formation : infinitif + -em pour pl. ou rien pour 3e sg."
+    },
+    {
+      "type": "fill_blank",
+      "prompt": "Enviar-________ (te) o documento logo que possivel. (mesoclise)",
+      "correctAnswer": "te-ei",
+      "explanation": "Mesoclise au futur : 'Enviar-te-ei'. Le clitique 'te' s'insere entre le radical 'Enviar' et la desinence '-ei' du futur."
+    },
+    {
+      "type": "mcq",
+      "prompt": "La phrase 'Outrossim, de referir que...' appartient a quel registre ?",
+      "correctAnswer": "Registre formel/soutenu (textes juridiques, academiques, presse de qualite)",
+      "distractors": [
+        "Registre familier",
+        "Registre neutre",
+        "Langue orale courante"
+      ],
+      "explanation": "'Outrossim' est un latinisme tres formel. Il s'utilise exclusivement dans les textes ecrits formels, jamais dans la conversation courante."
+    },
+    {
+      "type": "translate",
+      "prompt": "Traduisez : Sans qu'ils le sachent, la decision avait ete prise.",
+      "correctAnswer": "Sem eles o saberem, a decisao tinha sido tomada.",
+      "explanation": "Infinitif personnel : 'saberem' (3e pl. de 'saber'). 'Sem + infinitif personnel' = sans que... + subjonctif (francais)."
+    },
+    {
+      "type": "mcq",
+      "prompt": "Quelle est la forme correcte du subjonctif futur de 'ser' a la 1ere pers. pl. ?",
+      "correctAnswer": "formos",
+      "distractors": [
+        "sermos",
+        "sejamos",
+        "somos"
+      ],
+      "explanation": "'Ser' au subj. futur : for, fores, for, formos, fordes, forem. Forme irreguliere ! 'Quando formos maiores...' = quand nous serons plus ages..."
+    }
+  ],
+  "vocabulary": [
+    {
+      "portuguese": "mesoclise",
+      "phonetic": "/mɨzuˈklizɨ/",
+      "french": "mesoclise"
+    },
+    {
+      "portuguese": "conjuntivo futuro",
+      "phonetic": "/kõʒũˈtivu fuˈtuɾu/",
+      "french": "subjonctif futur"
+    },
+    {
+      "portuguese": "infinitivo pessoal",
+      "phonetic": "/ĩfiniˈtivu pɨsuˈal/",
+      "french": "infinitif personnel"
+    },
+    {
+      "portuguese": "latinismo",
+      "phonetic": "/lɐtiˈnizmu/",
+      "french": "latinisme"
+    },
+    {
+      "portuguese": "desinencia",
+      "phonetic": "/dɨziˈnẽsjɐ/",
+      "french": "desinence"
+    },
+    {
+      "portuguese": "clitico",
+      "phonetic": "/ˈklitiku/",
+      "french": "clitique (pronom atone)"
+    }
+  ]
+}
